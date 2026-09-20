@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
+    "generatedFrom": "795ab24371ff39cf5d6d479321edc1f1b5e4c02e",
     "previews": {
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ButtonsKt.ButtonRowGroup": {
             "path": "renders/catalog-desktop/ButtonRowGroup-91cd010c.png",
@@ -38319,6 +38319,13 @@
             "path": "renders/remote-catalog/CircularProgressRemote_216dp_VARIANT_indeterminate-3a4bb72d.png",
             "versions": [
                 {
+                    "blob": "7b3874086f8c4a608c31ee882e89f08aa6cbe2e1",
+                    "commit": "795ab24371ff39cf5d6d479321edc1f1b5e4c02e",
+                    "date": "2026-09-20T09:08:52Z",
+                    "sourceSha": "f74749a8",
+                    "commits": 1
+                },
+                {
                     "blob": "7c96deb9538477b8c970f78d7b61f37fb04684d4",
                     "commit": "8b0bf7b7f53fd2bb402c98c0267da31ac635ff45",
                     "date": "2026-08-30T21:09:37Z",
@@ -38333,7 +38340,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
@@ -38870,6 +38877,13 @@
             "path": "renders/remote-catalog/CircularProgressRemote_240dp_VARIANT_indeterminate-6e73d12d.png",
             "versions": [
                 {
+                    "blob": "8bb31b23e11afbcddc1d91073a94cd7289dad3c4",
+                    "commit": "795ab24371ff39cf5d6d479321edc1f1b5e4c02e",
+                    "date": "2026-09-20T09:08:52Z",
+                    "sourceSha": "f74749a8",
+                    "commits": 1
+                },
+                {
                     "blob": "e6e09cd55d53fe26fb9612cbe8526cf062134487",
                     "commit": "8b0bf7b7f53fd2bb402c98c0267da31ac635ff45",
                     "date": "2026-08-30T21:09:37Z",
@@ -38884,7 +38898,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
@@ -44414,6 +44428,13 @@
             "path": "renders/remote-catalog/IndeterminateCircularProgressMotionRemote_192dp-7c7c14fe.gif",
             "versions": [
                 {
+                    "blob": "e09a232f4915ff6a8ee632410d07b2d13ebf5bb1",
+                    "commit": "795ab24371ff39cf5d6d479321edc1f1b5e4c02e",
+                    "date": "2026-09-20T09:08:52Z",
+                    "sourceSha": "f74749a8",
+                    "commits": 1
+                },
+                {
                     "blob": "d0151c5f124cc28b5b8dd72673683851c2747b11",
                     "commit": "71dd72833508a2193ac06d98064a95b3d81a6be2",
                     "date": "2026-09-08T20:17:30Z",
@@ -44435,13 +44456,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 3,
+            "observations": 4,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.IndeterminateCircularProgressMotionRemote_204dp": {
             "path": "renders/remote-catalog/IndeterminateCircularProgressMotionRemote_204dp-4254c3fa.gif",
             "versions": [
+                {
+                    "blob": "37ccbdbd972b708c3f35fad5394877bd9be641f5",
+                    "commit": "795ab24371ff39cf5d6d479321edc1f1b5e4c02e",
+                    "date": "2026-09-20T09:08:52Z",
+                    "sourceSha": "f74749a8",
+                    "commits": 1
+                },
                 {
                     "blob": "d44c7030634a941b0ff859db67a09fa3f75fb561",
                     "commit": "71dd72833508a2193ac06d98064a95b3d81a6be2",
@@ -44464,13 +44492,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 3,
+            "observations": 4,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.IndeterminateCircularProgressMotionRemote_216dp": {
             "path": "renders/remote-catalog/IndeterminateCircularProgressMotionRemote_216dp-7f1cc73b.gif",
             "versions": [
+                {
+                    "blob": "bf5d6d16df6c811ede2bc67048fb20391083a1ee",
+                    "commit": "795ab24371ff39cf5d6d479321edc1f1b5e4c02e",
+                    "date": "2026-09-20T09:08:52Z",
+                    "sourceSha": "f74749a8",
+                    "commits": 1
+                },
                 {
                     "blob": "819fc0eed8d1181f8367681836d37087deca38e8",
                     "commit": "71dd72833508a2193ac06d98064a95b3d81a6be2",
@@ -44493,13 +44528,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 3,
+            "observations": 4,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.IndeterminateCircularProgressMotionRemote_225dp": {
             "path": "renders/remote-catalog/IndeterminateCircularProgressMotionRemote_225dp-28a047e2.gif",
             "versions": [
+                {
+                    "blob": "17deb932642247618e5732349e1e7391fd3918c2",
+                    "commit": "795ab24371ff39cf5d6d479321edc1f1b5e4c02e",
+                    "date": "2026-09-20T09:08:52Z",
+                    "sourceSha": "f74749a8",
+                    "commits": 1
+                },
                 {
                     "blob": "a34c66d0c62506777600414bee3b657a57690d7f",
                     "commit": "71dd72833508a2193ac06d98064a95b3d81a6be2",
@@ -44522,13 +44564,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 3,
+            "observations": 4,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.IndeterminateCircularProgressMotionRemote_240dp": {
             "path": "renders/remote-catalog/IndeterminateCircularProgressMotionRemote_240dp-0615c4c7.gif",
             "versions": [
+                {
+                    "blob": "23e60c8c01808344d112ab8014f47a5f0e4a8778",
+                    "commit": "795ab24371ff39cf5d6d479321edc1f1b5e4c02e",
+                    "date": "2026-09-20T09:08:52Z",
+                    "sourceSha": "f74749a8",
+                    "commits": 1
+                },
                 {
                     "blob": "76e273cf50ce6d2f028d418a0a2085ff2a4b5df6",
                     "commit": "71dd72833508a2193ac06d98064a95b3d81a6be2",
@@ -44551,7 +44600,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 3,
+            "observations": 4,
             "unstable": false,
             "flapCount": 0
         },
