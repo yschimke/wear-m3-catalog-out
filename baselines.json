@@ -18612,7 +18612,7 @@
     "functionName": "CircularProgressRemote",
     "module": "remote-catalog",
     "renderBasename": "CircularProgressRemote_216dp_VARIANT_indeterminate-3a4bb72d.png",
-    "sha256": "301edacfc50ddea7c8c1f8c50c719eb55c1b8d1ba52d68ef6f04b2d2adf24412",
+    "sha256": "2da792a4b89535a499f24f4e116615e1f817e09e843aa5b2f1ba1a5707fa1fa5",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CircularProgressRemote_216dp_VARIANT_overflow": {
@@ -18820,7 +18820,7 @@
     "functionName": "CircularProgressRemote",
     "module": "remote-catalog",
     "renderBasename": "CircularProgressRemote_240dp_VARIANT_indeterminate-6e73d12d.png",
-    "sha256": "2692d8ae535bc9082c5508546bbebb6eb79bb3973b05f012c6ea84ba63b8bec6",
+    "sha256": "679d22d53b31c3b848b3b1a8705c21aae9ff7b6c5ded101d2896132ceb26f56a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CircularProgressRemote_240dp_VARIANT_overflow": {
@@ -20668,7 +20668,7 @@
     "functionName": "IndeterminateCircularProgressMotionRemote",
     "module": "remote-catalog",
     "renderBasename": "IndeterminateCircularProgressMotionRemote_192dp-7c7c14fe.gif",
-    "sha256": "e2d8c5da25cd109664dc20fcf8b356e85d9657a61728590a7c92a064105a640a",
+    "sha256": "e30f07f9878be3b3095206e7a0c16a1df12939035869c7b9b8658f5c9e70ec8d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.IndeterminateCircularProgressMotionRemote_204dp": {
@@ -20676,7 +20676,7 @@
     "functionName": "IndeterminateCircularProgressMotionRemote",
     "module": "remote-catalog",
     "renderBasename": "IndeterminateCircularProgressMotionRemote_204dp-4254c3fa.gif",
-    "sha256": "bb0d9190c5474fcbba9089e0c2ea80b1dce4e67256f4cb1e322d38650526bca0",
+    "sha256": "43b7486053e2ad09bdab53ad9972822f45db950cfa2ac92e08f60fa4ee1192f9",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.IndeterminateCircularProgressMotionRemote_216dp": {
@@ -20692,7 +20692,7 @@
     "functionName": "IndeterminateCircularProgressMotionRemote",
     "module": "remote-catalog",
     "renderBasename": "IndeterminateCircularProgressMotionRemote_225dp-28a047e2.gif",
-    "sha256": "00e1b1565e5ce23b726a030ace48d99ab78f1ec93581cdef3f7f1a4f0409fdfd",
+    "sha256": "4d12b708424ee3c1c877e8d02ccc15c6e47aa9536e2ea19bb1741cd64c8e38a4",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.IndeterminateCircularProgressMotionRemote_240dp": {
@@ -20700,7 +20700,7 @@
     "functionName": "IndeterminateCircularProgressMotionRemote",
     "module": "remote-catalog",
     "renderBasename": "IndeterminateCircularProgressMotionRemote_240dp-0615c4c7.gif",
-    "sha256": "4c2f80aab61f22db880d785f203e3b05df7b498547f757ce633d97ca3a870375",
+    "sha256": "275771bf13524e6d176ea37a0be32c75d21e986cc3c0861d33e1e09825858d7e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.InteractivePageIndicatorRemote_192dp": {
