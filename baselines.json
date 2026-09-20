@@ -18924,7 +18924,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_disabled-7ec5d7d1.png",
-    "sha256": "870c999ce3aef8184db5e0cb29ebb48a51c44d43b5f4e7c9d69c5d532977dffb",
+    "sha256": "cc3f6dd1448fbfde5c608d55fbb0bcb9a9df1465b4c6dfe0d5c3874549f567df",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-icon-only": {
@@ -18940,7 +18940,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_icon_only_dis-0b6058bb.png",
-    "sha256": "ffadc695bdcfa1e4155b44283f341188581deee294f83dbd1f0decb185289b52",
+    "sha256": "3c0cabd67c538bb52cbec0a56302fff5202389770d26b5054cf61a091037154d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-text-only": {
@@ -18956,7 +18956,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_text_only_dis-a40cbdb7.png",
-    "sha256": "0873f2c57ee8cc0ba7ecb6ec59d393bcb773aa0e9dae27c2b3bfb87e42b53a7e",
+    "sha256": "7b85e5e94729cd32f1af2343680d0ed4e0efc3e5bb46dd137c45a5ebb61c9ac9",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -19692,7 +19692,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_background_image-3a4fd033.png",
-    "sha256": "a2bc209f95656a09c5acfa61671e7bfd7f5464a363cb1d5a9e5e3e1b3e6f259f",
+    "sha256": "4410ea7be16b9f2635a6c716b8a0fcc27500836b1361f42e8a79955d53ff4f1f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_content-image": {
@@ -19764,7 +19764,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_title_and_subtitle_back-5bb8da4d.png",
-    "sha256": "d4eb871a67fc1f81792767df570c4396549d70f77d16880e3e85ea36c03da5e6",
+    "sha256": "390fdd71655ea418e7c73bb0146212d4e5c64c569569d8c4733b6a8fc1fd87f3",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_title-and-subtitle-content-image": {
@@ -19836,7 +19836,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_with_subtitle_backgroun-a0d27b57.png",
-    "sha256": "60e29c718978db4b903102a7a34c19c4a761ff186e260fc778434f4c1fe75876",
+    "sha256": "bfbc009a07149b322b13c83de9b9b40b6a349232f3fdd412bffd92216118894d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_with-subtitle-content-image": {
@@ -19956,7 +19956,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_disabled-540fbebc.png",
-    "sha256": "3dda9885efa799d64df2cd09e5eed920c4e0eaf78474983904051a0aefebca4e",
+    "sha256": "9e5b5bcc6acbe1b0d86bca6e3b6389b317b86b418c918356cb982cbf74b9c61f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ChildRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon": {
@@ -19972,7 +19972,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_disabled-b778972a.png",
-    "sha256": "be48650c3ecb81ff08c4853135635e39cfbb37859b57c97bfd99e665bd71409d",
+    "sha256": "a1c531e7bed26454901abe9cdf0de3d8a7693c1da224048e89a1246032dc9584",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ChildRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-extra-large": {
@@ -19988,7 +19988,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_extra_large_disa-d3ee5e9e.png",
-    "sha256": "c8eb8696f40966904209864e24d334081a2d7a9994408a329441425a7cb3ea40",
+    "sha256": "73e11e53520861b9ca6b5a75a4518d5c5c942900124a22fcd00e53144f0fc68e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ChildRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-large": {
@@ -20004,7 +20004,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_large_disabled-2ca411e8.png",
-    "sha256": "50eefb75123bfa14afb35ab1441079db9e3c588aec9bd70ac0ab6bd3411a9d57",
+    "sha256": "a0b401c4a22ef434ef010e11d51c49754cd70799423c6449c2b15c6570446dbc",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ChildRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_left": {
@@ -20020,7 +20020,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_left_disabled-b467ab48.png",
-    "sha256": "479fe9c9abd8a5850444576fbb93471b50568ef69c9625d791f3993c67e8770a",
+    "sha256": "4a5634c643a239188208afb6d7148b6388a70c3d125400f15d1ce85d3e75c859",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.FilledRemoteIconButton_width=227dp,height=100dp,dpi=320": {
@@ -20236,7 +20236,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_192dp-47b893b4.png",
-    "sha256": "3a53fb3761975737bc5521692fa65c1ce6b5ef37b7589de71fa3fcf0392bb27a",
+    "sha256": "d344c7111e839c7aadaebee51d6abdc0dc3af25a25c290c630ba6817f45448ce",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_five-pages": {
@@ -20244,7 +20244,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_192dp_VARIANT_five_pages-b54336d9.png",
-    "sha256": "46d83b7c9f306dcf937a411da89de8906c548bf7d72081552e9af54824eb8930",
+    "sha256": "7b416ffe38f46b09a3e8c5a6d6a60ccc01c4764210043d8b65ffea4fc52b7bd0",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_many-pages": {
@@ -20252,7 +20252,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_192dp_VARIANT_many_pages-1ad633a4.png",
-    "sha256": "e1ad731ca48a256a908fcb72aecd34663e44ac20ffec93e79f0283fe3ff81829",
+    "sha256": "2f106ccb6518aaf5ed5de2890134fdc484ba71293c6fcc9a01cab54d1d4a20fd",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_many-pages-end": {
@@ -20260,7 +20260,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_192dp_VARIANT_many_pages_end-e68c83f9.png",
-    "sha256": "0140434bab0d5d457204dc762f5a685d26fa3bd3acabf675b186ef4c52a5019f",
+    "sha256": "05cf36ed8c14c64ce244ab3165a6bb28fb5c8a750f67667b1c8cfdcb24ecc2d5",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_many-pages-middle": {
@@ -20268,7 +20268,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_192dp_VARIANT_many_pages_middle-1ffc9245.png",
-    "sha256": "c30243083e4696431440ba88c1b26f6118f80f10b9f85d65388d81594bf75a8d",
+    "sha256": "55863c58188c2f3faeb4a4ccf5f4fd0f3a3d751d8e6ee63ff0eaf38adb9fd806",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_six-pages": {
@@ -20276,7 +20276,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_192dp_VARIANT_six_pages-0dc8e210.png",
-    "sha256": "93c9b37bc5d85b488256afd0a6e4b321024ca57ada11c0af013f3b2dcdcdfe61",
+    "sha256": "9c43a30187819ca3e5861e221b19b1d5f827aef32ec066397db5bcd2ce188815",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_six-pages-end": {
@@ -20284,7 +20284,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_192dp_VARIANT_six_pages_end-c07d6c99.png",
-    "sha256": "b521948a012a2525738022622fefe256e62f6a70eba4beb3d69e6334ad4a55f9",
+    "sha256": "ad3f5289f334f474e9b22b7a3ef5ece12085ae84a4c57da768625e83a318550f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_six-pages-middle": {
@@ -20292,7 +20292,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_192dp_VARIANT_six_pages_middle-0ee924d3.png",
-    "sha256": "dac83bd7668f55f8b3ef9bd77be2a8cf3f3d0869d3c72d983da76ab65510f99c",
+    "sha256": "e5b7ebe333a1dba79e69f51bec2f82ef7c000b46334b61ebe6f852212deb2f1e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_three-pages": {
@@ -20300,7 +20300,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_192dp_VARIANT_three_pages-084331a8.png",
-    "sha256": "b86d3db49983fdef5d3b8a8445572b57d6371f4d1323a44aeca219a4e5a3bbc7",
+    "sha256": "f4ea4a84dc5f28bf1731dffbb2e251d9ae649fe778e8755ccbc1ce30b23dd694",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_two-pages": {
@@ -20308,7 +20308,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_192dp_VARIANT_two_pages-cdde7bfe.png",
-    "sha256": "ee5e732bc2c68ea954a70ef68b56d7a209144ba24050635c7c61d8b4ea2465d7",
+    "sha256": "19c15a52972438744204458d7b6a2bfcd3b30604eb1244b42da5bbf9c9e46ea9",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp": {
@@ -20316,7 +20316,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_204dp-7eaa12c0.png",
-    "sha256": "aa7ab0474a033ef23dd4dd6de4bd758551f1ceef5791ddadcd2b6013c0fc36a2",
+    "sha256": "dbea8ec5b84bb0df2abe9e1fa5d708f1dfc64c3839641225f589cd5dfe108541",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_five-pages": {
@@ -20324,7 +20324,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_204dp_VARIANT_five_pages-f8069697.png",
-    "sha256": "e6c713ed69bba8d0dc4a3599e077d2821fcbece8b8dbfbbd7122cef5fd87d248",
+    "sha256": "f89a257f7068672807cd193aa52236ec3660d0828b97631c47b81012cb1dd2ed",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_many-pages": {
@@ -20332,7 +20332,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_204dp_VARIANT_many_pages-d80d0e9c.png",
-    "sha256": "6bb55c4ccf2282b051728c0ae333474254d0d441f868f587f3a767d8f732715e",
+    "sha256": "8a527850866ca954ac51cf40137d725240ae64d8cf0f5dbd7945d845bfbe2789",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_many-pages-end": {
@@ -20340,7 +20340,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_204dp_VARIANT_many_pages_end-eca4334b.png",
-    "sha256": "8ca0fa78b9dce4a1a6c0fdc77c68cb21fbed08e8e2225f75e033d041b99405a0",
+    "sha256": "1cb39c4712ac052adbaa73f2ea29d1c92e7439ffb23bf3a0a9f3ba1c9732cd25",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_many-pages-middle": {
@@ -20348,7 +20348,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_204dp_VARIANT_many_pages_middle-ebb554cb.png",
-    "sha256": "e9cc71f91e2181addee60d06271fb0f2d3e1aac2a5400ceb6ada4dd53285d637",
+    "sha256": "d5a0fdc368292c3bdb68d9f526dab4e845f5e24261b1d13d1cf3b8730e8aa94c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_six-pages": {
@@ -20356,7 +20356,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_204dp_VARIANT_six_pages-15475db6.png",
-    "sha256": "31b599e48df7a706b45beae0c627bd0f4400416ebf17c9cff4088c3fce17cdc8",
+    "sha256": "5ea4da056f1dadf1f7ebde415a86960bc66b1fd820c0e101f924daa26d100085",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_six-pages-end": {
@@ -20364,7 +20364,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_204dp_VARIANT_six_pages_end-0938aff9.png",
-    "sha256": "3c95339d4829d2ab5434faffb6aa068cb3196ba6826c1986d4d206be21a10611",
+    "sha256": "52fea8106e5ab2795dd4edb0e086787fed160183e0daef9b56052e269fce169a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_six-pages-middle": {
@@ -20372,7 +20372,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_204dp_VARIANT_six_pages_middle-f048de8f.png",
-    "sha256": "1b1c5be1ca95dd9ebef814dd0115b2ef15d1f5a73779b29f1eb02be727a2e40e",
+    "sha256": "c24b88d63560b5ed7279b9bbd7b05bf645dc89a94b095c6627a24bfb8420f0e8",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_three-pages": {
@@ -20380,7 +20380,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_204dp_VARIANT_three_pages-2b31576f.png",
-    "sha256": "5593c4a04f173478509cba444485bdc9b0be113454e295ffaf6e8811fbdef389",
+    "sha256": "0c2adb6c44cfe56c5ccca8748b13a60d14f06563f08207d339abdd4ee0c7a080",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_two-pages": {
@@ -20388,7 +20388,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_204dp_VARIANT_two_pages-8b3f2c34.png",
-    "sha256": "83f7526500ce2b83a80b74515e26e1cf91dc655cf02d2339156b984d0b073719",
+    "sha256": "6898957306817a68f2a4ddfb33e1664da5926cdfc9b48c5d31c795b999844677",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp": {
@@ -20396,7 +20396,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_216dp-63cc1ee5.png",
-    "sha256": "15fc6e3695a4d7d03c03d2c5a2985f676d9f2207ee6b3ae8d1f80a14637c3763",
+    "sha256": "2022fa2b2eaab9763613276c7a5fa28adf868859d19d9b5c45e86080f6f7c7b9",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_five-pages": {
@@ -20404,7 +20404,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_216dp_VARIANT_five_pages-35ee566e.png",
-    "sha256": "8a44b6339b4c31cb8c96c40e79549a4c64ae1c9abdfebbe1bd249c1725404a77",
+    "sha256": "418b919cf248be29061f6f2c03c5f62a547758eb1394670d6e02048793efb27e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_many-pages": {
@@ -20412,7 +20412,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_216dp_VARIANT_many_pages-e734464e.png",
-    "sha256": "614e9c506f6b24d0f823bea83ec109ece76b966b378d6dcef1358d4fd5617535",
+    "sha256": "692d756bde7d27f3668a2b80353e9c401a80c2a03fd7477d67b85f4127d63d71",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_many-pages-end": {
@@ -20420,7 +20420,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_216dp_VARIANT_many_pages_end-2768a057.png",
-    "sha256": "6690bfc099013880e6ae29b1517f757534cb8209ef502fb060d62786d425ae10",
+    "sha256": "56b3f1ec88af76dcf37b67871ad3f641f4389bfe5419aab1d2b5762634426e82",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_many-pages-middle": {
@@ -20428,7 +20428,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_216dp_VARIANT_many_pages_middle-dc4f328a.png",
-    "sha256": "5637774f5204bd3236bfa8aa63f4d87e04f30c7810a2e8931fcb32b373c68b4c",
+    "sha256": "f86dc348a6ea07442ffb15a347a3955d7a945a28b07df0ff27bfee3d983ef3f9",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_six-pages": {
@@ -20436,7 +20436,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_216dp_VARIANT_six_pages-db254b71.png",
-    "sha256": "c093d2e7e22c5912bfd3e3205d9abe24fa1895bc1d3e35d5e54ab1fbf280d969",
+    "sha256": "53bd894dd4112b8216a702f4c42b3c9b131ea2178dc1068922239092b2f08628",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_six-pages-end": {
@@ -20444,7 +20444,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_216dp_VARIANT_six_pages_end-23aea028.png",
-    "sha256": "26911e05124eb2fe344ed22cb22b38e9b7097fbca0cd4ac796b24c748c581708",
+    "sha256": "e4b127cc2919e46a041d399b31119d60dd67c0ba94dc6926661b8814842df718",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_six-pages-middle": {
@@ -20452,7 +20452,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_216dp_VARIANT_six_pages_middle-6160c038.png",
-    "sha256": "6545e16337f1bcbf12f361dae7fa9b33a32e647f51862cdaaca3f8a458c2ea55",
+    "sha256": "913132e24dbfe2922ba4fbdf63de3e5c21d04b6af01369170b0abdefcc9c9ace",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_three-pages": {
@@ -20460,7 +20460,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_216dp_VARIANT_three_pages-3d2e84a3.png",
-    "sha256": "34b91f987f1e807449aff96c88b06bbc8cc0dea3bfa5029a160fa162f3b7982e",
+    "sha256": "4b4af67bd8848dc02a6c94ca982b4b01fbb4ff16517d8d6a123f3bf26053ad35",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_two-pages": {
@@ -20468,7 +20468,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_216dp_VARIANT_two_pages-bc2ab1ee.png",
-    "sha256": "0df524eff6990da04143ad68fee112f8464dfb0a4c4be42be0f453a90083a787",
+    "sha256": "d9a3e17aaf5e9fcd1b92a52b47fcafd34b160e71315d4e851e4000b91ed94ce1",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp": {
@@ -20476,7 +20476,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_225dp-f92a8df2.png",
-    "sha256": "f776f34cd1339d10a3ce8cd5102659e8325cfaa055b0cab692d802865f25bb59",
+    "sha256": "b50dc142545a1b000b7ce695c0f0fe5653ca8e2f4e9a211eb6fa74589f0922de",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_five-pages": {
@@ -20484,7 +20484,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_225dp_VARIANT_five_pages-e7c9e0fc.png",
-    "sha256": "b113f4ca7999efef6807936bb38a5b06b6d11b9241369c949a6b9746417d80a0",
+    "sha256": "68b8f143afdefc0f9dcdb619b861e479f39c53d64b89ed5244fff5d7e986ca35",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_many-pages": {
@@ -20492,7 +20492,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_225dp_VARIANT_many_pages-6ce9dbc6.png",
-    "sha256": "47cd5f455c8b58de8c3a15d4c741468b3ebdfa3fe1747771da7603277e5b7910",
+    "sha256": "391a273b4011a833dadc157b77f47c3c7a66854479bc8fe943faf021f8e0e637",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_many-pages-end": {
@@ -20500,7 +20500,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_225dp_VARIANT_many_pages_end-922df33f.png",
-    "sha256": "1c3bd39e7c6361fff1a18a161b16d83119cf2edb95a861efc3edd6c22ccbdc1d",
+    "sha256": "7ba95f24c4726bdc92421d1e8b6a574d41c10b3277a6d6f3fdcdc5ac4f854a71",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_many-pages-middle": {
@@ -20508,7 +20508,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_225dp_VARIANT_many_pages_middle-b2f3e34e.png",
-    "sha256": "23f50998091e6225a5a193e8c02ce5e0328cbcb0d40dc0539eed6dfbb11f0107",
+    "sha256": "8566b986917d3e1546837ee250994f0201910d3083bd820c0ab301383fc20a4e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_six-pages": {
@@ -20516,7 +20516,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_225dp_VARIANT_six_pages-59955233.png",
-    "sha256": "b40114704e863ecd168094450c675013138c0ddd72c6d615e7855fafffb56714",
+    "sha256": "5f4e5e8693b8f49a33a892f01e07c9470f87ae11845e454be58e0615cd608988",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_six-pages-end": {
@@ -20524,7 +20524,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_225dp_VARIANT_six_pages_end-1e989856.png",
-    "sha256": "83c798056ec323953f7a0d39da73926a094451226cbe4a961aed1678a4faafb1",
+    "sha256": "c425a363314be66b0fc6752aa4456ded447c462a75ea99d8322760be56350f20",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_six-pages-middle": {
@@ -20532,7 +20532,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_225dp_VARIANT_six_pages_middle-f711e5c1.png",
-    "sha256": "a643882c5c18e72ba21bffa8d70b214d23dc8562827ae7cef14ad4546c9a7c5b",
+    "sha256": "59bee006d3c6ec8c769136a8835688d683e42d560f7551a2468f821d82ad0d75",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_three-pages": {
@@ -20540,7 +20540,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_225dp_VARIANT_three_pages-04c835ac.png",
-    "sha256": "ea81f2aca7ac6d09c00a1806bf0edd6a5314ffb606beb70ef66a5d236df24222",
+    "sha256": "498d7ccfbaf585646b20d704cb85b3a5b98824bcc769304fadded6ae723d0872",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_two-pages": {
@@ -20548,7 +20548,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_225dp_VARIANT_two_pages-2a4ff21f.png",
-    "sha256": "70d114964403d562fb975ff63893b814d082e77fd6674e233e0d5c4d352c456c",
+    "sha256": "340cdf3d885af4e725c81df3374e885cca9b9c7f14fad4539a76db91b16371dc",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp": {
@@ -20556,7 +20556,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_240dp-e80e0ab4.png",
-    "sha256": "cacf9b81380c663052d199426168586859dc010d5c9d0797642415aaf0edb777",
+    "sha256": "fab7ba9e7dab5a680320ac69fe173c8b31ad3fd1e415a82e181b281bd84eec87",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_five-pages": {
@@ -20564,7 +20564,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_240dp_VARIANT_five_pages-b2adf4f5.png",
-    "sha256": "1f03ca77df2d06f011e19e57431f16c44a4466305301a5ab0233ce836438b9e2",
+    "sha256": "554cf57e770bb937d82e568b5472c444049386c5c78eaa539d91d445df5c57ad",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_many-pages": {
@@ -20572,7 +20572,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_240dp_VARIANT_many_pages-06030eeb.png",
-    "sha256": "2c1e7b917b285caadf63be0d5a9f16b971545cb34e9d7b1b539cc85b65f78bf3",
+    "sha256": "e2ba544e6ebc247c34bc161885aa70a711f03345f0cc6e38d5cc9da66c9c115a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_many-pages-end": {
@@ -20580,7 +20580,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_240dp_VARIANT_many_pages_end-afce9e5a.png",
-    "sha256": "18b0c5d5b45443064ead3528e54897294df26349e41de19360b564ffd69f75a0",
+    "sha256": "3b36a03c9e6b9a33e2c97377b18a5ff81ef2b756144a44988ff5f801d0322a39",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_many-pages-middle": {
@@ -20588,7 +20588,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_240dp_VARIANT_many_pages_middle-800f8c13.png",
-    "sha256": "298e115e4f5efdfcbd6e03ea5e12dc4119eaa1c5b8635cfce3b317b924338c33",
+    "sha256": "bdbca727ae722245b7046ba6d11a4e5765e60feda462076ad5e1719b3918443e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_six-pages": {
@@ -20596,7 +20596,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_240dp_VARIANT_six_pages-0bb0baf5.png",
-    "sha256": "129321f29f2b6fb94284e5255b7fee70e2c37a51da64ec5825f3d9fcc8ad7a5e",
+    "sha256": "f029f72db98d554541347404e90cf646cb47ffddf1da2a62d6f762cfdc1031f0",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_six-pages-end": {
@@ -20604,7 +20604,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_240dp_VARIANT_six_pages_end-af4186df.png",
-    "sha256": "477aac97c9d16786120b48e6bbdd7ff13a3017fdd4802ec7f220bf08cc13e0c5",
+    "sha256": "03c678141db1d108494c05f2dde576033d9fa5a7dcc41db4dd98ad5c57ab96b6",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_six-pages-middle": {
@@ -20612,7 +20612,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_240dp_VARIANT_six_pages_middle-20c139fb.png",
-    "sha256": "d6a4d5de43b8798ae7bdc0a32902bccc3488541cbb205df072a8db8f69ea53ef",
+    "sha256": "8b96b8e4fc89f90a377e401da8f32d26c82ead11c3930233b396a40e673824fe",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_three-pages": {
@@ -20620,7 +20620,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_240dp_VARIANT_three_pages-e3d32b15.png",
-    "sha256": "25f63736760454814d1ea386c675e08d2411e42bab0fad679e164510c020eda3",
+    "sha256": "94d03dc2d978315c442a8513b1af8dca13a4a055472536e80efd10184dd177eb",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_two-pages": {
@@ -20628,7 +20628,7 @@
     "functionName": "HorizontalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "HorizontalPageIndicatorRemote_240dp_VARIANT_two_pages-e081e04f.png",
-    "sha256": "745d2f58a511ad3e0767bcc4352a0cf22faadc413d19591e0cefb2de699daed1",
+    "sha256": "28d1b2e023afb5e56422590a2838cf95a69b50b0979c001cbb22d145dbfdcab7",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ImageBackgroundRemoteButton_width=227dp,height=100dp,dpi=320": {
@@ -20636,7 +20636,7 @@
     "functionName": "ImageBackgroundRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ImageBackgroundRemoteButton_width_227dp_height_100dp_dpi_320-a25ff1a4.png",
-    "sha256": "6e564408f1cc8277c17f44e6c166a44c38ad40fa8696542309e2ec75e64258b6",
+    "sha256": "b635c1655102f36033788dd9cef0d1d7c5b6160bf08ed3afd9236286a5676048",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ImageBackgroundRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -20644,7 +20644,7 @@
     "functionName": "ImageBackgroundRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ImageBackgroundRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_disabled-6ce8817e.png",
-    "sha256": "51ea93889cecb5a5c4ed3599510bceaaa96626d312ff77b3b850762ce5f36522",
+    "sha256": "cb5776aefc18e82148c8dd215f3975dce3a64b6783cedbae99e310c10995386c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ImageBackgroundRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_secondary-label": {
@@ -20652,7 +20652,7 @@
     "functionName": "ImageBackgroundRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ImageBackgroundRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_secondary_l-248ec195.png",
-    "sha256": "e386e00f09fb9bef0e649477162ce6a81851118b0b619431b63518ff8eb763a0",
+    "sha256": "74fdadec05cc9add8be4627b61a4faf5db9aef3caeda2d8bf556b68f0d648fbc",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ImageBackgroundRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_secondary-label-disabled": {
@@ -20660,7 +20660,7 @@
     "functionName": "ImageBackgroundRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ImageBackgroundRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_secondary_l-97f22db0.png",
-    "sha256": "b5ae9111ba4b8bfb45b71b2797a3cb6dc9942519da55c450a428c58cade80ea2",
+    "sha256": "4de91e8f19d9c30c70f297cd2d19c03ad112efc1101092ae64b7fce45deaea9f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.IndeterminateCircularProgressMotionRemote_192dp": {
@@ -20708,7 +20708,7 @@
     "functionName": "InteractivePageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "InteractivePageIndicatorRemote_192dp-693b3114.png",
-    "sha256": "ae72b205831824887eea7e2e4401e1661064f091399029fc323d3135256c5cbb",
+    "sha256": "57007cd4b9f3410ff471abf4c41c75eaf1c565838cd245cf5f1477891346bf24",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.InteractivePageIndicatorRemote_204dp": {
@@ -20716,7 +20716,7 @@
     "functionName": "InteractivePageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "InteractivePageIndicatorRemote_204dp-c123864f.png",
-    "sha256": "bc23fc67144e7d4c162e19c1e73eac669fb50873f038846b144c84202c7e402a",
+    "sha256": "3a7c15a0b9e9e16f114ba653e91cd3b8f03e3c8f610bf115bc5b56ed9b72c4fa",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.InteractivePageIndicatorRemote_216dp": {
@@ -20724,7 +20724,7 @@
     "functionName": "InteractivePageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "InteractivePageIndicatorRemote_216dp-2119c1b8.png",
-    "sha256": "22dd0419ebe7a402df119a38b85685e307ed65fe96c6753312bd6d4d4b2c7491",
+    "sha256": "a1619f669e61602bf1f08418de8f42615a8b6aea99cc634e750a455a02e7b531",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.InteractivePageIndicatorRemote_225dp": {
@@ -20732,7 +20732,7 @@
     "functionName": "InteractivePageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "InteractivePageIndicatorRemote_225dp-b6aac6f4.png",
-    "sha256": "fe6d7a4654b7ae361ea42cff7f9306a20652f8938ee8752be36308ecb1455700",
+    "sha256": "25398c93034864dc215aceeba1e691d420b3293b9dd33793c6f8477c3fdd1fc0",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.InteractivePageIndicatorRemote_240dp": {
@@ -20740,7 +20740,7 @@
     "functionName": "InteractivePageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "InteractivePageIndicatorRemote_240dp-cc80d6da.png",
-    "sha256": "b9e7373e0c60bcaf4dc6be952dfcf71cfe25fb01433f5383d16cede502264da0",
+    "sha256": "498d279b7761a11344ed1b60b5c55c4bf3efb2f045db75fa6f615001e86d3cc6",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.OutlinedRemoteIconButton_width=227dp,height=100dp,dpi=320": {
@@ -20812,7 +20812,7 @@
     "functionName": "PageIndicatorMotionRemote",
     "module": "remote-catalog",
     "renderBasename": "PageIndicatorMotionRemote_192dp-90eb0cb3.gif",
-    "sha256": "f3caa0285606d0543253bf942462bed5051c9ebc7092e1bed3540ac9cd0c2cc5",
+    "sha256": "00a7b3042d55cb8d6b96fd17c0aaefa15767c5c4e03c5589656b70d2f22a801a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.PageIndicatorMotionRemote_204dp": {
@@ -20820,7 +20820,7 @@
     "functionName": "PageIndicatorMotionRemote",
     "module": "remote-catalog",
     "renderBasename": "PageIndicatorMotionRemote_204dp-64b84ffd.gif",
-    "sha256": "d9086012f78e50a51c0a9d1952211356d02ce7bbeeb17bf2432edf81bbb29aa3",
+    "sha256": "b4d49f505b24e3a906abbb8f540fc2cd44110851d39a59b585f00ef0b9d4ea35",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.PageIndicatorMotionRemote_216dp": {
@@ -20828,7 +20828,7 @@
     "functionName": "PageIndicatorMotionRemote",
     "module": "remote-catalog",
     "renderBasename": "PageIndicatorMotionRemote_216dp-a29f8c25.gif",
-    "sha256": "a25960e5df30e4e94a9c45e74367bcf42adadb51dba8c8e7a4226a13da3727f6",
+    "sha256": "f53fc9b8071eeee63a51dfb4dcadd0de5688d5dbdd6c92b1f7127aca775b4f10",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.PageIndicatorMotionRemote_225dp": {
@@ -20836,7 +20836,7 @@
     "functionName": "PageIndicatorMotionRemote",
     "module": "remote-catalog",
     "renderBasename": "PageIndicatorMotionRemote_225dp-4840e5df.gif",
-    "sha256": "dd5a809615b8eaa0659a1ed0b7ecdf0c92428e2324a11461c945ab465b231361",
+    "sha256": "186b09758b037f458155f33eace4c379f18749404fb5341abc19685a37da64a2",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.PageIndicatorMotionRemote_240dp": {
@@ -20844,7 +20844,7 @@
     "functionName": "PageIndicatorMotionRemote",
     "module": "remote-catalog",
     "renderBasename": "PageIndicatorMotionRemote_240dp-d3f5f51f.gif",
-    "sha256": "45bd621d17fc8ed8e1a6209e48c64a4cb33cd8f05ba36a3455cd6fc13d1b5ec8",
+    "sha256": "df88ae61ac5e0498d49d8c3d4542a53ed1c7c17ce2c0890e2a5c7c350804b062",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.TonalRemoteButton_width=227dp,height=100dp,dpi=320": {
@@ -20996,7 +20996,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp-4d5c31fa.png",
-    "sha256": "dbab325a08b34db74c45e9273fe38fc3713a470d69035b9a828ff7ee7621f308",
+    "sha256": "8cd894791a433f2a19ede2395ab1c5ea7373995d87c1d8c6a4dc3c2b53822c58",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_five-pages": {
@@ -21004,7 +21004,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_five_pages-493625fb.png",
-    "sha256": "8723f37da41088b12c30d0e52d8180a9df4bbb534e79e60fdec961550bf30676",
+    "sha256": "fcf446287885c77662d9054315f872134310ddd2694e8c67b45b07743e9200bc",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left": {
@@ -21012,7 +21012,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_left-40369c6c.png",
-    "sha256": "72996c473ada85ee2ce82393b03eb6b349ac247565aa93d525c65a77f2aea637",
+    "sha256": "16cb0d64b6abb361b88489440f493b34e17327da4ca75113dc2dc4c1a37c7c6c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-five-pages": {
@@ -21020,7 +21020,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_left_five_pages-a1ac0326.png",
-    "sha256": "e196080da9be241ab85151cfbc169df60b50b5ccfbfb1044f9222630d502a11b",
+    "sha256": "3a4671c4c5c932ed7d592688c3a587ac2f60e203586a504ef3d6857d0411c27e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-many-pages": {
@@ -21028,7 +21028,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_left_many_pages-b63bd80a.png",
-    "sha256": "d3e6946c9fd2ebf5b509f3bd28e38959ec070b4b702be8dbb6ad03169823f64d",
+    "sha256": "70581abfd2674cd72c32084236641edef530e41a779067aefccdaaf0995e383a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-many-pages-end": {
@@ -21036,7 +21036,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_left_many_pages_end-19220be9.png",
-    "sha256": "120be6373c57bcc798e2e1445a5870aff6564fe085c68984688fba56d7228690",
+    "sha256": "ba2f36e6fdc5bd2eff0eade07f9932dcf086ec0b89168d14e7240b6fad4aaea2",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-many-pages-middle": {
@@ -21044,7 +21044,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_left_many_pages_middle-374237bd.png",
-    "sha256": "990dc83df12ca1113b02478f2057cf869304faa80fda58d1c8086e4952ceffe4",
+    "sha256": "8ef6a368d72aa8ada4e53d98d262f475fa00ab0837a320533db37a51ec638348",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-six-pages": {
@@ -21052,7 +21052,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_left_six_pages-4dbaf03f.png",
-    "sha256": "afd25034204de6a09aec209be8d7719c5689223ea5006b5ea3a680314e6cd517",
+    "sha256": "634aef29dccc7bd2aa45d5ca4cc8182a3c7c1ccaa265f541e45456ac4cb6836a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-six-pages-end": {
@@ -21060,7 +21060,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_left_six_pages_end-4e3384f6.png",
-    "sha256": "bd848c5523d5a7fb287cb286ffb4d369087bbb7fba12f60a60d0ad1916411109",
+    "sha256": "9176a5d4ca05e4bee8c82c2dc1a247607312305ce9cff98fb3428fbe3bb29153",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-six-pages-middle": {
@@ -21068,7 +21068,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_left_six_pages_middle-5fc28f92.png",
-    "sha256": "19e32bf130f7f27d36940e3b12af396eef1b8ace1d49fcc0724acc79c2eb97ec",
+    "sha256": "3094f8caca244acaa12e30ffa592bf564f79ee4aecd7974ecbf5c4a3bce1bcc1",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-three-pages": {
@@ -21076,7 +21076,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_left_three_pages-04dd208d.png",
-    "sha256": "1c6ed7db9269d82c7c6a30ae3e62baf30c14810a59a09a0d5a449782d7b8be88",
+    "sha256": "1b9dc6614ee2ce5c87032e9ed766f38dca6e21ef799fd47f6c4403e453a23fa6",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-two-pages": {
@@ -21084,7 +21084,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_left_two_pages-09fdd2f1.png",
-    "sha256": "8eae399ca94544e5e7b99d12e319bcf72d7338e3971a309a35fa9a0b9186e75a",
+    "sha256": "0867df1983ea19afe68c2e6e5855d33229dbf0037a5383d3ef5f3e41caba936e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_many-pages": {
@@ -21092,7 +21092,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_many_pages-522c00bf.png",
-    "sha256": "547b664854aafb6e94df4b326dacac57c463a403cb948a5b5e945b43e06635fc",
+    "sha256": "6837736423c0f50f0344a83afe2352cc5cf79ccbb405851d3be87cfead6ffe8d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_many-pages-end": {
@@ -21100,7 +21100,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_many_pages_end-989c1637.png",
-    "sha256": "0ebba1dc5e957f872d7271beb614ccd0d86a1e43a8d8e1bd8a5925fdb35b9c17",
+    "sha256": "22557dca4c985cacd3b97a3878eb5ed1b8f07919682fee1de013b88d51239457",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_many-pages-middle": {
@@ -21108,7 +21108,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_many_pages_middle-77fbc166.png",
-    "sha256": "4bb04866f3b447968dace0c3cb32d7c232bda416bdc843fb66d56406123b1800",
+    "sha256": "d580e711438e9ec5df5e1bc07edebbb3675c20f1a6fc5ebe17a80c9ce1cfcd4a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_six-pages": {
@@ -21116,7 +21116,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_six_pages-4e551e0b.png",
-    "sha256": "29a0f8350f1cd96b2f2b7f4b9df2b5f0ab00591cc0f486fe5778082a75d7aac0",
+    "sha256": "11faee5d3424f45e7b612fcde14a2ba0258f5cf3dac7fe1ec797c244f38a497e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_six-pages-end": {
@@ -21124,7 +21124,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_six_pages_end-3bea23b5.png",
-    "sha256": "87c853ad90e99cebe2a8d09f1738a53bf0c678ce338df101e6d4b2596c45be05",
+    "sha256": "92e269c21a92646e38a41f8fbaeef5dbfbb60337eaf5a84c634f82946156f8dc",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_six-pages-middle": {
@@ -21132,7 +21132,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_six_pages_middle-6ab179c7.png",
-    "sha256": "780c8c8ceaefcde7a179471514a1b4dc36687a68e112fb27de6bbe8128389bfa",
+    "sha256": "13722b935094061d2ab4ad24ad7f7bf89e08ecdb7b7b04c1008969b43219deff",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_three-pages": {
@@ -21140,7 +21140,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_three_pages-29f97bf4.png",
-    "sha256": "c633a194b450922eeb183681b6ea8eb872a108dd7701a6a2746ab28929685098",
+    "sha256": "dbe246221f847aef49bae070c75cca1525c6ebdf26a066be4d7ca81ea5c4aafc",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_two-pages": {
@@ -21148,7 +21148,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_192dp_VARIANT_two_pages-5b4e227a.png",
-    "sha256": "1af7669eb11c50a3a268ced4a465f563b1ba099530fbd891514eb0493c253083",
+    "sha256": "3d4178acc6284426d282e054234f831aaf9cd10028d4a4d8a3c9b06a9320a8f5",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp": {
@@ -21156,7 +21156,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp-327af8ba.png",
-    "sha256": "58cd3bc5a190057c87eea498f494e6bd9e92c80f6615d7ec40b4e6b663b1a33e",
+    "sha256": "5bc38c98a4d23178c74427fd7a938de9636cef186c5047bf26a7863eb4acfcb5",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_five-pages": {
@@ -21164,7 +21164,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_five_pages-6ae25737.png",
-    "sha256": "1692b9c9c91fda74bbec5013bfd989214e0075697111712beddc5079b6990733",
+    "sha256": "7929d851844dbdff4d4061ea5aad2091b81fab7f18468a29066ab11affecbcae",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left": {
@@ -21172,7 +21172,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_left-6e9090df.png",
-    "sha256": "06e432d913e01b2ade9f317c7192a2b9fb96dd9c9e4934d316c46f550bb4159a",
+    "sha256": "35aeec73144015a6750f205ef06804bc18bf6ec059cbb3ba2533c077a491001f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-five-pages": {
@@ -21180,7 +21180,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_left_five_pages-9826d66b.png",
-    "sha256": "e98418c3106e25f53eb70af9f30a8603164511761b4d292982c992dfbf853b36",
+    "sha256": "c66fea595a4a26204697f69e27d6002153c509a69445d2eec1bcca9eeb433e89",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-many-pages": {
@@ -21188,7 +21188,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_left_many_pages-9f14ffbb.png",
-    "sha256": "19e8fee83bb127ac0f97f6ebee765ce0b1d58b7b6294a8208fc27e39d95755a4",
+    "sha256": "c227f0111127f6c1421ee85fab85ba6edeab183d7e58dfcf799891ed9fabd1a2",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-many-pages-end": {
@@ -21196,7 +21196,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_left_many_pages_end-741f8f1b.png",
-    "sha256": "1d9d3d13e6d0a6789b20dbca5af594de207e7085f03c7c5749fdf24ffd214068",
+    "sha256": "c6bac6bc63f97673772bee4b6aa170890012450acc6fa9527f2460d2bd54d9a9",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-many-pages-middle": {
@@ -21204,7 +21204,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_left_many_pages_middle-5ea00b5b.png",
-    "sha256": "fad28b6a1b1d5c241c10ac57cc8649966d6f9aa638447b2291881b614758acd9",
+    "sha256": "51ca7cbec5ea770e08c8c448d4ce7b5f3869a7e16fa4a5be40caf07412e70a94",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-six-pages": {
@@ -21212,7 +21212,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_left_six_pages-98842704.png",
-    "sha256": "5624276982978e8e1d24f142a3b5ad901d07ee98e3d20dd7816c53c18ead5528",
+    "sha256": "06bcd2b2eadde45b9f4bba292afe7200b9ec908852d1ae7c205ec3ce10b7d67f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-six-pages-end": {
@@ -21220,7 +21220,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_left_six_pages_end-0d60edaa.png",
-    "sha256": "9df7d76e58f231b28f2c56432f543746bac2453b4557b8d8e50458f07fbeda7e",
+    "sha256": "eb5c4552dc314ca299a11d5e72286ff347a0aa904265efaa166d98f6b46e8dd4",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-six-pages-middle": {
@@ -21228,7 +21228,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_left_six_pages_middle-1138419b.png",
-    "sha256": "4ea7f7bd09b8686bf83f319fa345e203335a9bed99ffe515bbb25caff464a4fd",
+    "sha256": "3ea57beb638fa930b683b17a4a1958a51e67b51388f9c20709af3ef77c207c39",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-three-pages": {
@@ -21236,7 +21236,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_left_three_pages-f965f566.png",
-    "sha256": "0a4402cab60e072fdbde4cef67737415d6d8b96a6df3a7823e86968a1fc0b219",
+    "sha256": "b02acdc2311ef85aad57b7c023e3ebe50248686fb066380d73401b5b4bafea08",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-two-pages": {
@@ -21244,7 +21244,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_left_two_pages-c9667fcd.png",
-    "sha256": "56424c7d6c3c11e6132b8a3b72700498f112f2c1b50aa5980e879b6e5609d3ca",
+    "sha256": "dee74c492c3c640044e644c849c3d5bd10c73d668d73e8ee4fa083d313b8cf1a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_many-pages": {
@@ -21252,7 +21252,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_many_pages-17d57aa1.png",
-    "sha256": "5360b3650fca35742abbd3be64b5bbbbe15f963d16794e7fbed12681f09efd39",
+    "sha256": "2551c836d8e6579cbe25d14f85a433152dd9b0891ffe998649e0e5ed127c430c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_many-pages-end": {
@@ -21260,7 +21260,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_many_pages_end-35f2a3a0.png",
-    "sha256": "c36a3da8ad7cc79e884d8351d3977e3c2d341213fa63242249394d60a00172b8",
+    "sha256": "23429f79a5cec206b7750d1a47e9aba4fcb324c1e056b9dbd80ed7315bbed24f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_many-pages-middle": {
@@ -21268,7 +21268,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_many_pages_middle-51dc039e.png",
-    "sha256": "8305e027edc933ff50323f234da6a5a19ea8388e33b90b6b8aebc6da5d9e359d",
+    "sha256": "d727c756248c11bd6c1109ef58259e1d8fa7e459d8c3b5d3f35419bc3925403e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_six-pages": {
@@ -21276,7 +21276,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_six_pages-6691c847.png",
-    "sha256": "3332f103c0be477db6089c2a8f2a69a5bfe02aba7e8dcbd030d16991965b7cf8",
+    "sha256": "fa88cb07dd89edd7431138c86328c90d131a136e7491ac8d87c7e2b33c1ccab3",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_six-pages-end": {
@@ -21284,7 +21284,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_six_pages_end-24430689.png",
-    "sha256": "3d8bc65621edda0fe4c3ef138442380a8e7bd3f2fa9a3d7b44303d9080dd64b7",
+    "sha256": "5bbef4a59179a18b9c8790733e0346b3ab3e06aa70c2bf7497dd611a7d4d96dd",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_six-pages-middle": {
@@ -21292,7 +21292,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_six_pages_middle-b2e3a990.png",
-    "sha256": "647b50de00d33bb46a58e98b499dfafe1863b38f6592147cd607b0e148fafd83",
+    "sha256": "fc7f30947ed5494c633090dd5aded2e0e60358dc4b20e1e46e6393d6c14f1118",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_three-pages": {
@@ -21300,7 +21300,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_three_pages-c9b2d9a1.png",
-    "sha256": "759336b11ec0d1bf054fdde454107fa3e9483d19289b4abaac44f29c2c705a98",
+    "sha256": "aa54189a75fa01df15cf76380f0314486d37a940e6e8af4bdb99730d4725f274",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_two-pages": {
@@ -21308,7 +21308,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_204dp_VARIANT_two_pages-7e34b5a2.png",
-    "sha256": "1ffca91ce17e1ca43a6ae9b6510576117baef64ee8d0770a907945e72aac4eec",
+    "sha256": "497a99d5c0f413c53f66393ffda1045b197beaa322ffdb37d593198c29b313ef",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp": {
@@ -21316,7 +21316,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp-4b974625.png",
-    "sha256": "51f752ab6cf9c2b3351803eaea8d033a3350a782f9d4736eb2a9b6631a048156",
+    "sha256": "bfb0d1e06bdd38f7ffce29eb1cd07f187b47688b687696de0d1b9f10a8f929c2",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_five-pages": {
@@ -21324,7 +21324,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_five_pages-51f23ba3.png",
-    "sha256": "192d50ab713b42efcd747fc6bac74ed48647fcad969bfae5633517159c650f7e",
+    "sha256": "f72f818bee140197b504890936f30950f62ddeaf18416f28f329c6d845d8c8cc",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left": {
@@ -21332,7 +21332,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_left-c183c6ba.png",
-    "sha256": "4ac313a06a2df819b31c67b7fb5fa65c2f60151de32e96930d3f56266f32d2f6",
+    "sha256": "17253779ecc14802aea7280a34c2b7c8216d3424efbbc1c26890d05626302910",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-five-pages": {
@@ -21340,7 +21340,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_left_five_pages-70199193.png",
-    "sha256": "bee5bd1a8650b22e5916a59a5102a20c6553c591ab4e5550e25f6f8ffa5d9e75",
+    "sha256": "61945ad666f06e973b3fc304964835b9abeb9ff7a1eac58f9e3c7472c8de6cee",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-many-pages": {
@@ -21348,7 +21348,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_left_many_pages-26689fce.png",
-    "sha256": "142acb2046ed61f54bd1a29eae09368b606162d2c84670f3d2031bb71a5b7096",
+    "sha256": "f9f1b7f8ba7d0b4b9ca7036bf3b0779488c6b1556923a6bb368d75264c7d4e8c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-many-pages-end": {
@@ -21356,7 +21356,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_left_many_pages_end-35931d9d.png",
-    "sha256": "5507c5ccc1b1dfac0c6072939694c6351687e2104ecf8da729bc05b2a81efd84",
+    "sha256": "8dbc65e433e576baae526254afa867ad6f88efa17ed274004128e9726e4f124a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-many-pages-middle": {
@@ -21364,7 +21364,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_left_many_pages_middle-995fe48f.png",
-    "sha256": "adcbbd100dc48cfe2bbc87c4af92eb30ae5891ebd4401db09c0b5790bd5cf300",
+    "sha256": "42f28d230349b11ec55e7bbbe10236128c67080c41cf9bf982dc4b50e4098b3f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-six-pages": {
@@ -21372,7 +21372,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_left_six_pages-ac0d1b88.png",
-    "sha256": "0d52ccb15a82091d07f3e326a4f1b12922a472b3c9281a06827c98150edf1d5f",
+    "sha256": "f938c884c91d7501d22dbc0bd9b2b3e90876479ef5940b83d0ca3ee4ca6d765d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-six-pages-end": {
@@ -21380,7 +21380,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_left_six_pages_end-b8e426ac.png",
-    "sha256": "9bc8de19d8e50328490a2fa88e1e397c36ad08e992cd877f5f0ec4f5bd1c915a",
+    "sha256": "c463a5c8c4aa9e1e1b274cfeeadb770d6519d49d08ccbc3d4dca88d2d8e1fbea",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-six-pages-middle": {
@@ -21388,7 +21388,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_left_six_pages_middle-b4fae519.png",
-    "sha256": "cd156249147ae23d6954b8e038415dbf465696e745258d65ddd2ab909cdc7c67",
+    "sha256": "6ca36bdf3c4c86e40952ef2a21aebfb0e31838fd0a13943e66aaadbed8a7606c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-three-pages": {
@@ -21396,7 +21396,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_left_three_pages-e7d1f2bf.png",
-    "sha256": "dc7401f58088ff8e79e8bd682844e8337ee7cf8530711a759255c71aeda32547",
+    "sha256": "e737496243d73436f9d8ed46fa10510565cf38ecd60e61f3a826558689926c9d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-two-pages": {
@@ -21404,7 +21404,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_left_two_pages-d2cbca9d.png",
-    "sha256": "09c0d1a1d60ca4810cbaff5854b957ea4bd67e5e6cd5e639de66cfca9272dc9a",
+    "sha256": "19321ee34be477b8d923491e4c879957f6b9a6f916bd1a61968f4bcc09e9aa31",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_many-pages": {
@@ -21412,7 +21412,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_many_pages-aa5a34f6.png",
-    "sha256": "f865e9d72f026c7e5e3b4b2ed3625f9ce759ae92e3e6757d33dfe44c6c7cc64d",
+    "sha256": "74688d5e0313f5ad730f0c971f0005761446d9a17166273c51654946cc7e4774",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_many-pages-end": {
@@ -21420,7 +21420,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_many_pages_end-14db16b7.png",
-    "sha256": "e1b90c7f1bb9900d2f21d84a50a4ab9c5eb5b0da8ebfa42ad99a99082d2fa531",
+    "sha256": "b51810f2742eabccd3313f0bb75c5c2ab2ef6ab370b2c025b22b6b666c8a4bd9",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_many-pages-middle": {
@@ -21428,7 +21428,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_many_pages_middle-16747fc3.png",
-    "sha256": "1081f7ca1ed224a86293cca8b3aab43c88fd7e9d8b6fe0490ea8040df5c9e982",
+    "sha256": "f7555c430f1acaffc3a8436a322cd1779e16ddc84bd87c460ebd192e6d0cc403",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_six-pages": {
@@ -21436,7 +21436,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_six_pages-7ef7f253.png",
-    "sha256": "4ed28298aec056f1ab1a7ef26f23b55e14712be4ee32dea97d098a22748e4a2f",
+    "sha256": "b7684dbd14539b801ef393ef0f64228eb450bf3bf0b253647876070fb8ca870e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_six-pages-end": {
@@ -21444,7 +21444,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_six_pages_end-23239752.png",
-    "sha256": "9af2dbf0a442be44af7f706a125135ecca81a036334c003589153dbb106789ab",
+    "sha256": "019e16ab2d6caeeb172f30ea39c2091fe2ef57dfe3c2bc25953911d6bd28c2b7",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_six-pages-middle": {
@@ -21452,7 +21452,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_six_pages_middle-61f7c320.png",
-    "sha256": "48d8265e4e9c8558678a093ef9c987cf508180f84665b9c9e4f283fa014935eb",
+    "sha256": "5ff0aaed4cd144b424bcb572f58d0cdbd03a2cc56712c311e7c2ee9b6b4827b3",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_three-pages": {
@@ -21460,7 +21460,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_three_pages-a240229f.png",
-    "sha256": "af6adec280d1b2c0c06b7ae0b5d992e5143010986ea236c00f6b03073eef1f7a",
+    "sha256": "d2c5a3a17c14b7294f8f5b569cdf7c21cb5a1f71e2208a13a81e4b0b6e70a512",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_two-pages": {
@@ -21468,7 +21468,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_216dp_VARIANT_two_pages-e13dc21f.png",
-    "sha256": "fd30a35d89ab5510165d1a0305b06e25ee006961478368756f00a2c476420c52",
+    "sha256": "8fff86c87367a7cafe3b19ccbb5cdd674c81e9997dd3202c6262c08068955d57",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp": {
@@ -21476,7 +21476,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp-779661b9.png",
-    "sha256": "c0a7e68df2e169c704a417d00076c6f9f9d37347639a82a6533856f3bbd908be",
+    "sha256": "63a16df42e35a5ff6885ce6053872b920c3796bbcd307fb0ab499db630d3894c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_five-pages": {
@@ -21484,7 +21484,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_five_pages-f673d979.png",
-    "sha256": "94242a2877738abe6c66b3c2a5b4271dfcaea027e4ed45521027c5cfef5de998",
+    "sha256": "889451e3cfb31697cb0434f5a3de551506d6fcd681ccdae3878614dfa8ade12a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left": {
@@ -21492,7 +21492,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_left-e2f762fe.png",
-    "sha256": "f7c0de2927aac30a231574894c5a0783c08f5bf86efb4500d21bed07c5cb41fb",
+    "sha256": "ba0707215a0d0c77bbc4498e541ceff27ec60f45cfb7f2bda3e8c388bb59bb11",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-five-pages": {
@@ -21500,7 +21500,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_left_five_pages-92c95e86.png",
-    "sha256": "500a832130584a0833737dbe481640f3f651541fdd57473ba00af9ac4913c7ad",
+    "sha256": "1983268bbedf8c434387f3542b3841c25ce11ead53293edae23e3b9f9809dea2",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-many-pages": {
@@ -21508,7 +21508,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_left_many_pages-fd52fee5.png",
-    "sha256": "7d2608cf27829ec8dea4de12081a1b21ecea29728ed0743fb137cc9a7e99077b",
+    "sha256": "68e38ac0a7050ee634cebb6889f72b432fc9d6325c03357c6fd09dcf693c8de9",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-many-pages-end": {
@@ -21516,7 +21516,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_left_many_pages_end-5029a899.png",
-    "sha256": "21f25d422e8cf218143212bc85cc9d5ce5a2aac274c7ee30d0eefb988d7cc556",
+    "sha256": "d894bdfb384849220367286d6a3180bdba7f0806462eaae135e0de577aada324",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-many-pages-middle": {
@@ -21524,7 +21524,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_left_many_pages_middle-e6791b92.png",
-    "sha256": "2e0f5c6b5bb1ce11d09848c7fd08cd1cd43df3b5fea0519ed42160a4163a2b99",
+    "sha256": "ffe4062d361a195dddd416788cc203c11afd53ec74c925b21e5db5d9cdf4a434",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-six-pages": {
@@ -21532,7 +21532,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_left_six_pages-c2e53741.png",
-    "sha256": "13291349c19a51341bc462bf796bee26dc1162bfd35fd34cb3a834e415b02e1e",
+    "sha256": "11c5a09a6517a8b5778795a22de5f2f069459ee63daaa33b81b8e49fdd8577fa",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-six-pages-end": {
@@ -21540,7 +21540,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_left_six_pages_end-3af2bd2f.png",
-    "sha256": "9644ff31ce76f8ae0a3ef382b9d17735736ae17b1620b141e3bb88b15aeafc89",
+    "sha256": "8942227b223b76b69a01cb8cb690a781eafe5ad70b565b1d728037f0fb2bf13d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-six-pages-middle": {
@@ -21548,7 +21548,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_left_six_pages_middle-89ab30cc.png",
-    "sha256": "4d92ef30a7143f67beaf1f8d98941d212d5ed867cd4658ce6bb274bcfca37c77",
+    "sha256": "a1eeec4737180ba021a6d839ccc200b6b1c72296fcfa092add53e3cf0ee7f977",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-three-pages": {
@@ -21556,7 +21556,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_left_three_pages-d0a75870.png",
-    "sha256": "bcfa9cf2d360844827fdc25c8a4e7a9712b95028f9a80952dfdbb938671dad05",
+    "sha256": "b3b87d9683ede9c034c3a47893b867e8e271a5fe600e613971986099a8695895",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-two-pages": {
@@ -21564,7 +21564,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_left_two_pages-56e3fcf9.png",
-    "sha256": "592d81358e484f28b66723187544534d52d7c41f8b8125c3aa0e42dcd055f17f",
+    "sha256": "fd7fb71457a2ec815afdb4a2024f45c55e5ed6f08ecace534e19cfb0e23d8e9f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_many-pages": {
@@ -21572,7 +21572,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_many_pages-18494252.png",
-    "sha256": "75ce192975d3e18062d317e0a7fc7cbcf43bd704a878acdd4d210a8879760cb6",
+    "sha256": "0aea73c982912c9bc16222a93cb3f77ea56c45f93dd09b485f542fb6d97436b3",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_many-pages-end": {
@@ -21580,7 +21580,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_many_pages_end-f812c503.png",
-    "sha256": "12df8f2a6b9419b0bbf7bae5647027e7af21a80c49f264dc65054391f4a814cf",
+    "sha256": "ef5425478947f4cfaf3b81fe823bfaf5b68e7d86a45e370afd91e41cd527964c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_many-pages-middle": {
@@ -21588,7 +21588,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_many_pages_middle-6ff3659e.png",
-    "sha256": "39a2e1ca21e4fedbc1d09e13587301d789939c55f3a456f434a378c61014884c",
+    "sha256": "e124e6e0e7e3fc6aed0ea206c23bf88d14c685804071835f7359563d985fec4b",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_six-pages": {
@@ -21596,7 +21596,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_six_pages-510bcf90.png",
-    "sha256": "b047d88e62e0ca031953eca1084c096290c6f06ee8dd50ebb1d3b95fe8b0cb8f",
+    "sha256": "316bb4abab4bba45c80679173054b12f0bd3d4808304105c9eacaef434e4ffdd",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_six-pages-end": {
@@ -21604,7 +21604,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_six_pages_end-e1ba747f.png",
-    "sha256": "bd966a9da75a40df2b0dcc9e02ec60007568f5c4af42e2f498571d7001443061",
+    "sha256": "9bd0d23812cfdac4f1802f074a535d1f501115cffaf1cf1d3bc607b264a97662",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_six-pages-middle": {
@@ -21612,7 +21612,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_six_pages_middle-15f67a75.png",
-    "sha256": "9c2425d330c535b5f5a5b315f8657f012cc5a8c363a2fd8d65b31cfb779380b5",
+    "sha256": "3d5565c5d353a233b151e69639264d72a4c1c897807392a7799b38df782390ef",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_three-pages": {
@@ -21620,7 +21620,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_three_pages-d70db623.png",
-    "sha256": "b6ae8c02bd350d9c79f605f0474d4e00776f8f499567eb85a4783cdf992f6323",
+    "sha256": "ced7551e9bc62f1660ae0bbef25b9550d6618067c48353d9063884dfa0cb037a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_two-pages": {
@@ -21628,7 +21628,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_225dp_VARIANT_two_pages-bb7b2526.png",
-    "sha256": "ddd7534461a329b7024a88a7887673e5234dc5923c13e2145d2edca0cc676a0a",
+    "sha256": "50fffa585fc1b3b87af3da5896ed9e6d50a1ff90620b26a07fccc8daf3b30a89",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp": {
@@ -21636,7 +21636,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp-55d37aef.png",
-    "sha256": "ec4739a1f80204f18b4e91f3555f062a6bcd0ef6ec0579af9bc14a74ef549cdc",
+    "sha256": "245ced191084a4962cf51d2729dbb884496e868636ade5b1307c250883bfdd68",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_five-pages": {
@@ -21644,7 +21644,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_five_pages-c681c94a.png",
-    "sha256": "152d60ec0a8888a8bd8fd5b35e11ab0823ed16306d9b5a1b6fdd20e4ee7d5705",
+    "sha256": "6d5c6e542d65d9219c74ecdaed864e5db836497bb4ec7d3e916fa89662000db1",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left": {
@@ -21652,7 +21652,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_left-9a3114f9.png",
-    "sha256": "564162ae19b0b1ea5b9963cdf5de84dacc8655297be415395b5c33a57e13552f",
+    "sha256": "9fb3a09903f8dbc45f2297b4e4232ac52d84fc8077613037fc8b36310e3eee21",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-five-pages": {
@@ -21660,7 +21660,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_left_five_pages-9c663d67.png",
-    "sha256": "6ad2db0a854beeafc8c665b8d20cdfe2164c3ce40348b67b856e08d9c058f57b",
+    "sha256": "dfff34d77652d0d32144a3d51a9e7f1b0101e9afd577176267fcba8d0e3fa14d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-many-pages": {
@@ -21668,7 +21668,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_left_many_pages-3459d287.png",
-    "sha256": "5bb1f2741b242514b97f4ab7cdb66514a20ed49a877a6fbf93cb7a3ef2f6c93e",
+    "sha256": "2c895768fab81658c0efe1632b06cfb5b173c81101ef8a2d3d51d1f96a46d916",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-many-pages-end": {
@@ -21676,7 +21676,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_left_many_pages_end-b2648576.png",
-    "sha256": "df6745cbddfe054a4320705964f5d51851e86d3e672b33d43de0d358a9dc4160",
+    "sha256": "c8e3534cf523a8669b10c6ba4c21f78f4e44731d3ce53b0090ec08d64f76ef1f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-many-pages-middle": {
@@ -21684,7 +21684,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_left_many_pages_middle-ec795983.png",
-    "sha256": "569e050f44ceca97e3135bcc650ec62184d11be32c7368684a23de39dfa8f556",
+    "sha256": "0ddf9556d817c318b89aed5bca9ed830c0109117c64d2470eaac1352baf2803b",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-six-pages": {
@@ -21692,7 +21692,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_left_six_pages-43b43992.png",
-    "sha256": "8e8b11c46d9f7ddf5f79e9527149434a4508256030886bc5dc8ab46512097d75",
+    "sha256": "5cb6b311deb0776b47508ee7a666bd4ed402b644e2f4c2d3d428960b9fdfa31d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-six-pages-end": {
@@ -21700,7 +21700,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_left_six_pages_end-bedd80be.png",
-    "sha256": "ebb0bfbb5ece32a05ee82f952b7695d8ce3202be81818d995deea66587e5fcad",
+    "sha256": "9b626e308ed57959438254840def92fd751199e290cebfc71b3fc05e8abe1558",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-six-pages-middle": {
@@ -21708,7 +21708,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_left_six_pages_middle-a3cde1f4.png",
-    "sha256": "74421503c72cdd6833925dc447d65589b0409077bce1f482a5d30b6ff6436f39",
+    "sha256": "afb3a7c7c4712d9562d429495886038cbcae9f47af458bd3a85e96deb82ea21d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-three-pages": {
@@ -21716,7 +21716,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_left_three_pages-c50d93c8.png",
-    "sha256": "f8fd8bfd39a71e40333772575cec00ba36d02cd28032b19f0d43baa99140d112",
+    "sha256": "efbed4e28deabaa9653dcba15ac3cca385596553827a7235253da8c74a55287f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-two-pages": {
@@ -21724,7 +21724,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_left_two_pages-6142d6ea.png",
-    "sha256": "d30afb48aea7aa127a7224d65ca2d0bfb22c0ecb59604dad265d9aa1c97fd616",
+    "sha256": "55d8b5634adaccdfceb778c3f995f9358f1efe65f09f2bfdd2fedbe3a43408d0",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_many-pages": {
@@ -21732,7 +21732,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_many_pages-538ea99c.png",
-    "sha256": "c060254051f00040406f8869a5efcdde1d93496b5a8a98c912dcd487ebf65e0d",
+    "sha256": "9888b22af80717a20a38ca7dbeef4a4c395f0b6d1f7541c204388e44afc70f3a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_many-pages-end": {
@@ -21740,7 +21740,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_many_pages_end-1345c88a.png",
-    "sha256": "49c775ced814d33cdf58f4a83b73c5b4957fe2a256bc807c1fda04a2b8229ead",
+    "sha256": "533a3d06ce27fdfdc07e1bf1506ca1b588406c56a229a476ccae4d52943eac5d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_many-pages-middle": {
@@ -21748,7 +21748,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_many_pages_middle-e605cb12.png",
-    "sha256": "077d6aea57c4bdb001ee229c7ba1c920a9570c445adb2df27cc94a895c9ecd72",
+    "sha256": "b48daa69751200dbde3bbd5645e74ddf4a977c53cb42f43d7140e7816305fa83",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_six-pages": {
@@ -21756,7 +21756,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_six_pages-15401d49.png",
-    "sha256": "3f0e21692c3d32f4f5a162796e8e7d1f911f9e3d41beb62dd4a6293918322269",
+    "sha256": "6d74380be6051264f4c7968d5617aab88f9fc94f6f8261ae70c36fb32df5c3ed",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_six-pages-end": {
@@ -21764,7 +21764,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_six_pages_end-1b1f160e.png",
-    "sha256": "419fd4ebb81ed2042c85c3a80ee3642a48a24eb8506fd7ad25a71626ba9dddb1",
+    "sha256": "c48faa177b1354f36c2e9c84ee961cee5095594d66bb1336516df3c47557b361",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_six-pages-middle": {
@@ -21772,7 +21772,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_six_pages_middle-a11314c3.png",
-    "sha256": "d27a8f983d45c0f940f4cc5a24c9116eac017732cffa5cafebc9f22d25e36368",
+    "sha256": "91879b0f1806b68667b53cf0a949de118322095372ba68833c64363ddcc688e9",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_three-pages": {
@@ -21780,7 +21780,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_three_pages-f82fdbb8.png",
-    "sha256": "53834a2708cc985651e3d87f98c18e3380dcd580a239c746d2f7f678233bb8e1",
+    "sha256": "6155110a68d0ff0ee1f2d5ce75cf0b7378e2d7b27c33f907987e7f60b8e07d69",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_two-pages": {
@@ -21788,7 +21788,7 @@
     "functionName": "VerticalPageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "VerticalPageIndicatorRemote_240dp_VARIANT_two_pages-4377d4e0.png",
-    "sha256": "b6b7d62add5ee2406efe09c8640912faee7278871cdc328b0dfb8dfeff16cb09",
+    "sha256": "b10cebc897b1617ec3a0e95e2993823187b4c7fe1978823db8259709084cd490",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.DensityProbePreviewsKt.DensityProbeLiteralDp_width=227dp,height=100dp,dpi=320": {
@@ -22452,7 +22452,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_disabled-7b7b2cb7.png",
-    "sha256": "64b5fc148a1508a237da3c024526f9c9812d8787b4e80649928424ab84e06f6e",
+    "sha256": "6d23ac396563d72e8052b4df11eb2d30c26ca46ab000e6839deaaf460b39db45",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-icon-extra-large": {
@@ -22468,7 +22468,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_icon_extra_la-f44126c3.png",
-    "sha256": "e50c7e73b54566bd553e116e4b08e510d3cbee9cf96e987705a5db2e20468394",
+    "sha256": "37b6ba221e46472a5da90114c1f254c57b6733aab7d73a35dbeacd9f1f7eb0cb",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-icon-large": {
@@ -22484,7 +22484,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_icon_large_di-0cd04ab0.png",
-    "sha256": "e73bed6edde151eab50b0f685d5020bb16799cbf3e96312b712f45f02322d91e",
+    "sha256": "3f778769dd5eb8b432140b70e9d0f4e5687a6c5cfbb9bc4f4c464ceba06d67a8",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -23940,7 +23940,7 @@
     "functionName": "WidgetContainerGradientRemote",
     "module": "remote-catalog",
     "renderBasename": "WidgetContainerGradientRemote-48a21be7.png",
-    "sha256": "da43f9331aa6d38f1b7f957b832b138e63c11759744027511d320c2a535b2d6a",
+    "sha256": "26e33fa293c819bd65cf1bfe2c32ecb06d0a1f5868ebb975fecd47fd702bb1b3",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/WidgetContainerPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.WidgetContainerPreviewsKt.WidgetContainerLargeRemote": {
@@ -23948,7 +23948,7 @@
     "functionName": "WidgetContainerLargeRemote",
     "module": "remote-catalog",
     "renderBasename": "WidgetContainerLargeRemote-64343fde.png",
-    "sha256": "88aca2d038c563ad92020c26b575efc73c4e3ff6af60363869372fdd05b6a1c2",
+    "sha256": "8ea071ec80a0be69329f60a739a7c7257b1ec7b9df20b16cfcf47e18aa6de4a0",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/WidgetContainerPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.WidgetContainerPreviewsKt.WidgetContainerRoundLargeRemote": {
@@ -23956,7 +23956,7 @@
     "functionName": "WidgetContainerRoundLargeRemote",
     "module": "remote-catalog",
     "renderBasename": "WidgetContainerRoundLargeRemote-e48f0c26.png",
-    "sha256": "68bca6b0f5419e551d5f34668dc0aad9bbe891eca383baf85cf1ad8fe5407f46",
+    "sha256": "21231c3eb297ff00849fca1e9c9373549f526498a8c5e3cf9db8968de72dd6fb",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/WidgetContainerPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.WidgetContainerPreviewsKt.WidgetContainerRoundSmallRemote": {
@@ -23964,7 +23964,7 @@
     "functionName": "WidgetContainerRoundSmallRemote",
     "module": "remote-catalog",
     "renderBasename": "WidgetContainerRoundSmallRemote-88666b16.png",
-    "sha256": "66b7e51c21988169d984b55a5535db86117458dbd8eaf93619cb0671ca5abf24",
+    "sha256": "81e0b0c345c598bc4b10055b42b53e115d9fdb81b8d6508dceacd8eb24cc5503",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/WidgetContainerPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.WidgetContainerPreviewsKt.WidgetContainerSmallRemote": {
@@ -23972,7 +23972,7 @@
     "functionName": "WidgetContainerSmallRemote",
     "module": "remote-catalog",
     "renderBasename": "WidgetContainerSmallRemote-8c4118e7.png",
-    "sha256": "c9191800363204b8c5a81c6af1010d09331cf7e529e8644c9c0569e7c37a8c91",
+    "sha256": "a79ef0bd226e2abb0508ebe34950d3d1c06194f3b5822c8f6b8de5a5f43c2af5",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/WidgetContainerPreviews.kt"
   },
   "remote-catalog/wearthemecatalog__AndroidMakers": {
