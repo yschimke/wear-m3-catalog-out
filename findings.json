@@ -2745,17 +2745,17 @@
               "dw": "0",
               "dh": "-94",
               "borderPixels": "42676",
-              "contentPixels": "11036"
+              "contentPixels": "3098"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-disabled: 59.2% of pixels differ from reference",
+            "message": "child-disabled: 50.4% of pixels differ from reference",
             "detail": {
               "key": "child-disabled",
-              "score": "0.591542",
-              "diffPixels": "53712"
+              "score": "0.504119",
+              "diffPixels": "45774"
             }
           },
           {
@@ -2800,17 +2800,17 @@
               "dw": "0",
               "dh": "79",
               "borderPixels": "35866",
-              "contentPixels": "8361"
+              "contentPixels": "3752"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-icon-only-disabled: 34.9% of pixels differ from reference",
+            "message": "child-icon-only-disabled: 31.3% of pixels differ from reference",
             "detail": {
               "key": "child-icon-only-disabled",
-              "score": "0.349162",
-              "diffPixels": "44227"
+              "score": "0.312775",
+              "diffPixels": "39618"
             }
           },
           {
@@ -2855,17 +2855,17 @@
               "dw": "0",
               "dh": "-67",
               "borderPixels": "30418",
-              "contentPixels": "14101"
+              "contentPixels": "4354"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-text-only-disabled: 49.0% of pixels differ from reference",
+            "message": "child-text-only-disabled: 38.3% of pixels differ from reference",
             "detail": {
               "key": "child-text-only-disabled",
-              "score": "0.490297",
-              "diffPixels": "44519"
+              "score": "0.382952",
+              "diffPixels": "34772"
             }
           },
           {
@@ -3894,17 +3894,17 @@
               "dw": "0",
               "dh": "-94",
               "borderPixels": "42676",
-              "contentPixels": "11036"
+              "contentPixels": "3098"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-disabled: 59.2% of pixels differ from reference",
+            "message": "child-disabled: 50.4% of pixels differ from reference",
             "detail": {
               "key": "child-disabled",
-              "score": "0.591542",
-              "diffPixels": "53712"
+              "score": "0.504119",
+              "diffPixels": "45774"
             }
           },
           {
@@ -3949,17 +3949,17 @@
               "dw": "0",
               "dh": "79",
               "borderPixels": "35866",
-              "contentPixels": "8361"
+              "contentPixels": "3752"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-icon-only-disabled: 34.9% of pixels differ from reference",
+            "message": "child-icon-only-disabled: 31.3% of pixels differ from reference",
             "detail": {
               "key": "child-icon-only-disabled",
-              "score": "0.349162",
-              "diffPixels": "44227"
+              "score": "0.312775",
+              "diffPixels": "39618"
             }
           },
           {
@@ -4004,17 +4004,17 @@
               "dw": "0",
               "dh": "-67",
               "borderPixels": "30418",
-              "contentPixels": "14101"
+              "contentPixels": "4354"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-text-only-disabled: 49.0% of pixels differ from reference",
+            "message": "child-text-only-disabled: 38.3% of pixels differ from reference",
             "detail": {
               "key": "child-text-only-disabled",
-              "score": "0.490297",
-              "diffPixels": "44519"
+              "score": "0.382952",
+              "diffPixels": "34772"
             }
           },
           {
@@ -10810,17 +10810,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "27366"
+              "contentPixels": "2566"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 61.6% of pixels differ from reference",
+            "message": "disabled: 34.3% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.616388",
-              "diffPixels": "55968"
+              "score": "0.34326",
+              "diffPixels": "31168"
             }
           },
           {
@@ -10865,17 +10865,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "24998"
+              "contentPixels": "5302"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-disabled: 59.0% of pixels differ from reference",
+            "message": "icon-disabled: 37.3% of pixels differ from reference",
             "detail": {
               "key": "icon-disabled",
-              "score": "0.590308",
-              "diffPixels": "53600"
+              "score": "0.373392",
+              "diffPixels": "33904"
             }
           },
           {
@@ -10920,17 +10920,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "26928"
+              "contentPixels": "5874"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-extra-large-disabled: 61.2% of pixels differ from reference",
+            "message": "icon-extra-large-disabled: 38.0% of pixels differ from reference",
             "detail": {
               "key": "icon-extra-large-disabled",
-              "score": "0.611564",
-              "diffPixels": "55530"
+              "score": "0.379692",
+              "diffPixels": "34476"
             }
           },
           {
@@ -10975,17 +10975,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "26030"
+              "contentPixels": "5514"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-large-disabled: 60.2% of pixels differ from reference",
+            "message": "icon-large-disabled: 37.6% of pixels differ from reference",
             "detail": {
               "key": "icon-large-disabled",
-              "score": "0.601674",
-              "diffPixels": "54632"
+              "score": "0.375727",
+              "diffPixels": "34116"
             }
           },
           {
@@ -11030,17 +11030,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "28682"
+              "contentPixels": "4012"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-disabled: 63.1% of pixels differ from reference",
+            "message": "left-disabled: 35.9% of pixels differ from reference",
             "detail": {
               "key": "left-disabled",
-              "score": "0.630881",
-              "diffPixels": "57284"
+              "score": "0.359185",
+              "diffPixels": "32614"
             }
           }
         ]
@@ -11379,17 +11379,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "27366"
+              "contentPixels": "2566"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 61.6% of pixels differ from reference",
+            "message": "disabled: 34.3% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.616388",
-              "diffPixels": "55968"
+              "score": "0.34326",
+              "diffPixels": "31168"
             }
           },
           {
@@ -11434,17 +11434,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "24998"
+              "contentPixels": "5302"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-disabled: 59.0% of pixels differ from reference",
+            "message": "icon-disabled: 37.3% of pixels differ from reference",
             "detail": {
               "key": "icon-disabled",
-              "score": "0.590308",
-              "diffPixels": "53600"
+              "score": "0.373392",
+              "diffPixels": "33904"
             }
           },
           {
@@ -11489,17 +11489,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "26928"
+              "contentPixels": "5874"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-extra-large-disabled: 61.2% of pixels differ from reference",
+            "message": "icon-extra-large-disabled: 38.0% of pixels differ from reference",
             "detail": {
               "key": "icon-extra-large-disabled",
-              "score": "0.611564",
-              "diffPixels": "55530"
+              "score": "0.379692",
+              "diffPixels": "34476"
             }
           },
           {
@@ -11544,17 +11544,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "26030"
+              "contentPixels": "5514"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-large-disabled: 60.2% of pixels differ from reference",
+            "message": "icon-large-disabled: 37.6% of pixels differ from reference",
             "detail": {
               "key": "icon-large-disabled",
-              "score": "0.601674",
-              "diffPixels": "54632"
+              "score": "0.375727",
+              "diffPixels": "34116"
             }
           },
           {
@@ -11599,17 +11599,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "28682"
+              "contentPixels": "4012"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-disabled: 63.1% of pixels differ from reference",
+            "message": "left-disabled: 35.9% of pixels differ from reference",
             "detail": {
               "key": "left-disabled",
-              "score": "0.630881",
-              "diffPixels": "57284"
+              "score": "0.359185",
+              "diffPixels": "32614"
             }
           }
         ]
@@ -14189,101 +14189,101 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 1.1% of pixels differ from reference",
+            "message": "default: 0.3% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.01119",
-              "diffPixels": "1650"
+              "score": "0.002774",
+              "diffPixels": "409"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "five-pages: 1.4% of pixels differ from reference",
+            "message": "five-pages: 0.3% of pixels differ from reference",
             "detail": {
               "key": "five-pages",
-              "score": "0.013835",
-              "diffPixels": "2040"
+              "score": "0.003113",
+              "diffPixels": "459"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "many-pages: 1.7% of pixels differ from reference",
+            "message": "many-pages: 0.4% of pixels differ from reference",
             "detail": {
               "key": "many-pages",
-              "score": "0.017131",
-              "diffPixels": "2526"
+              "score": "0.004361",
+              "diffPixels": "643"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "many-pages-end: 1.7% of pixels differ from reference",
+            "message": "many-pages-end: 0.4% of pixels differ from reference",
             "detail": {
               "key": "many-pages-end",
-              "score": "0.017103",
-              "diffPixels": "2522"
+              "score": "0.004347",
+              "diffPixels": "641"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "many-pages-middle: 1.7% of pixels differ from reference",
+            "message": "many-pages-middle: 0.4% of pixels differ from reference",
             "detail": {
               "key": "many-pages-middle",
-              "score": "0.016988",
-              "diffPixels": "2505"
+              "score": "0.003974",
+              "diffPixels": "586"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "six-pages: 1.7% of pixels differ from reference",
+            "message": "six-pages: 0.5% of pixels differ from reference",
             "detail": {
               "key": "six-pages",
-              "score": "0.017049",
-              "diffPixels": "2514"
+              "score": "0.004612",
+              "diffPixels": "680"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "six-pages-end: 1.7% of pixels differ from reference",
+            "message": "six-pages-end: 0.5% of pixels differ from reference",
             "detail": {
               "key": "six-pages-end",
-              "score": "0.017036",
-              "diffPixels": "2512"
+              "score": "0.004612",
+              "diffPixels": "680"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "six-pages-middle: 1.7% of pixels differ from reference",
+            "message": "six-pages-middle: 0.5% of pixels differ from reference",
             "detail": {
               "key": "six-pages-middle",
-              "score": "0.017042",
-              "diffPixels": "2513"
+              "score": "0.004605",
+              "diffPixels": "679"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "three-pages: 0.8% of pixels differ from reference",
+            "message": "three-pages: 0.2% of pixels differ from reference",
             "detail": {
               "key": "three-pages",
-              "score": "0.007887",
-              "diffPixels": "1163"
+              "score": "0.001702",
+              "diffPixels": "251"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "two-pages: 0.5% of pixels differ from reference",
+            "message": "two-pages: 0.1% of pixels differ from reference",
             "detail": {
               "key": "two-pages",
-              "score": "0.005412",
-              "diffPixels": "798"
+              "score": "0.001173",
+              "diffPixels": "173"
             }
           }
         ]
@@ -14353,101 +14353,101 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 1.1% of pixels differ from reference",
+            "message": "default: 0.3% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.01119",
-              "diffPixels": "1650"
+              "score": "0.002774",
+              "diffPixels": "409"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "five-pages: 1.4% of pixels differ from reference",
+            "message": "five-pages: 0.3% of pixels differ from reference",
             "detail": {
               "key": "five-pages",
-              "score": "0.013835",
-              "diffPixels": "2040"
+              "score": "0.003113",
+              "diffPixels": "459"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "many-pages: 1.7% of pixels differ from reference",
+            "message": "many-pages: 0.4% of pixels differ from reference",
             "detail": {
               "key": "many-pages",
-              "score": "0.017131",
-              "diffPixels": "2526"
+              "score": "0.004361",
+              "diffPixels": "643"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "many-pages-end: 1.7% of pixels differ from reference",
+            "message": "many-pages-end: 0.4% of pixels differ from reference",
             "detail": {
               "key": "many-pages-end",
-              "score": "0.017103",
-              "diffPixels": "2522"
+              "score": "0.004347",
+              "diffPixels": "641"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "many-pages-middle: 1.7% of pixels differ from reference",
+            "message": "many-pages-middle: 0.4% of pixels differ from reference",
             "detail": {
               "key": "many-pages-middle",
-              "score": "0.016988",
-              "diffPixels": "2505"
+              "score": "0.003974",
+              "diffPixels": "586"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "six-pages: 1.7% of pixels differ from reference",
+            "message": "six-pages: 0.5% of pixels differ from reference",
             "detail": {
               "key": "six-pages",
-              "score": "0.017049",
-              "diffPixels": "2514"
+              "score": "0.004612",
+              "diffPixels": "680"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "six-pages-end: 1.7% of pixels differ from reference",
+            "message": "six-pages-end: 0.5% of pixels differ from reference",
             "detail": {
               "key": "six-pages-end",
-              "score": "0.017036",
-              "diffPixels": "2512"
+              "score": "0.004612",
+              "diffPixels": "680"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "six-pages-middle: 1.7% of pixels differ from reference",
+            "message": "six-pages-middle: 0.5% of pixels differ from reference",
             "detail": {
               "key": "six-pages-middle",
-              "score": "0.017042",
-              "diffPixels": "2513"
+              "score": "0.004605",
+              "diffPixels": "679"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "three-pages: 0.8% of pixels differ from reference",
+            "message": "three-pages: 0.2% of pixels differ from reference",
             "detail": {
               "key": "three-pages",
-              "score": "0.007887",
-              "diffPixels": "1163"
+              "score": "0.001702",
+              "diffPixels": "251"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "two-pages: 0.5% of pixels differ from reference",
+            "message": "two-pages: 0.1% of pixels differ from reference",
             "detail": {
               "key": "two-pages",
-              "score": "0.005412",
-              "diffPixels": "798"
+              "score": "0.001173",
+              "diffPixels": "173"
             }
           }
         ]
@@ -14753,7 +14753,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "55984"
+              "contentPixels": "49391"
             }
           },
           {
@@ -14762,19 +14762,19 @@
             "message": "default: 46.4% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "default",
-              "alphaLossRatio": "0.464082",
-              "alphaLossPixels": "28865",
+              "alphaLossRatio": "0.463809",
+              "alphaLossPixels": "28848",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 93.2% of pixels differ from reference",
+            "message": "default: 85.9% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.931564",
-              "diffPixels": "84586"
+              "score": "0.858954",
+              "diffPixels": "77993"
             }
           },
           {
@@ -14786,17 +14786,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "56060"
+              "contentPixels": "53258"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 93.2% of pixels differ from reference",
+            "message": "disabled: 90.2% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.932401",
-              "diffPixels": "84662"
+              "score": "0.901542",
+              "diffPixels": "81860"
             }
           },
           {
@@ -14808,7 +14808,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "54065"
+              "contentPixels": "49220"
             }
           },
           {
@@ -14817,19 +14817,19 @@
             "message": "secondary-label: 46.4% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "secondary-label",
-              "alphaLossRatio": "0.464082",
-              "alphaLossPixels": "28865",
+              "alphaLossRatio": "0.463809",
+              "alphaLossPixels": "28848",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "secondary-label: 91.0% of pixels differ from reference",
+            "message": "secondary-label: 85.7% of pixels differ from reference",
             "detail": {
               "key": "secondary-label",
-              "score": "0.91043",
-              "diffPixels": "82667"
+              "score": "0.85707",
+              "diffPixels": "77822"
             }
           },
           {
@@ -14841,17 +14841,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "54312"
+              "contentPixels": "52689"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "secondary-label-disabled: 91.3% of pixels differ from reference",
+            "message": "secondary-label-disabled: 89.5% of pixels differ from reference",
             "detail": {
               "key": "secondary-label-disabled",
-              "score": "0.91315",
-              "diffPixels": "82914"
+              "score": "0.895275",
+              "diffPixels": "81291"
             }
           }
         ]
@@ -15157,7 +15157,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "55984"
+              "contentPixels": "49391"
             }
           },
           {
@@ -15166,19 +15166,19 @@
             "message": "default: 46.4% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "default",
-              "alphaLossRatio": "0.464082",
-              "alphaLossPixels": "28865",
+              "alphaLossRatio": "0.463809",
+              "alphaLossPixels": "28848",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 93.2% of pixels differ from reference",
+            "message": "default: 85.9% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.931564",
-              "diffPixels": "84586"
+              "score": "0.858954",
+              "diffPixels": "77993"
             }
           },
           {
@@ -15190,17 +15190,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "56060"
+              "contentPixels": "53258"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 93.2% of pixels differ from reference",
+            "message": "disabled: 90.2% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.932401",
-              "diffPixels": "84662"
+              "score": "0.901542",
+              "diffPixels": "81860"
             }
           },
           {
@@ -15212,7 +15212,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "54065"
+              "contentPixels": "49220"
             }
           },
           {
@@ -15221,19 +15221,19 @@
             "message": "secondary-label: 46.4% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "secondary-label",
-              "alphaLossRatio": "0.464082",
-              "alphaLossPixels": "28865",
+              "alphaLossRatio": "0.463809",
+              "alphaLossPixels": "28848",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "secondary-label: 91.0% of pixels differ from reference",
+            "message": "secondary-label: 85.7% of pixels differ from reference",
             "detail": {
               "key": "secondary-label",
-              "score": "0.91043",
-              "diffPixels": "82667"
+              "score": "0.85707",
+              "diffPixels": "77822"
             }
           },
           {
@@ -15245,17 +15245,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "54312"
+              "contentPixels": "52689"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "secondary-label-disabled: 91.3% of pixels differ from reference",
+            "message": "secondary-label-disabled: 89.5% of pixels differ from reference",
             "detail": {
               "key": "secondary-label-disabled",
-              "score": "0.91315",
-              "diffPixels": "82914"
+              "score": "0.895275",
+              "diffPixels": "81291"
             }
           }
         ]
@@ -17775,201 +17775,201 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 1.1% of pixels differ from reference",
+            "message": "default: 0.3% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.01123",
-              "diffPixels": "1656"
+              "score": "0.00276",
+              "diffPixels": "407"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "five-pages: 1.4% of pixels differ from reference",
+            "message": "five-pages: 0.3% of pixels differ from reference",
             "detail": {
               "key": "five-pages",
-              "score": "0.013882",
-              "diffPixels": "2047"
+              "score": "0.003133",
+              "diffPixels": "462"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left: 1.1% of pixels differ from reference",
+            "message": "left: 0.3% of pixels differ from reference",
             "detail": {
               "key": "left",
-              "score": "0.011258",
-              "diffPixels": "1660"
+              "score": "0.002787",
+              "diffPixels": "411"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-five-pages: 1.4% of pixels differ from reference",
+            "message": "left-five-pages: 0.3% of pixels differ from reference",
             "detail": {
               "key": "left-five-pages",
-              "score": "0.013875",
-              "diffPixels": "2046"
+              "score": "0.003126",
+              "diffPixels": "461"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-many-pages: 1.7% of pixels differ from reference",
+            "message": "left-many-pages: 0.4% of pixels differ from reference",
             "detail": {
               "key": "left-many-pages",
-              "score": "0.017137",
-              "diffPixels": "2527"
+              "score": "0.004483",
+              "diffPixels": "661"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-many-pages-end: 1.7% of pixels differ from reference",
+            "message": "left-many-pages-end: 0.5% of pixels differ from reference",
             "detail": {
               "key": "left-many-pages-end",
-              "score": "0.017164",
-              "diffPixels": "2531"
+              "score": "0.00451",
+              "diffPixels": "665"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-many-pages-middle: 1.7% of pixels differ from reference",
+            "message": "left-many-pages-middle: 0.4% of pixels differ from reference",
             "detail": {
               "key": "left-many-pages-middle",
-              "score": "0.017029",
-              "diffPixels": "2511"
+              "score": "0.004103",
+              "diffPixels": "605"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-six-pages: 1.7% of pixels differ from reference",
+            "message": "left-six-pages: 0.5% of pixels differ from reference",
             "detail": {
               "key": "left-six-pages",
-              "score": "0.017069",
-              "diffPixels": "2517"
+              "score": "0.004761",
+              "diffPixels": "702"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-six-pages-end: 1.7% of pixels differ from reference",
+            "message": "left-six-pages-end: 0.5% of pixels differ from reference",
             "detail": {
               "key": "left-six-pages-end",
-              "score": "0.01709",
-              "diffPixels": "2520"
+              "score": "0.004781",
+              "diffPixels": "705"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-six-pages-middle: 1.7% of pixels differ from reference",
+            "message": "left-six-pages-middle: 0.5% of pixels differ from reference",
             "detail": {
               "key": "left-six-pages-middle",
-              "score": "0.017056",
-              "diffPixels": "2515"
+              "score": "0.004747",
+              "diffPixels": "700"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-three-pages: 0.8% of pixels differ from reference",
+            "message": "left-three-pages: 0.2% of pixels differ from reference",
             "detail": {
               "key": "left-three-pages",
-              "score": "0.007941",
-              "diffPixels": "1171"
+              "score": "0.001702",
+              "diffPixels": "251"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-two-pages: 0.5% of pixels differ from reference",
+            "message": "left-two-pages: 0.1% of pixels differ from reference",
             "detail": {
               "key": "left-two-pages",
-              "score": "0.005412",
-              "diffPixels": "798"
+              "score": "0.0012",
+              "diffPixels": "177"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "many-pages: 1.7% of pixels differ from reference",
+            "message": "many-pages: 0.4% of pixels differ from reference",
             "detail": {
               "key": "many-pages",
-              "score": "0.017151",
-              "diffPixels": "2529"
+              "score": "0.004476",
+              "diffPixels": "660"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "many-pages-end: 1.7% of pixels differ from reference",
+            "message": "many-pages-end: 0.4% of pixels differ from reference",
             "detail": {
               "key": "many-pages-end",
-              "score": "0.017151",
-              "diffPixels": "2529"
+              "score": "0.004496",
+              "diffPixels": "663"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "many-pages-middle: 1.7% of pixels differ from reference",
+            "message": "many-pages-middle: 0.4% of pixels differ from reference",
             "detail": {
               "key": "many-pages-middle",
-              "score": "0.017029",
-              "diffPixels": "2511"
+              "score": "0.004089",
+              "diffPixels": "603"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "six-pages: 1.7% of pixels differ from reference",
+            "message": "six-pages: 0.5% of pixels differ from reference",
             "detail": {
               "key": "six-pages",
-              "score": "0.017076",
-              "diffPixels": "2518"
+              "score": "0.00474",
+              "diffPixels": "699"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "six-pages-end: 1.7% of pixels differ from reference",
+            "message": "six-pages-end: 0.5% of pixels differ from reference",
             "detail": {
               "key": "six-pages-end",
-              "score": "0.017069",
-              "diffPixels": "2517"
+              "score": "0.004761",
+              "diffPixels": "702"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "six-pages-middle: 1.7% of pixels differ from reference",
+            "message": "six-pages-middle: 0.5% of pixels differ from reference",
             "detail": {
               "key": "six-pages-middle",
-              "score": "0.017056",
-              "diffPixels": "2515"
+              "score": "0.004727",
+              "diffPixels": "697"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "three-pages: 0.8% of pixels differ from reference",
+            "message": "three-pages: 0.2% of pixels differ from reference",
             "detail": {
               "key": "three-pages",
-              "score": "0.007948",
-              "diffPixels": "1172"
+              "score": "0.001709",
+              "diffPixels": "252"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "two-pages: 0.5% of pixels differ from reference",
+            "message": "two-pages: 0.1% of pixels differ from reference",
             "detail": {
               "key": "two-pages",
-              "score": "0.005412",
-              "diffPixels": "798"
+              "score": "0.001194",
+              "diffPixels": "176"
             }
           }
         ]
@@ -18039,201 +18039,201 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 1.1% of pixels differ from reference",
+            "message": "default: 0.3% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.01123",
-              "diffPixels": "1656"
+              "score": "0.00276",
+              "diffPixels": "407"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "five-pages: 1.4% of pixels differ from reference",
+            "message": "five-pages: 0.3% of pixels differ from reference",
             "detail": {
               "key": "five-pages",
-              "score": "0.013882",
-              "diffPixels": "2047"
+              "score": "0.003133",
+              "diffPixels": "462"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left: 1.1% of pixels differ from reference",
+            "message": "left: 0.3% of pixels differ from reference",
             "detail": {
               "key": "left",
-              "score": "0.011258",
-              "diffPixels": "1660"
+              "score": "0.002787",
+              "diffPixels": "411"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-five-pages: 1.4% of pixels differ from reference",
+            "message": "left-five-pages: 0.3% of pixels differ from reference",
             "detail": {
               "key": "left-five-pages",
-              "score": "0.013875",
-              "diffPixels": "2046"
+              "score": "0.003126",
+              "diffPixels": "461"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-many-pages: 1.7% of pixels differ from reference",
+            "message": "left-many-pages: 0.4% of pixels differ from reference",
             "detail": {
               "key": "left-many-pages",
-              "score": "0.017137",
-              "diffPixels": "2527"
+              "score": "0.004483",
+              "diffPixels": "661"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-many-pages-end: 1.7% of pixels differ from reference",
+            "message": "left-many-pages-end: 0.5% of pixels differ from reference",
             "detail": {
               "key": "left-many-pages-end",
-              "score": "0.017164",
-              "diffPixels": "2531"
+              "score": "0.00451",
+              "diffPixels": "665"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-many-pages-middle: 1.7% of pixels differ from reference",
+            "message": "left-many-pages-middle: 0.4% of pixels differ from reference",
             "detail": {
               "key": "left-many-pages-middle",
-              "score": "0.017029",
-              "diffPixels": "2511"
+              "score": "0.004103",
+              "diffPixels": "605"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-six-pages: 1.7% of pixels differ from reference",
+            "message": "left-six-pages: 0.5% of pixels differ from reference",
             "detail": {
               "key": "left-six-pages",
-              "score": "0.017069",
-              "diffPixels": "2517"
+              "score": "0.004761",
+              "diffPixels": "702"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-six-pages-end: 1.7% of pixels differ from reference",
+            "message": "left-six-pages-end: 0.5% of pixels differ from reference",
             "detail": {
               "key": "left-six-pages-end",
-              "score": "0.01709",
-              "diffPixels": "2520"
+              "score": "0.004781",
+              "diffPixels": "705"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-six-pages-middle: 1.7% of pixels differ from reference",
+            "message": "left-six-pages-middle: 0.5% of pixels differ from reference",
             "detail": {
               "key": "left-six-pages-middle",
-              "score": "0.017056",
-              "diffPixels": "2515"
+              "score": "0.004747",
+              "diffPixels": "700"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-three-pages: 0.8% of pixels differ from reference",
+            "message": "left-three-pages: 0.2% of pixels differ from reference",
             "detail": {
               "key": "left-three-pages",
-              "score": "0.007941",
-              "diffPixels": "1171"
+              "score": "0.001702",
+              "diffPixels": "251"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "left-two-pages: 0.5% of pixels differ from reference",
+            "message": "left-two-pages: 0.1% of pixels differ from reference",
             "detail": {
               "key": "left-two-pages",
-              "score": "0.005412",
-              "diffPixels": "798"
+              "score": "0.0012",
+              "diffPixels": "177"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "many-pages: 1.7% of pixels differ from reference",
+            "message": "many-pages: 0.4% of pixels differ from reference",
             "detail": {
               "key": "many-pages",
-              "score": "0.017151",
-              "diffPixels": "2529"
+              "score": "0.004476",
+              "diffPixels": "660"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "many-pages-end: 1.7% of pixels differ from reference",
+            "message": "many-pages-end: 0.4% of pixels differ from reference",
             "detail": {
               "key": "many-pages-end",
-              "score": "0.017151",
-              "diffPixels": "2529"
+              "score": "0.004496",
+              "diffPixels": "663"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "many-pages-middle: 1.7% of pixels differ from reference",
+            "message": "many-pages-middle: 0.4% of pixels differ from reference",
             "detail": {
               "key": "many-pages-middle",
-              "score": "0.017029",
-              "diffPixels": "2511"
+              "score": "0.004089",
+              "diffPixels": "603"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "six-pages: 1.7% of pixels differ from reference",
+            "message": "six-pages: 0.5% of pixels differ from reference",
             "detail": {
               "key": "six-pages",
-              "score": "0.017076",
-              "diffPixels": "2518"
+              "score": "0.00474",
+              "diffPixels": "699"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "six-pages-end: 1.7% of pixels differ from reference",
+            "message": "six-pages-end: 0.5% of pixels differ from reference",
             "detail": {
               "key": "six-pages-end",
-              "score": "0.017069",
-              "diffPixels": "2517"
+              "score": "0.004761",
+              "diffPixels": "702"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "six-pages-middle: 1.7% of pixels differ from reference",
+            "message": "six-pages-middle: 0.5% of pixels differ from reference",
             "detail": {
               "key": "six-pages-middle",
-              "score": "0.017056",
-              "diffPixels": "2515"
+              "score": "0.004727",
+              "diffPixels": "697"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "three-pages: 0.8% of pixels differ from reference",
+            "message": "three-pages: 0.2% of pixels differ from reference",
             "detail": {
               "key": "three-pages",
-              "score": "0.007948",
-              "diffPixels": "1172"
+              "score": "0.001709",
+              "diffPixels": "252"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "two-pages: 0.5% of pixels differ from reference",
+            "message": "two-pages: 0.1% of pixels differ from reference",
             "detail": {
               "key": "two-pages",
-              "score": "0.005412",
-              "diffPixels": "798"
+              "score": "0.001194",
+              "diffPixels": "176"
             }
           }
         ]
@@ -19595,17 +19595,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "27595"
+              "contentPixels": "7369"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-disabled: 61.9% of pixels differ from reference",
+            "message": "child-disabled: 39.6% of pixels differ from reference",
             "detail": {
               "key": "child-disabled",
-              "score": "0.61891",
-              "diffPixels": "56197"
+              "score": "0.396156",
+              "diffPixels": "35971"
             }
           },
           {
@@ -19650,17 +19650,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "29175"
+              "contentPixels": "10466"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-icon-extra-large-disabled: 63.6% of pixels differ from reference",
+            "message": "child-icon-extra-large-disabled: 43.0% of pixels differ from reference",
             "detail": {
               "key": "child-icon-extra-large-disabled",
-              "score": "0.636311",
-              "diffPixels": "57777"
+              "score": "0.430264",
+              "diffPixels": "39068"
             }
           },
           {
@@ -19705,17 +19705,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "28177"
+              "contentPixels": "8894"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-icon-large-disabled: 62.5% of pixels differ from reference",
+            "message": "child-icon-large-disabled: 41.3% of pixels differ from reference",
             "detail": {
               "key": "child-icon-large-disabled",
-              "score": "0.625319",
-              "diffPixels": "56779"
+              "score": "0.412952",
+              "diffPixels": "37496"
             }
           },
           {
@@ -20448,17 +20448,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "27595"
+              "contentPixels": "7369"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-disabled: 61.9% of pixels differ from reference",
+            "message": "child-disabled: 39.6% of pixels differ from reference",
             "detail": {
               "key": "child-disabled",
-              "score": "0.61891",
-              "diffPixels": "56197"
+              "score": "0.396156",
+              "diffPixels": "35971"
             }
           },
           {
@@ -20503,17 +20503,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "29175"
+              "contentPixels": "10466"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-icon-extra-large-disabled: 63.6% of pixels differ from reference",
+            "message": "child-icon-extra-large-disabled: 43.0% of pixels differ from reference",
             "detail": {
               "key": "child-icon-extra-large-disabled",
-              "score": "0.636311",
-              "diffPixels": "57777"
+              "score": "0.430264",
+              "diffPixels": "39068"
             }
           },
           {
@@ -20558,17 +20558,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "28177"
+              "contentPixels": "8894"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-icon-large-disabled: 62.5% of pixels differ from reference",
+            "message": "child-icon-large-disabled: 41.3% of pixels differ from reference",
             "detail": {
               "key": "child-icon-large-disabled",
-              "score": "0.625319",
-              "diffPixels": "56779"
+              "score": "0.412952",
+              "diffPixels": "37496"
             }
           },
           {
