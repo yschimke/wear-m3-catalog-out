@@ -1,22 +1,57 @@
 {
-  "buildId": "16279889",
+  "buildId": "16399547",
   "fingerprint": {
     "_awaitedApi": {
-      "androidx/wear/compose/remote/material3/RemoteRadioButtonKt": true,
-      "androidx/wear/compose/remote/material3/RemoteSwitchButtonKt": true
+      "androidx/wear/compose/remote/material3/RemotePickerKt": false
     },
-    "compose-remote": {
-      "sha256": "ad2bdd203377f85517bf126496681ee8993f6fb709b63fececb1f8430b9ded82",
-      "version": "1.0.0-20260907.130533-1"
+    "foundation": {
+      "sha256": "8b4501402e7731570650859f3d1502d0d7b1e3a72264f63f048885e370500998",
+      "version": "1.0.0-20260921.135210-1"
     },
     "glance-wear": {
-      "sha256": "c06374fa649500b1736a5ab8ad10e8e451889f497c5b0ea2845d8d9e4f4fc1c9",
-      "version": "1.0.0-20260907.130533-1"
+      "sha256": "ee41c62407c5fd6cab10e53f71aa38cd8f0d917a1619746bd59df35dfd8b6845",
+      "version": "1.0.0-20260921.135210-1"
     },
-    "wear-compose-remote": {
-      "sha256": "2834a017a294f6149063b10d200a25886a6ca618fdb83ead5d51f3e319e31a50",
-      "version": "1.0.0-20260907.130533-1"
+    "glance-wear-core": {
+      "sha256": "d730ae03f5ee255c39fc374eca258065fb8aa74f5e0f7b236243c7ba83f44133",
+      "version": "1.0.0-20260921.135210-1"
+    },
+    "glance-wear-tooling-preview": {
+      "sha256": "fc6ac13d9e89fa65edd49d7929b1d5c96db720b11763cf40527f7b7499ff9089",
+      "version": "1.0.0-20260921.135210-1"
+    },
+    "remote-core": {
+      "sha256": "a67a7536e65f1f159d9000a9464285d5a829b2e08475d116ba0ef64939ed1015",
+      "version": "1.0.0-20260921.135210-1"
+    },
+    "remote-creation": {
+      "sha256": "7a4cc088563eb7ff004b35fcfe554c17c0288067df7e062367e1318ed800d24e",
+      "version": "1.0.0-20260921.135210-1"
+    },
+    "remote-creation-android": {
+      "sha256": "ce7f81b7f19c338b56323b7996409eb3fe856b148b74d2dc5f0812492a3ed1a5",
+      "version": "1.0.0-20260921.135210-1"
+    },
+    "remote-creation-compose": {
+      "sha256": "9137cf2264e71a23a4a38d0f937ec3cc14a7bbe60ae7fcedbeb72a27fae0f3bd",
+      "version": "1.0.0-20260921.135210-1"
+    },
+    "remote-creation-core": {
+      "sha256": "2454b0d4c18e48060115cef0d2423dd4c536d3272fedb6c3227d17f66dc54f16",
+      "version": "1.0.0-20260921.135210-1"
+    },
+    "remote-material3": {
+      "sha256": "afeed194f658bf953dfcbf02a9dc00ee90de6cf086883e1520701b462bef5023",
+      "version": "1.0.0-20260921.135210-1"
+    },
+    "remote-player-core": {
+      "sha256": "24e3f4982921d7d1d14bfab81f84528f5e705bc1bc454881b1b63ef0978f332a",
+      "version": "1.0.0-20260921.135210-1"
+    },
+    "remote-tooling-preview": {
+      "sha256": "357104eb3366e3b2a9503d275480c56de156048ac8a5c3e31cce6aa70b1ed1c9",
+      "version": "1.0.0-20260921.135210-1"
     }
   },
-  "lastUpdated": "20260907131431"
+  "lastUpdated": "20260921140822"
 }
