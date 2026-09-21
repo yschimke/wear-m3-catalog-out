@@ -1,10 +1,10 @@
 {
   "formatVersion": 1,
-  "sourceCommit": "c11f75e963887132404b6a51f37abed299951970",
+  "sourceCommit": "3b67f77b9a700ce1db841c5c60c8f7c8e8681aef",
   "direction": "design-led",
   "status": "warn",
   "blocked": false,
-  "cacheKey": "5ae71a20fd61cef5d4670d8f877d296500516cdd3c97bc3f77f4858b7cc05a3d",
+  "cacheKey": "da2e58cb5e22b72361b0e4602b8940e9954fb0fcb18a25bc9026c8cb28de53ad",
   "entries": [
     {
       "code": "remote-catalog/src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt#AppCardRemote",
