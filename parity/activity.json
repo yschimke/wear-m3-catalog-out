@@ -1,0 +1,491 @@
+{
+  "schema": "compose-preview-activity/v1",
+  "generatedAt": "2026-09-22T22:37:52.251Z",
+  "windowDays": 30,
+  "code": {
+    "repo": "yschimke/wear-m3-catalog",
+    "ref": "main",
+    "events": [
+      {
+        "sha": "713c6eb9636f7c362f146297037efffa85202d25",
+        "subject": "build: prepare wear catalog output repository (#585)",
+        "at": "2026-09-22T23:29:36+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "53b350ea2a5a8fb37e5a408fa59d0021c9f333dc",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.22.1 (#586)",
+        "at": "2026-09-22T22:27:30Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "73f23448b3df46fb35e5e47e70d26e542e4a1780",
+        "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.22.0 (#584)",
+        "at": "2026-09-22T21:57:18Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6d5b60323f5c8c82dcfc7a63418514dc83178571",
+        "subject": "fix: version Remote runtime metadata (#583)",
+        "at": "2026-09-22T22:11:09+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "df29d9d3ebc0d384cec9bf9e215e37f2edb02a35",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.39.0 (#581)",
+        "at": "2026-09-22T15:19:53Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c6d83e3a81c6cf82df4b05ea174e9d8c03f896ff",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.22.0 (#580)",
+        "at": "2026-09-22T15:17:31Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "296599dbe274aaa275c273fa7a952abef9d0106f",
+        "subject": "ci: avoid fetching generated blobs for attribution scans (#579)",
+        "at": "2026-09-22T12:55:46+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c2f832664b3857d2f7afa12cd63bac69b701d7c1",
+        "subject": "fix: restore Remote M3 catalog discovery (#577)",
+        "at": "2026-09-22T12:42:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7031e75d9e4df276e41e17d4998202b226221256",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.21.2 (#578)",
+        "at": "2026-09-22T11:40:45Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e97d130c4e34c076b2bf02237b6af91ce97bed67",
+        "subject": "test: follow moved Remote M3 device adapter (#576)",
+        "at": "2026-09-22T10:13:17+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0bce4d368733f984b7138f97649dddf969f13e83",
+        "subject": "fix(deps): update Emoji2 to 1.7.0-rc01 (#575)",
+        "at": "2026-09-22T10:07:28+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a3e93a75f4e563d4199762e2272277af57024673",
+        "subject": "test: cover Remote M3 device preview UI (#572)",
+        "at": "2026-09-22T06:23:10+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "11b7e48a1bc32b636c7a607ef3f9b99e7d68c662",
+        "subject": "test: compose Wear UI builder templates (#571)",
+        "at": "2026-09-22T06:21:29+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "43c95d941d2841911d9954f91e96dde0b22b418e",
+        "subject": "fix: preserve remote preview layout properties (#570)",
+        "at": "2026-09-22T06:05:25+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8eadcfdb865812630edb77e24554bb58d4a1ae97",
+        "subject": "feat: add real Remote M3 browser preview (#569)",
+        "at": "2026-09-22T05:53:03+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3b67f77b9a700ce1db841c5c60c8f7c8e8681aef",
+        "subject": "fix: format opt-in renderer sources (#568)",
+        "at": "2026-09-21T22:37:59+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "cba2c5c8d5085828204e701728c97b551a4cf415",
+        "subject": "fix: isolate UI builder renderer dependencies (#567)",
+        "at": "2026-09-21T22:30:40+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b14bc876911609ccc40a38894ee9911030de2f34",
+        "subject": "fix: await Skiko before Wasm document capture (#566)",
+        "at": "2026-09-21T22:00:47+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c11f75e963887132404b6a51f37abed299951970",
+        "subject": "feat: vendor Remote Compose for multiplatform (#561)",
+        "at": "2026-09-21T14:38:39+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a8952ae687e332499f9f867840b53961031e9f11",
+        "subject": "chore: pin catalog runtime SDK (#564)",
+        "at": "2026-09-21T11:14:35+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "94115b6b8967f0209232d8c5d0375363af4dd036",
+        "subject": "fix(ui-builder): address catalog runtime review (#563)",
+        "at": "2026-09-21T07:32:03+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "af3d5bb2e3807c8c4ef54d50724d51b6ac2c9b56",
+        "subject": "ci(ui-builder): publish catalog runtimes (#553)",
+        "at": "2026-09-21T07:18:03+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0562967067409f846c1fee58353510189c6fadf0",
+        "subject": "feat(ui-builder): deliver Remote M3 runtime (#552)",
+        "at": "2026-09-21T07:18:03+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "76088f352913cfe73307bf7bd92de3b509ac3c82",
+        "subject": "refactor(ui-builder): share Wear adapter pack (#551)",
+        "at": "2026-09-21T07:18:02+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "17a19a678459a428bae9f3b2f89faf2bbf41fd73",
+        "subject": "feat(ui-builder): derive runtime mappings from policy (#550)",
+        "at": "2026-09-21T07:18:02+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fd2b3c4adff4ae578df9536856c6800520c092dc",
+        "subject": "feat(ui-builder): run Wear from renderer SDK (#549)",
+        "at": "2026-09-21T07:18:02+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5d08280282aa5bd24144903e7d88f94b1e402ce0",
+        "subject": "feat(ui-builder): move Wear screens into runtime (#548)",
+        "at": "2026-09-21T07:18:01+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "394832bff7f4505bafee9c6d42890222345845ef",
+        "subject": "docs: refresh the component map against the published sheets (#560)",
+        "at": "2026-09-21T07:16:51+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9f236a40b6ac5f0ee7925ad137b252827f717fbe",
+        "subject": "docs: refresh the component map against the published sheets (#542)",
+        "at": "2026-09-21T07:16:30+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d3a89d5f9ac791f09ac896f4fca7d7569ceea49c",
+        "subject": "chore(deps): update dependency java-jdk to v21.0.12+101.0.lts (#559)",
+        "at": "2026-09-21T00:34:55Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8536e691122549533f0d7d0fa7b052d6a2604784",
+        "subject": "chore(deps): update dependency com.android.application to v9.4.1 (#555)",
+        "at": "2026-09-21T00:16:57Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c1704b83eccffa1f225dace7f478067dd3d987ec",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.32.0 (#557)",
+        "at": "2026-09-21T00:15:21Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "47e640bd86ac1b52b4a2c3ccbcf91e5c62a8ece9",
+        "subject": "fix(deps): update compose-ai-tools to v2.21.1 (#556)",
+        "at": "2026-09-21T00:14:40Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f903d43db7075bd15c945bde59a1f8d87f369c18",
+        "subject": "chore(deps): pin dependency java-jdk to 21.0.12+8.0.lts (#554)",
+        "at": "2026-09-21T00:14:23Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3cf5e50e923dcf1650236f24782fe024968c7d70",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:third-party-rc-embedded-player to v1.69.0 (#558)",
+        "at": "2026-09-21T00:13:37Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3032ab1438ef6457525200e3e3f076a0723b6fb3",
+        "subject": "feat(ui-builder): move Wear controls into runtime (#547)",
+        "at": "2026-09-20T23:25:20+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8a74d54cda578e29a8513737e6d19abf7a3d764c",
+        "subject": "chore(deps): update compose-ai-tools to v2.21.1 (#546)",
+        "at": "2026-09-20T20:50:33Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f152575c79a89a3560ee92dc2a54218f6972fbdd",
+        "subject": "feat(ui-builder): adopt renderer protocol v2 (#544)",
+        "at": "2026-09-20T16:16:34+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1d205fe422e26888a7fe59b50759fc9891ac525c",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.31.0 (#545)",
+        "at": "2026-09-20T15:03:28Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "dfa0a657c3cc7e34a0bd82c3e53ea7f754f96de1",
+        "subject": "feat(ui-builder): move Wear headers into catalog runtime (#541)",
+        "at": "2026-09-20T15:24:55+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "256869cc224b67d9d74bb9ad308bb39315c1fbea",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.21.0 (#543)",
+        "at": "2026-09-20T14:21:56Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "645bd5572e0b4e6a7b84142d581ff428fa6b3078",
+        "subject": "fix(deps): update compose-ai-tools to v2.20.0 (#537)",
+        "at": "2026-09-20T14:02:22Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0710f633b9c3d68d257781926d1f6a7ada810bdb",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.30.0 (#538)",
+        "at": "2026-09-20T13:54:20Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a9fd123d0ae67db28aca6bbf913fc0507bfcda52",
+        "subject": "feat(remote-catalog): declare hybrid preview adapters (#540)",
+        "at": "2026-09-20T14:43:18+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "dd21ca4fc246ecf1954371160a3f4bff62206d12",
+        "subject": "feat(ui-builder): add combined-build Wear renderer (#539)",
+        "at": "2026-09-20T14:09:17+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "97db50aa34aacc1326ce70e1f61589b7dd1c88e7",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.20.0 (#536)",
+        "at": "2026-09-20T11:55:13Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "529945813fdcbe747ee26c23d4d1da6884de38d3",
+        "subject": "fix(deps): update compose-ai-tools to v2.19.0 (#533)",
+        "at": "2026-09-20T12:11:37+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6030ba6c98c79d6409dc2648c9f634239b6d8d14",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.29.0 (#534)",
+        "at": "2026-09-20T12:11:21+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "36f5bbdfa1c563a04efac4470ce040c2d2040b3d",
+        "subject": "fix(remote): restore released dependency lane (#535)",
+        "at": "2026-09-20T12:11:09+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f74749a8b5528cc039176bea626ba25ab0720d65",
+        "subject": "fix(remote): update embedded player render expectations (#531)",
+        "at": "2026-09-20T10:00:21+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "bfc1312cae8e5a66b11d208169dbe8f254810665",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.19.0 (#532)",
+        "at": "2026-09-20T08:37:17Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4e8706f73d0ffea2702f752b1e359a98cfbec258",
+        "subject": "chore: update Remote Compose snapshot (#530)",
+        "at": "2026-09-20T08:45:50+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f0926b72d60fb0410c4095de15c7852fc59bdabb",
+        "subject": "docs: refresh the component map against the published sheets (#525)",
+        "at": "2026-09-20T07:05:54+01:00",
+        "author": "github-actions[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e0f8de079dc06cf2d4ce4837daee0728343a40f2",
+        "subject": "fix: render remote text on the builder canvas (#529)",
+        "at": "2026-09-20T07:05:38+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "caa5a02776131e6230fc801ada6c37c79344f14a",
+        "subject": "fix: let the desktop lane render on macOS, and stop claiming the Wasm canvas is all lookalikes (#526)",
+        "at": "2026-09-19T17:00:46+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3139b5bf68f662ef381f90a9075508f12bf3962a",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.28.0 (#527)",
+        "at": "2026-09-19T14:33:45Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b89591b851c251df7df3cb78a751a1ceb6588613",
+        "subject": "feat(catalog): carry the two wear-m3 UI builder templates (#524)",
+        "at": "2026-09-19T07:50:12+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c608149e163058dda7a98c03b4d895fd55d95e8e",
+        "subject": "feat(remote-catalog): carry the four Wear widget UI builder templates (#522)",
+        "at": "2026-09-18T23:13:11+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8fa220733eac1bb4efb6e8f4188d0e019d4c74ac",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.27.0 (#521)",
+        "at": "2026-09-18T04:33:54Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "89ced65646cf4b2bbda3f1c9a74b5e2d7a4a48c8",
+        "subject": "fix(deps): update compose-preview-daemon to v3.8.3 (#520)",
+        "at": "2026-09-17T19:55:39Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      }
+    ]
+  }
+}
