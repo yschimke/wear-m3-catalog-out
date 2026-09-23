@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-22T22:37:52.251Z",
+  "generatedAt": "2026-09-23T05:54:03.935Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "b5b053d8644f0e124520508d4733a625928f4665",
+        "subject": "fix(deps): update compose-ai-tools (#587)",
+        "at": "2026-09-23T06:47:14+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "713c6eb9636f7c362f146297037efffa85202d25",
         "subject": "build: prepare wear catalog output repository (#585)",
@@ -474,14 +482,6 @@
         "sha": "8fa220733eac1bb4efb6e8f4188d0e019d4c74ac",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.27.0 (#521)",
         "at": "2026-09-18T04:33:54Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "89ced65646cf4b2bbda3f1c9a74b5e2d7a4a48c8",
-        "subject": "fix(deps): update compose-preview-daemon to v3.8.3 (#520)",
-        "at": "2026-09-17T19:55:39Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
