@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 2506
+        "byteLength": 3512
     },
     "operations": [
         {
@@ -140,8 +140,247 @@
             "animation": null
         },
         {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 52,
+            "srcValues": [
+                2.0,
+                2.0,
+                "@3211268",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 53,
+            "srcValues": [
+                2.0,
+                2.0,
+                "@3211268"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 54,
+            "srcValues": [
+                "@53",
+                "@44",
+                2.0,
+                "@3211266",
+                "@3211265",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                "@3211266"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 55,
+            "srcValues": [
+                "@54",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                0.5522848,
+                "@3211267",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 56,
+            "srcValues": [
+                "@53",
+                "@44",
+                2.0,
+                "@3211266",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 57,
+            "srcValues": [
+                "@52",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                0.5522848,
+                "@3211267",
+                "@3211266"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 58,
+            "srcValues": [
+                "@53",
+                "@45",
+                2.0,
+                "@3211266",
+                "@3211265",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                "@3211266"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 59,
+            "srcValues": [
+                "@58",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                0.5522848,
+                "@3211267",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 60,
+            "srcValues": [
+                "@53",
+                "@45",
+                2.0,
+                "@3211266",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
             "type": "BitmapData",
-            "imageId": 52,
+            "imageId": 61,
             "imageWidth": 32,
             "imageHeight": 32,
             "imageType": "TYPE_PNG_8888",
@@ -149,43 +388,43 @@
         },
         {
             "type": "TextData",
-            "textId": 53,
+            "textId": 62,
             "text": "Label text"
         },
         {
             "type": "ColorConstant",
             "color": "0xfff6edff",
-            "colorId": 54
+            "colorId": 63
         },
         {
             "type": "NamedVariable",
-            "varId": 54,
+            "varId": 63,
             "varName": "USER:WearM3.onSurface",
             "varType": "COLOR_TYPE"
         },
         {
             "type": "TextData",
-            "textId": 55,
+            "textId": 64,
             "text": "google:Roboto Flex"
         },
         {
             "type": "TextData",
-            "textId": 56,
+            "textId": 65,
             "text": "pnum"
         },
         {
             "type": "TextData",
-            "textId": 57,
+            "textId": 66,
             "text": "XXm"
         },
         {
             "type": "TextData",
-            "textId": 58,
+            "textId": 67,
             "text": "Title card title text lorem ipsum dolor sit amet ("
         },
         {
             "type": "TextFromFloat",
-            "textId": 59,
+            "textId": 68,
             "value": [
                 "@42",
                 "@42"
@@ -196,31 +435,31 @@
         },
         {
             "type": "TextMerge",
-            "id": 60,
-            "leftId": 58,
-            "rightId": 59
+            "id": 69,
+            "leftId": 67,
+            "rightId": 68
         },
         {
             "type": "TextData",
-            "textId": 61,
+            "textId": 70,
             "text": ")"
         },
         {
             "type": "TextMerge",
-            "id": 62,
-            "leftId": 60,
-            "rightId": 61
+            "id": 71,
+            "leftId": 69,
+            "rightId": 70
         },
         {
             "type": "TextData",
-            "textId": 63,
+            "textId": 72,
             "text": "Title card title text lorem ipsum dolor sit amet"
         },
         {
             "type": "IdListData",
             "id": 2097194,
             "ids": [
-                "[I@776aec5c"
+                "[I@7c7a06ec"
             ]
         },
         {
@@ -228,7 +467,7 @@
                 "EXPRESSION"
             ],
             "type": "IntegerExpression",
-            "id": 64,
+            "id": 73,
             "mask": 0,
             "srcValues": [
                 0
@@ -240,13 +479,13 @@
                 "EXPRESSION"
             ],
             "type": "IntegerExpression",
-            "id": 65,
+            "id": 74,
             "mask": 60,
             "srcValues": [
                 1,
                 0,
                 42,
-                64,
+                73,
                 65538,
                 65558
             ],
@@ -254,16 +493,16 @@
         },
         {
             "type": "TextLookupInt",
-            "textId": 66,
+            "textId": 75,
             "dataSetId": 2097194,
             "indexId": [
-                65.0,
-                65.0
+                74.0,
+                74.0
             ]
         },
         {
             "type": "BitmapData",
-            "imageId": 67,
+            "imageId": 76,
             "imageWidth": 8,
             "imageHeight": 8,
             "imageType": "TYPE_PNG_8888",
@@ -271,7 +510,7 @@
         },
         {
             "type": "BitmapData",
-            "imageId": 68,
+            "imageId": 77,
             "imageWidth": 8,
             "imageHeight": 8,
             "imageType": "TYPE_PNG_8888",
@@ -644,7 +883,7 @@
                                                     "paddingRight": 0.0,
                                                     "paddingTop": 0.0,
                                                     "paddingBottom": 0.0,
-                                                    "textId": 53,
+                                                    "textId": 62,
                                                     "flags": 0,
                                                     "color": [
                                                         -1.6777216E7,
@@ -656,7 +895,7 @@
                                                     ],
                                                     "fontStyle": 0,
                                                     "fontWeight": 550.0,
-                                                    "fontFamilyId": 55,
+                                                    "fontFamilyId": 64,
                                                     "textAlign": 1
                                                 }
                                             ],
@@ -731,7 +970,7 @@
                                             "paddingRight": 0.0,
                                             "paddingTop": 0.0,
                                             "paddingBottom": 0.0,
-                                            "textId": 57,
+                                            "textId": 66,
                                             "flags": 0,
                                             "color": [
                                                 -1.6777216E7,
@@ -743,7 +982,7 @@
                                             ],
                                             "fontStyle": 0,
                                             "fontWeight": 450.0,
-                                            "fontFamilyId": 55,
+                                            "fontFamilyId": 64,
                                             "textAlign": 1
                                         }
                                     ],
@@ -849,7 +1088,7 @@
                                             "paddingRight": 0.0,
                                             "paddingTop": 0.0,
                                             "paddingBottom": 0.0,
-                                            "textId": 66,
+                                            "textId": 75,
                                             "flags": 0,
                                             "color": [
                                                 -1.6777216E7,
@@ -861,7 +1100,7 @@
                                             ],
                                             "fontStyle": 0,
                                             "fontWeight": 550.0,
-                                            "fontFamilyId": 55,
+                                            "fontFamilyId": 64,
                                             "textAlign": 1
                                         }
                                     ],

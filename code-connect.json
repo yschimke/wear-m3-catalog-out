@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":remote-catalog"
   },
-  "generatedAt": "2026-09-22T23:02:19.600Z",
+  "generatedAt": "2026-09-24T13:15:10.665Z",
   "mappings": [
     {
       "componentId": "Button/Filled",
@@ -554,30 +554,11 @@
     {
       "componentId": "AppCard",
       "figmaLayerName": "AppCard",
-      "componentName": "RemoteSticker",
-      "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/remote-catalog/src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogTheme.kt",
+      "componentName": "AppCardRemote",
+      "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/remote-catalog/src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "label": "Compose",
-      "confidence": "LOW",
+      "confidence": "preview-fallback",
       "previewName": "AppCardRemote",
-      "codeSnippet": "RemoteSticker(\n    content = { },\n)",
-      "imports": [
-        "import ee.schimke.wearm3catalog.remote.RemoteSticker"
-      ],
-      "parameters": [
-        {
-          "name": "content",
-          "type": "() -> Unit",
-          "typeFqn": "kotlin.Function0",
-          "hasDefault": false,
-          "composableSlot": true,
-          "composableSlotReceiver": null,
-          "nullable": false,
-          "noArgConstructible": false,
-          "noArgFactory": null,
-          "scopeDslReceiver": null,
-          "lambdaReturnTypeFqn": "kotlin.Unit"
-        }
-      ],
       "figmaSvg": "figma/appcard.svg"
     },
     {

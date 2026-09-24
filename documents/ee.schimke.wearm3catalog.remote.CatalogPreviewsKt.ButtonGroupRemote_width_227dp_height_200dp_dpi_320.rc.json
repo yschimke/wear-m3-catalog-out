@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 2055
+        "byteLength": 2177
     },
     "operations": [
         {
@@ -181,7 +181,7 @@
             "type": "IdListData",
             "id": 2097194,
             "ids": [
-                "[I@206a70ef"
+                "[I@292b08d6"
             ]
         },
         {
@@ -406,7 +406,7 @@
             "type": "IdListData",
             "id": 2097195,
             "ids": [
-                "[I@292b08d6"
+                "[I@22555ebf"
             ]
         },
         {
@@ -558,6 +558,12 @@
                                                         1.0
                                                     ],
                                                     "dimensionModifierType": "WEIGHT"
+                                                },
+                                                {
+                                                    "$tags": [
+                                                        "MODIFIER"
+                                                    ],
+                                                    "type": "DrawContentOperation"
                                                 },
                                                 {
                                                     "$tags": [
@@ -725,6 +731,12 @@
                                                         1.0
                                                     ],
                                                     "dimensionModifierType": "WEIGHT"
+                                                },
+                                                {
+                                                    "$tags": [
+                                                        "MODIFIER"
+                                                    ],
+                                                    "type": "DrawContentOperation"
                                                 },
                                                 {
                                                     "$tags": [

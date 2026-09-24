@@ -902,7 +902,7 @@
       "wireframe": "wireframes/button-filled.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 281,
+      "bodyLine": 279,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "FilledRemoteButton",
       "parameters": [
@@ -1813,7 +1813,7 @@
       "wireframe": "wireframes/button-outlined.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 402,
+      "bodyLine": 400,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "OutlinedRemoteButton",
       "parameters": [
@@ -1891,7 +1891,7 @@
       "wireframe": "wireframes/button-customshape.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 434,
+      "bodyLine": 432,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "CustomShapeRemoteButton",
       "parameters": [
@@ -1977,7 +1977,7 @@
       "wireframe": "wireframes/button-namedlabel.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 471,
+      "bodyLine": 469,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "NamedLabelRemoteButton",
       "parameters": [
@@ -5269,7 +5269,7 @@
       "wireframe": "wireframes/textbutton.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 724,
+      "bodyLine": 722,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "TextRemoteButton",
       "parameters": [
@@ -5915,7 +5915,7 @@
       "wireframe": "wireframes/iconbutton-standard.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 1004,
+      "bodyLine": 1002,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "IconRemoteButton",
       "parameters": [
@@ -9272,7 +9272,7 @@
       "wireframe": "wireframes/button-compact.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 1282,
+      "bodyLine": 1280,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "CompactRemoteButton",
       "parallel": "Button/Compact"
@@ -9378,7 +9378,7 @@
       "wireframe": "wireframes/buttongroup.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 1368,
+      "bodyLine": 1366,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "ButtonGroupRemote",
       "parameters": [
@@ -17252,7 +17252,7 @@
       "wireframe": "wireframes/card.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 1407,
+      "bodyLine": 1415,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "CardRemote",
       "parameters": [
@@ -17330,7 +17330,7 @@
       "wireframe": "wireframes/card-outlined.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 1427,
+      "bodyLine": 1435,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "OutlinedCardRemote",
       "parameters": [
@@ -18040,8 +18040,7 @@
             "widthDp": 227,
             "heightDp": 200
           },
-          "density": 2,
-          "figmaSvg": "https://preview.coo.ee/remote-m3/render/titlecard__ideal__outlined__compact.svg"
+          "density": 2
         },
         {
           "variant": "ideal",
@@ -19093,8 +19092,7 @@
             "widthDp": 227,
             "heightDp": 200
           },
-          "density": 2,
-          "figmaSvg": "https://preview.coo.ee/remote-m3/render/titlecard__ideal__title-and-subtitle-outlined__compact.svg"
+          "density": 2
         },
         {
           "variant": "ideal",
@@ -20146,8 +20144,7 @@
             "widthDp": 227,
             "heightDp": 200
           },
-          "density": 2,
-          "figmaSvg": "https://preview.coo.ee/remote-m3/render/titlecard__ideal__with-subtitle-outlined__compact.svg"
+          "density": 2
         },
         {
           "variant": "ideal",
@@ -20547,7 +20544,7 @@
       "wireframe": "wireframes/titlecard.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 1741,
+      "bodyLine": 1749,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "TitleCardRemote",
       "parameters": [
@@ -22528,13 +22525,6 @@
       "bodyLine": 1970,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "AppCardRemote",
-      "parameters": [
-        {
-          "name": "content",
-          "type": "() -> Unit",
-          "composableSlot": true
-        }
-      ],
       "parallel": "AppCard"
     },
     {
@@ -22566,7 +22556,7 @@
       "wireframe": "wireframes/scaffold.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 2092,
+      "bodyLine": 2090,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "WatchScreenRemote",
       "parameters": [
@@ -30288,7 +30278,7 @@
       "wireframe": "wireframes/circularprogressindicator.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 2306,
+      "bodyLine": 2304,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "CircularProgressRemote",
       "parameters": [
@@ -30377,7 +30367,7 @@
       "wireframe": "wireframes/arcprogressindicator.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 2419,
+      "bodyLine": 2417,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "ArcProgressRemote",
       "parameters": [
@@ -42573,7 +42563,7 @@
       "wireframe": "wireframes/icon.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 2452,
+      "bodyLine": 2450,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "IconRemote",
       "parameters": [
@@ -42709,7 +42699,7 @@
       "wireframe": "wireframes/text-body.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 2514,
+      "bodyLine": 2512,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "RemoteTextSticker",
       "parameters": [
@@ -42846,7 +42836,7 @@
       "wireframe": "wireframes/text-caption.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 2577,
+      "bodyLine": 2575,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "RemoteCaptionSticker",
       "parameters": [
@@ -42888,7 +42878,7 @@
       "wireframe": "wireframes/text-maxlines-truncated.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 2614,
+      "bodyLine": 2612,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "TruncatedTextRemote",
       "parameters": [
@@ -42929,7 +42919,7 @@
       "wireframe": "wireframes/text-branded.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 2665,
+      "bodyLine": 2663,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "BrandedTextRemote",
       "parameters": [
@@ -43308,7 +43298,7 @@
       "wireframe": "wireframes/typeface-specimen.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 2700,
+      "bodyLine": 2698,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "TypefaceSpecimenRemote",
       "parameters": [
@@ -43349,7 +43339,7 @@
       "wireframe": "wireframes/typeface-variableweight.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 2761,
+      "bodyLine": 2759,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "VariableWeightRemote",
       "parameters": [
@@ -43390,7 +43380,7 @@
       "wireframe": "wireframes/typeface-variablewidth.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 2794,
+      "bodyLine": 2792,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "VariableWidthRemote",
       "parameters": [
@@ -43431,7 +43421,7 @@
       "wireframe": "wireframes/theme-typography.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 2858,
+      "bodyLine": 2856,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "TypographyRemote",
       "parameters": [
@@ -43471,7 +43461,7 @@
       "wireframe": "wireframes/theme-colorscheme.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 2876,
+      "bodyLine": 2874,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "ColorSchemeRemote",
       "parameters": [
@@ -43795,7 +43785,7 @@
       "wireframe": "wireframes/shader-lineargradient.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 2919,
+      "bodyLine": 2917,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "ShaderGradientSticker",
       "parameters": [
@@ -52465,13 +52455,13 @@
       ],
       "redlines": [],
       "group": "Edge-hugging buttons",
-      "caption": "The screen-hugging confirm action, curved to the bottom edge of the display. Remote draws the label unclipped, so it spills past the arc where the kit truncates it — see the file note.",
+      "caption": "The screen-hugging confirm action, curved to the bottom edge of the display. Remote draws the label clipped to its arc, matching the kit's truncation — see the file note.",
       "reference": "figma:B24oss2tTeXAFykyeyusz0/36601:6587",
       "referenceSet": "figma:B24oss2tTeXAFykyeyusz0/36601:6586",
       "wireframe": "wireframes/edgebutton.svg",
       "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt",
       "sourceModule": ":remote-catalog",
-      "bodyLine": 522,
+      "bodyLine": 503,
       "sourceDirectory": "remote-catalog",
       "sourceFunction": "EdgeButtonRemote",
       "parameters": [
@@ -68361,7 +68351,7 @@
     "androidx.glance.wear:wear"
   ],
   "renderer": "compose-preview 2.22.0",
-  "generatedAt": "2026-09-22T23:02:05.424Z",
+  "generatedAt": "2026-09-24T13:14:57.407Z",
   "display": {
     "surface": "dark",
     "hero": "AppCard"
@@ -68385,9 +68375,9 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "remote-m3-p3-713c6eb9636f",
+    "runtimeId": "remote-m3-p3-5af270b8753a",
     "protocolVersion": 2,
-    "integritySha256": "92f42cb20fd4a60c4f91032e3f3cad0d83293d5ed3a39edf5b8eb284f3487967"
+    "integritySha256": "52c100e27b39dddb72be0daf99e6f6023f6d8c382f91fd52677e03d6ec28c353"
   },
   "source": {
     "repo": "yschimke/wear-m3-catalog",

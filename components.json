@@ -10568,7 +10568,6 @@
         {
             "canonicalId": "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogThemeKt.RemoteSticker",
             "componentIds": [
-                "AppCard",
                 "ArcProgressIndicator",
                 "Button/Child",
                 "Button/CustomShape",
@@ -10652,91 +10651,6 @@
                 }
             ],
             "bindings": [
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_content-image",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_gallery-1",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_gallery-2",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon-content-image",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon-gallery-1",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon-gallery-2",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon-outlined",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon-outlined-content-image",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon-outlined-gallery-1",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon-outlined-gallery-2",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_no-app-image",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_outlined",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_outlined-content-image",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_outlined-gallery-1",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_outlined-gallery-2",
-                    "componentId": "AppCard",
-                    "group": "Containment"
-                },
                 {
                     "previewId": "ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.ArcProgressRemote_width_227dp_height_200dp_dpi_320",
                     "componentId": "ArcProgressIndicator",

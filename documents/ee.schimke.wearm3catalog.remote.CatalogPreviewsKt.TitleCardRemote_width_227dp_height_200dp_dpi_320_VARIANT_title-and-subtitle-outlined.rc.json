@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 1543
+        "byteLength": 2549
     },
     "operations": [
         {
@@ -140,39 +140,278 @@
             "animation": null
         },
         {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 52,
+            "srcValues": [
+                2.0,
+                2.0,
+                "@3211268",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 53,
+            "srcValues": [
+                2.0,
+                2.0,
+                "@3211268"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 54,
+            "srcValues": [
+                "@53",
+                "@44",
+                2.0,
+                "@3211266",
+                "@3211265",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                "@3211266"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 55,
+            "srcValues": [
+                "@54",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                0.5522848,
+                "@3211267",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 56,
+            "srcValues": [
+                "@53",
+                "@44",
+                2.0,
+                "@3211266",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 57,
+            "srcValues": [
+                "@52",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                0.5522848,
+                "@3211267",
+                "@3211266"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 58,
+            "srcValues": [
+                "@53",
+                "@45",
+                2.0,
+                "@3211266",
+                "@3211265",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                "@3211266"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 59,
+            "srcValues": [
+                "@58",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                0.5522848,
+                "@3211267",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 60,
+            "srcValues": [
+                "@53",
+                "@45",
+                2.0,
+                "@3211266",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
             "type": "TextData",
-            "textId": 52,
+            "textId": 61,
             "text": "XXm"
         },
         {
             "type": "ColorConstant",
             "color": "0xfff6edff",
-            "colorId": 53
+            "colorId": 62
         },
         {
             "type": "NamedVariable",
-            "varId": 53,
+            "varId": 62,
             "varName": "USER:WearM3.onSurface",
             "varType": "COLOR_TYPE"
         },
         {
             "type": "TextData",
-            "textId": 54,
+            "textId": 63,
             "text": "google:Roboto Flex"
         },
         {
             "type": "TextData",
-            "textId": 55,
+            "textId": 64,
             "text": "pnum"
         },
         {
             "type": "TextData",
-            "textId": 56,
+            "textId": 65,
             "text": "Title card title text lorem ipsum dolor sit amet ("
         },
         {
             "type": "TextFromFloat",
-            "textId": 57,
+            "textId": 66,
             "value": [
                 "@42",
                 "@42"
@@ -183,24 +422,24 @@
         },
         {
             "type": "TextMerge",
-            "id": 58,
-            "leftId": 56,
-            "rightId": 57
+            "id": 67,
+            "leftId": 65,
+            "rightId": 66
         },
         {
             "type": "TextData",
-            "textId": 59,
+            "textId": 68,
             "text": ")"
         },
         {
             "type": "TextMerge",
-            "id": 60,
-            "leftId": 58,
-            "rightId": 59
+            "id": 69,
+            "leftId": 67,
+            "rightId": 68
         },
         {
             "type": "TextData",
-            "textId": 61,
+            "textId": 70,
             "text": "Title card title text lorem ipsum dolor sit amet"
         },
         {
@@ -215,7 +454,7 @@
                 "EXPRESSION"
             ],
             "type": "IntegerExpression",
-            "id": 62,
+            "id": 71,
             "mask": 0,
             "srcValues": [
                 0
@@ -227,13 +466,13 @@
                 "EXPRESSION"
             ],
             "type": "IntegerExpression",
-            "id": 63,
+            "id": 72,
             "mask": 60,
             "srcValues": [
                 1,
                 0,
                 42,
-                62,
+                71,
                 65538,
                 65558
             ],
@@ -241,26 +480,26 @@
         },
         {
             "type": "TextLookupInt",
-            "textId": 64,
+            "textId": 73,
             "dataSetId": 2097194,
             "indexId": [
-                63.0,
-                63.0
+                72.0,
+                72.0
             ]
         },
         {
             "type": "TextData",
-            "textId": 65,
+            "textId": 74,
             "text": "Subtitle"
         },
         {
             "type": "ColorConstant",
             "color": "0xffffdcc2",
-            "colorId": 66
+            "colorId": 75
         },
         {
             "type": "NamedVariable",
-            "varId": 66,
+            "varId": 75,
             "varName": "USER:WearM3.tertiary",
             "varType": "COLOR_TYPE"
         },
@@ -458,7 +697,7 @@
                                     "paddingRight": 0.0,
                                     "paddingTop": 0.0,
                                     "paddingBottom": 0.0,
-                                    "textId": 52,
+                                    "textId": 61,
                                     "flags": 0,
                                     "color": [
                                         -1.6777216E7,
@@ -470,7 +709,7 @@
                                     ],
                                     "fontStyle": 0,
                                     "fontWeight": 450.0,
-                                    "fontFamilyId": 54,
+                                    "fontFamilyId": 63,
                                     "textAlign": 1
                                 },
                                 {
@@ -598,7 +837,7 @@
                                                     "paddingRight": 0.0,
                                                     "paddingTop": 0.0,
                                                     "paddingBottom": 0.0,
-                                                    "textId": 64,
+                                                    "textId": 73,
                                                     "flags": 0,
                                                     "color": [
                                                         -1.6777216E7,
@@ -610,7 +849,7 @@
                                                     ],
                                                     "fontStyle": 0,
                                                     "fontWeight": 550.0,
-                                                    "fontFamilyId": 54,
+                                                    "fontFamilyId": 63,
                                                     "textAlign": 1
                                                 }
                                             ],
@@ -694,7 +933,7 @@
                                     "paddingRight": 0.0,
                                     "paddingTop": 0.0,
                                     "paddingBottom": 0.0,
-                                    "textId": 65,
+                                    "textId": 74,
                                     "flags": 0,
                                     "color": [
                                         -1.6777216E7,
@@ -706,7 +945,7 @@
                                     ],
                                     "fontStyle": 0,
                                     "fontWeight": 500.0,
-                                    "fontFamilyId": 54,
+                                    "fontFamilyId": 63,
                                     "textAlign": 1
                                 }
                             ],

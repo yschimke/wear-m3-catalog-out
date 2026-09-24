@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 1759
+        "byteLength": 2715
     },
     "operations": [
         {
@@ -140,13 +140,252 @@
             "animation": null
         },
         {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 52,
+            "srcValues": [
+                2.0,
+                2.0,
+                "@3211268",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 53,
+            "srcValues": [
+                2.0,
+                2.0,
+                "@3211268"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 54,
+            "srcValues": [
+                "@53",
+                "@44",
+                2.0,
+                "@3211266",
+                "@3211265",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                "@3211266"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 55,
+            "srcValues": [
+                "@54",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                0.5522848,
+                "@3211267",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 56,
+            "srcValues": [
+                "@53",
+                "@44",
+                2.0,
+                "@3211266",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 57,
+            "srcValues": [
+                "@52",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                0.5522848,
+                "@3211267",
+                "@3211266"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 58,
+            "srcValues": [
+                "@53",
+                "@45",
+                2.0,
+                "@3211266",
+                "@3211265",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                "@3211266"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 59,
+            "srcValues": [
+                "@58",
+                52.0,
+                "@44",
+                "@45",
+                "@3211270",
+                2.0,
+                "@3211268",
+                104.0,
+                "@44",
+                "@45",
+                "@3211270",
+                "@3211266",
+                "@3211290",
+                2.0,
+                2.0,
+                "@3211268",
+                "@3211266",
+                0.0,
+                "@3211271",
+                0.5522848,
+                "@3211267",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
+            "$tags": [
+                "EXPRESSION"
+            ],
+            "type": "FloatExpression",
+            "id": 60,
+            "srcValues": [
+                "@53",
+                "@45",
+                2.0,
+                "@3211266",
+                "@3211265"
+            ],
+            "animation": null
+        },
+        {
             "type": "TextData",
-            "textId": 52,
+            "textId": 61,
             "text": "Title card title text lorem ipsum dolor sit amet ("
         },
         {
             "type": "TextFromFloat",
-            "textId": 53,
+            "textId": 62,
             "value": [
                 "@42",
                 "@42"
@@ -157,24 +396,24 @@
         },
         {
             "type": "TextMerge",
-            "id": 54,
-            "leftId": 52,
-            "rightId": 53
+            "id": 63,
+            "leftId": 61,
+            "rightId": 62
         },
         {
             "type": "TextData",
-            "textId": 55,
+            "textId": 64,
             "text": ")"
         },
         {
             "type": "TextMerge",
-            "id": 56,
-            "leftId": 54,
-            "rightId": 55
+            "id": 65,
+            "leftId": 63,
+            "rightId": 64
         },
         {
             "type": "TextData",
-            "textId": 57,
+            "textId": 66,
             "text": "Title card title text lorem ipsum dolor sit amet"
         },
         {
@@ -189,7 +428,7 @@
                 "EXPRESSION"
             ],
             "type": "IntegerExpression",
-            "id": 58,
+            "id": 67,
             "mask": 0,
             "srcValues": [
                 0
@@ -201,13 +440,13 @@
                 "EXPRESSION"
             ],
             "type": "IntegerExpression",
-            "id": 59,
+            "id": 68,
             "mask": 60,
             "srcValues": [
                 1,
                 0,
                 42,
-                58,
+                67,
                 65538,
                 65558
             ],
@@ -215,68 +454,68 @@
         },
         {
             "type": "TextLookupInt",
-            "textId": 60,
+            "textId": 69,
             "dataSetId": 2097194,
             "indexId": [
-                59.0,
-                59.0
+                68.0,
+                68.0
             ]
         },
         {
             "type": "ColorConstant",
             "color": "0xfff6edff",
-            "colorId": 61
+            "colorId": 70
         },
         {
             "type": "NamedVariable",
-            "varId": 61,
+            "varId": 70,
             "varName": "USER:WearM3.onSurface",
             "varType": "COLOR_TYPE"
         },
         {
             "type": "TextData",
-            "textId": 62,
+            "textId": 71,
             "text": "google:Roboto Flex"
         },
         {
             "type": "TextData",
-            "textId": 63,
+            "textId": 72,
             "text": "pnum"
         },
         {
             "type": "TextData",
-            "textId": 64,
+            "textId": 73,
             "text": "XXm"
         },
         {
             "type": "TextData",
-            "textId": 65,
+            "textId": 74,
             "text": "Content lorem ipsum dolor sit amet lorem ipsum dolor sit amet"
         },
         {
             "type": "ColorConstant",
             "color": "0xffcac4d0",
-            "colorId": 66
+            "colorId": 75
         },
         {
             "type": "NamedVariable",
-            "varId": 66,
+            "varId": 75,
             "varName": "USER:WearM3.onSurfaceVariant",
             "varType": "COLOR_TYPE"
         },
         {
             "type": "TextData",
-            "textId": 67,
+            "textId": 76,
             "text": "Subtitle"
         },
         {
             "type": "ColorConstant",
             "color": "0xffffdcc2",
-            "colorId": 68
+            "colorId": 77
         },
         {
             "type": "NamedVariable",
-            "varId": 68,
+            "varId": 77,
             "varName": "USER:WearM3.tertiary",
             "varType": "COLOR_TYPE"
         },
@@ -536,7 +775,7 @@
                                                     "paddingRight": 0.0,
                                                     "paddingTop": 0.0,
                                                     "paddingBottom": 0.0,
-                                                    "textId": 60,
+                                                    "textId": 69,
                                                     "flags": 0,
                                                     "color": [
                                                         -1.6777216E7,
@@ -548,7 +787,7 @@
                                                     ],
                                                     "fontStyle": 0,
                                                     "fontWeight": 550.0,
-                                                    "fontFamilyId": 62,
+                                                    "fontFamilyId": 71,
                                                     "textAlign": 1
                                                 }
                                             ],
@@ -623,7 +862,7 @@
                                             "paddingRight": 0.0,
                                             "paddingTop": 0.0,
                                             "paddingBottom": 0.0,
-                                            "textId": 64,
+                                            "textId": 73,
                                             "flags": 0,
                                             "color": [
                                                 -1.6777216E7,
@@ -635,7 +874,7 @@
                                             ],
                                             "fontStyle": 0,
                                             "fontWeight": 450.0,
-                                            "fontFamilyId": 62,
+                                            "fontFamilyId": 71,
                                             "textAlign": 1
                                         }
                                     ],
@@ -710,7 +949,7 @@
                                     "paddingRight": 0.0,
                                     "paddingTop": 0.0,
                                     "paddingBottom": 0.0,
-                                    "textId": 65,
+                                    "textId": 74,
                                     "flags": 0,
                                     "color": [
                                         -1.6777216E7,
@@ -722,7 +961,7 @@
                                     ],
                                     "fontStyle": 0,
                                     "fontWeight": 450.0,
-                                    "fontFamilyId": 62,
+                                    "fontFamilyId": 71,
                                     "textAlign": 1
                                 },
                                 {
@@ -788,7 +1027,7 @@
                                     "paddingRight": 0.0,
                                     "paddingTop": 0.0,
                                     "paddingBottom": 0.0,
-                                    "textId": 67,
+                                    "textId": 76,
                                     "flags": 0,
                                     "color": [
                                         -1.6777216E7,
@@ -800,7 +1039,7 @@
                                     ],
                                     "fontStyle": 0,
                                     "fontWeight": 500.0,
-                                    "fontFamilyId": 62,
+                                    "fontFamilyId": 71,
                                     "textAlign": 1
                                 }
                             ],

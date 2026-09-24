@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 3743
+        "byteLength": 3804
     },
     "operations": [
         {
@@ -964,9 +964,38 @@
                                                             "paintBundle": {
                                                                 "type": "PaintBundle",
                                                                 "operations": [
+                                                                    "{type=Style, style=0}"
+                                                                ]
+                                                            }
+                                                        },
+                                                        {
+                                                            "left": [
+                                                                0.0,
+                                                                0.0
+                                                            ],
+                                                            "top": [
+                                                                0.0,
+                                                                0.0
+                                                            ],
+                                                            "right": [
+                                                                "@81",
+                                                                "@81"
+                                                            ],
+                                                            "bottom": [
+                                                                "@82",
+                                                                "@82"
+                                                            ],
+                                                            "type": "DrawRect"
+                                                        },
+                                                        {
+                                                            "type": "PaintData",
+                                                            "paintBundle": {
+                                                                "type": "PaintBundle",
+                                                                "operations": [
                                                                     "{type=ColorId, id=92}",
                                                                     "{type=StrokeWidth, width={type=Value, value=7.3846154}}",
-                                                                    "{type=StrokeCap, cap=1}"
+                                                                    "{type=StrokeCap, cap=1}",
+                                                                    "{type=Style, style=1}"
                                                                 ]
                                                             }
                                                         },
@@ -1124,6 +1153,37 @@
                                                             "type": "DrawArc"
                                                         },
                                                         {
+                                                            "type": "PaintData",
+                                                            "paintBundle": {
+                                                                "type": "PaintBundle",
+                                                                "operations": [
+                                                                    "{type=Color, color=0x00000000}",
+                                                                    "{type=StrokeWidth, width={type=Value, value=0.0}}",
+                                                                    "{type=StrokeCap, cap=0}",
+                                                                    "{type=Style, style=0}"
+                                                                ]
+                                                            }
+                                                        },
+                                                        {
+                                                            "left": [
+                                                                0.0,
+                                                                0.0
+                                                            ],
+                                                            "top": [
+                                                                0.0,
+                                                                0.0
+                                                            ],
+                                                            "right": [
+                                                                "@81",
+                                                                "@81"
+                                                            ],
+                                                            "bottom": [
+                                                                "@82",
+                                                                "@82"
+                                                            ],
+                                                            "type": "DrawRect"
+                                                        },
+                                                        {
                                                             "$tags": [
                                                                 "MODIFIER"
                                                             ],
@@ -1150,6 +1210,12 @@
                                                                         1.0
                                                                     ],
                                                                     "dimensionModifierType": "FILL"
+                                                                },
+                                                                {
+                                                                    "$tags": [
+                                                                        "MODIFIER"
+                                                                    ],
+                                                                    "type": "DrawContentOperation"
                                                                 }
                                                             ]
                                                         }
@@ -1295,9 +1361,6 @@
                                                                         "type": "PaintBundle",
                                                                         "operations": [
                                                                             "{type=Color, color=0xff000000}",
-                                                                            "{type=StrokeWidth, width={type=Value, value=0.0}}",
-                                                                            "{type=StrokeCap, cap=0}",
-                                                                            "{type=Style, style=0}",
                                                                             "{type=ColorFilterID, id=75, mode=SRC_IN}"
                                                                         ]
                                                                     }
