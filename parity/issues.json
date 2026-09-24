@@ -1,0 +1,1158 @@
+{
+  "schema": "compose-preview-issues/v1",
+  "generatedAt": "2026-09-24T20:54:51.133Z",
+  "issues": [
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 52,
+      "title": "Upstream: file the Horologist PlayPauseButton modifier bug that hides the progress ring",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/52",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "wear-m3-catalog",
+      "component": "Media/ControlButtons",
+      "scope": "component",
+      "previewIds": [
+        "media-controlbuttons__ideal__default"
+      ],
+      "referenceIds": [
+        "media-controlbuttons__ideal__default"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 52,
+      "title": "Upstream: file the Horologist PlayPauseButton modifier bug that hides the progress ring",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/52",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "wear-m3-catalog",
+      "component": "Media/PlayerScreen",
+      "scope": "component",
+      "previewIds": [
+        "media-playerscreen__ideal__default__192dp"
+      ],
+      "referenceIds": [
+        "media-playerscreen__ideal__default__192dp"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 52,
+      "title": "Upstream: file the Horologist PlayPauseButton modifier bug that hides the progress ring",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/52",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "wear-m3-catalog",
+      "component": "Media/PlayPauseProgressButton",
+      "scope": "component",
+      "previewIds": [
+        "media-playpauseprogressbutton__ideal__default"
+      ],
+      "referenceIds": [
+        "media-playpauseprogressbutton__ideal__default"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 58,
+      "title": "Upstream: let Wear and Remote IconButton size their own icon",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/58",
+      "state": "closed",
+      "area": "component",
+      "parity": "upstream",
+      "system": "wear-m3-catalog",
+      "component": "IconButton/Filled",
+      "scope": "component",
+      "previewIds": [
+        "iconbutton-filled__ideal__large"
+      ],
+      "referenceIds": [
+        "iconbutton-filled__ideal__large"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 58,
+      "title": "Upstream: let Wear and Remote IconButton size their own icon",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/58",
+      "state": "closed",
+      "area": "component",
+      "parity": "upstream",
+      "system": "wear-m3-catalog",
+      "component": "IconButton/FilledVariant",
+      "scope": "component",
+      "previewIds": [
+        "iconbutton-filledvariant__ideal__large"
+      ],
+      "referenceIds": [
+        "iconbutton-filledvariant__ideal__large"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 58,
+      "title": "Upstream: let Wear and Remote IconButton size their own icon",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/58",
+      "state": "closed",
+      "area": "component",
+      "parity": "upstream",
+      "system": "wear-m3-catalog",
+      "component": "IconButton/Outlined",
+      "scope": "component",
+      "previewIds": [
+        "iconbutton-outlined__ideal__large"
+      ],
+      "referenceIds": [
+        "iconbutton-outlined__ideal__large"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 58,
+      "title": "Upstream: let Wear and Remote IconButton size their own icon",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/58",
+      "state": "closed",
+      "area": "component",
+      "parity": "upstream",
+      "system": "wear-m3-catalog",
+      "component": "IconButton/Standard",
+      "scope": "component",
+      "previewIds": [
+        "iconbutton-standard__ideal__large"
+      ],
+      "referenceIds": [
+        "iconbutton-standard__ideal__large"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 58,
+      "title": "Upstream: let Wear and Remote IconButton size their own icon",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/58",
+      "state": "closed",
+      "area": "component",
+      "parity": "upstream",
+      "system": "wear-m3-catalog",
+      "component": "IconButton/Tonal",
+      "scope": "component",
+      "previewIds": [
+        "iconbutton-tonal__ideal__large"
+      ],
+      "referenceIds": [
+        "iconbutton-tonal__ideal__large"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 77,
+      "title": "What is the second typography element here?",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/77",
+      "state": "closed",
+      "area": "spec",
+      "parity": null,
+      "system": "wear-m3-catalog",
+      "component": "AlertDialog",
+      "scope": "component",
+      "previewIds": [
+        "alertdialog__ideal__default__192dp"
+      ],
+      "referenceIds": [
+        "alertdialog__ideal__default__192dp"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 91,
+      "title": "Upstream: a disabled `RemoteButton` draws no label at all",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/91",
+      "state": "closed",
+      "area": "component",
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Button/Filled",
+      "scope": "component",
+      "previewIds": [
+        "button-filled__ideal__disabled__compact"
+      ],
+      "referenceIds": [
+        "button-filled__ideal__disabled__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 130,
+      "title": "Upstream: a disabled `RemoteTextButton` draws nothing at all — no container and no label",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/130",
+      "state": "closed",
+      "area": "component",
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "TextButton",
+      "scope": "component",
+      "previewIds": [
+        "textbutton__ideal__disabled__compact"
+      ],
+      "referenceIds": [
+        "textbutton__ideal__disabled__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 138,
+      "title": "Parity visual scores are dominated by framing, not divergence — fixed on :catalog, still open on :remote-catalog",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/138",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "AppCard",
+      "scope": "component",
+      "previewIds": [
+        "appcard__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "appcard__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 138,
+      "title": "Parity visual scores are dominated by framing, not divergence — fixed on :catalog, still open on :remote-catalog",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/138",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Button/Compact",
+      "scope": "component",
+      "previewIds": [
+        "button-compact__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "button-compact__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 138,
+      "title": "Parity visual scores are dominated by framing, not divergence — fixed on :catalog, still open on :remote-catalog",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/138",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Button/Filled",
+      "scope": "component",
+      "previewIds": [
+        "button-filled__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "button-filled__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 138,
+      "title": "Parity visual scores are dominated by framing, not divergence — fixed on :catalog, still open on :remote-catalog",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/138",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Button/Outlined",
+      "scope": "component",
+      "previewIds": [
+        "button-outlined__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "button-outlined__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 138,
+      "title": "Parity visual scores are dominated by framing, not divergence — fixed on :catalog, still open on :remote-catalog",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/138",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Button/Tonal",
+      "scope": "component",
+      "previewIds": [
+        "button-tonal__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "button-tonal__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 138,
+      "title": "Parity visual scores are dominated by framing, not divergence — fixed on :catalog, still open on :remote-catalog",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/138",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Card",
+      "scope": "component",
+      "previewIds": [
+        "card__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "card__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 138,
+      "title": "Parity visual scores are dominated by framing, not divergence — fixed on :catalog, still open on :remote-catalog",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/138",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Card/Outlined",
+      "scope": "component",
+      "previewIds": [
+        "card-outlined__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "card-outlined__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 138,
+      "title": "Parity visual scores are dominated by framing, not divergence — fixed on :catalog, still open on :remote-catalog",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/138",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "CircularProgressIndicator",
+      "scope": "component",
+      "previewIds": [
+        "circularprogressindicator__ideal__default__192dp"
+      ],
+      "referenceIds": [
+        "circularprogressindicator__ideal__default__192dp"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 138,
+      "title": "Parity visual scores are dominated by framing, not divergence — fixed on :catalog, still open on :remote-catalog",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/138",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "IconButton/Filled",
+      "scope": "component",
+      "previewIds": [
+        "iconbutton-filled__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "iconbutton-filled__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 138,
+      "title": "Parity visual scores are dominated by framing, not divergence — fixed on :catalog, still open on :remote-catalog",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/138",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "IconButton/Standard",
+      "scope": "component",
+      "previewIds": [
+        "iconbutton-standard__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "iconbutton-standard__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 138,
+      "title": "Parity visual scores are dominated by framing, not divergence — fixed on :catalog, still open on :remote-catalog",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/138",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "PageIndicator/Horizontal",
+      "scope": "component",
+      "previewIds": [
+        "pageindicator-horizontal__ideal__default__192dp"
+      ],
+      "referenceIds": [
+        "pageindicator-horizontal__ideal__default__192dp"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 138,
+      "title": "Parity visual scores are dominated by framing, not divergence — fixed on :catalog, still open on :remote-catalog",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/138",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "PageIndicator/Vertical",
+      "scope": "component",
+      "previewIds": [
+        "pageindicator-vertical__ideal__default__192dp"
+      ],
+      "referenceIds": [
+        "pageindicator-vertical__ideal__default__192dp"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 138,
+      "title": "Parity visual scores are dominated by framing, not divergence — fixed on :catalog, still open on :remote-catalog",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/138",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Text/Body",
+      "scope": "component",
+      "previewIds": [
+        "text-body__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "text-body__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 138,
+      "title": "Parity visual scores are dominated by framing, not divergence — fixed on :catalog, still open on :remote-catalog",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/138",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "TitleCard",
+      "scope": "component",
+      "previewIds": [
+        "titlecard__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "titlecard__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 144,
+      "title": "Shapes color is wrong between figma and compose",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/144",
+      "state": "closed",
+      "area": null,
+      "parity": null,
+      "system": "wear-m3-catalog",
+      "component": "Shape/MaterialShapes",
+      "scope": "component",
+      "previewIds": [
+        "shape-materialshapes__ideal__soft-boom"
+      ],
+      "referenceIds": [
+        "shape-materialshapes__ideal__soft-boom"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 157,
+      "title": "Upstream: `RemoteAppCard` still lacks a painter overload, leaving two Background Image cells unreachable",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/157",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "AppCard",
+      "scope": "component",
+      "previewIds": [
+        "appcard__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "appcard__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 157,
+      "title": "Upstream: `RemoteAppCard` still lacks a painter overload, leaving two Background Image cells unreachable",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/157",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Button/ImageBackground",
+      "scope": "component",
+      "previewIds": [
+        "button-imagebackground__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "button-imagebackground__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 157,
+      "title": "Upstream: `RemoteAppCard` still lacks a painter overload, leaving two Background Image cells unreachable",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/157",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "TitleCard",
+      "scope": "component",
+      "previewIds": [
+        "titlecard__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "titlecard__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 249,
+      "title": "Upstream: `RemoteEdgeButton` does not clip its label to its arc — the text spills outside the container",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/249",
+      "state": "closed",
+      "area": "component",
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "EdgeButton",
+      "scope": "component",
+      "previewIds": [
+        "edgebutton__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "edgebutton__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 284,
+      "title": "Outline card is missing the border",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/284",
+      "state": "open",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "AppCard",
+      "scope": "component",
+      "previewIds": [
+        "appcard__ideal__icon-outlined-gallery-2__compact"
+      ],
+      "referenceIds": [
+        "appcard__ideal__icon-outlined-gallery-2__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 286,
+      "title": "Upstream: Wear M3 `EdgeButton` still takes no `border`, so `Style=Outline` has no stroke",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/286",
+      "state": "open",
+      "area": "component",
+      "parity": "upstream",
+      "system": "wear-m3-catalog",
+      "component": "EdgeButton",
+      "scope": "component",
+      "previewIds": [
+        "edgebutton__ideal__outlined"
+      ],
+      "referenceIds": [
+        "edgebutton__ideal__outlined"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 288,
+      "title": "Upstream: a disabled `RemoteCheckboxButton` collapses — `unselected-disabled` draws nothing, `disabled` draws a bare tick",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/288",
+      "state": "closed",
+      "area": "component",
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "CheckboxButton",
+      "scope": "component",
+      "previewIds": [
+        "checkboxbutton__ideal__unselected-disabled__compact"
+      ],
+      "referenceIds": [
+        "checkboxbutton__ideal__unselected-disabled__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 289,
+      "title": "Upstream: `RemoteCurvedProgressIndicator` draws a hairline whatever `strokeWidth` it is given",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/289",
+      "state": "closed",
+      "area": "component",
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "ArcProgressIndicator",
+      "scope": "component",
+      "previewIds": [
+        "arcprogressindicator__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "arcprogressindicator__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 290,
+      "title": "Upstream: Remote page indicators draw no background container, where the Wear ones do",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/290",
+      "state": "open",
+      "area": "component",
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "PageIndicator/Horizontal",
+      "scope": "component",
+      "previewIds": [
+        "pageindicator-horizontal__ideal__default__192dp"
+      ],
+      "referenceIds": [
+        "pageindicator-horizontal__ideal__default__192dp"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 291,
+      "title": "Upstream: Remote outlined buttons draw a 2dp border where Wear draws 1dp — exactly double, on every outlined button cell",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/291",
+      "state": "closed",
+      "area": "component",
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "IconButton/Outlined",
+      "scope": "component",
+      "previewIds": [
+        "iconbutton-outlined__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "iconbutton-outlined__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 292,
+      "title": "18 `:remote-catalog` cells have no `:catalog` counterpart, so the compare wall pairs them with a fallback",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/292",
+      "state": "closed",
+      "area": "component",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "AppCard",
+      "scope": "component",
+      "previewIds": [
+        "appcard__ideal__no-app-image__compact"
+      ],
+      "referenceIds": [
+        "appcard__ideal__no-app-image__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 292,
+      "title": "18 `:remote-catalog` cells have no `:catalog` counterpart, so the compare wall pairs them with a fallback",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/292",
+      "state": "closed",
+      "area": "component",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "Button/CustomShape",
+      "scope": "component",
+      "previewIds": [
+        "button-customshape__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "button-customshape__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 292,
+      "title": "18 `:remote-catalog` cells have no `:catalog` counterpart, so the compare wall pairs them with a fallback",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/292",
+      "state": "closed",
+      "area": "component",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "Button/NamedLabel",
+      "scope": "component",
+      "previewIds": [
+        "button-namedlabel__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "button-namedlabel__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 292,
+      "title": "18 `:remote-catalog` cells have no `:catalog` counterpart, so the compare wall pairs them with a fallback",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/292",
+      "state": "closed",
+      "area": "component",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "PageIndicator/Interactive",
+      "scope": "component",
+      "previewIds": [
+        "pageindicator-interactive__ideal__default__192dp"
+      ],
+      "referenceIds": [
+        "pageindicator-interactive__ideal__default__192dp"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 292,
+      "title": "18 `:remote-catalog` cells have no `:catalog` counterpart, so the compare wall pairs them with a fallback",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/292",
+      "state": "closed",
+      "area": "component",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "Text/Branded",
+      "scope": "component",
+      "previewIds": [
+        "text-branded__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "text-branded__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 292,
+      "title": "18 `:remote-catalog` cells have no `:catalog` counterpart, so the compare wall pairs them with a fallback",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/292",
+      "state": "closed",
+      "area": "component",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "Text/MaxLines-Truncated",
+      "scope": "component",
+      "previewIds": [
+        "text-maxlines-truncated__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "text-maxlines-truncated__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 292,
+      "title": "18 `:remote-catalog` cells have no `:catalog` counterpart, so the compare wall pairs them with a fallback",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/292",
+      "state": "closed",
+      "area": "component",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "TitleCard",
+      "scope": "component",
+      "previewIds": [
+        "titlecard__ideal__title-and-subtitle-content-image__compact"
+      ],
+      "referenceIds": [
+        "titlecard__ideal__title-and-subtitle-content-image__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 293,
+      "title": "Upstream: `RemoteTitleCard` remains narrower than filled after receiving `RemoteBorderStroke`",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/293",
+      "state": "open",
+      "area": "component",
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "AppCard",
+      "scope": "component",
+      "previewIds": [
+        "appcard__ideal__outlined__compact"
+      ],
+      "referenceIds": [
+        "appcard__ideal__outlined__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 294,
+      "title": "`:remote-catalog`: four fixture divergences make the compare page report content differences as component defects",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/294",
+      "state": "closed",
+      "area": "preview",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "AppCard",
+      "scope": "component",
+      "previewIds": [
+        "appcard__ideal__icon__compact"
+      ],
+      "referenceIds": [
+        "appcard__ideal__icon__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 294,
+      "title": "`:remote-catalog`: four fixture divergences make the compare page report content differences as component defects",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/294",
+      "state": "closed",
+      "area": "preview",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "Button/Filled",
+      "scope": "component",
+      "previewIds": [
+        "button-filled__ideal__icon__compact"
+      ],
+      "referenceIds": [
+        "button-filled__ideal__icon__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 294,
+      "title": "`:remote-catalog`: four fixture divergences make the compare page report content differences as component defects",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/294",
+      "state": "closed",
+      "area": "preview",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "Button/FilledVariant",
+      "scope": "component",
+      "previewIds": [
+        "button-filledvariant__ideal__icon__compact"
+      ],
+      "referenceIds": [
+        "button-filledvariant__ideal__icon__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 294,
+      "title": "`:remote-catalog`: four fixture divergences make the compare page report content differences as component defects",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/294",
+      "state": "closed",
+      "area": "preview",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "Button/Tonal",
+      "scope": "component",
+      "previewIds": [
+        "button-tonal__ideal__icon__compact"
+      ],
+      "referenceIds": [
+        "button-tonal__ideal__icon__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 294,
+      "title": "`:remote-catalog`: four fixture divergences make the compare page report content differences as component defects",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/294",
+      "state": "closed",
+      "area": "preview",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "CheckboxButton",
+      "scope": "component",
+      "previewIds": [
+        "checkboxbutton__ideal__split__compact"
+      ],
+      "referenceIds": [
+        "checkboxbutton__ideal__split__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 294,
+      "title": "`:remote-catalog`: four fixture divergences make the compare page report content differences as component defects",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/294",
+      "state": "closed",
+      "area": "preview",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "Scaffold",
+      "scope": "component",
+      "previewIds": [
+        "scaffold__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "scaffold__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 295,
+      "title": "Two remaining compare-page divergences are call-site gaps, not library defects: `Text/Body` role and the `TextButton` child size axis",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/295",
+      "state": "closed",
+      "area": "preview",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "ButtonGroup",
+      "scope": "component",
+      "previewIds": [
+        "buttongroup__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "buttongroup__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 295,
+      "title": "Two remaining compare-page divergences are call-site gaps, not library defects: `Text/Body` role and the `TextButton` child size axis",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/295",
+      "state": "closed",
+      "area": "preview",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "Text/Body",
+      "scope": "component",
+      "previewIds": [
+        "text-body__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "text-body__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 295,
+      "title": "Two remaining compare-page divergences are call-site gaps, not library defects: `Text/Body` role and the `TextButton` child size axis",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/295",
+      "state": "closed",
+      "area": "preview",
+      "parity": "catalog",
+      "system": "remote-m3",
+      "component": "TextButton",
+      "scope": "component",
+      "previewIds": [
+        "textbutton__ideal__child-large__compact"
+      ],
+      "referenceIds": [
+        "textbutton__ideal__child-large__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 297,
+      "title": "Upstream: a disabled child button gains a filled container Wear never draws — 21× the ink of its Wear twin",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/297",
+      "state": "open",
+      "area": "component",
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Button/Child",
+      "scope": "component",
+      "previewIds": [
+        "button-child__ideal__disabled__compact"
+      ],
+      "referenceIds": [
+        "button-child__ideal__disabled__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 297,
+      "title": "Upstream: a disabled child button gains a filled container Wear never draws — 21× the ink of its Wear twin",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/297",
+      "state": "open",
+      "area": "component",
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Button/Compact",
+      "scope": "component",
+      "previewIds": [
+        "button-compact__ideal__child-disabled__compact"
+      ],
+      "referenceIds": [
+        "button-compact__ideal__child-disabled__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 304,
+      "title": "Upstream: `RemoteTitleCard` lets the `content` slot decide its `time` slot — moved above the title without `content`, dropped entirely under `RemoteDensity.Host`",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/304",
+      "state": "open",
+      "area": "component",
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "TitleCard",
+      "scope": "component",
+      "previewIds": [
+        "titlecard__ideal__title-and-subtitle__compact"
+      ],
+      "referenceIds": [
+        "titlecard__ideal__title-and-subtitle__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 306,
+      "title": "Upstream: `TitleCard` cannot move its timestamp below the subtitle, so the kit's nine `Title Card 3` cells are unreachable from Wear Compose",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/306",
+      "state": "open",
+      "area": "component",
+      "parity": "upstream",
+      "system": "wear-m3-catalog",
+      "component": "TitleCard",
+      "scope": "component",
+      "previewIds": [
+        "titlecard__ideal__title-and-subtitle"
+      ],
+      "referenceIds": [
+        "titlecard__ideal__title-and-subtitle"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 323,
+      "title": "disabled button missing subtitle",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/323",
+      "state": "closed",
+      "area": null,
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Button/Outlined",
+      "scope": "component",
+      "previewIds": [
+        "button-outlined__ideal__icon-extra-large__compact"
+      ],
+      "referenceIds": [
+        "button-outlined__ideal__icon-extra-large__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 325,
+      "title": "Upstream: `RemoteButtonDefaults` still collapses filled, filled-variant and tonal disabled colours",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/325",
+      "state": "open",
+      "area": "component",
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Button/Tonal",
+      "scope": "component",
+      "previewIds": [
+        "button-tonal__ideal__disabled__compact"
+      ],
+      "referenceIds": [
+        "button-tonal__ideal__disabled__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 326,
+      "title": "Upstream: `filledVariantButtonColors()` resolves `secondaryContentColor` to near-black on its own dark container — 2.07:1 against Wear's 5.95:1",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/326",
+      "state": "closed",
+      "area": "component",
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Button/FilledVariant",
+      "scope": "component",
+      "previewIds": [
+        "button-filledvariant__ideal__icon__compact"
+      ],
+      "referenceIds": [
+        "button-filledvariant__ideal__icon__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 344,
+      "title": "Upstream: `RemoteButtonDefaults.containerPainter` scrim remains too light for readable white text",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/344",
+      "state": "open",
+      "area": "component",
+      "parity": "upstream",
+      "system": "remote-m3",
+      "component": "Button/ImageBackground",
+      "scope": "component",
+      "previewIds": [
+        "button-imagebackground__ideal__default__compact"
+      ],
+      "referenceIds": [
+        "button-imagebackground__ideal__default__compact"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 435,
+      "title": "Upstream: `SelectAccountScreen` never clips the account avatar, so every photo but Horologist's own pre-rounded fixture draws square",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/435",
+      "state": "open",
+      "area": "component",
+      "parity": "upstream",
+      "system": "wear-m3-catalog",
+      "component": "Auth/SelectAccountScreen",
+      "scope": "component",
+      "previewIds": [
+        "auth-selectaccountscreen__ideal__default__192dp"
+      ],
+      "referenceIds": [
+        "auth-selectaccountscreen__ideal__default__192dp"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 475,
+      "title": "Preview evidently shows a half width button",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/475",
+      "state": "closed",
+      "area": null,
+      "parity": "catalog",
+      "system": "wear-m3-catalog",
+      "component": "SwipeToReveal/Button",
+      "scope": "component",
+      "previewIds": [
+        "swipetoreveal-button__ideal__default__192dp"
+      ],
+      "referenceIds": [
+        "swipetoreveal-button__ideal__default__192dp"
+      ]
+    },
+    {
+      "repository": "yschimke/wear-m3-catalog",
+      "number": 487,
+      "title": "Live preview of placeholder doesn't shimmer",
+      "url": "https://github.com/yschimke/wear-m3-catalog/issues/487",
+      "state": "closed",
+      "area": null,
+      "parity": null,
+      "system": "wear-m3-catalog",
+      "component": "Placeholder/Card",
+      "scope": "component",
+      "previewIds": [
+        "placeholder-card__ideal__default"
+      ],
+      "referenceIds": [
+        "placeholder-card__ideal__default"
+      ]
+    }
+  ]
+}
