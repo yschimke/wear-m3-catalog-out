@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 1899
+        "byteLength": 1963
     },
     "operations": [
         {
@@ -820,7 +820,17 @@
                                                         "operations": [
                                                             "{type=ColorId, id=72}",
                                                             "{type=StrokeWidth, width={type=Value, value=4.0}}",
-                                                            "{type=Style, style=1}"
+                                                            "{type=StrokeCap, cap=0}",
+                                                            "{type=StrokeJoin, strokeJoin=0}",
+                                                            "{type=Style, style=1}",
+                                                            "{type=TextSize, size={type=Value, value=12.0}}",
+                                                            "{type=FontFamily, fontFamily=0}",
+                                                            "{type=FontWeight, weight=400.0}",
+                                                            "{type=TypeFace, italic=false}",
+                                                            "{type=ClearColorFilter}",
+                                                            "{type=BlendMode, mode=SRC_OVER}",
+                                                            "{type=FilterBitmap, enabled=true}",
+                                                            "{type=Shader, id=0}"
                                                         ]
                                                     }
                                                 },

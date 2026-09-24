@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 2528
+        "byteLength": 2544
     },
     "operations": [
         {
@@ -868,8 +868,10 @@
                                             "{type=FontFamily, fontFamily=0}",
                                             "{type=FontWeight, weight=400.0}",
                                             "{type=TypeFace, italic=false}",
+                                            "{type=ClearColorFilter}",
                                             "{type=BlendMode, mode=SRC_OVER}",
-                                            "{type=FilterBitmap, enabled=true}"
+                                            "{type=FilterBitmap, enabled=true}",
+                                            "{type=Shader, id=0}"
                                         ]
                                     }
                                 },

@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 2903
+        "byteLength": 2542
     },
     "operations": [
         {
@@ -1035,36 +1035,36 @@
                                                 {
                                                     "type": "ColorConstant",
                                                     "color": "0xff948f9a",
-                                                    "colorId": 84
+                                                    "colorId": 82
                                                 },
                                                 {
                                                     "type": "NamedVariable",
-                                                    "varId": 84,
+                                                    "varId": 82,
                                                     "varName": "USER:WearM3.outline",
                                                     "varType": "COLOR_TYPE"
                                                 },
                                                 {
                                                     "type": "ColorConstant",
                                                     "color": "0xffe9ddff",
-                                                    "colorId": 85
+                                                    "colorId": 83
                                                 },
                                                 {
                                                     "type": "NamedVariable",
-                                                    "varId": 85,
+                                                    "varId": 83,
                                                     "varName": "USER:WearM3.primary",
                                                     "varType": "COLOR_TYPE"
                                                 },
                                                 {
                                                     "type": "ColorExpression",
-                                                    "id": 86,
+                                                    "id": 84,
                                                     "mode": "TWEEN",
                                                     "startColor": [
-                                                        84.0,
-                                                        84.0
+                                                        82.0,
+                                                        82.0
                                                     ],
                                                     "endColor": [
-                                                        85.0,
-                                                        85.0
+                                                        83.0,
+                                                        83.0
                                                     ],
                                                     "tween": [
                                                         "@55",
@@ -1076,9 +1076,19 @@
                                                     "paintBundle": {
                                                         "type": "PaintBundle",
                                                         "operations": [
-                                                            "{type=ColorId, id=86}",
+                                                            "{type=ColorId, id=84}",
                                                             "{type=StrokeWidth, width={type=Value, value=4.0}}",
-                                                            "{type=Style, style=1}"
+                                                            "{type=StrokeCap, cap=0}",
+                                                            "{type=StrokeJoin, strokeJoin=0}",
+                                                            "{type=Style, style=1}",
+                                                            "{type=TextSize, size={type=Value, value=12.0}}",
+                                                            "{type=FontFamily, fontFamily=0}",
+                                                            "{type=FontWeight, weight=400.0}",
+                                                            "{type=TypeFace, italic=false}",
+                                                            "{type=ClearColorFilter}",
+                                                            "{type=BlendMode, mode=SRC_OVER}",
+                                                            "{type=FilterBitmap, enabled=true}",
+                                                            "{type=Shader, id=0}"
                                                         ]
                                                     }
                                                 },
@@ -1100,19 +1110,19 @@
                                                 {
                                                     "type": "ColorConstant",
                                                     "color": "0x00000000",
-                                                    "colorId": 87
+                                                    "colorId": 85
                                                 },
                                                 {
                                                     "type": "ColorExpression",
-                                                    "id": 88,
+                                                    "id": 86,
                                                     "mode": "TWEEN",
                                                     "startColor": [
-                                                        87.0,
-                                                        87.0
+                                                        85.0,
+                                                        85.0
                                                     ],
                                                     "endColor": [
-                                                        86.0,
-                                                        86.0
+                                                        84.0,
+                                                        84.0
                                                     ],
                                                     "tween": [
                                                         "@55",
@@ -1124,7 +1134,7 @@
                                                     "paintBundle": {
                                                         "type": "PaintBundle",
                                                         "operations": [
-                                                            "{type=ColorId, id=88}",
+                                                            "{type=ColorId, id=86}",
                                                             "{type=StrokeWidth, width={type=Value, value=0.0}}",
                                                             "{type=Style, style=0}"
                                                         ]
@@ -1135,7 +1145,7 @@
                                                         "EXPRESSION"
                                                     ],
                                                     "type": "FloatExpression",
-                                                    "id": 89,
+                                                    "id": 87,
                                                     "srcValues": [
                                                         0.0,
                                                         10.0,
@@ -1154,8 +1164,8 @@
                                                         24.0
                                                     ],
                                                     "radius": [
-                                                        "@89",
-                                                        "@89"
+                                                        "@87",
+                                                        "@87"
                                                     ],
                                                     "type": "DrawCircle"
                                                 },

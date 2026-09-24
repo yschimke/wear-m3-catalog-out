@@ -4,7 +4,7 @@
   <g id="Root">
     <clipPath id="clip-0"><rect x="55" y="48" width="344" height="104" rx="52" ry="52"/></clipPath>
     <g id="Row">
-      <image href="ideal__disabled__compact.figma-raster/6737.png" x="55" y="48" width="344" height="104" clip-path="url(#clip-0)"/>
+      <image href="ideal__disabled__compact.figma-raster/6721.png" x="55" y="48" width="344" height="104" clip-path="url(#clip-0)"/>
       <g clip-path="url(#clip-0)">
         <g id="Column">
           <g id="Empty">
@@ -20,7 +20,7 @@
         </g>
         <g id="Spacer">
           <g transform="translate(323 76) scale(1 1)">
-            <path d="M6,24 A18,18 0 1 0 42,24 A18,18 0 1 0 6,24 Z" fill="none" stroke="#000000" stroke-width="4"/>
+            <path d="M6,24 A18,18 0 1 0 42,24 A18,18 0 1 0 6,24 Z" fill="none" stroke="#F6EDFF" stroke-opacity="0.12" stroke-width="4"/>
             <path d="M14,24 A10,10 0 1 0 34,24 A10,10 0 1 0 14,24 Z" fill="#F6EDFF" fill-opacity="0.12"/>
           </g>
         </g>

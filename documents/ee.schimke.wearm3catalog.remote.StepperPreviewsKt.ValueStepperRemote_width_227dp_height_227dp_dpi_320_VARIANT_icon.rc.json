@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 6625
+        "byteLength": 6672
     },
     "operations": [
         {
@@ -1271,8 +1271,10 @@
                                             "{type=FontFamily, fontFamily=0}",
                                             "{type=FontWeight, weight=400.0}",
                                             "{type=TypeFace, italic=false}",
+                                            "{type=ClearColorFilter}",
                                             "{type=BlendMode, mode=SRC_OVER}",
-                                            "{type=FilterBitmap, enabled=true}"
+                                            "{type=FilterBitmap, enabled=true}",
+                                            "{type=Shader, id=0}"
                                         ]
                                     }
                                 },
@@ -1924,7 +1926,18 @@
                                                                         "type": "PaintBundle",
                                                                         "operations": [
                                                                             "{type=Color, color=0xff000000}",
-                                                                            "{type=ColorFilterID, id=142, mode=SRC_IN}"
+                                                                            "{type=StrokeWidth, width={type=Value, value=0.0}}",
+                                                                            "{type=StrokeCap, cap=0}",
+                                                                            "{type=StrokeJoin, strokeJoin=0}",
+                                                                            "{type=Style, style=0}",
+                                                                            "{type=TextSize, size={type=Value, value=12.0}}",
+                                                                            "{type=FontFamily, fontFamily=0}",
+                                                                            "{type=FontWeight, weight=400.0}",
+                                                                            "{type=TypeFace, italic=false}",
+                                                                            "{type=ColorFilterID, id=142, mode=SRC_IN}",
+                                                                            "{type=BlendMode, mode=SRC_OVER}",
+                                                                            "{type=FilterBitmap, enabled=true}",
+                                                                            "{type=Shader, id=0}"
                                                                         ]
                                                                     }
                                                                 },
@@ -2229,7 +2242,19 @@
                                                             "paintBundle": {
                                                                 "type": "PaintBundle",
                                                                 "operations": [
-                                                                    "{type=ColorFilterID, id=148, mode=SRC_IN}"
+                                                                    "{type=Color, color=0xff000000}",
+                                                                    "{type=StrokeWidth, width={type=Value, value=0.0}}",
+                                                                    "{type=StrokeCap, cap=0}",
+                                                                    "{type=StrokeJoin, strokeJoin=0}",
+                                                                    "{type=Style, style=0}",
+                                                                    "{type=TextSize, size={type=Value, value=12.0}}",
+                                                                    "{type=FontFamily, fontFamily=0}",
+                                                                    "{type=FontWeight, weight=400.0}",
+                                                                    "{type=TypeFace, italic=false}",
+                                                                    "{type=ColorFilterID, id=148, mode=SRC_IN}",
+                                                                    "{type=BlendMode, mode=SRC_OVER}",
+                                                                    "{type=FilterBitmap, enabled=true}",
+                                                                    "{type=Shader, id=0}"
                                                                 ]
                                                             }
                                                         },
@@ -2845,7 +2870,7 @@
                                                                 },
                                                                 {
                                                                     "type": "ComponentValue",
-                                                                    "valueId": 151,
+                                                                    "valueId": 150,
                                                                     "componentValueType": "WIDTH",
                                                                     "componentId": -1000013
                                                                 },
@@ -2854,9 +2879,9 @@
                                                                         "EXPRESSION"
                                                                     ],
                                                                     "type": "FloatExpression",
-                                                                    "id": 152,
+                                                                    "id": 151,
                                                                     "srcValues": [
-                                                                        "@151",
+                                                                        "@150",
                                                                         24.0,
                                                                         "@3211268"
                                                                     ],
@@ -2864,7 +2889,7 @@
                                                                 },
                                                                 {
                                                                     "type": "ComponentValue",
-                                                                    "valueId": 153,
+                                                                    "valueId": 152,
                                                                     "componentValueType": "HEIGHT",
                                                                     "componentId": -1000013
                                                                 },
@@ -2873,9 +2898,9 @@
                                                                         "EXPRESSION"
                                                                     ],
                                                                     "type": "FloatExpression",
-                                                                    "id": 154,
+                                                                    "id": 153,
                                                                     "srcValues": [
-                                                                        "@153",
+                                                                        "@152",
                                                                         24.0,
                                                                         "@3211268"
                                                                     ],
@@ -2883,12 +2908,12 @@
                                                                 },
                                                                 {
                                                                     "scaleX": [
-                                                                        "@152",
-                                                                        "@152"
+                                                                        "@151",
+                                                                        "@151"
                                                                     ],
                                                                     "scaleY": [
-                                                                        "@154",
-                                                                        "@154"
+                                                                        "@153",
+                                                                        "@153"
                                                                     ],
                                                                     "pivotX": [
                                                                         "NaN",
@@ -2906,13 +2931,24 @@
                                                                         "type": "PaintBundle",
                                                                         "operations": [
                                                                             "{type=Color, color=0xff000000}",
-                                                                            "{type=ColorFilterID, id=142, mode=SRC_IN}"
+                                                                            "{type=StrokeWidth, width={type=Value, value=0.0}}",
+                                                                            "{type=StrokeCap, cap=0}",
+                                                                            "{type=StrokeJoin, strokeJoin=0}",
+                                                                            "{type=Style, style=0}",
+                                                                            "{type=TextSize, size={type=Value, value=12.0}}",
+                                                                            "{type=FontFamily, fontFamily=0}",
+                                                                            "{type=FontWeight, weight=400.0}",
+                                                                            "{type=TypeFace, italic=false}",
+                                                                            "{type=ColorFilterID, id=142, mode=SRC_IN}",
+                                                                            "{type=BlendMode, mode=SRC_OVER}",
+                                                                            "{type=FilterBitmap, enabled=true}",
+                                                                            "{type=Shader, id=0}"
                                                                         ]
                                                                     }
                                                                 },
                                                                 {
                                                                     "type": "PathData",
-                                                                    "id": 155,
+                                                                    "id": 154,
                                                                     "path": [
                                                                         "@10",
                                                                         7.41,
@@ -2952,7 +2988,7 @@
                                                                 },
                                                                 {
                                                                     "type": "DrawPath",
-                                                                    "id": 155,
+                                                                    "id": 154,
                                                                     "start": 0.0,
                                                                     "end": 1.0
                                                                 },

@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 894
+        "byteLength": 906
     },
     "operations": [
         {
@@ -302,7 +302,8 @@
                                                             "{type=TypeFace, italic=false}",
                                                             "{type=ColorFilterID, id=43, mode=SRC_IN}",
                                                             "{type=BlendMode, mode=SRC_OVER}",
-                                                            "{type=FilterBitmap, enabled=true}"
+                                                            "{type=FilterBitmap, enabled=true}",
+                                                            "{type=Shader, id=0}"
                                                         ]
                                                     }
                                                 },

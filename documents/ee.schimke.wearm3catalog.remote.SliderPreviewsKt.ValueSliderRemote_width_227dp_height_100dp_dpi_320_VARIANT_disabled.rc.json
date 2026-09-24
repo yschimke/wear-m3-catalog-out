@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 3950
+        "byteLength": 4134
     },
     "operations": [
         {
@@ -765,7 +765,18 @@
                                                                 "type": "PaintBundle",
                                                                 "operations": [
                                                                     "{type=Color, color=0xffffffff}",
-                                                                    "{type=ColorFilterID, id=84, mode=SRC_IN}"
+                                                                    "{type=StrokeWidth, width={type=Value, value=0.0}}",
+                                                                    "{type=StrokeCap, cap=0}",
+                                                                    "{type=StrokeJoin, strokeJoin=0}",
+                                                                    "{type=Style, style=0}",
+                                                                    "{type=TextSize, size={type=Value, value=12.0}}",
+                                                                    "{type=FontFamily, fontFamily=0}",
+                                                                    "{type=FontWeight, weight=400.0}",
+                                                                    "{type=TypeFace, italic=false}",
+                                                                    "{type=ColorFilterID, id=84, mode=SRC_IN}",
+                                                                    "{type=BlendMode, mode=SRC_OVER}",
+                                                                    "{type=FilterBitmap, enabled=true}",
+                                                                    "{type=Shader, id=0}"
                                                                 ]
                                                             }
                                                         },
@@ -982,7 +993,19 @@
                                             "paintBundle": {
                                                 "type": "PaintBundle",
                                                 "operations": [
-                                                    "{type=ColorId, id=90}"
+                                                    "{type=ColorId, id=90}",
+                                                    "{type=StrokeWidth, width={type=Value, value=0.0}}",
+                                                    "{type=StrokeCap, cap=0}",
+                                                    "{type=StrokeJoin, strokeJoin=0}",
+                                                    "{type=Style, style=0}",
+                                                    "{type=TextSize, size={type=Value, value=12.0}}",
+                                                    "{type=FontFamily, fontFamily=0}",
+                                                    "{type=FontWeight, weight=400.0}",
+                                                    "{type=TypeFace, italic=false}",
+                                                    "{type=ClearColorFilter}",
+                                                    "{type=BlendMode, mode=SRC_OVER}",
+                                                    "{type=FilterBitmap, enabled=true}",
+                                                    "{type=Shader, id=0}"
                                                 ]
                                             }
                                         },
@@ -1709,8 +1732,18 @@
                                                                 "type": "PaintBundle",
                                                                 "operations": [
                                                                     "{type=Color, color=0xffffffff}",
+                                                                    "{type=StrokeWidth, width={type=Value, value=0.0}}",
+                                                                    "{type=StrokeCap, cap=0}",
+                                                                    "{type=StrokeJoin, strokeJoin=0}",
+                                                                    "{type=Style, style=0}",
+                                                                    "{type=TextSize, size={type=Value, value=12.0}}",
+                                                                    "{type=FontFamily, fontFamily=0}",
+                                                                    "{type=FontWeight, weight=400.0}",
+                                                                    "{type=TypeFace, italic=false}",
                                                                     "{type=ColorFilterID, id=84, mode=SRC_IN}",
-                                                                    "{type=BlendMode, mode=SRC_OVER}"
+                                                                    "{type=BlendMode, mode=SRC_OVER}",
+                                                                    "{type=FilterBitmap, enabled=true}",
+                                                                    "{type=Shader, id=0}"
                                                                 ]
                                                             }
                                                         },

@@ -8,14 +8,12 @@
         <g id="Box">
           <g id="Spacer">
             <g transform="translate(83 68) scale(1 1)">
-              <path d="M0,0 H64 V64 H0 Z" fill="#000000"/>
               <path d="M4.12,27.08 A28.31,28.31 0 0 1 27.08,4.12" fill="none" stroke="#F6EDFF" stroke-opacity="0.12" stroke-width="7.38" stroke-linecap="round"/>
               <path d="M36.92,4.12 A28.31,28.31 0 1 1 4.12,36.92" fill="none" stroke="#F6EDFF" stroke-opacity="0.38" stroke-width="7.38" stroke-linecap="round"/>
-              <path d="M0,0 H64 V64 H0 Z" fill="none"/>
             </g>
           </g>
           <g id="Spacer">
-            <image href="ideal__child-icon-large-disabled__compact.figma-raster/5620.png" x="93" y="78" width="44" height="44"/>
+            <image href="ideal__child-icon-large-disabled__compact.figma-raster/5599.png" x="93" y="78" width="44" height="44"/>
           </g>
         </g>
         <g id="Box">

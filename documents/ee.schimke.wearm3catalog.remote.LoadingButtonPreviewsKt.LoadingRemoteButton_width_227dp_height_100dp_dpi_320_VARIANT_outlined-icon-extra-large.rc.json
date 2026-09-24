@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 3926
+        "byteLength": 3953
     },
     "operations": [
         {
@@ -937,36 +937,6 @@
                                                     "visibility": "VISIBLE",
                                                     "list": [
                                                         {
-                                                            "type": "PaintData",
-                                                            "paintBundle": {
-                                                                "type": "PaintBundle",
-                                                                "operations": [
-                                                                    "{type=Color, color=0x00000000}",
-                                                                    "{type=StrokeWidth, width={type=Value, value=0.0}}",
-                                                                    "{type=Style, style=0}"
-                                                                ]
-                                                            }
-                                                        },
-                                                        {
-                                                            "left": [
-                                                                0.0,
-                                                                0.0
-                                                            ],
-                                                            "top": [
-                                                                0.0,
-                                                                0.0
-                                                            ],
-                                                            "right": [
-                                                                "@77",
-                                                                "@77"
-                                                            ],
-                                                            "bottom": [
-                                                                "@78",
-                                                                "@78"
-                                                            ],
-                                                            "type": "DrawRect"
-                                                        },
-                                                        {
                                                             "type": "ColorConstant",
                                                             "color": "0xff332e3c",
                                                             "colorId": 90
@@ -985,7 +955,16 @@
                                                                     "{type=ColorId, id=90}",
                                                                     "{type=StrokeWidth, width={type=Value, value=8.307693}}",
                                                                     "{type=StrokeCap, cap=1}",
-                                                                    "{type=Style, style=1}"
+                                                                    "{type=StrokeJoin, strokeJoin=0}",
+                                                                    "{type=Style, style=1}",
+                                                                    "{type=TextSize, size={type=Value, value=12.0}}",
+                                                                    "{type=FontFamily, fontFamily=0}",
+                                                                    "{type=FontWeight, weight=400.0}",
+                                                                    "{type=TypeFace, italic=false}",
+                                                                    "{type=ClearColorFilter}",
+                                                                    "{type=BlendMode, mode=SRC_OVER}",
+                                                                    "{type=FilterBitmap, enabled=true}",
+                                                                    "{type=Shader, id=0}"
                                                                 ]
                                                             }
                                                         },
@@ -1154,37 +1133,6 @@
                                                             "type": "DrawArc"
                                                         },
                                                         {
-                                                            "type": "PaintData",
-                                                            "paintBundle": {
-                                                                "type": "PaintBundle",
-                                                                "operations": [
-                                                                    "{type=Color, color=0x00000000}",
-                                                                    "{type=StrokeWidth, width={type=Value, value=0.0}}",
-                                                                    "{type=StrokeCap, cap=0}",
-                                                                    "{type=Style, style=0}"
-                                                                ]
-                                                            }
-                                                        },
-                                                        {
-                                                            "left": [
-                                                                0.0,
-                                                                0.0
-                                                            ],
-                                                            "top": [
-                                                                0.0,
-                                                                0.0
-                                                            ],
-                                                            "right": [
-                                                                "@77",
-                                                                "@77"
-                                                            ],
-                                                            "bottom": [
-                                                                "@78",
-                                                                "@78"
-                                                            ],
-                                                            "type": "DrawRect"
-                                                        },
-                                                        {
                                                             "$tags": [
                                                                 "MODIFIER"
                                                             ],
@@ -1211,12 +1159,6 @@
                                                                         1.0
                                                                     ],
                                                                     "dimensionModifierType": "FILL"
-                                                                },
-                                                                {
-                                                                    "$tags": [
-                                                                        "MODIFIER"
-                                                                    ],
-                                                                    "type": "DrawContentOperation"
                                                                 }
                                                             ]
                                                         }
@@ -1362,7 +1304,18 @@
                                                                         "type": "PaintBundle",
                                                                         "operations": [
                                                                             "{type=Color, color=0xff000000}",
-                                                                            "{type=ColorFilterID, id=70, mode=SRC_IN}"
+                                                                            "{type=StrokeWidth, width={type=Value, value=0.0}}",
+                                                                            "{type=StrokeCap, cap=0}",
+                                                                            "{type=StrokeJoin, strokeJoin=0}",
+                                                                            "{type=Style, style=0}",
+                                                                            "{type=TextSize, size={type=Value, value=12.0}}",
+                                                                            "{type=FontFamily, fontFamily=0}",
+                                                                            "{type=FontWeight, weight=400.0}",
+                                                                            "{type=TypeFace, italic=false}",
+                                                                            "{type=ColorFilterID, id=70, mode=SRC_IN}",
+                                                                            "{type=BlendMode, mode=SRC_OVER}",
+                                                                            "{type=FilterBitmap, enabled=true}",
+                                                                            "{type=Shader, id=0}"
                                                                         ]
                                                                     }
                                                                 },

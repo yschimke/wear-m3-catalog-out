@@ -4,19 +4,17 @@
   <g id="Root">
     <clipPath id="clip-0"><rect x="55" y="48" width="344" height="104" rx="52" ry="52"/></clipPath>
     <g id="Row">
-      <image href="ideal__outlined-icon-extra-large__compact.figma-raster/5781.png" x="55" y="48" width="344" height="104" clip-path="url(#clip-0)"/>
+      <image href="ideal__outlined-icon-extra-large__compact.figma-raster/5760.png" x="55" y="48" width="344" height="104" clip-path="url(#clip-0)"/>
       <g clip-path="url(#clip-0)">
         <g id="Box">
           <g id="Spacer">
             <g transform="translate(83 64) scale(1 1)">
-              <path d="M0,0 H72 V72 H0 Z" fill="none"/>
               <path d="M4.64,30.46 A31.85,31.85 0 0 1 30.46,4.64" fill="none" stroke="#332E3C" stroke-width="8.3" stroke-linecap="round"/>
               <path d="M41.54,4.64 A31.85,31.85 0 1 1 4.64,41.54" fill="none" stroke="#E9DDFF" stroke-width="8.3" stroke-linecap="round"/>
-              <path d="M0,0 H72 V72 H0 Z" fill="none"/>
             </g>
           </g>
           <g id="Spacer">
-            <image href="ideal__outlined-icon-extra-large__compact.figma-raster/5788.png" x="94" y="75" width="50" height="50"/>
+            <image href="ideal__outlined-icon-extra-large__compact.figma-raster/5767.png" x="94" y="75" width="50" height="50"/>
           </g>
         </g>
         <g id="Box">
