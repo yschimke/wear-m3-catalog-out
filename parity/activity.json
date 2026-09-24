@@ -1,11 +1,123 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-23T06:00:54.075Z",
+  "generatedAt": "2026-09-24T14:30:55.142Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "c42ec736a37bc8ecf4ae7a133e9c1f5e99b3b69f",
+        "subject": "build: resolve and publish the CMP port Maven trees from wear-m3-catalog-out (#607)",
+        "at": "2026-09-24T15:22:57+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2577178f4a6060292b4c8bfe5033e4f38ee0bae4",
+        "subject": "fix(remote-m3): frame each preview pane in its host shape, over a clear canvas (#603)",
+        "at": "2026-09-24T14:15:41+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5af270b8753ac6c85550970943b2387a06b28553",
+        "subject": "fix(remote-compose): keep the Packages step running to its 409 check (#606)",
+        "at": "2026-09-24T13:52:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1a975f6c1e0f375440c4dfb0d8512411a16526d2",
+        "subject": "fix(remote-compose): let already-published Packages versions through, so the branch is pushed (#605)",
+        "at": "2026-09-24T13:47:09+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d211957d27913025c126b35b895f406d66018e86",
+        "subject": "fix(remote-compose): republish the Maven branch when Packages already has the version (#602)",
+        "at": "2026-09-24T13:42:16+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1587213eb174a13fbc89baf350fc8501f9032b86",
+        "subject": "Fix Remote Compose drawWithContent composition (#599)",
+        "at": "2026-09-23T22:20:04+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a32ba6c486f0b3347c51337da57e21a3453ac4f1",
+        "subject": "fix(remote-m3): use latest outlined card borders (#600)",
+        "at": "2026-09-23T22:18:05+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3d98ff1a568196ba7344d3dd1cef86bd7e62c916",
+        "subject": "chore(remote-m3): bump AndroidX snapshot (#597)",
+        "at": "2026-09-23T21:21:59+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c98138ed0db02b8a566a7a7902d3f70d9e9ea9e9",
+        "subject": "fix(ui-builder): parse Wasm color literals as ARGB (#596)",
+        "at": "2026-09-23T21:21:45+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ac48951d52543aba6a2b2ad05b5aacd36ea7c622",
+        "subject": "fix: isolate preview publishing credentials (#593)",
+        "at": "2026-09-23T12:17:38+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7a30b4f31eeebcd424896b038acab7dc7824258c",
+        "subject": "build: publish preview branches to output repository (#592)",
+        "at": "2026-09-23T07:38:33+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "00460482f08fc852a3825100b64c3b7b930dccd3",
+        "subject": "build: publish parity artifacts to output repository (#591)",
+        "at": "2026-09-23T07:02:41+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "62e93a0fa7a6898067437b5d2a9902af8f86a561",
+        "subject": "fix(ci): read served indexes from output repository (#590)",
+        "at": "2026-09-23T06:49:44+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "93a034a89208becbe54674ce7a758b37f68945b3",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:third-party-rc-embedded-player to v1.70.0 (#589)",
+        "at": "2026-09-23T06:47:46+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f9ac28d234007d4f1b5c77153021b4e55a27660f",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.41.0 (#588)",
@@ -370,118 +482,6 @@
         "sha": "a9fd123d0ae67db28aca6bbf913fc0507bfcda52",
         "subject": "feat(remote-catalog): declare hybrid preview adapters (#540)",
         "at": "2026-09-20T14:43:18+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dd21ca4fc246ecf1954371160a3f4bff62206d12",
-        "subject": "feat(ui-builder): add combined-build Wear renderer (#539)",
-        "at": "2026-09-20T14:09:17+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "97db50aa34aacc1326ce70e1f61589b7dd1c88e7",
-        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.20.0 (#536)",
-        "at": "2026-09-20T11:55:13Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "529945813fdcbe747ee26c23d4d1da6884de38d3",
-        "subject": "fix(deps): update compose-ai-tools to v2.19.0 (#533)",
-        "at": "2026-09-20T12:11:37+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6030ba6c98c79d6409dc2648c9f634239b6d8d14",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.29.0 (#534)",
-        "at": "2026-09-20T12:11:21+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "36f5bbdfa1c563a04efac4470ce040c2d2040b3d",
-        "subject": "fix(remote): restore released dependency lane (#535)",
-        "at": "2026-09-20T12:11:09+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f74749a8b5528cc039176bea626ba25ab0720d65",
-        "subject": "fix(remote): update embedded player render expectations (#531)",
-        "at": "2026-09-20T10:00:21+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bfc1312cae8e5a66b11d208169dbe8f254810665",
-        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.19.0 (#532)",
-        "at": "2026-09-20T08:37:17Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4e8706f73d0ffea2702f752b1e359a98cfbec258",
-        "subject": "chore: update Remote Compose snapshot (#530)",
-        "at": "2026-09-20T08:45:50+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f0926b72d60fb0410c4095de15c7852fc59bdabb",
-        "subject": "docs: refresh the component map against the published sheets (#525)",
-        "at": "2026-09-20T07:05:54+01:00",
-        "author": "github-actions[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e0f8de079dc06cf2d4ce4837daee0728343a40f2",
-        "subject": "fix: render remote text on the builder canvas (#529)",
-        "at": "2026-09-20T07:05:38+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "caa5a02776131e6230fc801ada6c37c79344f14a",
-        "subject": "fix: let the desktop lane render on macOS, and stop claiming the Wasm canvas is all lookalikes (#526)",
-        "at": "2026-09-19T17:00:46+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3139b5bf68f662ef381f90a9075508f12bf3962a",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.28.0 (#527)",
-        "at": "2026-09-19T14:33:45Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b89591b851c251df7df3cb78a751a1ceb6588613",
-        "subject": "feat(catalog): carry the two wear-m3 UI builder templates (#524)",
-        "at": "2026-09-19T07:50:12+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c608149e163058dda7a98c03b4d895fd55d95e8e",
-        "subject": "feat(remote-catalog): carry the four Wear widget UI builder templates (#522)",
-        "at": "2026-09-18T23:13:11+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
