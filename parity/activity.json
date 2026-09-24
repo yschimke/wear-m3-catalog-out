@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-24T19:35:44.267Z",
+  "generatedAt": "2026-09-24T20:38:37.884Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "698f06cfadc8e0574cda4a522977b9c265014b5d",
+        "subject": "test: fix the CMP Android trial harness; pin rc-player-compose 1.74.0 (#610)",
+        "at": "2026-09-24T21:20:49+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d9cab907e3ea19880ec8098f202e3c40ea8d2da8",
+        "subject": "ci: publish generated branches to wear-m3-catalog-out (#611)",
+        "at": "2026-09-24T21:14:10+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "1b7f075db3032df79768c275f5f10f92988350ed",
         "subject": "test: replay the remote-m3 sheet through the CMP player on Android (#609)",
@@ -466,22 +482,6 @@
         "sha": "256869cc224b67d9d74bb9ad308bb39315c1fbea",
         "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.21.0 (#543)",
         "at": "2026-09-20T14:21:56Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "645bd5572e0b4e6a7b84142d581ff428fa6b3078",
-        "subject": "fix(deps): update compose-ai-tools to v2.20.0 (#537)",
-        "at": "2026-09-20T14:02:22Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0710f633b9c3d68d257781926d1f6a7ada810bdb",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.30.0 (#538)",
-        "at": "2026-09-20T13:54:20Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
