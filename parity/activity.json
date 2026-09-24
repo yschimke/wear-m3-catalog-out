@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-24T20:38:37.884Z",
+  "generatedAt": "2026-09-24T21:46:38.651Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "573935e055be32666682733220766a5361bd25b2",
+        "subject": "chore(remote): use the released CapturingWearWidgetPreview (#613)",
+        "at": "2026-09-24T22:39:05+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "698f06cfadc8e0574cda4a522977b9c265014b5d",
         "subject": "test: fix the CMP Android trial harness; pin rc-player-compose 1.74.0 (#610)",
@@ -475,14 +483,6 @@
         "subject": "feat(ui-builder): move Wear headers into catalog runtime (#541)",
         "at": "2026-09-20T15:24:55+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "256869cc224b67d9d74bb9ad308bb39315c1fbea",
-        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.21.0 (#543)",
-        "at": "2026-09-20T14:21:56Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
