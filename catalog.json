@@ -68270,8 +68270,8 @@
     "androidx.compose.remote:remote-creation-compose",
     "androidx.glance.wear:wear"
   ],
-  "renderer": "compose-preview 2.22.0",
-  "generatedAt": "2026-09-24T21:54:17.879Z",
+  "renderer": "compose-preview 2.23.0",
+  "generatedAt": "2026-09-24T22:40:04.404Z",
   "display": {
     "surface": "dark",
     "hero": "AppCard"
@@ -68295,7 +68295,7 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "remote-m3-p3-573935e055be",
+    "runtimeId": "remote-m3-p3-aa5adf6bd040",
     "protocolVersion": 2,
     "integritySha256": "a260c94d0d3299d9292df8151d525abc2aa0290e9bb259ff762e3a4f7cf8578b"
   },
