@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-24T14:30:55.142Z",
+  "generatedAt": "2026-09-24T19:35:44.267Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "1b7f075db3032df79768c275f5f10f92988350ed",
+        "subject": "test: replay the remote-m3 sheet through the CMP player on Android (#609)",
+        "at": "2026-09-24T20:28:41+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c42ec736a37bc8ecf4ae7a133e9c1f5e99b3b69f",
         "subject": "build: resolve and publish the CMP port Maven trees from wear-m3-catalog-out (#607)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.30.0 (#538)",
         "at": "2026-09-20T13:54:20Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a9fd123d0ae67db28aca6bbf913fc0507bfcda52",
-        "subject": "feat(remote-catalog): declare hybrid preview adapters (#540)",
-        "at": "2026-09-20T14:43:18+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
