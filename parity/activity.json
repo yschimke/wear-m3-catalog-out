@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-24T23:05:04.799Z",
+  "generatedAt": "2026-09-25T05:52:42.399Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "27795cadb5bf43f767ce87e2e855c6ad7d2303b2",
+        "subject": "fix(remote): key the adapter's path cache on raw float bits (#619)",
+        "at": "2026-09-25T06:44:07+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "bd7c81e5635d6d1d2f8aaba4b74976cf35855616",
         "subject": "fix(remote): reset paint at every layout content start in the vendored writers (#615)",
@@ -475,14 +483,6 @@
         "subject": "feat(ui-builder): move Wear controls into runtime (#547)",
         "at": "2026-09-20T23:25:20+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8a74d54cda578e29a8513737e6d19abf7a3d764c",
-        "subject": "chore(deps): update compose-ai-tools to v2.21.1 (#546)",
-        "at": "2026-09-20T20:50:33Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
