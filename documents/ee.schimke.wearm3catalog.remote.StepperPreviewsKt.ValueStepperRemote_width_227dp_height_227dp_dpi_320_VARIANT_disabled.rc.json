@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 5053
+        "byteLength": 5302
     },
     "operations": [
         {
@@ -2331,7 +2331,7 @@
                                                                 },
                                                                 {
                                                                     "type": "ComponentValue",
-                                                                    "valueId": 141,
+                                                                    "valueId": 142,
                                                                     "componentValueType": "WIDTH",
                                                                     "componentId": -1000012
                                                                 },
@@ -2340,9 +2340,9 @@
                                                                         "EXPRESSION"
                                                                     ],
                                                                     "type": "FloatExpression",
-                                                                    "id": 142,
+                                                                    "id": 143,
                                                                     "srcValues": [
-                                                                        "@141",
+                                                                        "@142",
                                                                         24.0,
                                                                         "@3211268"
                                                                     ],
@@ -2350,7 +2350,7 @@
                                                                 },
                                                                 {
                                                                     "type": "ComponentValue",
-                                                                    "valueId": 143,
+                                                                    "valueId": 144,
                                                                     "componentValueType": "HEIGHT",
                                                                     "componentId": -1000012
                                                                 },
@@ -2359,9 +2359,9 @@
                                                                         "EXPRESSION"
                                                                     ],
                                                                     "type": "FloatExpression",
-                                                                    "id": 144,
+                                                                    "id": 145,
                                                                     "srcValues": [
-                                                                        "@143",
+                                                                        "@144",
                                                                         24.0,
                                                                         "@3211268"
                                                                     ],
@@ -2369,12 +2369,12 @@
                                                                 },
                                                                 {
                                                                     "scaleX": [
-                                                                        "@142",
-                                                                        "@142"
+                                                                        "@143",
+                                                                        "@143"
                                                                     ],
                                                                     "scaleY": [
-                                                                        "@144",
-                                                                        "@144"
+                                                                        "@145",
+                                                                        "@145"
                                                                     ],
                                                                     "pivotX": [
                                                                         "NaN",
@@ -2409,7 +2409,7 @@
                                                                 },
                                                                 {
                                                                     "type": "PathData",
-                                                                    "id": 145,
+                                                                    "id": 146,
                                                                     "path": [
                                                                         "@10",
                                                                         7.41,
@@ -2449,7 +2449,7 @@
                                                                 },
                                                                 {
                                                                     "type": "DrawPath",
-                                                                    "id": 145,
+                                                                    "id": 146,
                                                                     "start": 0.0,
                                                                     "end": 1.0
                                                                 },

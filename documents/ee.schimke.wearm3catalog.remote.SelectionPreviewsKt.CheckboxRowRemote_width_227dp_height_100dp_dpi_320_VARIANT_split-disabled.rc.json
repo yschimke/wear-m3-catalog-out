@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 2531
+        "byteLength": 2780
     },
     "operations": [
         {
@@ -1056,7 +1056,7 @@
                                                         "EXPRESSION"
                                                     ],
                                                     "type": "FloatExpression",
-                                                    "id": 80,
+                                                    "id": 81,
                                                     "srcValues": [
                                                         "@52",
                                                         0.12,
@@ -1066,11 +1066,11 @@
                                                 },
                                                 {
                                                     "type": "ColorExpression",
-                                                    "id": 81,
+                                                    "id": 82,
                                                     "mode": "ARGB",
                                                     "a": [
-                                                        "@80",
-                                                        "@80"
+                                                        "@81",
+                                                        "@81"
                                                     ],
                                                     "r": [
                                                         "@54",
@@ -1088,11 +1088,11 @@
                                                 {
                                                     "type": "ColorConstant",
                                                     "color": "0x00000000",
-                                                    "colorId": 82
+                                                    "colorId": 83
                                                 },
                                                 {
                                                     "type": "IntegerConstant",
-                                                    "id": 83,
+                                                    "id": 84,
                                                     "value": 1
                                                 },
                                                 {
@@ -1100,30 +1100,30 @@
                                                         "EXPRESSION"
                                                     ],
                                                     "type": "FloatExpression",
-                                                    "id": 84,
+                                                    "id": 85,
                                                     "srcValues": [
                                                         0.0,
                                                         1.0,
-                                                        "@83",
+                                                        "@84",
                                                         "@3211290"
                                                     ],
                                                     "animation": null
                                                 },
                                                 {
                                                     "type": "ColorExpression",
-                                                    "id": 85,
+                                                    "id": 86,
                                                     "mode": "TWEEN",
                                                     "startColor": [
-                                                        81.0,
-                                                        81.0
-                                                    ],
-                                                    "endColor": [
                                                         82.0,
                                                         82.0
                                                     ],
+                                                    "endColor": [
+                                                        83.0,
+                                                        83.0
+                                                    ],
                                                     "tween": [
-                                                        "@84",
-                                                        "@84"
+                                                        "@85",
+                                                        "@85"
                                                     ]
                                                 },
                                                 {
@@ -1131,7 +1131,7 @@
                                                     "paintBundle": {
                                                         "type": "PaintBundle",
                                                         "operations": [
-                                                            "{type=ColorId, id=85}",
+                                                            "{type=ColorId, id=86}",
                                                             "{type=StrokeWidth, width={type=Value, value=4.0}}",
                                                             "{type=StrokeCap, cap=0}",
                                                             "{type=StrokeJoin, strokeJoin=0}",
@@ -1176,19 +1176,19 @@
                                                 },
                                                 {
                                                     "type": "ColorExpression",
-                                                    "id": 86,
+                                                    "id": 87,
                                                     "mode": "TWEEN",
                                                     "startColor": [
+                                                        83.0,
+                                                        83.0
+                                                    ],
+                                                    "endColor": [
                                                         82.0,
                                                         82.0
                                                     ],
-                                                    "endColor": [
-                                                        81.0,
-                                                        81.0
-                                                    ],
                                                     "tween": [
-                                                        "@84",
-                                                        "@84"
+                                                        "@85",
+                                                        "@85"
                                                     ]
                                                 },
                                                 {
@@ -1196,7 +1196,7 @@
                                                     "paintBundle": {
                                                         "type": "PaintBundle",
                                                         "operations": [
-                                                            "{type=ColorId, id=86}",
+                                                            "{type=ColorId, id=87}",
                                                             "{type=StrokeWidth, width={type=Value, value=0.0}}",
                                                             "{type=Style, style=0}"
                                                         ]
@@ -1232,27 +1232,27 @@
                                                 {
                                                     "type": "ColorConstant",
                                                     "color": "0xff000000",
-                                                    "colorId": 87
+                                                    "colorId": 88
                                                 },
                                                 {
                                                     "type": "NamedVariable",
-                                                    "varId": 87,
+                                                    "varId": 88,
                                                     "varName": "USER:WearM3.background",
                                                     "varType": "COLOR_TYPE"
                                                 },
                                                 {
                                                     "type": "COLOR_ALPHA",
-                                                    "id": 88,
-                                                    "colorId": 87
+                                                    "id": 89,
+                                                    "colorId": 88
                                                 },
                                                 {
                                                     "$tags": [
                                                         "EXPRESSION"
                                                     ],
                                                     "type": "FloatExpression",
-                                                    "id": 89,
+                                                    "id": 90,
                                                     "srcValues": [
-                                                        "@88",
+                                                        "@89",
                                                         0.38,
                                                         "@3211267"
                                                     ],
@@ -1260,55 +1260,55 @@
                                                 },
                                                 {
                                                     "type": "COLOR_RED",
-                                                    "id": 90,
-                                                    "colorId": 87
+                                                    "id": 91,
+                                                    "colorId": 88
                                                 },
                                                 {
                                                     "type": "COLOR_GREEN",
-                                                    "id": 91,
-                                                    "colorId": 87
+                                                    "id": 92,
+                                                    "colorId": 88
                                                 },
                                                 {
                                                     "type": "COLOR_BLUE",
-                                                    "id": 92,
-                                                    "colorId": 87
-                                                },
-                                                {
-                                                    "type": "ColorExpression",
                                                     "id": 93,
-                                                    "mode": "ARGB",
-                                                    "a": [
-                                                        "@89",
-                                                        "@89"
-                                                    ],
-                                                    "r": [
-                                                        "@90",
-                                                        "@90"
-                                                    ],
-                                                    "g": [
-                                                        "@91",
-                                                        "@91"
-                                                    ],
-                                                    "b": [
-                                                        "@92",
-                                                        "@92"
-                                                    ]
+                                                    "colorId": 88
                                                 },
                                                 {
                                                     "type": "ColorExpression",
                                                     "id": 94,
+                                                    "mode": "ARGB",
+                                                    "a": [
+                                                        "@90",
+                                                        "@90"
+                                                    ],
+                                                    "r": [
+                                                        "@91",
+                                                        "@91"
+                                                    ],
+                                                    "g": [
+                                                        "@92",
+                                                        "@92"
+                                                    ],
+                                                    "b": [
+                                                        "@93",
+                                                        "@93"
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "ColorExpression",
+                                                    "id": 95,
                                                     "mode": "TWEEN",
                                                     "startColor": [
-                                                        82.0,
-                                                        82.0
+                                                        83.0,
+                                                        83.0
                                                     ],
                                                     "endColor": [
-                                                        93.0,
-                                                        93.0
+                                                        94.0,
+                                                        94.0
                                                     ],
                                                     "tween": [
-                                                        "@84",
-                                                        "@84"
+                                                        "@85",
+                                                        "@85"
                                                     ]
                                                 },
                                                 {
@@ -1316,7 +1316,7 @@
                                                     "paintBundle": {
                                                         "type": "PaintBundle",
                                                         "operations": [
-                                                            "{type=ColorId, id=94}",
+                                                            "{type=ColorId, id=95}",
                                                             "{type=StrokeWidth, width={type=Value, value=4.0}}",
                                                             "{type=StrokeCap, cap=1}",
                                                             "{type=Style, style=1}"

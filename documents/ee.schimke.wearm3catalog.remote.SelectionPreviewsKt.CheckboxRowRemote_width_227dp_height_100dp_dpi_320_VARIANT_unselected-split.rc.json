@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 2834
+        "byteLength": 3083
     },
     "operations": [
         {
@@ -1142,36 +1142,36 @@
                                                 {
                                                     "type": "ColorConstant",
                                                     "color": "0xff948f9a",
-                                                    "colorId": 90
+                                                    "colorId": 91
                                                 },
                                                 {
                                                     "type": "NamedVariable",
-                                                    "varId": 90,
+                                                    "varId": 91,
                                                     "varName": "USER:WearM3.outline",
                                                     "varType": "COLOR_TYPE"
                                                 },
                                                 {
                                                     "type": "ColorConstant",
                                                     "color": "0xffe9ddff",
-                                                    "colorId": 91
+                                                    "colorId": 92
                                                 },
                                                 {
                                                     "type": "NamedVariable",
-                                                    "varId": 91,
+                                                    "varId": 92,
                                                     "varName": "USER:WearM3.primary",
                                                     "varType": "COLOR_TYPE"
                                                 },
                                                 {
                                                     "type": "ColorExpression",
-                                                    "id": 92,
+                                                    "id": 93,
                                                     "mode": "TWEEN",
                                                     "startColor": [
-                                                        90.0,
-                                                        90.0
-                                                    ],
-                                                    "endColor": [
                                                         91.0,
                                                         91.0
+                                                    ],
+                                                    "endColor": [
+                                                        92.0,
+                                                        92.0
                                                     ],
                                                     "tween": [
                                                         "@55",
@@ -1181,19 +1181,19 @@
                                                 {
                                                     "type": "ColorConstant",
                                                     "color": "0x00000000",
-                                                    "colorId": 93
+                                                    "colorId": 94
                                                 },
                                                 {
                                                     "type": "ColorExpression",
-                                                    "id": 94,
+                                                    "id": 95,
                                                     "mode": "TWEEN",
                                                     "startColor": [
-                                                        92.0,
-                                                        92.0
-                                                    ],
-                                                    "endColor": [
                                                         93.0,
                                                         93.0
+                                                    ],
+                                                    "endColor": [
+                                                        94.0,
+                                                        94.0
                                                     ],
                                                     "tween": [
                                                         "@55",
@@ -1205,7 +1205,7 @@
                                                     "paintBundle": {
                                                         "type": "PaintBundle",
                                                         "operations": [
-                                                            "{type=ColorId, id=94}",
+                                                            "{type=ColorId, id=95}",
                                                             "{type=StrokeWidth, width={type=Value, value=4.0}}",
                                                             "{type=StrokeCap, cap=0}",
                                                             "{type=StrokeJoin, strokeJoin=0}",
@@ -1250,15 +1250,15 @@
                                                 },
                                                 {
                                                     "type": "ColorExpression",
-                                                    "id": 95,
+                                                    "id": 96,
                                                     "mode": "TWEEN",
                                                     "startColor": [
-                                                        93.0,
-                                                        93.0
+                                                        94.0,
+                                                        94.0
                                                     ],
                                                     "endColor": [
-                                                        92.0,
-                                                        92.0
+                                                        93.0,
+                                                        93.0
                                                     ],
                                                     "tween": [
                                                         "@55",
@@ -1270,7 +1270,7 @@
                                                     "paintBundle": {
                                                         "type": "PaintBundle",
                                                         "operations": [
-                                                            "{type=ColorId, id=95}",
+                                                            "{type=ColorId, id=96}",
                                                             "{type=StrokeWidth, width={type=Value, value=0.0}}",
                                                             "{type=Style, style=0}"
                                                         ]
@@ -1305,11 +1305,11 @@
                                                 },
                                                 {
                                                     "type": "ColorExpression",
-                                                    "id": 96,
+                                                    "id": 97,
                                                     "mode": "TWEEN",
                                                     "startColor": [
-                                                        93.0,
-                                                        93.0
+                                                        94.0,
+                                                        94.0
                                                     ],
                                                     "endColor": [
                                                         84.0,
@@ -1325,7 +1325,7 @@
                                                     "paintBundle": {
                                                         "type": "PaintBundle",
                                                         "operations": [
-                                                            "{type=ColorId, id=96}",
+                                                            "{type=ColorId, id=97}",
                                                             "{type=StrokeWidth, width={type=Value, value=4.0}}",
                                                             "{type=StrokeCap, cap=1}",
                                                             "{type=Style, style=1}"

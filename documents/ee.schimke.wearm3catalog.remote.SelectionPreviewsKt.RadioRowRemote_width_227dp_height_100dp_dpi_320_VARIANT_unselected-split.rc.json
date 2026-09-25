@@ -6,7 +6,7 @@
         "contentDescription": "",
         "profiles": 512,
         "densityAtGeneration": 2.0,
-        "byteLength": 2542
+        "byteLength": 2791
     },
     "operations": [
         {
@@ -1035,36 +1035,36 @@
                                                 {
                                                     "type": "ColorConstant",
                                                     "color": "0xff948f9a",
-                                                    "colorId": 82
+                                                    "colorId": 83
                                                 },
                                                 {
                                                     "type": "NamedVariable",
-                                                    "varId": 82,
+                                                    "varId": 83,
                                                     "varName": "USER:WearM3.outline",
                                                     "varType": "COLOR_TYPE"
                                                 },
                                                 {
                                                     "type": "ColorConstant",
                                                     "color": "0xffe9ddff",
-                                                    "colorId": 83
+                                                    "colorId": 84
                                                 },
                                                 {
                                                     "type": "NamedVariable",
-                                                    "varId": 83,
+                                                    "varId": 84,
                                                     "varName": "USER:WearM3.primary",
                                                     "varType": "COLOR_TYPE"
                                                 },
                                                 {
                                                     "type": "ColorExpression",
-                                                    "id": 84,
+                                                    "id": 85,
                                                     "mode": "TWEEN",
                                                     "startColor": [
-                                                        82.0,
-                                                        82.0
-                                                    ],
-                                                    "endColor": [
                                                         83.0,
                                                         83.0
+                                                    ],
+                                                    "endColor": [
+                                                        84.0,
+                                                        84.0
                                                     ],
                                                     "tween": [
                                                         "@55",
@@ -1076,7 +1076,7 @@
                                                     "paintBundle": {
                                                         "type": "PaintBundle",
                                                         "operations": [
-                                                            "{type=ColorId, id=84}",
+                                                            "{type=ColorId, id=85}",
                                                             "{type=StrokeWidth, width={type=Value, value=4.0}}",
                                                             "{type=StrokeCap, cap=0}",
                                                             "{type=StrokeJoin, strokeJoin=0}",
@@ -1110,19 +1110,19 @@
                                                 {
                                                     "type": "ColorConstant",
                                                     "color": "0x00000000",
-                                                    "colorId": 85
+                                                    "colorId": 86
                                                 },
                                                 {
                                                     "type": "ColorExpression",
-                                                    "id": 86,
+                                                    "id": 87,
                                                     "mode": "TWEEN",
                                                     "startColor": [
-                                                        85.0,
-                                                        85.0
+                                                        86.0,
+                                                        86.0
                                                     ],
                                                     "endColor": [
-                                                        84.0,
-                                                        84.0
+                                                        85.0,
+                                                        85.0
                                                     ],
                                                     "tween": [
                                                         "@55",
@@ -1134,7 +1134,7 @@
                                                     "paintBundle": {
                                                         "type": "PaintBundle",
                                                         "operations": [
-                                                            "{type=ColorId, id=86}",
+                                                            "{type=ColorId, id=87}",
                                                             "{type=StrokeWidth, width={type=Value, value=0.0}}",
                                                             "{type=Style, style=0}"
                                                         ]
@@ -1145,7 +1145,7 @@
                                                         "EXPRESSION"
                                                     ],
                                                     "type": "FloatExpression",
-                                                    "id": 87,
+                                                    "id": 88,
                                                     "srcValues": [
                                                         0.0,
                                                         10.0,
@@ -1164,8 +1164,8 @@
                                                         24.0
                                                     ],
                                                     "radius": [
-                                                        "@87",
-                                                        "@87"
+                                                        "@88",
+                                                        "@88"
                                                     ],
                                                     "type": "DrawCircle"
                                                 },
