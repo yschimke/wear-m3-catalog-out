@@ -1,0 +1,102 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../remote-write-core/4307936-ps17-cmp03/remote-write-core-4307936-ps17-cmp03.module",
+    "group": "ee.schimke.remotecompose",
+    "module": "remote-write-core",
+    "version": "4307936-ps17-cmp03",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "wasmJsApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "remote-write-core-wasm-js-4307936-ps17-cmp03.klib",
+          "url": "remote-write-core-wasm-js-4307936-ps17-cmp03.klib",
+          "size": 200578,
+          "sha512": "829a6524c8d36be9746619bcd926043fc5a77e0e38b0c8344d4f45774a0b905d39da40c918c4ffb71ffb320f786c338d67a288bf1fd59e30c028d4029bd9c23b",
+          "sha256": "240f48dbcb6f0917c9ff53c690d5c5ccbeb1c9afb29efc5f240a2370649b005b",
+          "sha1": "8d264c8d0bc99d5a38995939293c96c554d17732",
+          "md5": "f157c3294ba9d428ebba6e7604795b9a"
+        }
+      ]
+    },
+    {
+      "name": "wasmJsRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "remote-write-core-wasm-js-4307936-ps17-cmp03.klib",
+          "url": "remote-write-core-wasm-js-4307936-ps17-cmp03.klib",
+          "size": 200578,
+          "sha512": "829a6524c8d36be9746619bcd926043fc5a77e0e38b0c8344d4f45774a0b905d39da40c918c4ffb71ffb320f786c338d67a288bf1fd59e30c028d4029bd9c23b",
+          "sha256": "240f48dbcb6f0917c9ff53c690d5c5ccbeb1c9afb29efc5f240a2370649b005b",
+          "sha1": "8d264c8d0bc99d5a38995939293c96c554d17732",
+          "md5": "f157c3294ba9d428ebba6e7604795b9a"
+        }
+      ]
+    },
+    {
+      "name": "wasmJsSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "files": [
+        {
+          "name": "remote-write-core-wasm-js-4307936-ps17-cmp03-sources.jar",
+          "url": "remote-write-core-wasm-js-4307936-ps17-cmp03-sources.jar",
+          "size": 24582,
+          "sha512": "c805ce35b772e3e92c462601a64679b67cd4e9b703c0fc85e8b9311d077bad001dd901c59f0711c143025a8e4c3d7854456f7c722dfcbc2052392283d25894ee",
+          "sha256": "d7c3b5d16b84ff1230ce03237cd77f01d609c18fbe8b0f426b385e5583846814",
+          "sha1": "90d0dade5d6faa3d831e15ffe2876f91b142a0a6",
+          "md5": "675f5fdd22bae9380a45c4d049139100"
+        }
+      ]
+    }
+  ]
+}
