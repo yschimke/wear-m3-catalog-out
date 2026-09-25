@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-25T05:52:42.399Z",
+  "generatedAt": "2026-09-25T07:27:13.650Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "0229ec65f611f2ec16e32323543a605dc8f737bd",
+        "subject": "fix(remote): publish the port as cmp04 so the renderer gets encodePng (#621)",
+        "at": "2026-09-25T08:20:24+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4868965ec1531f3c7e7ce98661b7e546ea81dc7e",
+        "subject": "fix(remote-m3): play real widget designs in the device previews (#620)",
+        "at": "2026-09-25T07:52:31+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "27795cadb5bf43f767ce87e2e855c6ad7d2303b2",
         "subject": "fix(remote): key the adapter's path cache on raw float bits (#619)",
@@ -467,22 +483,6 @@
         "subject": "chore(deps): pin dependency java-jdk to 21.0.12+8.0.lts (#554)",
         "at": "2026-09-21T00:14:23Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3cf5e50e923dcf1650236f24782fe024968c7d70",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:third-party-rc-embedded-player to v1.69.0 (#558)",
-        "at": "2026-09-21T00:13:37Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3032ab1438ef6457525200e3e3f076a0723b6fb3",
-        "subject": "feat(ui-builder): move Wear controls into runtime (#547)",
-        "at": "2026-09-20T23:25:20+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
