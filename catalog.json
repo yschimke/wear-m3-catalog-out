@@ -68271,7 +68271,7 @@
     "androidx.glance.wear:wear"
   ],
   "renderer": "compose-preview 2.23.0",
-  "generatedAt": "2026-09-25T09:05:08.965Z",
+  "generatedAt": "2026-09-25T12:38:33.257Z",
   "display": {
     "surface": "dark",
     "hero": "AppCard"
@@ -68295,9 +68295,9 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "remote-m3-p3-4a7e7e54059c",
+    "runtimeId": "remote-m3-p3-d971c236c20b",
     "protocolVersion": 2,
-    "integritySha256": "5865932b1e4862e6d5cd49fe58730608cac9a46cac00545f7216163b2c27e8f4"
+    "integritySha256": "e7d443bc76c606ec246a2ace06ee89cfcda352df82657aa2ce24046cb56efac5"
   },
   "source": {
     "repo": "yschimke/wear-m3-catalog",
