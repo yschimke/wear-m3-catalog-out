@@ -18212,7 +18212,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320-f9961794.png",
-    "sha256": "7e7ff79dff3ba733364aaee5f69b8c08b5c55cd2eb00ffc3d680b794e0ef2a73",
+    "sha256": "182bbe4e87c33bd184b835bdc6b6a61134fde04c0b33429f786dd6c08a2f5f78",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_content-image": {
@@ -18220,7 +18220,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_content_image-3f89228c.png",
-    "sha256": "238ef131918127c07f778aaefbdc39833f7c541e64c33a871c7d0dd03f94f400",
+    "sha256": "894e38721f1a404783f1ecc0ba6b88647c51e8c9175cbf9ae4805445e5eeacbb",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_gallery-1": {
@@ -18228,7 +18228,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_gallery_1-9a51b148.png",
-    "sha256": "6277335ac1dfbe5884bfad12c35697d3888790aee13994fb092d5812e00b6c19",
+    "sha256": "69e86ee919da321f94d7a26970b0e49f80325603f6e608d1df914607c9003098",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_gallery-2": {
@@ -18236,7 +18236,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_gallery_2-9e66a910.png",
-    "sha256": "f69dac9806c2889275a071cf9f117024f5b3cac39f0c16c1e056d5ea434249dd",
+    "sha256": "68e47068c00e1bbb76f8abf142a806150500c005fe26c9c2d70a2b7c54e230b4",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_icon": {
@@ -18244,7 +18244,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon-8627e3ff.png",
-    "sha256": "7e86e36175f449c0bad75526675269cee818aa2a9ea5df9536d2eece98b2473f",
+    "sha256": "b6cd64b5462595e628eaeafb432f00aecccf968775159d9da76c5babff26b336",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_icon-content-image": {
@@ -18252,7 +18252,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon_content_image-f0594209.png",
-    "sha256": "ab52b43ad379bbc989c4facd4d9e1041577c08c8fb0fdc284c3aee9c2f05c4ef",
+    "sha256": "dfd9fab75e1d774c9af9e1d664471d5409f817913f25a6fd8caff2a969ef4943",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_icon-gallery-1": {
@@ -18260,7 +18260,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon_gallery_1-6773f027.png",
-    "sha256": "8675177160072e12de5d5c186ed7cc4742c1252e69039911abbb87b95cefa102",
+    "sha256": "92833211825b36199ff6b4e17d3a53eae1ed91c3e47a8f5a30da82b8adb2662c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_icon-gallery-2": {
@@ -18268,7 +18268,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon_gallery_2-de916c2a.png",
-    "sha256": "3a2d3366b1d6f2cba0857742dbc6085c9536a3deb194c851ae07c6adfb6c4498",
+    "sha256": "4febf10c9b4cebd9f049aa8b94ff3d75d2dd8c472221f3926f57dd2990b9bf89",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_icon-outlined": {
@@ -18276,7 +18276,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon_outlined-becc8011.png",
-    "sha256": "3575bc5cf0c75e303c5436d8c2a188c379598b4048435eb1da58cc07cba323e0",
+    "sha256": "4cddf9bad6abe31f7062f8b77596e4d392c3a9295d01ec0bd1ccaa9dee8bddfa",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_icon-outlined-content-image": {
@@ -18284,7 +18284,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon_outlined_content_ima-0da5ae2a.png",
-    "sha256": "06512dc5c74d59a72099613e178e44525ca3b32c63bb1f54cff6d37d98a975ca",
+    "sha256": "9628416d2307af183f97b6f5898d57d0674d2fedc240f3060cda2ad790e87dd9",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_icon-outlined-gallery-1": {
@@ -18292,7 +18292,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon_outlined_gallery_1-b9e9006e.png",
-    "sha256": "b5ba147b1e63109a1a7edb793ae8ecfb2ab4ae3a9a3e8797dc2a37cda058d10a",
+    "sha256": "8e8ebc2eab3cfb42a9edc1dc793cc15fb8777fe8a985be9f9e9adfedbc798d36",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_icon-outlined-gallery-2": {
@@ -18300,7 +18300,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_icon_outlined_gallery_2-e9655100.png",
-    "sha256": "af13dd089bf609012de3d6e22efc51c826e6c8bd866107c430304b8cc8d65d61",
+    "sha256": "116cf0735494bceab25a3056c07e6026933d47835dbc2606093c70769433b00f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_no-app-image": {
@@ -18308,7 +18308,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_no_app_image-5661f860.png",
-    "sha256": "b757ae1f7a0148cda3747e62659adbf60c93c7f9121971681512dae6f2cdfb47",
+    "sha256": "666ba895be5788f0832320d504ebf13cc37e9c4f22c65bda1048245168ba9b5e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_outlined": {
@@ -18316,7 +18316,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_outlined-308a5a2a.png",
-    "sha256": "165eb87504fcc6c710285370e82d74819ed65a735ff1e1439da30fb9b481442b",
+    "sha256": "947f49b904339af6916408f6a284a6338dcb9e56a4ec6c6bacea712721244cd0",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_outlined-content-image": {
@@ -18324,7 +18324,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_outlined_content_image-55d71728.png",
-    "sha256": "5ef9fce3bb9d9dc1e439eacf6da27317527e214d5cede23c99becea2c6c5b7ae",
+    "sha256": "909b903159bfb47edbc4f869b539d049a27d494e12c1f86132233cbc078a4e8d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_outlined-gallery-1": {
@@ -18332,7 +18332,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_outlined_gallery_1-ee9d041d.png",
-    "sha256": "4b5b8023df9981b596d5c5bb31e65866e922c828562bae47418c21d154feba29",
+    "sha256": "f33a506a5788b8a27347b1198ce76f0c3b8fcee6c05eac0a4edce53c3f561e95",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.AppCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_outlined-gallery-2": {
@@ -18340,7 +18340,7 @@
     "functionName": "AppCardRemote",
     "module": "remote-catalog",
     "renderBasename": "AppCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_outlined_gallery_2-f1f89aef.png",
-    "sha256": "e6606d2f15dec595293729d9a92183909644e8796eede4b56281a466e8dd33f9",
+    "sha256": "ecfbba945ac83ef6d8471f5c54ecd3c92e8b386820c50b517c120e449bd7ac55",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.ArcProgressRemote_width=227dp,height=200dp,dpi=320": {
@@ -18356,7 +18356,7 @@
     "functionName": "BrandedTextRemote",
     "module": "remote-catalog",
     "renderBasename": "BrandedTextRemote_width_227dp_height_100dp_dpi_320-fac2d36f.png",
-    "sha256": "eed70f48bce003d87c95a2d3813e5c2a100b40a55c01a4364210c1ea7bc3c37b",
+    "sha256": "d40d99c9e6563c5473dcff33b277eb35300b0b750001529a6cde2f4bd44e5b25",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.ButtonGroupRemote_width=227dp,height=200dp,dpi=320": {
@@ -18364,7 +18364,7 @@
     "functionName": "ButtonGroupRemote",
     "module": "remote-catalog",
     "renderBasename": "ButtonGroupRemote_width_227dp_height_200dp_dpi_320-09bb8e13.png",
-    "sha256": "c5c84aa7f2bae19a296272652429b1abae23ab79bdaf985aaa274dd22649db10",
+    "sha256": "79d53bd51cc04caf27eeedc79df6137d4250d9f59b7e3f83d046f357a1929fa1",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CardRemote_width=227dp,height=200dp,dpi=320": {
@@ -18372,7 +18372,7 @@
     "functionName": "CardRemote",
     "module": "remote-catalog",
     "renderBasename": "CardRemote_width_227dp_height_200dp_dpi_320-8f7f0eb4.png",
-    "sha256": "a48318086caa4a58dc8c512a5ad25947bd201b866bfca150571a02a652bce767",
+    "sha256": "4e6cc1afdf7a69150678bc3e37a3ccb19908ffa04441a42b57bde9eca73d18cf",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CircularProgressRemote_192dp": {
@@ -18908,7 +18908,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320-72a3f0d4.png",
-    "sha256": "a6d34a5815926d7110b8fe007765e4b349c31da61769b3ea885b16db6ce1f233",
+    "sha256": "96e4a05ad43fe15f841837c795a9e2d0b90804965914c4dd1f2268eb06d44ebd",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child": {
@@ -18916,7 +18916,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child-68604776.png",
-    "sha256": "aef4d20ec8ee939832e3d63fdecd6e59d8c40f0c16d6b485a8d2eead96c3dae7",
+    "sha256": "2bc226c8b73984105c705261b0faac2d71282d997f6a43384420d1d2b1d7781e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-disabled": {
@@ -18924,7 +18924,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_disabled-7ec5d7d1.png",
-    "sha256": "cc3f6dd1448fbfde5c608d55fbb0bcb9a9df1465b4c6dfe0d5c3874549f567df",
+    "sha256": "c3e0d98d1123cef549de878a640c2878dee8b1b96d87122f6880449d6b7012a6",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-icon-only": {
@@ -18948,7 +18948,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_text_only-d9351f26.png",
-    "sha256": "d443f5043e475fca432b58f311a9ab5cc29f5b5ab5619ceec1a59aecd27125d0",
+    "sha256": "12200a080bfaf4b9fc32ce7f51ef45b25809d737d36ecc40c42138b9274d3a53",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-text-only-disabled": {
@@ -18956,7 +18956,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_text_only_dis-a40cbdb7.png",
-    "sha256": "7b85e5e94729cd32f1af2343680d0ed4e0efc3e5bb46dd137c45a5ebb61c9ac9",
+    "sha256": "6f2c871c010669e2df77ce73ad506c991bacf06b32f3c64b2dd03cb298eaf5e8",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -18964,7 +18964,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_disabled-4f3d16c8.png",
-    "sha256": "870c999ce3aef8184db5e0cb29ebb48a51c44d43b5f4e7c9d69c5d532977dffb",
+    "sha256": "d776c88880e74934ce7976da891eeb94aebbba31d48272629f880397d69dfda3",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant": {
@@ -18972,7 +18972,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant-70a9b1aa.png",
-    "sha256": "b5950578934097257edadbb8f444e1c9b1acaab29de897c00828468be8edb18c",
+    "sha256": "2b2ef4262dea9bd38a4adfd76eb40c3cbc19c9ecc7f57400d48cdc3401cf3e0f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-disabled": {
@@ -18980,7 +18980,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_disa-7335404b.png",
-    "sha256": "870c999ce3aef8184db5e0cb29ebb48a51c44d43b5f4e7c9d69c5d532977dffb",
+    "sha256": "d776c88880e74934ce7976da891eeb94aebbba31d48272629f880397d69dfda3",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-icon-only": {
@@ -19004,7 +19004,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_text-92eacc14.png",
-    "sha256": "117368523620761d0c973efeeb5db2394b1846e158cb63de0e6d99108fac32b8",
+    "sha256": "881ec9a570b87064231768a671901efcbf2090e645fc9be253e7e532d328cb07",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-text-only-disabled": {
@@ -19012,7 +19012,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_text-e7047e0e.png",
-    "sha256": "0873f2c57ee8cc0ba7ecb6ec59d393bcb773aa0e9dae27c2b3bfb87e42b53a7e",
+    "sha256": "08887f49b69904dd4e98303acbed80e71f12a85aed70753177ba21058e943e75",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-only": {
@@ -19036,7 +19036,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined-14a96060.png",
-    "sha256": "ce5cb8fbe165c56e94616a50e04af55a547e99c578726fdf3d7225baeb0b63b6",
+    "sha256": "4f867bab040fb0d8873c21f99dc8e153f788b29f176f7228ffc9019e67cd2b26",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined-disabled": {
@@ -19044,7 +19044,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined_disabled-d770b91c.png",
-    "sha256": "2cfd6407c9090887ddd1e4715d758f618b57dc3df16068c2f0a15e089d79361f",
+    "sha256": "bca2464360a234d02e17937c062fa622da6084d61c88675cc0851ec9a76f429c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined-icon-only": {
@@ -19068,7 +19068,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined_text_only-e17248f2.png",
-    "sha256": "803d60df607c0062e7f321e47ad4dd18103d1368c0eff71163607e14de1b2e0f",
+    "sha256": "26771e4695af9b32b51114a6a18e030e421cb92141b35cc34dfe262ed539bb7d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined-text-only-disabled": {
@@ -19076,7 +19076,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined_text_only-9eaf4767.png",
-    "sha256": "257400b5118c079e5e9ab0632fb20df03ec0719bbd07e4f9d14516ee57facd49",
+    "sha256": "db60d58ed11fb838aab9d8c453cb676cbfbefcfa2d2877164699f2adc0d4df61",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_text-only": {
@@ -19084,7 +19084,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_text_only-1504c8cf.png",
-    "sha256": "d15756ab52b3d70b9582825b9e1b862f949732726713df5702c65421f719f47d",
+    "sha256": "3bd6804e7e185f1fdd9ec969e83c478fc29811b26f72a320d0d0920eb645eac1",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_text-only-disabled": {
@@ -19092,7 +19092,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_text_only_disabled-722fe73b.png",
-    "sha256": "0873f2c57ee8cc0ba7ecb6ec59d393bcb773aa0e9dae27c2b3bfb87e42b53a7e",
+    "sha256": "08887f49b69904dd4e98303acbed80e71f12a85aed70753177ba21058e943e75",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_tonal": {
@@ -19100,7 +19100,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_tonal-b90e5972.png",
-    "sha256": "c85c6debf42c5db11552b6c131e9c1bc0be272cd8a9f8368263ac084bc06fdff",
+    "sha256": "4799914d1a0c761072d75751ef5eee89e68a0e66fcaa71a5642b2fce28537c58",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_tonal-disabled": {
@@ -19108,7 +19108,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_tonal_disabled-572119cd.png",
-    "sha256": "870c999ce3aef8184db5e0cb29ebb48a51c44d43b5f4e7c9d69c5d532977dffb",
+    "sha256": "d776c88880e74934ce7976da891eeb94aebbba31d48272629f880397d69dfda3",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_tonal-icon-only": {
@@ -19132,7 +19132,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_tonal_text_only-2e033b16.png",
-    "sha256": "d09149ac4046c510077c36c56b6a9fc2881e262ce1e5abb7a81ba792e850ef19",
+    "sha256": "dea3d9d9c899f660f1f6a4687d5e316645089ec766ff9ac27e80a702836b10fe",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CompactRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_tonal-text-only-disabled": {
@@ -19140,7 +19140,7 @@
     "functionName": "CompactRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CompactRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_tonal_text_only_dis-4f000a7f.png",
-    "sha256": "0873f2c57ee8cc0ba7ecb6ec59d393bcb773aa0e9dae27c2b3bfb87e42b53a7e",
+    "sha256": "08887f49b69904dd4e98303acbed80e71f12a85aed70753177ba21058e943e75",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.CustomShapeRemoteButton_width=227dp,height=100dp,dpi=320": {
@@ -19148,7 +19148,7 @@
     "functionName": "CustomShapeRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "CustomShapeRemoteButton_width_227dp_height_100dp_dpi_320-201abb82.png",
-    "sha256": "4eac709ccf310d5ee582f65477a058febf94d9775237f216e6557f0d11da0678",
+    "sha256": "61c6f0f17064f3eb0f4418ea1075d138e65421b0d90103dab1674bbcb0154cdc",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.FilledRemoteButton_width=227dp,height=100dp,dpi=320": {
@@ -19156,7 +19156,7 @@
     "functionName": "FilledRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledRemoteButton_width_227dp_height_100dp_dpi_320-cc7e5b8a.png",
-    "sha256": "9507e91b08ce0e8cee5b40e4bb968146ae5cd5fc812d7c4d29231379df125ae1",
+    "sha256": "53107d0d63348d8b1d4899fe95d69ae9ab2fad41d42065359450add43dee9e97",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.FilledRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -19164,7 +19164,7 @@
     "functionName": "FilledRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_disabled-c799df12.png",
-    "sha256": "3dda9885efa799d64df2cd09e5eed920c4e0eaf78474983904051a0aefebca4e",
+    "sha256": "f7b2b09929b7524acb7684f0cf99b5a61d43ef75534abc58c8637adb236b1a8a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.FilledRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon": {
@@ -19172,7 +19172,7 @@
     "functionName": "FilledRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon-462ce2ea.png",
-    "sha256": "917832afe0fe33fc204b84c95396fb598484d12464275c6fa61bf06964255c91",
+    "sha256": "0e7c9370178790806dfae8b63ccc2da7822d5b3e3e712c483e745c47ed39524a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.FilledRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-disabled": {
@@ -19180,7 +19180,7 @@
     "functionName": "FilledRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_disabled-c2679def.png",
-    "sha256": "be48650c3ecb81ff08c4853135635e39cfbb37859b57c97bfd99e665bd71409d",
+    "sha256": "ad81ace43a8b58034f53f367f7854d3eb52ba45bbc3a2eec7f459ca2ab498aff",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.FilledRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-extra-large": {
@@ -19188,7 +19188,7 @@
     "functionName": "FilledRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_extra_large-07e14052.png",
-    "sha256": "cb2fc04a718275b7eb0b4598507bd90198e5b90b60915d46e382cda8651cc1cb",
+    "sha256": "5bf184c47085dac50b403c091d2bdf86be482919c04f0c2ece12217e7dba3121",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.FilledRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-extra-large-disabled": {
@@ -19196,7 +19196,7 @@
     "functionName": "FilledRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_extra_large_dis-98afaa6c.png",
-    "sha256": "c8eb8696f40966904209864e24d334081a2d7a9994408a329441425a7cb3ea40",
+    "sha256": "259f388a3decfa04c20ec550c4da56ffa6103b1a61ef14191136662cc47f9536",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.FilledRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-large": {
@@ -19204,7 +19204,7 @@
     "functionName": "FilledRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_large-3316d725.png",
-    "sha256": "4d97a1f93307ca7bc99e3b16e27049f4fdd9b7b94609507fdb961b5423c5a6b3",
+    "sha256": "5dbe7936bae0e837cc57216e833ea6ec7a0eef5f8204c4fe411efc84893f4260",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.FilledRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-large-disabled": {
@@ -19212,7 +19212,7 @@
     "functionName": "FilledRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_large_disabled-42c3d0b5.png",
-    "sha256": "50eefb75123bfa14afb35ab1441079db9e3c588aec9bd70ac0ab6bd3411a9d57",
+    "sha256": "d0bbd8f82cf5a1e3e70bd2297ddac841db513a67089a470641d2ac78035ceb9d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.FilledRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_left": {
@@ -19220,7 +19220,7 @@
     "functionName": "FilledRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_left-079db66d.png",
-    "sha256": "29c6f6677fb00ca68e5c597891f5ee1e66dd1a713282f14b7ae3afec0e17a15c",
+    "sha256": "4ac758f7756d0fe23a948585e540e3f6173264750aed5942c547c6612b1c63fc",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.FilledRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_left-disabled": {
@@ -19228,7 +19228,7 @@
     "functionName": "FilledRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_left_disabled-d7b93b4f.png",
-    "sha256": "479fe9c9abd8a5850444576fbb93471b50568ef69c9625d791f3993c67e8770a",
+    "sha256": "a1095f639726022d241543a712e933b639e1c8f2f6ac31dd8004ad0294b9cc6c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.IconRemoteButton_width=227dp,height=100dp,dpi=320": {
@@ -19308,7 +19308,7 @@
     "functionName": "NamedLabelRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "NamedLabelRemoteButton_width_227dp_height_100dp_dpi_320-6dbdcb79.png",
-    "sha256": "1cf44691bfa86dafa9853698f1b4ca48d3cd4ca3caf6b46ce875b3f9cbb764a1",
+    "sha256": "77a71199ef29f999ad0078efd70a4f0546b49036ca416e701f90c8d37fca4b5f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.OutlinedCardRemote_width=227dp,height=200dp,dpi=320": {
@@ -19316,7 +19316,7 @@
     "functionName": "OutlinedCardRemote",
     "module": "remote-catalog",
     "renderBasename": "OutlinedCardRemote_width_227dp_height_200dp_dpi_320-c4a94444.png",
-    "sha256": "2140f191fd591c0b52a0816e1828f3bdc76da1a9497eb6db0d3ba21f37158723",
+    "sha256": "17e895f3c8a22e88410ca52507710d831882c4d38eb8bcd0f3f8121bb11801d0",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.OutlinedRemoteButton_width=227dp,height=100dp,dpi=320": {
@@ -19324,7 +19324,7 @@
     "functionName": "OutlinedRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "OutlinedRemoteButton_width_227dp_height_100dp_dpi_320-3e02d36c.png",
-    "sha256": "9e408b28e5400ab7b5ecc5c4bd6a7d38ca807cd68f99fb2e5ee3f700599e1500",
+    "sha256": "cf69cc490f3e1ffa10e452af87b0b05a2c5b6dbad0250b714a7d63b3cf442639",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.OutlinedRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -19332,7 +19332,7 @@
     "functionName": "OutlinedRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "OutlinedRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_disabled-fd73dcda.png",
-    "sha256": "a330b9508895abfaa69a15008a6056eb787defb38d0a39d57a3d0462042106e5",
+    "sha256": "467e16522e537f13f1f4e46fb60077672c09bb06c2cd3ee44b8e444967f59044",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.OutlinedRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon": {
@@ -19340,7 +19340,7 @@
     "functionName": "OutlinedRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "OutlinedRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon-81aade52.png",
-    "sha256": "ccecaf4206bcc3b0900be8c09a9a16953eba856c7b7031edca476e7fe41aed28",
+    "sha256": "ce18373aec5e82bbdd882eaa45ed31bd57e9f0e983541364e2fe5d722c30d7da",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.OutlinedRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-disabled": {
@@ -19348,7 +19348,7 @@
     "functionName": "OutlinedRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "OutlinedRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_disabled-0569a229.png",
-    "sha256": "10d8db58b3cac033c4b0be37655a4254bda6b297750ef9791359424712077ec1",
+    "sha256": "2edd361df8b5870b8eed8008ac5405e4b16f3baaa57ed44226d119e7609330bd",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.OutlinedRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-extra-large": {
@@ -19356,7 +19356,7 @@
     "functionName": "OutlinedRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "OutlinedRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_extra_large-671dba82.png",
-    "sha256": "f2eb4b3f7a6bf73a4dfa3e44c7183f66764f4c9ab0e3e402097b63cc46698917",
+    "sha256": "b1bc8d5f4cdf9c4b926eb0c08cf4ca30819113a6ca526f514cf60ef6ddb0f7a8",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.OutlinedRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-extra-large-disabled": {
@@ -19364,7 +19364,7 @@
     "functionName": "OutlinedRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "OutlinedRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_extra_large_d-c1aabd1b.png",
-    "sha256": "68ae6c4e9899a0627276f12164be79e86c273fc3c55f4bbe4d1151cbdacbb6a4",
+    "sha256": "7bee3235be1aa1aba19101e9a429ec093ef670d8621a889d53105521a71c4e08",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.OutlinedRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-large": {
@@ -19372,7 +19372,7 @@
     "functionName": "OutlinedRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "OutlinedRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_large-35b652ba.png",
-    "sha256": "91121268e96fc3cf0aa05033b7a650d4a4bbc203d32ea29f9fa218906e94e7cb",
+    "sha256": "033c4a8896dee9c8a41a5c91ffb36b62af07d346f15851a8289150dc354ac029",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.OutlinedRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-large-disabled": {
@@ -19380,7 +19380,7 @@
     "functionName": "OutlinedRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "OutlinedRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_large_disable-1c615bc1.png",
-    "sha256": "9d85555a3e3290a00e17a2862f7dcf3ba25e1252a71a61ea147af924cccd449e",
+    "sha256": "248bccbbcf909c54b5e1c642b9a6d8eedfa12abcee508d8637fe888ab5f6a89b",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.OutlinedRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_left": {
@@ -19388,7 +19388,7 @@
     "functionName": "OutlinedRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "OutlinedRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_left-f1df608d.png",
-    "sha256": "8f14393aa115c89d18f708dd45a1b3834074039db1be64772f4c23859e6a871e",
+    "sha256": "05a26e5073d718b82bb350d478f1a04cac48acef00c7a63ea798628b49e3772a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.OutlinedRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_left-disabled": {
@@ -19396,7 +19396,7 @@
     "functionName": "OutlinedRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "OutlinedRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_left_disabled-797d232c.png",
-    "sha256": "bba24c32b7e952a59cd5c89a0bb88b7ff5a7a8b849e0413f977e198409d20c8d",
+    "sha256": "9e757db98105d46d9efce1755e8e8c165abd49b6188e354cafecf4ba540586fe",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.RemoteCaptionSticker_width=227dp,height=100dp,dpi=320": {
@@ -19404,7 +19404,7 @@
     "functionName": "RemoteCaptionSticker",
     "module": "remote-catalog",
     "renderBasename": "RemoteCaptionSticker_width_227dp_height_100dp_dpi_320-03945a25.png",
-    "sha256": "13bc24349aff6d4f47aaffd4776716894a6ea92379432f5dc68972560a3886f4",
+    "sha256": "67cb3cc83ba9c5931770f2fd91d61a2d491fa4103708c912f0a8045c85d6c3a4",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.RemoteCaptionSticker_width=227dp,height=100dp,dpi=320_VARIANT_left-aligned": {
@@ -19412,7 +19412,7 @@
     "functionName": "RemoteCaptionSticker",
     "module": "remote-catalog",
     "renderBasename": "RemoteCaptionSticker_width_227dp_height_100dp_dpi_320_VARIANT_left_aligned-3adeb417.png",
-    "sha256": "a90c1f0ff33b9d1dc9ec13c127d9e496df4a6e7ee2d32f9507675393ea495b89",
+    "sha256": "6af5d8eea346ebc8869e8d1d2268eca0560ed913ba66a4f93361d6e847fc50ce",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.RemoteTextSticker_width=227dp,height=100dp,dpi=320": {
@@ -19420,7 +19420,7 @@
     "functionName": "RemoteTextSticker",
     "module": "remote-catalog",
     "renderBasename": "RemoteTextSticker_width_227dp_height_100dp_dpi_320-7ddf539f.png",
-    "sha256": "5fdeb54d1d7eadea6287523e8eab7d901ba1f73b59010368069ab7042b135e80",
+    "sha256": "c73975d93f729b77226d2b15b6520adaf3fd3f6bc36299d385ff3d165cfa68b3",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.RemoteTextSticker_width=227dp,height=100dp,dpi=320_VARIANT_left-aligned": {
@@ -19428,7 +19428,7 @@
     "functionName": "RemoteTextSticker",
     "module": "remote-catalog",
     "renderBasename": "RemoteTextSticker_width_227dp_height_100dp_dpi_320_VARIANT_left_aligned-73a7a087.png",
-    "sha256": "ed6cf3e2f7ce49660f060b742b7c8a46bff0495d0b0e40775a4d0bca7f2ec07a",
+    "sha256": "824b190c391c71a79587849bd6e783e1b0f0947067556584823f62168a2b3a17",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.ShaderGradientSticker_width=200dp,height=200dp,dpi=320": {
@@ -19436,7 +19436,7 @@
     "functionName": "ShaderGradientSticker",
     "module": "remote-catalog",
     "renderBasename": "ShaderGradientSticker_width_200dp_height_200dp_dpi_320-7acc47d9.png",
-    "sha256": "fb173e8815a8cdf3d6b0cbf0c735ff28adcd85b5950cef3c54a687f60adecbc6",
+    "sha256": "ab38e3022c427833d3baa75a999d56f9ce03602e4d60e5b5425b8bf6df5b69ab",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320": {
@@ -19444,7 +19444,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320-f52fb652.png",
-    "sha256": "c1a00cf49268fc224d1a903535fdbbf787f4345b255c676421fbc2923bd7f919",
+    "sha256": "bca2d5634196275efba98dd0b54597be79b784b1e6d47e442c66264356d8c72c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child": {
@@ -19452,7 +19452,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child-d9a5b04e.png",
-    "sha256": "ca037d1e738048be633d91d9d38d639bfc271a54f5408b6d34f2d4b3a51fd827",
+    "sha256": "be9d41fadefc52072db891084ac638405eced7e4e113cfa523090f0a35ee4c72",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-disabled": {
@@ -19460,7 +19460,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_disabled-5208f151.png",
-    "sha256": "d4318e29f6976c9a2b7c784dde968f6b47a8904cf4b003169ff2f9be67be19a8",
+    "sha256": "fcba45be93db9883e8adaf22785d43b58c5a93a163d791f5ea431737158e6871",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-large": {
@@ -19468,7 +19468,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_large-b95896e4.png",
-    "sha256": "c947609183a61a680593da1aa2adc38b2efd3d9543fbb5d1e7a8a5a8ad010f30",
+    "sha256": "b3e5fccb6f0e673c7412ef70212e7b1f9c59cc585c0bb7b502b748044912171f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-large-disabled": {
@@ -19476,7 +19476,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_large_disabled-207085ed.png",
-    "sha256": "51c78d3c9bc144e983f947508c074da97dfe5a806810f81b4d8423c9f9685038",
+    "sha256": "13c94574e0faa5d9ad15271a63833134b6d731a556ec26b980f569fa96a7d861",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-small": {
@@ -19484,7 +19484,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_small-8d9c7c81.png",
-    "sha256": "ca037d1e738048be633d91d9d38d639bfc271a54f5408b6d34f2d4b3a51fd827",
+    "sha256": "be9d41fadefc52072db891084ac638405eced7e4e113cfa523090f0a35ee4c72",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-small-disabled": {
@@ -19492,7 +19492,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_small_disabled-e3cb9d1b.png",
-    "sha256": "d4318e29f6976c9a2b7c784dde968f6b47a8904cf4b003169ff2f9be67be19a8",
+    "sha256": "fcba45be93db9883e8adaf22785d43b58c5a93a163d791f5ea431737158e6871",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -19500,7 +19500,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_disabled-d131f359.png",
-    "sha256": "d4318e29f6976c9a2b7c784dde968f6b47a8904cf4b003169ff2f9be67be19a8",
+    "sha256": "fcba45be93db9883e8adaf22785d43b58c5a93a163d791f5ea431737158e6871",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant": {
@@ -19508,7 +19508,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant-05db11a3.png",
-    "sha256": "c25090ac60ef20dbb1fa415dddeb2e31da5ccc0c8c9a21e562cf5d1d5b450419",
+    "sha256": "2c5c1d9635a9304f606dd11b8280feb4151bc96b06bcd015e4ec4811a2efdf16",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-disabled": {
@@ -19516,7 +19516,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_disable-b4950a48.png",
-    "sha256": "d4318e29f6976c9a2b7c784dde968f6b47a8904cf4b003169ff2f9be67be19a8",
+    "sha256": "fcba45be93db9883e8adaf22785d43b58c5a93a163d791f5ea431737158e6871",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-large": {
@@ -19524,7 +19524,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_large-3a338bc5.png",
-    "sha256": "a2ae15cfb8ab9f5d64f8b32ca2ca2a9d209da8c2d8edfd8e816b25fc0cec742a",
+    "sha256": "0513eadba93cf371cb8d1542cd77df567565aa487f6e5a07794427dc81ae5e62",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-large-disabled": {
@@ -19532,7 +19532,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_large_d-20e56187.png",
-    "sha256": "51c78d3c9bc144e983f947508c074da97dfe5a806810f81b4d8423c9f9685038",
+    "sha256": "13c94574e0faa5d9ad15271a63833134b6d731a556ec26b980f569fa96a7d861",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-small": {
@@ -19540,7 +19540,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_small-ad387b04.png",
-    "sha256": "f738b377bd5b4aeb91a0a7b2a9942dfd64bde53ee82989f0e9f9d1f4e8efc6e3",
+    "sha256": "4eb3df59fff1e80b77249ac1fac09f72856210873250e7cbfad7ae92ed29ba77",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-small-disabled": {
@@ -19548,7 +19548,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_small_d-5b788fdf.png",
-    "sha256": "d4318e29f6976c9a2b7c784dde968f6b47a8904cf4b003169ff2f9be67be19a8",
+    "sha256": "fcba45be93db9883e8adaf22785d43b58c5a93a163d791f5ea431737158e6871",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_large": {
@@ -19556,7 +19556,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_large-487cfbeb.png",
-    "sha256": "53faaebf1925bd0abf0fff1c82123cb65999d7a3cb3619f2cbacf551189e9e98",
+    "sha256": "f71ff8a52d7e99e8de40bdc60ec2cb97046645c7a6b57f4215f32537d9779b90",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_large-disabled": {
@@ -19564,7 +19564,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_large_disabled-2a34f443.png",
-    "sha256": "51c78d3c9bc144e983f947508c074da97dfe5a806810f81b4d8423c9f9685038",
+    "sha256": "13c94574e0faa5d9ad15271a63833134b6d731a556ec26b980f569fa96a7d861",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined": {
@@ -19572,7 +19572,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined-b022c8be.png",
-    "sha256": "dd4e2182c595a86d5c83e81775d4117a9dc9962215275e4094d686498c4b191d",
+    "sha256": "b6d66d345ab501f2cd84da9481703a2a1454af05a2f13f6a4085eaee0c094e53",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined-disabled": {
@@ -19580,7 +19580,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined_disabled-1fc5eecf.png",
-    "sha256": "9eaab05a57d3e2b49f63fdc6936fb8e57d79fee7cb08a71b83aef5d031d7daba",
+    "sha256": "7d0ab8356eacc339375cdff3851a5085ee341ab4dfd4b05d29fb9a0d57d1f125",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined-large": {
@@ -19588,7 +19588,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined_large-c36996ad.png",
-    "sha256": "50bbc5c3283b03449fbb5410a26af201160b83caac14e61c915e79c1c9bd02e1",
+    "sha256": "af06c8a015eeccf4228de9944a9b3fa8b890b336b0441514171bf2bef165b229",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined-large-disabled": {
@@ -19596,7 +19596,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined_large_disable-54ca378a.png",
-    "sha256": "b178a9bc7bd6fa4bac024d82f754482234a3606ede8cc7fb6838d40500749d0a",
+    "sha256": "aaedfa5ede9a0b98c1098acfe36c6ca1a6afd518b5fd0dd335fb6050e0623247",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined-small": {
@@ -19604,7 +19604,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined_small-92f6f9f9.png",
-    "sha256": "470c61b6111ecdd40b695823c63d55049e1598c922a622033241ebe06b309058",
+    "sha256": "6320f32d73f2e77871fd2eacc2fac97e5dd64594fdaabc627b747cdfee0d5b4b",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined-small-disabled": {
@@ -19612,7 +19612,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined_small_disable-7ca55912.png",
-    "sha256": "c01fe079a1f9eb60b3338f153643547cfae6cf8213f4c56d6b203294b35d8382",
+    "sha256": "7f0d8a1bf9dbfc29b16270c53138deca2e3840f8490674b16b486e7fc675085f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_small": {
@@ -19620,7 +19620,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_small-f9daaa72.png",
-    "sha256": "c262a343865c9d1efac1e65b8ae86d864e24cab59f3784f0e137c821470a9171",
+    "sha256": "966459c5c720ccfdadabbef361ee6da66507dd76d7f289f311629cc9e1e05fb3",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_small-disabled": {
@@ -19628,7 +19628,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_small_disabled-a6bc8fc0.png",
-    "sha256": "d4318e29f6976c9a2b7c784dde968f6b47a8904cf4b003169ff2f9be67be19a8",
+    "sha256": "fcba45be93db9883e8adaf22785d43b58c5a93a163d791f5ea431737158e6871",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_tonal": {
@@ -19636,7 +19636,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_tonal-d1ce0799.png",
-    "sha256": "9fb21e9cb9893095585fd7f58edffdd1748c5e6d2d40506f49d37c41693ab400",
+    "sha256": "4638b81ce686de618b0f8f434d1416e0063a42699c7e8b6ecf88a0b9592cf46f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_tonal-disabled": {
@@ -19644,7 +19644,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_tonal_disabled-acad99b8.png",
-    "sha256": "d4318e29f6976c9a2b7c784dde968f6b47a8904cf4b003169ff2f9be67be19a8",
+    "sha256": "fcba45be93db9883e8adaf22785d43b58c5a93a163d791f5ea431737158e6871",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_tonal-large": {
@@ -19652,7 +19652,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_tonal_large-7892ac50.png",
-    "sha256": "1dca5555d94d495fcbb1f19d7cbcce0750128aea4d3d47934c457fdaa8b1a7c6",
+    "sha256": "a28f25aec5fbbd7969a663391c214c2570ed31c9f88d10fe43c25410b6ffc504",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_tonal-large-disabled": {
@@ -19660,7 +19660,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_tonal_large_disabled-a1daac37.png",
-    "sha256": "51c78d3c9bc144e983f947508c074da97dfe5a806810f81b4d8423c9f9685038",
+    "sha256": "13c94574e0faa5d9ad15271a63833134b6d731a556ec26b980f569fa96a7d861",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_tonal-small": {
@@ -19668,7 +19668,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_tonal_small-ed8f8bf6.png",
-    "sha256": "7716e9fd5fd4ac20aa902f6877c2cab14ba16e729a197406f081fa1aef441051",
+    "sha256": "da792b0b50395f438ab0d854461fea168ce64dc3f91f1aff0f6cf9efea2c48f5",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TextRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_tonal-small-disabled": {
@@ -19676,7 +19676,7 @@
     "functionName": "TextRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TextRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_tonal_small_disabled-225bee24.png",
-    "sha256": "d4318e29f6976c9a2b7c784dde968f6b47a8904cf4b003169ff2f9be67be19a8",
+    "sha256": "fcba45be93db9883e8adaf22785d43b58c5a93a163d791f5ea431737158e6871",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320": {
@@ -19684,7 +19684,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320-6b2547bd.png",
-    "sha256": "62582ad683bdec0fdfcca29988829022c14c5638da98a9f6eacadb3487ebe699",
+    "sha256": "fdd64c7b832482b799dd5a3a71938df8e7b345c0fa9ced556d4984f0697a3e92",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_background-image": {
@@ -19692,7 +19692,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_background_image-3a4fd033.png",
-    "sha256": "4410ea7be16b9f2635a6c716b8a0fcc27500836b1361f42e8a79955d53ff4f1f",
+    "sha256": "53a08dcb2bfca62605f57916bb457e368b6d16b8a4a5f4ee63ae54a0d5b35b03",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_content-image": {
@@ -19700,7 +19700,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_content_image-b25a76bc.png",
-    "sha256": "b8f9a473b3f227dca1fceb1611e156271f6edee6debb1564055f894f77f642e4",
+    "sha256": "5e542ba6a83a26c152c1bb38fa70b53b798c9cd971c06dfe10130e7268e10237",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_gallery-1": {
@@ -19708,7 +19708,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_gallery_1-c7f1eb33.png",
-    "sha256": "e61920c31499f1c997516b9ddff0c348ac5f15e3657f9fee973514ccfe1f02f3",
+    "sha256": "8f60b520675340c53cd5db492af443d686a9896aec971882bbb94a406db6bf14",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_gallery-2": {
@@ -19716,7 +19716,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_gallery_2-10db5e03.png",
-    "sha256": "7388669e2aa0268b7859261dd8d3e281f478980cae6714c6af2cc3c1d4d7666d",
+    "sha256": "7e327829dff91bf60b5fbb37a47f135d22074f5ac51b9e7583d5102003e117db",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_outlined": {
@@ -19724,7 +19724,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_outlined-3c6f052f.png",
-    "sha256": "c28d9c13aeff4bd0ff26e1e34db287a3e4eacd41ac7096cbd8cf3063d79b50df",
+    "sha256": "5a3327b1f54d39c1e533877d489fbd40b07da5c22b44a21e319bb1dc3d39d8b7",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_outlined-content-image": {
@@ -19732,7 +19732,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_outlined_content_image-796e81bc.png",
-    "sha256": "828e67c74b5525b9c5da49245487aa1e0446afbcd5a41417824f63b86a392ed3",
+    "sha256": "36c9de960d838f80728f5a8535557d25f749955ec1ed9900110a61aec4117fa0",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_outlined-gallery-1": {
@@ -19740,7 +19740,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_outlined_gallery_1-8a803548.png",
-    "sha256": "123e5124c4316c30701305f69743c49b52fee3716a19ff2b68dbc13abe0bfd81",
+    "sha256": "562fcda5833567413832bac17f588bcd4181fa7ddf1932081df5d137b7ff1273",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_outlined-gallery-2": {
@@ -19748,7 +19748,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_outlined_gallery_2-c35198d2.png",
-    "sha256": "3976f6625eca9b4464ce2bf309fbd36c0ec0effe4fe645a336e8482a08e81e9e",
+    "sha256": "72490b5d473ee3a91855a7e8a1ec5716eb5d076f8d86e4fe98ebdd649a91c52a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_title-and-subtitle": {
@@ -19756,7 +19756,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_title_and_subtitle-2d9f37e6.png",
-    "sha256": "4de07075b08032403d4fc8376d9b8537167ee85993a9b2311a24e9248b2144cf",
+    "sha256": "fa02de08b45fa6c2dbbd9c465a269d335bb42f2c004af81317f5a21a33cf6abc",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_title-and-subtitle-background-image": {
@@ -19764,7 +19764,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_title_and_subtitle_back-5bb8da4d.png",
-    "sha256": "390fdd71655ea418e7c73bb0146212d4e5c64c569569d8c4733b6a8fc1fd87f3",
+    "sha256": "f6a7e2d9ed0473fbda0c3cca46aa64e0e42ed14b6e1ed79e594f35e8c0ad60e9",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_title-and-subtitle-content-image": {
@@ -19772,7 +19772,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_title_and_subtitle_cont-a0994570.png",
-    "sha256": "e443224f72a91417bc79da277d6846dea532d6f8129f431be5450109b451d213",
+    "sha256": "eac663c9a8f1fce089ab2a0128ed90fc48cb09933f4653eee8cebe994f9bfa4b",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_title-and-subtitle-gallery-1": {
@@ -19780,7 +19780,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_title_and_subtitle_gall-c7530dd2.png",
-    "sha256": "b0128a76b4b57e5f7c8da6436416449684fed3aad4335ae0f0ec437e108a6aa0",
+    "sha256": "6c4d50059e913136c8153bd4d999582ff9a73eb39115932ce7a60a6de3caff08",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_title-and-subtitle-gallery-2": {
@@ -19788,7 +19788,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_title_and_subtitle_gall-98b3c0d4.png",
-    "sha256": "b6653e980f424e5658770ae6bc69820908c3e031d9f2b842e05ac1e651277efb",
+    "sha256": "e302525ad03081bfec1bf798f34ea457b9c3a70290180dcd6b47db470788a32e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_title-and-subtitle-outlined": {
@@ -19796,7 +19796,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_title_and_subtitle_outl-2b38fb0a.png",
-    "sha256": "de97b2900e41d9a1719e11688c6096b019ea8f242bbc80e5a82c073ca679caa2",
+    "sha256": "e4fe1d8adeb0d04671883973e48c510ab90a12aaeee13b0c61912b7601cc6911",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_title-and-subtitle-outlined-content-image": {
@@ -19804,7 +19804,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_title_and_subtitle_outl-2488faf4.png",
-    "sha256": "96fca2af1e96440bbe7aead12258fe2425c0b84715ceebf85f4f1d9617ea266d",
+    "sha256": "45cde7c20601180e8e8d42b977c43a8a5c9c05196b01f343deecca6d78c2b55f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_title-and-subtitle-outlined-gallery-1": {
@@ -19812,7 +19812,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_title_and_subtitle_outl-cb6661ec.png",
-    "sha256": "f6b142376b891c4617eea0cd76891cbba2c509dee1aec78e7b1768f391315c44",
+    "sha256": "1b97f3afcc65324ba87c04965054d9c5849891f200fee5de670bcb5cad9d6a3c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_title-and-subtitle-outlined-gallery-2": {
@@ -19820,7 +19820,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_title_and_subtitle_outl-d4ab5105.png",
-    "sha256": "ccea6e77bbe069cd0b275f82d1129186d0643dc679de40255489469665c6290d",
+    "sha256": "1c70213f01613ed3d20818ed1b9205da60e5be968363d86474c140c2b93ccc8d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_with-subtitle": {
@@ -19828,7 +19828,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_with_subtitle-fbbdf0c1.png",
-    "sha256": "261797506d17e5cf7c274f9ae9fb41d10c4de3b9f83eda65aaf267f8296fb136",
+    "sha256": "d201f3ed7e1804e3cfde1e79d0e8d7cd04606696564221182353a3c3992e78b6",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_with-subtitle-background-image": {
@@ -19836,7 +19836,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_with_subtitle_backgroun-a0d27b57.png",
-    "sha256": "bfbc009a07149b322b13c83de9b9b40b6a349232f3fdd412bffd92216118894d",
+    "sha256": "38396738307b2cb358b7f1cfc3be9348e43b6574505d785b019b590ce6b9ee33",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_with-subtitle-content-image": {
@@ -19844,7 +19844,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_with_subtitle_content_i-df2635ef.png",
-    "sha256": "e443224f72a91417bc79da277d6846dea532d6f8129f431be5450109b451d213",
+    "sha256": "eac663c9a8f1fce089ab2a0128ed90fc48cb09933f4653eee8cebe994f9bfa4b",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_with-subtitle-gallery-1": {
@@ -19852,7 +19852,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_with_subtitle_gallery_1-0b23abce.png",
-    "sha256": "b0128a76b4b57e5f7c8da6436416449684fed3aad4335ae0f0ec437e108a6aa0",
+    "sha256": "6c4d50059e913136c8153bd4d999582ff9a73eb39115932ce7a60a6de3caff08",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_with-subtitle-gallery-2": {
@@ -19860,7 +19860,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_with_subtitle_gallery_2-fef29127.png",
-    "sha256": "b6653e980f424e5658770ae6bc69820908c3e031d9f2b842e05ac1e651277efb",
+    "sha256": "e302525ad03081bfec1bf798f34ea457b9c3a70290180dcd6b47db470788a32e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_with-subtitle-outlined": {
@@ -19868,7 +19868,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_with_subtitle_outlined-ba7e4ed9.png",
-    "sha256": "45b877d449becdde45952f0e715bc6a6d6e2877f5f9eb400c280c33bfea0c71a",
+    "sha256": "9671cce559b1f10710b765262251ce2543f844ee0a0d6a9a4537568e6615b6f0",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_with-subtitle-outlined-content-image": {
@@ -19876,7 +19876,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_with_subtitle_outlined-3e1405f6.png",
-    "sha256": "96fca2af1e96440bbe7aead12258fe2425c0b84715ceebf85f4f1d9617ea266d",
+    "sha256": "45cde7c20601180e8e8d42b977c43a8a5c9c05196b01f343deecca6d78c2b55f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_with-subtitle-outlined-gallery-1": {
@@ -19884,7 +19884,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_with_subtitle_outlined-a71bb505.png",
-    "sha256": "f6b142376b891c4617eea0cd76891cbba2c509dee1aec78e7b1768f391315c44",
+    "sha256": "1b97f3afcc65324ba87c04965054d9c5849891f200fee5de670bcb5cad9d6a3c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TitleCardRemote_width=227dp,height=200dp,dpi=320_VARIANT_with-subtitle-outlined-gallery-2": {
@@ -19892,7 +19892,7 @@
     "functionName": "TitleCardRemote",
     "module": "remote-catalog",
     "renderBasename": "TitleCardRemote_width_227dp_height_200dp_dpi_320_VARIANT_with_subtitle_outlined-b7533b0e.png",
-    "sha256": "ccea6e77bbe069cd0b275f82d1129186d0643dc679de40255489469665c6290d",
+    "sha256": "1c70213f01613ed3d20818ed1b9205da60e5be968363d86474c140c2b93ccc8d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TruncatedTextRemote_width=227dp,height=200dp,dpi=320": {
@@ -19900,7 +19900,7 @@
     "functionName": "TruncatedTextRemote",
     "module": "remote-catalog",
     "renderBasename": "TruncatedTextRemote_width_227dp_height_200dp_dpi_320-2ebcfb06.png",
-    "sha256": "898e9dd598f2bbf14c5f45601f949d82cf43909090c7355824345e4b78c9030e",
+    "sha256": "b9fa953338205966954264365827e50f4e927ab9a05104d8b1e4066575d641dd",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TypefaceSpecimenRemote_width=227dp,height=200dp,dpi=320": {
@@ -19908,7 +19908,7 @@
     "functionName": "TypefaceSpecimenRemote",
     "module": "remote-catalog",
     "renderBasename": "TypefaceSpecimenRemote_width_227dp_height_200dp_dpi_320-0e281920.png",
-    "sha256": "88afcd85fba0c67b0ee41eafcd67f9bbbb38929399412ee6b3f2b7df7a54d5a2",
+    "sha256": "0fccb12bda6042112355aeaff27f67472b72b057f2b4784c5bd637a6a9360b02",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.TypographyRemote_width=227dp,height=200dp,dpi=320": {
@@ -19916,7 +19916,7 @@
     "functionName": "TypographyRemote",
     "module": "remote-catalog",
     "renderBasename": "TypographyRemote_width_227dp_height_200dp_dpi_320-2d4d7d3b.png",
-    "sha256": "99570870cf208b4c59739a8f161074a778fdf03038909af771022858025fed25",
+    "sha256": "fc342bfb7943691815a5f19ea790256a2fb03d80cb0c64439ac4dcca4b2107d2",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.VariableWeightRemote_width=227dp,height=200dp,dpi=320": {
@@ -19932,7 +19932,7 @@
     "functionName": "VariableWidthRemote",
     "module": "remote-catalog",
     "renderBasename": "VariableWidthRemote_width_227dp_height_200dp_dpi_320-de841c5e.png",
-    "sha256": "628cd848743f35d5c63ee9507824c191594c9a497c74acbd64187b7bf58f179e",
+    "sha256": "0f82a3312bc65e95efeb931d4f51eb6aa29082c868ff61cf35d0c2e8ab175b4e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.CatalogPreviewsKt.WatchScreenRemote_width=227dp,height=227dp,dpi=320": {
@@ -19940,7 +19940,7 @@
     "functionName": "WatchScreenRemote",
     "module": "remote-catalog",
     "renderBasename": "WatchScreenRemote_width_227dp_height_227dp_dpi_320-f4287b1d.png",
-    "sha256": "312ae1a401b34459c933a290d6a0643fe230d4a27f1fdff48ce689489d824686",
+    "sha256": "24c0279bc20eb361289633bbdb6402b78d599980fba09a4586492c38272cb1f8",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/CatalogPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ChildRemoteButton_width=227dp,height=100dp,dpi=320": {
@@ -19948,7 +19948,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320-02214dfd.png",
-    "sha256": "25badf2138bb707b5816d673aba7cd25ebd1be1dc6bb630c68f23f2de323b3c4",
+    "sha256": "453702d676c75d5cd1e4646817aaa893b425ff44097c5485845ede43cd6b60e0",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ChildRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -19956,7 +19956,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_disabled-540fbebc.png",
-    "sha256": "9e5b5bcc6acbe1b0d86bca6e3b6389b317b86b418c918356cb982cbf74b9c61f",
+    "sha256": "537e02dc2c929c4215b556b38bd4acc403f33a54e837bc0a174c4b4a9b54c586",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ChildRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon": {
@@ -19964,7 +19964,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon-3ed6f2d6.png",
-    "sha256": "926db4b992befb5f2414de7cc3c02e37e544c8739e84d430deb654a9c7d41e47",
+    "sha256": "0851f7f4d7f69fd3ebf4717be7feb3fb4275a79ad2eb1726011feab4884a89e9",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ChildRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-disabled": {
@@ -19972,7 +19972,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_disabled-b778972a.png",
-    "sha256": "a1c531e7bed26454901abe9cdf0de3d8a7693c1da224048e89a1246032dc9584",
+    "sha256": "b1476e96744d2e9d1b962c4827482189a4afdf317f5358331f7894ec37418832",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ChildRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-extra-large": {
@@ -19980,7 +19980,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_extra_large-d930df00.png",
-    "sha256": "2b2f5f59c8a40c930d4952ee93d902bbe040d5f1c9c3679946a9d868e2141c79",
+    "sha256": "abcf6e63cd23203e4c666760051bc18a353b6bcdb02857a5cc2aaa1d8a405647",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ChildRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-extra-large-disabled": {
@@ -19988,7 +19988,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_extra_large_disa-d3ee5e9e.png",
-    "sha256": "73e11e53520861b9ca6b5a75a4518d5c5c942900124a22fcd00e53144f0fc68e",
+    "sha256": "9c0fa8b0f0598f617a2c6ed646b511569ce39de5215dfa7d1cfbac9e229029b4",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ChildRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-large": {
@@ -19996,7 +19996,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_large-2352b2e3.png",
-    "sha256": "d30ddd3aa63675b3df183dfcb4f2a9cfaa9955d5ab0aee039b11ef4ea225f973",
+    "sha256": "010099fbb40e826839d905b0940cb90b22004058974a50ab82956264042de575",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ChildRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-large-disabled": {
@@ -20004,7 +20004,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_large_disabled-2ca411e8.png",
-    "sha256": "a0b401c4a22ef434ef010e11d51c49754cd70799423c6449c2b15c6570446dbc",
+    "sha256": "a6d45d0972c5ac30f3ef67a0404080aa3338f0f74a2448dcf4f58d437a14aec2",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ChildRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_left": {
@@ -20012,7 +20012,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_left-026284e9.png",
-    "sha256": "c19be22617862fa09e2999e2d1a6df84b2461746879c79da13ae820d8fdaab0a",
+    "sha256": "15b8dbe97f5dec62d039ce128e1048a691486cc5a8c9af9b66664741a5bc8a10",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ChildRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_left-disabled": {
@@ -20020,7 +20020,7 @@
     "functionName": "ChildRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ChildRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_left_disabled-b467ab48.png",
-    "sha256": "4a5634c643a239188208afb6d7148b6388a70c3d125400f15d1ce85d3e75c859",
+    "sha256": "143013a0252cc5c75074bc4092a16167699925c5dd259d12d5ec519e069de608",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.FilledRemoteIconButton_width=227dp,height=100dp,dpi=320": {
@@ -20092,7 +20092,7 @@
     "functionName": "FilledVariantRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledVariantRemoteButton_width_227dp_height_100dp_dpi_320-c8454820.png",
-    "sha256": "9e57a5023d98f613fabd8727add716d3e19446c7ef55b707d0d548d39ed37200",
+    "sha256": "cdfab76b3c45333b62920411214cc0ff144c859930ffe3a9c1249b3b25001bd0",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.FilledVariantRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -20100,7 +20100,7 @@
     "functionName": "FilledVariantRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledVariantRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_disabled-3d4cd152.png",
-    "sha256": "3dda9885efa799d64df2cd09e5eed920c4e0eaf78474983904051a0aefebca4e",
+    "sha256": "f7b2b09929b7524acb7684f0cf99b5a61d43ef75534abc58c8637adb236b1a8a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.FilledVariantRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon": {
@@ -20108,7 +20108,7 @@
     "functionName": "FilledVariantRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledVariantRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon-66de49bd.png",
-    "sha256": "24f6f72b52c1e9b3a10873eae6487c7beeb51a7f9f8b25bcaaa7920b872cd1e9",
+    "sha256": "f61cb136034bd81e4d0a4c23122eb23808e02aa72913959da26e6b11c4d1796c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.FilledVariantRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-disabled": {
@@ -20116,7 +20116,7 @@
     "functionName": "FilledVariantRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledVariantRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_disabled-c9c08146.png",
-    "sha256": "be48650c3ecb81ff08c4853135635e39cfbb37859b57c97bfd99e665bd71409d",
+    "sha256": "ad81ace43a8b58034f53f367f7854d3eb52ba45bbc3a2eec7f459ca2ab498aff",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.FilledVariantRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-extra-large": {
@@ -20124,7 +20124,7 @@
     "functionName": "FilledVariantRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledVariantRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_extra_la-35b18d10.png",
-    "sha256": "2e44f2bc89499efc99b36131a7f770268d60f3d211325b99fced8f62ec7d6762",
+    "sha256": "9dedf8a6b2cb8311d9fa9fc3ea64309faad5b86f745fd7858771994bca6b2d5e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.FilledVariantRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-extra-large-disabled": {
@@ -20132,7 +20132,7 @@
     "functionName": "FilledVariantRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledVariantRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_extra_la-d9a91386.png",
-    "sha256": "c8eb8696f40966904209864e24d334081a2d7a9994408a329441425a7cb3ea40",
+    "sha256": "259f388a3decfa04c20ec550c4da56ffa6103b1a61ef14191136662cc47f9536",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.FilledVariantRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-large": {
@@ -20140,7 +20140,7 @@
     "functionName": "FilledVariantRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledVariantRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_large-0aed245c.png",
-    "sha256": "e61f0987afc46892ca6e4ca6545d727d02bf267983979c95d72d3d57fb243638",
+    "sha256": "c96f93722548c8ee0d4003b55e8e0ecd1f753481608048cdafdb0e99835023ef",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.FilledVariantRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-large-disabled": {
@@ -20148,7 +20148,7 @@
     "functionName": "FilledVariantRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledVariantRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_large_di-26c87bf3.png",
-    "sha256": "50eefb75123bfa14afb35ab1441079db9e3c588aec9bd70ac0ab6bd3411a9d57",
+    "sha256": "d0bbd8f82cf5a1e3e70bd2297ddac841db513a67089a470641d2ac78035ceb9d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.FilledVariantRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_left": {
@@ -20156,7 +20156,7 @@
     "functionName": "FilledVariantRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledVariantRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_left-0f1cd535.png",
-    "sha256": "dff32ab5cc6466fcc5d0680e68e2429236fc4e73e8fb62db39aa4be2e0acd8a1",
+    "sha256": "b563ed506f64cc16a02a926e6222e363743c3b791e4d3573360840a38a518ca0",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.FilledVariantRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_left-disabled": {
@@ -20164,7 +20164,7 @@
     "functionName": "FilledVariantRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "FilledVariantRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_left_disabled-ba67a119.png",
-    "sha256": "479fe9c9abd8a5850444576fbb93471b50568ef69c9625d791f3993c67e8770a",
+    "sha256": "a1095f639726022d241543a712e933b639e1c8f2f6ac31dd8004ad0294b9cc6c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.FilledVariantRemoteIconButton_width=227dp,height=100dp,dpi=320": {
@@ -20636,7 +20636,7 @@
     "functionName": "ImageBackgroundRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ImageBackgroundRemoteButton_width_227dp_height_100dp_dpi_320-a25ff1a4.png",
-    "sha256": "b635c1655102f36033788dd9cef0d1d7c5b6160bf08ed3afd9236286a5676048",
+    "sha256": "7dae4f91c5884d384241a90af94e56828d6b3d3884e59d1192fa7868952d4deb",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ImageBackgroundRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -20644,7 +20644,7 @@
     "functionName": "ImageBackgroundRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ImageBackgroundRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_disabled-6ce8817e.png",
-    "sha256": "cb5776aefc18e82148c8dd215f3975dce3a64b6783cedbae99e310c10995386c",
+    "sha256": "c17d3d3ecea28e2061afc9de756973436f105682a11e89cd85e5d28761b0e5c2",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ImageBackgroundRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_secondary-label": {
@@ -20652,7 +20652,7 @@
     "functionName": "ImageBackgroundRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ImageBackgroundRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_secondary_l-248ec195.png",
-    "sha256": "74fdadec05cc9add8be4627b61a4faf5db9aef3caeda2d8bf556b68f0d648fbc",
+    "sha256": "7b5a70c8ba0d3c57459f2c1bc84fd3e8158dcf089ea6bd81ebd4f4e35d79edb4",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.ImageBackgroundRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_secondary-label-disabled": {
@@ -20660,7 +20660,7 @@
     "functionName": "ImageBackgroundRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "ImageBackgroundRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_secondary_l-97f22db0.png",
-    "sha256": "4de91e8f19d9c30c70f297cd2d19c03ad112efc1101092ae64b7fce45deaea9f",
+    "sha256": "531cad1475acf1d924e9a2cda94d1442c9bb8a3cc589f95849f4bba766a559a0",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.IndeterminateCircularProgressMotionRemote_192dp": {
@@ -20708,7 +20708,7 @@
     "functionName": "InteractivePageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "InteractivePageIndicatorRemote_192dp-693b3114.png",
-    "sha256": "57007cd4b9f3410ff471abf4c41c75eaf1c565838cd245cf5f1477891346bf24",
+    "sha256": "45da9bef1d428a8077e2b631143f3c0b7ac008d8445363766e376dc4a312543d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.InteractivePageIndicatorRemote_204dp": {
@@ -20716,7 +20716,7 @@
     "functionName": "InteractivePageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "InteractivePageIndicatorRemote_204dp-c123864f.png",
-    "sha256": "3a7c15a0b9e9e16f114ba653e91cd3b8f03e3c8f610bf115bc5b56ed9b72c4fa",
+    "sha256": "049154c0ce402e77f67e8d7fde1e5e0868d2cd343259b1245fd63da1a326c766",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.InteractivePageIndicatorRemote_216dp": {
@@ -20724,7 +20724,7 @@
     "functionName": "InteractivePageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "InteractivePageIndicatorRemote_216dp-2119c1b8.png",
-    "sha256": "a1619f669e61602bf1f08418de8f42615a8b6aea99cc634e750a455a02e7b531",
+    "sha256": "157335ed8c7f838fd50c4a9564b0b9520f74b7db2d2520e76c48a6726bb47930",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.InteractivePageIndicatorRemote_225dp": {
@@ -20732,7 +20732,7 @@
     "functionName": "InteractivePageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "InteractivePageIndicatorRemote_225dp-b6aac6f4.png",
-    "sha256": "25398c93034864dc215aceeba1e691d420b3293b9dd33793c6f8477c3fdd1fc0",
+    "sha256": "dcaf72cb685f19ea5b6faa2a64f86c6c2fffc02a5e5bc06659e76b43a9e14869",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.InteractivePageIndicatorRemote_240dp": {
@@ -20740,7 +20740,7 @@
     "functionName": "InteractivePageIndicatorRemote",
     "module": "remote-catalog",
     "renderBasename": "InteractivePageIndicatorRemote_240dp-cc80d6da.png",
-    "sha256": "498d279b7761a11344ed1b60b5c55c4bf3efb2f045db75fa6f615001e86d3cc6",
+    "sha256": "fc54ac4fdc3e48179ac639fa71eb834b57ba37cab6ec602e21ce80cbc7dbcb9e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.OutlinedRemoteIconButton_width=227dp,height=100dp,dpi=320": {
@@ -20852,7 +20852,7 @@
     "functionName": "TonalRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TonalRemoteButton_width_227dp_height_100dp_dpi_320-9d1ec984.png",
-    "sha256": "e3763edbb4d1e2079de3095cc62b716e645c37d3f2fa5b0430ea47bae57413e9",
+    "sha256": "5bf8b4992f87b5d6e23d7fa0f8ea7b4f8bd7e00072fcd252a162289b59b23c7a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.TonalRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -20860,7 +20860,7 @@
     "functionName": "TonalRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TonalRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_disabled-d68744e9.png",
-    "sha256": "3dda9885efa799d64df2cd09e5eed920c4e0eaf78474983904051a0aefebca4e",
+    "sha256": "f7b2b09929b7524acb7684f0cf99b5a61d43ef75534abc58c8637adb236b1a8a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.TonalRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon": {
@@ -20868,7 +20868,7 @@
     "functionName": "TonalRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TonalRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon-55ae5d48.png",
-    "sha256": "3ce7e7a096f3fa5a6d4993af058805783dd0d0c0d03cba817c48a0068c004a94",
+    "sha256": "e861b6111653081cf29179a643df257cb8366d6ab5aa94190a041b5eb0fd9215",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.TonalRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-disabled": {
@@ -20876,7 +20876,7 @@
     "functionName": "TonalRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TonalRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_disabled-546e5f57.png",
-    "sha256": "be48650c3ecb81ff08c4853135635e39cfbb37859b57c97bfd99e665bd71409d",
+    "sha256": "ad81ace43a8b58034f53f367f7854d3eb52ba45bbc3a2eec7f459ca2ab498aff",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.TonalRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-extra-large": {
@@ -20884,7 +20884,7 @@
     "functionName": "TonalRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TonalRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_extra_large-57ecbb7f.png",
-    "sha256": "9f3979b86ebe0331e1ad5a030ac16356b2c0c9a154b38db1137db81c92abad52",
+    "sha256": "9e671ecf5b96af8f288dba1ade3fcfd5c2a6d298313bceef1901876b85cfe16f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.TonalRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-extra-large-disabled": {
@@ -20892,7 +20892,7 @@
     "functionName": "TonalRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TonalRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_extra_large_disa-b5179e62.png",
-    "sha256": "c8eb8696f40966904209864e24d334081a2d7a9994408a329441425a7cb3ea40",
+    "sha256": "259f388a3decfa04c20ec550c4da56ffa6103b1a61ef14191136662cc47f9536",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.TonalRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-large": {
@@ -20900,7 +20900,7 @@
     "functionName": "TonalRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TonalRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_large-1b02d461.png",
-    "sha256": "8c6a393c9c7aae1d2f81b5e30a505e5fcc7597486249a2c059ec1917fcb6fb24",
+    "sha256": "50d6298cd21262934a5ca8046f6e8f27cecb6f126d8cbb2ec6692b583271ffb6",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.TonalRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-large-disabled": {
@@ -20908,7 +20908,7 @@
     "functionName": "TonalRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TonalRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_large_disabled-c468d91e.png",
-    "sha256": "50eefb75123bfa14afb35ab1441079db9e3c588aec9bd70ac0ab6bd3411a9d57",
+    "sha256": "d0bbd8f82cf5a1e3e70bd2297ddac841db513a67089a470641d2ac78035ceb9d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.TonalRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_left": {
@@ -20916,7 +20916,7 @@
     "functionName": "TonalRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TonalRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_left-7398f6b5.png",
-    "sha256": "430d1bf425c4ed52707c0fc2777f55e1890380c1e1c70fb1d30d9d385c150a29",
+    "sha256": "5fa389d19fdc2d03bd8cce2d98d909e86175f981beb7ce726d3ad3e9667f5e88",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.TonalRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_left-disabled": {
@@ -20924,7 +20924,7 @@
     "functionName": "TonalRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "TonalRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_left_disabled-c9830bd2.png",
-    "sha256": "479fe9c9abd8a5850444576fbb93471b50568ef69c9625d791f3993c67e8770a",
+    "sha256": "a1095f639726022d241543a712e933b639e1c8f2f6ac31dd8004ad0294b9cc6c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ComponentVariantPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.TonalRemoteIconButton_width=227dp,height=100dp,dpi=320": {
@@ -21820,7 +21820,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320-9b4dacaa.png",
-    "sha256": "392ab35482ff23784cceba2a09999258cfacc7bfc5e8e43737fb064f08296bfd",
+    "sha256": "01ef001f51af3e0370d5d6ce236fde02f55825efc63ae8114b8e9643c1035b9d",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -21828,7 +21828,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_disabled-99fc5fc3.png",
-    "sha256": "533c67eab33255f8d62a21d5980f2102f183055697c590bc81f098febe3069ea",
+    "sha256": "cda9b7e68d2b11e024953fa3494dba8a079e30482604a30d4ca52b0db4977b27",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_extra-small": {
@@ -21836,7 +21836,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_extra_small-89ec894e.png",
-    "sha256": "b4430ecd2ba223c7b83f0e111581a2816dca8f4b122941966b23b9c27fd65164",
+    "sha256": "e099ff57973850b88b0f981defbcc1f037749ecfcfa51b11badba080ba368548",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_extra-small-disabled": {
@@ -21844,7 +21844,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_extra_small_disabled-a6983f97.png",
-    "sha256": "1b4d138a4897485f281575183b18b54e5870fae741a2bc71113d7f4497f1c43e",
+    "sha256": "4593a5d07c3ebcd6f94f567cd0118882774f1d6d63ccc95a0566d9d37445777d",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant": {
@@ -21852,7 +21852,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant-c98a7279.png",
-    "sha256": "c2fc54bbb7dceab20e8552cd507332afe5cbd6be261baf29faaa0d014d39e104",
+    "sha256": "02917e0a1fc3fe03c8f1206d4d1cbf201475d4d7810be69571687720ceb64ee3",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-disabled": {
@@ -21860,7 +21860,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_disable-2468a9fb.png",
-    "sha256": "533c67eab33255f8d62a21d5980f2102f183055697c590bc81f098febe3069ea",
+    "sha256": "cda9b7e68d2b11e024953fa3494dba8a079e30482604a30d4ca52b0db4977b27",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-extra-small": {
@@ -21868,7 +21868,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_extra_s-ec4462ce.png",
-    "sha256": "3210ca33490a3b5bd88a94e3e8b4cfecd31f56c003ea201f7082b9fbfd8607d5",
+    "sha256": "62791a81b5960e54ee6ffd8cb5cf8f37e2bb3ca1a58daf45ca8cdc95281d4a21",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-extra-small-disabled": {
@@ -21876,7 +21876,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_extra_s-1045bf10.png",
-    "sha256": "1b4d138a4897485f281575183b18b54e5870fae741a2bc71113d7f4497f1c43e",
+    "sha256": "4593a5d07c3ebcd6f94f567cd0118882774f1d6d63ccc95a0566d9d37445777d",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-icon": {
@@ -21948,7 +21948,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_large-e013f50e.png",
-    "sha256": "b5647c76a1c5778e43e2071c1a8ab5ac8855d641850fc27d875303c1393332c3",
+    "sha256": "4ecdf21e8b7da1f86eda7c8271902a842227ea3c83b32873eab69a4c376c9f8c",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-large-disabled": {
@@ -21956,7 +21956,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_large_d-05ce84eb.png",
-    "sha256": "73927ac7c583a98c6c93f0d3c0e90cc54556be6bc498cf69d95ec126a7214ef2",
+    "sha256": "682ce3fd05c585c540bb507a4a8d331aed52faa6820c6d77a1ae1ca588f83b96",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-medium": {
@@ -21964,7 +21964,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_medium-2d016123.png",
-    "sha256": "c0e04e6be29cb9c1b792c1036da67bfa741377e3fcfcae83f7df44289b7faf4f",
+    "sha256": "8f3526db65078b43df6a0a1531dbfa14d306bce21f7c0b118ef134c25aa1dc3e",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_filled-variant-medium-disabled": {
@@ -21972,7 +21972,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_filled_variant_medium-9eb31399.png",
-    "sha256": "54da60acadd082376afea4608fda1227c73a2abf750d29ba2516a0ce792685a1",
+    "sha256": "a1bdfd3ac807000ebdd2b7e8b618d78f00d09aed6bf4a71ab6abce2ecd22cdef",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_icon": {
@@ -22044,7 +22044,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_large-f6084c43.png",
-    "sha256": "2f791d44475ae102a24549ba3e0bdc660caa99cec9db0e0e28ab7a406d535e84",
+    "sha256": "38e28ef95763bedf8e5d04636908086028c02f224a0f2a884aa4aab399e51544",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_large-disabled": {
@@ -22052,7 +22052,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_large_disabled-f7e9cc4f.png",
-    "sha256": "73927ac7c583a98c6c93f0d3c0e90cc54556be6bc498cf69d95ec126a7214ef2",
+    "sha256": "682ce3fd05c585c540bb507a4a8d331aed52faa6820c6d77a1ae1ca588f83b96",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_medium": {
@@ -22060,7 +22060,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_medium-628d8c95.png",
-    "sha256": "43300a9a4a0a720a472d522fe9ffa565d3b8c530602877a00988ce74c2e4ae84",
+    "sha256": "66fc4cedd455b830205b136638c72a462d92460d38740b8213f29e4c1b0e55e2",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_medium-disabled": {
@@ -22068,7 +22068,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_medium_disabled-0bf0eb02.png",
-    "sha256": "54da60acadd082376afea4608fda1227c73a2abf750d29ba2516a0ce792685a1",
+    "sha256": "a1bdfd3ac807000ebdd2b7e8b618d78f00d09aed6bf4a71ab6abce2ecd22cdef",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_outlined": {
@@ -22076,7 +22076,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_outlined-1de8f90a.png",
-    "sha256": "d8e2e5ab94f6c2ba141fb3329f29c667fcc61bdbd9fb3f74573c81a02ee6cec3",
+    "sha256": "3357721c85d7e59b4177b23231f2229d03fa141fa9553fad4084ed90860fc606",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_outlined-disabled": {
@@ -22084,7 +22084,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_outlined_disabled-1d68dbab.png",
-    "sha256": "4990af5e0731160c5791ebc43299f8c48720b7fba2eb68db2e8c6bd93ef608ba",
+    "sha256": "ff5f0fa5591a992f1a8ddf87966a273da7043c9eeda49d62efb02949ac287e96",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_outlined-extra-small": {
@@ -22092,7 +22092,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_outlined_extra_small-a2cad36d.png",
-    "sha256": "06ffbe6a6c73598c14d8bc4c3921f9991dfb162ccca0cb7f9a326c548a23f1bb",
+    "sha256": "979e8e2763790e69379441fe16a23ec9c67b46e27e533313e9605a481d19dc38",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_outlined-extra-small-disabled": {
@@ -22100,7 +22100,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_outlined_extra_small_d-c4911efa.png",
-    "sha256": "8d6f8dfb35b83852002118ef24611ec4a0bbf3f7b208381c9423408f50ea2800",
+    "sha256": "71c61e73851dc8631e4913f178fc77d2d5e6ceb21b57b46c66fb5c6dd2b0254d",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_outlined-icon": {
@@ -22172,7 +22172,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_outlined_large-a346374e.png",
-    "sha256": "d02af97956658948363cb30ecb4293bbc41189b03e9574fe4ed97e7550214289",
+    "sha256": "4bb54124719f710940fdc67e9b5b0ff0836e41251f8cb1cc5c6900399fb7d24c",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_outlined-large-disabled": {
@@ -22180,7 +22180,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_outlined_large_disable-e5016191.png",
-    "sha256": "74c32d0d013e7e1374cc1c52595677b2b1a8bdb950feb0b705bb3b43ab2ecbbf",
+    "sha256": "2c0848e01f877e30054084672e7b64589982d113742b0aa3f399b4e673705265",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_outlined-medium": {
@@ -22188,7 +22188,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_outlined_medium-995a9bf0.png",
-    "sha256": "8dfe2e77e35f2933a49ec2fd58325066b43812915bad42c74cb383a0cf6744ad",
+    "sha256": "e0a581d878e1e953c4da8984fc3679ad801b38afbb4accd53aae863ee403530c",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_outlined-medium-disabled": {
@@ -22196,7 +22196,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_outlined_medium_disabl-0f6e558f.png",
-    "sha256": "d8a66340aa45374359c9fc5c3b9cf972fdae418d76d3208afd10321303ec6a69",
+    "sha256": "71d1290b54edcdea00440d13a84c753a146b46257c13c6df179f7bdd93b31543",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_tonal": {
@@ -22204,7 +22204,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_tonal-174730b2.png",
-    "sha256": "77ff628fa6cbefa6127b6718320150a49a32bf2a890ec2dff5a36e9aab53976f",
+    "sha256": "318526e06ad5f9c8fcb83abe0d7014b6e308f3009703be408dcd9172fa16b61b",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_tonal-disabled": {
@@ -22212,7 +22212,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_tonal_disabled-cd324c90.png",
-    "sha256": "533c67eab33255f8d62a21d5980f2102f183055697c590bc81f098febe3069ea",
+    "sha256": "cda9b7e68d2b11e024953fa3494dba8a079e30482604a30d4ca52b0db4977b27",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_tonal-extra-small": {
@@ -22220,7 +22220,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_tonal_extra_small-c78cabfb.png",
-    "sha256": "a74e2c6f1f3aca1b80c8009715b404c94198112f8d0092cb87027a241179030b",
+    "sha256": "98bafcfd6adf9504a66d5389b6b86cbb28bb19a75af012ad0413065a497918bd",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_tonal-extra-small-disabled": {
@@ -22228,7 +22228,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_tonal_extra_small_disa-1afc842b.png",
-    "sha256": "1b4d138a4897485f281575183b18b54e5870fae741a2bc71113d7f4497f1c43e",
+    "sha256": "4593a5d07c3ebcd6f94f567cd0118882774f1d6d63ccc95a0566d9d37445777d",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_tonal-icon": {
@@ -22300,7 +22300,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_tonal_large-2090ff8b.png",
-    "sha256": "218a2d199a1d9eadf68f29d6ab99f6b8bfc6080ca4579aacfe9a902e6aeadf20",
+    "sha256": "38c4f90aee896697f6f9376bc3afa6b27ec1c0e0457c06ba60b22b4f917d5928",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_tonal-large-disabled": {
@@ -22308,7 +22308,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_tonal_large_disabled-3804a926.png",
-    "sha256": "73927ac7c583a98c6c93f0d3c0e90cc54556be6bc498cf69d95ec126a7214ef2",
+    "sha256": "682ce3fd05c585c540bb507a4a8d331aed52faa6820c6d77a1ae1ca588f83b96",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_tonal-medium": {
@@ -22316,7 +22316,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_tonal_medium-b3f311d6.png",
-    "sha256": "aab3082f181cd0585b00ab0f3286a6a7ac74d3468b43aa2463634ffc945adabb",
+    "sha256": "39ac8434f259c5d9461f045d48a4015aa72fa251281c5fcf0b27d39469669e9e",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.EdgeButtonPreviewsKt.EdgeButtonRemote_width=227dp,height=100dp,dpi=320_VARIANT_tonal-medium-disabled": {
@@ -22324,7 +22324,7 @@
     "functionName": "EdgeButtonRemote",
     "module": "remote-catalog",
     "renderBasename": "EdgeButtonRemote_width_227dp_height_100dp_dpi_320_VARIANT_tonal_medium_disabled-45ea4350.png",
-    "sha256": "54da60acadd082376afea4608fda1227c73a2abf750d29ba2516a0ce792685a1",
+    "sha256": "a1bdfd3ac807000ebdd2b7e8b618d78f00d09aed6bf4a71ab6abce2ecd22cdef",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/EdgeButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LinearProgressPreviewsKt.LinearProgressRemote_width=227dp,height=100dp,dpi=320": {
@@ -22396,7 +22396,7 @@
     "functionName": "ListHeaderRemote",
     "module": "remote-catalog",
     "renderBasename": "ListHeaderRemote_width_227dp_height_100dp_dpi_320-ae81ff13.png",
-    "sha256": "31ec5aaf9e1262544a765554ae662f811a07d271140e8f1d2a6b70505b9a8b4e",
+    "sha256": "1cc6aba85e9cd07475948c7605b08d3ee3982b63862c75d58bf0857275a6b806",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ListHeaderPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ListHeaderPreviewsKt.ListHeaderRemote_width=227dp,height=100dp,dpi=320_VARIANT_left-aligned": {
@@ -22404,7 +22404,7 @@
     "functionName": "ListHeaderRemote",
     "module": "remote-catalog",
     "renderBasename": "ListHeaderRemote_width_227dp_height_100dp_dpi_320_VARIANT_left_aligned-82da81b1.png",
-    "sha256": "3d8c580781cd6c805a4317f16245b4fb806e215fda13bdf045255ab38ae7d64e",
+    "sha256": "a97c65983127dfe77331765ce0a2402e2ab8cee225ae03a52f21ed0ec3b4713a",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ListHeaderPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ListHeaderPreviewsKt.ListSubHeaderRemote_width=227dp,height=100dp,dpi=320": {
@@ -22412,7 +22412,7 @@
     "functionName": "ListSubHeaderRemote",
     "module": "remote-catalog",
     "renderBasename": "ListSubHeaderRemote_width_227dp_height_100dp_dpi_320-d29b35b3.png",
-    "sha256": "5df8f3aab62bc009f6209b01cb4e18566d7069d8baa1df78a71844cb2449615e",
+    "sha256": "cf8686c173f932c50addb62704eca54280a9e55509e19849390497608f2d07c3",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ListHeaderPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ListHeaderPreviewsKt.ListSubHeaderRemote_width=227dp,height=100dp,dpi=320_VARIANT_centred": {
@@ -22420,7 +22420,7 @@
     "functionName": "ListSubHeaderRemote",
     "module": "remote-catalog",
     "renderBasename": "ListSubHeaderRemote_width_227dp_height_100dp_dpi_320_VARIANT_centred-0875415d.png",
-    "sha256": "43c3015f8c9b29dbd5d0f93b47758fac0fbfaea5442ec7cc161e8088fa87648b",
+    "sha256": "a8c7c10788c05efc1d9c25c934ebbaa3398b73f6fa95c89c1ce27887b61ce24f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ListHeaderPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ListHeaderPreviewsKt.ListSubHeaderRemote_width=227dp,height=100dp,dpi=320_VARIANT_icon": {
@@ -22428,7 +22428,7 @@
     "functionName": "ListSubHeaderRemote",
     "module": "remote-catalog",
     "renderBasename": "ListSubHeaderRemote_width_227dp_height_100dp_dpi_320_VARIANT_icon-79ceae49.png",
-    "sha256": "5dc2ca80dc1e983115f279a343a730da43f653a3cf5d38c997ec67f2d3ad6fb5",
+    "sha256": "077c7e7d8073f12ff7b7eaf99590c6305b054e72e6b15a153237226409c34cf5",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/ListHeaderPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320": {
@@ -22436,7 +22436,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320-d8ca9d05.png",
-    "sha256": "e98baeb23ee745a9da4419f30fdbeb20db959fc419ead12e8b9daea06838c9e2",
+    "sha256": "f239ea1c957aefd1b357951b59ae9ac3000167208119c408a45fb6f735c2e646",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child": {
@@ -22444,7 +22444,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child-8c2a2fcd.png",
-    "sha256": "7f8b13184c34d1bf899d36f09faf82f276d7974db550d0db685aa7a96c61f556",
+    "sha256": "d449be062088e41b7490f8120e801f5b77dbafff788816e81c72d2ae5b4b2053",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-disabled": {
@@ -22452,7 +22452,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_disabled-7b7b2cb7.png",
-    "sha256": "6d23ac396563d72e8052b4df11eb2d30c26ca46ab000e6839deaaf460b39db45",
+    "sha256": "ae958e4d1175f8d18bcaa3009a03d8020e2316656fa561cb1f36cac5eaa53805",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-icon-extra-large": {
@@ -22460,7 +22460,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_icon_extra_la-f50d6ed9.png",
-    "sha256": "28cc7fe41e42cd65d1dc7aa9aff85972e454e4c6e462095d772dbb03ec641622",
+    "sha256": "e03c2960e8db1b66d4c407b7dce89b38c530fbc8bc53ecd57a3873b7cdc35d2e",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-icon-extra-large-disabled": {
@@ -22468,7 +22468,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_icon_extra_la-f44126c3.png",
-    "sha256": "37b6ba221e46472a5da90114c1f254c57b6733aab7d73a35dbeacd9f1f7eb0cb",
+    "sha256": "d6e63a3f1b360f8b8a002917bd2747918cf310a7b5c5b08db609b6a7b14bc7fb",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-icon-large": {
@@ -22476,7 +22476,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_icon_large-20e56d7d.png",
-    "sha256": "f97e7d6ae0fa00879e968b9ae973475419c37b1cb0af9b5b4fbb2c88de025c69",
+    "sha256": "9ee7a40f58ae85ea51b00d2daac462e01f01d73a1aab7ab0b60a5820d59863c3",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_child-icon-large-disabled": {
@@ -22484,7 +22484,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_child_icon_large_di-0cd04ab0.png",
-    "sha256": "3f778769dd5eb8b432140b70e9d0f4e5687a6c5cfbb9bc4f4c464ceba06d67a8",
+    "sha256": "24f7c02b395f148e121f75cae1d38630d8c2f0cdaa2c23bcc516ca839b38a44c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -22492,7 +22492,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_disabled-4884c9ca.png",
-    "sha256": "64b5fc148a1508a237da3c024526f9c9812d8787b4e80649928424ab84e06f6e",
+    "sha256": "643f47ffa77b334bd5e9df001449e8753a4af2615a10c59d881bd88969c4c49d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-extra-large": {
@@ -22500,7 +22500,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_extra_large-fb6e0575.png",
-    "sha256": "419f5bb02c86b8a2f76de661de39af93dcfa917980e4b0d106e7ae21c2005629",
+    "sha256": "af4cd837d465177010f824eaa740b1bc83331d35dd5e1d458eab054e4a628e41",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-extra-large-disabled": {
@@ -22508,7 +22508,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_extra_large_di-1be8bc1b.png",
-    "sha256": "e50c7e73b54566bd553e116e4b08e510d3cbee9cf96e987705a5db2e20468394",
+    "sha256": "de182b1cca0d152a017e07f62b5e23ea8b015ed5c57a15606826f9fa779ac59c",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-large": {
@@ -22516,7 +22516,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_large-d70d5596.png",
-    "sha256": "04ff0af7efe262c6533a5b35a2c445f0b35f3c794bd1c5f6ad954d832f6d8ced",
+    "sha256": "aa89c1e4a5740f93397aaabee642331928b110b7848fe7d6ba555ea7f592eb8d",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_icon-large-disabled": {
@@ -22524,7 +22524,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_icon_large_disabled-f19cc2d1.png",
-    "sha256": "e73bed6edde151eab50b0f685d5020bb16799cbf3e96312b712f45f02322d91e",
+    "sha256": "d99fcd0b3ade467537349625243addaadbb37f81c391d7ffd169262b96ce49e8",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined": {
@@ -22532,7 +22532,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined-29509272.png",
-    "sha256": "0337145673024965df662a68bdf32ccc1043e8b92071a807da1cd93671c90ed9",
+    "sha256": "124f48ec9ba36b83ab9d72dd58c6ec3777a929cebdcb53a597f0649c8f2b9f38",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined-disabled": {
@@ -22540,7 +22540,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined_disabled-07e43a8c.png",
-    "sha256": "5346de32caa147717d1a1d12ec78b562701065cdf808ba32999225c40e31a7ad",
+    "sha256": "c33da7fe123a850eb3840da87c8d7f17e17bdf9944765a35e570daa466ae7758",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined-icon-extra-large": {
@@ -22548,7 +22548,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined_icon_extra-c3fe0962.png",
-    "sha256": "38a961354dd2ee5c30492b9d7005ace60a21513fb8c7ef6462fe2dd006deb618",
+    "sha256": "5370c80c542303811ac4ce098a04acb11610698c30033e7165900f045405a493",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined-icon-extra-large-disabled": {
@@ -22556,7 +22556,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined_icon_extra-fe0372c3.png",
-    "sha256": "24987bb48bd3efda72916a45a49bb234c04ed0ef58fe467091bd0e614ae6b040",
+    "sha256": "b19b97b9dbf9b6a90602d7eb7c5170f489cda398b16eb2ab49e1f4ebb0c9d7e4",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined-icon-large": {
@@ -22564,7 +22564,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined_icon_large-5542122b.png",
-    "sha256": "1f7a0cc4e2a50ea2a8ee734772ab65c62459bc9cae4e1de79205cb34e04ae86e",
+    "sha256": "3f92d0b2bc4dc7dda97671782df7e0efd77c4656929bade48f006465b90ce1e5",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.LoadingButtonPreviewsKt.LoadingRemoteButton_width=227dp,height=100dp,dpi=320_VARIANT_outlined-icon-large-disabled": {
@@ -22572,7 +22572,7 @@
     "functionName": "LoadingRemoteButton",
     "module": "remote-catalog",
     "renderBasename": "LoadingRemoteButton_width_227dp_height_100dp_dpi_320_VARIANT_outlined_icon_large-381cf2f5.png",
-    "sha256": "f888223b826d56be2c354a41f242dcd7c1219003a05e9934d9dd0166f6a98f47",
+    "sha256": "721bc1357fae888135026878709afbf2ca9120367afab9ba054407dd26601481",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/LoadingButtonPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.PositionIndicatorPreviewsKt.LevelRailRemote_192dp": {
@@ -23020,7 +23020,7 @@
     "functionName": "ThemeSpecimenAndroidMakersRemote",
     "module": "remote-catalog",
     "renderBasename": "ThemeSpecimenAndroidMakersRemote_width_227dp_height_200dp_dpi_320-20753312.png",
-    "sha256": "0463fd5b4aca34870f75d4291b3d1187ebf6be6f38bd3fc5e04a6b6ae8f3c334",
+    "sha256": "f4fc894fe27d6a40ac0739fe2cf3e922da07a6b964c6ff37ce25f91543c63dff",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/RemoteThemeSpecimens.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.RemoteThemeSpecimensKt.ThemeSpecimenConfettiDefaultRemote_width=227dp,height=200dp,dpi=320": {
@@ -23028,7 +23028,7 @@
     "functionName": "ThemeSpecimenConfettiDefaultRemote",
     "module": "remote-catalog",
     "renderBasename": "ThemeSpecimenConfettiDefaultRemote_width_227dp_height_200dp_dpi_320-3e79aad2.png",
-    "sha256": "6e96aea9b9ca63116434eaaa90ece91ff86a9d6480e2b0c22428dd99f23ff790",
+    "sha256": "912447984da67feef33640b66cd3ec0ddc837745b8088207249e59b6e558dc03",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/RemoteThemeSpecimens.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.RemoteThemeSpecimensKt.ThemeSpecimenDevFestRemote_width=227dp,height=200dp,dpi=320": {
@@ -23036,7 +23036,7 @@
     "functionName": "ThemeSpecimenDevFestRemote",
     "module": "remote-catalog",
     "renderBasename": "ThemeSpecimenDevFestRemote_width_227dp_height_200dp_dpi_320-06ebc2e9.png",
-    "sha256": "d635207fb6bccf701db89dce205fa8581dfca4cf470efa144951920ee25b88d1",
+    "sha256": "ed63d2de6f74eab5a89e2a2fa357b54f67590d43ed53ea98539bcca430829f18",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/RemoteThemeSpecimens.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.RemoteThemeSpecimensKt.ThemeSpecimenDroidconRemote_width=227dp,height=200dp,dpi=320": {
@@ -23044,7 +23044,7 @@
     "functionName": "ThemeSpecimenDroidconRemote",
     "module": "remote-catalog",
     "renderBasename": "ThemeSpecimenDroidconRemote_width_227dp_height_200dp_dpi_320-9cfd23d3.png",
-    "sha256": "180d19db0a0bd40a336093df0ba7db73d8370a5a984e71c4f2a79f43d4662ca2",
+    "sha256": "6271190f6841a25772ca067ff4e7b6a98b3806e49f5e89f1b54937944b85ced5",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/RemoteThemeSpecimens.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.RemoteThemeSpecimensKt.ThemeSpecimenGoogleSansFlexRemote_width=227dp,height=200dp,dpi=320": {
@@ -23052,7 +23052,7 @@
     "functionName": "ThemeSpecimenGoogleSansFlexRemote",
     "module": "remote-catalog",
     "renderBasename": "ThemeSpecimenGoogleSansFlexRemote_width_227dp_height_200dp_dpi_320-df706789.png",
-    "sha256": "4d98f63cfa7df16ec808d0d3fa7c19007697548e49d60a2d2a5b583e16da0fc0",
+    "sha256": "23b12b8cea5271f7eb38d239a8d7283a4b00dcdfcefd7d6410fc664e965c050f",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/RemoteThemeSpecimens.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.RemoteThemeSpecimensKt.ThemeSpecimenKotlinConfRemote_width=227dp,height=200dp,dpi=320": {
@@ -23060,7 +23060,7 @@
     "functionName": "ThemeSpecimenKotlinConfRemote",
     "module": "remote-catalog",
     "renderBasename": "ThemeSpecimenKotlinConfRemote_width_227dp_height_200dp_dpi_320-5a82ba82.png",
-    "sha256": "3365143f656823314dc9ed8ffc6044833c416d590dec1ad75819ee1a01cc717c",
+    "sha256": "11185480fe3d6738d132cf9ebbcbec0ae1e10e92ba207d64a1236307ed086676",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/RemoteThemeSpecimens.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.CheckboxRowRemote_width=227dp,height=100dp,dpi=320": {
@@ -23068,7 +23068,7 @@
     "functionName": "CheckboxRowRemote",
     "module": "remote-catalog",
     "renderBasename": "CheckboxRowRemote_width_227dp_height_100dp_dpi_320-2461f4b4.png",
-    "sha256": "fcea9c8961a5640f3eddfa64a63b11aea960e1e3941f174cc3639f854495b3b1",
+    "sha256": "d6c72f82ed088657a908d670ae90b2bf32461dc416948762846f9b7545e5e008",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.CheckboxRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -23076,7 +23076,7 @@
     "functionName": "CheckboxRowRemote",
     "module": "remote-catalog",
     "renderBasename": "CheckboxRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_disabled-36940be0.png",
-    "sha256": "7bd90bf9a7368c5c14524080d63a4c8975ef6ddc64e8ef574e8b0ee92f13e63c",
+    "sha256": "3ba1cb19799acf68bec5e12760e2191bdee40a9e643520f4009df10cae7f6ac7",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.CheckboxRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_split": {
@@ -23084,7 +23084,7 @@
     "functionName": "CheckboxRowRemote",
     "module": "remote-catalog",
     "renderBasename": "CheckboxRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_split-cc58ed13.png",
-    "sha256": "c020ce51849cb11887670116f42633c9a607155b620389c9a7c2f4f424c209b6",
+    "sha256": "6d8eb21097506c032a664e19bf6d2efab354ace594a817c79647dfcdfd78342d",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.CheckboxRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_split-disabled": {
@@ -23092,7 +23092,7 @@
     "functionName": "CheckboxRowRemote",
     "module": "remote-catalog",
     "renderBasename": "CheckboxRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_split_disabled-e9063bb0.png",
-    "sha256": "2674ca54e3892e384777bfc8de62c1c666e6634a495dc61a901a72c2af1d2ec2",
+    "sha256": "28b1a2fa1400f2f9e9d2b721893db73b8a00d928cfb2c31d5b5ecada1ccb8fa2",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.CheckboxRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_unselected": {
@@ -23100,7 +23100,7 @@
     "functionName": "CheckboxRowRemote",
     "module": "remote-catalog",
     "renderBasename": "CheckboxRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_unselected-d171af47.png",
-    "sha256": "e9e965ce4eafeb6b38f2de2359ab2fd6ec50fe60f184a898c9c594dc5e92e36f",
+    "sha256": "293ebfee6fc454c034c0b9b6fe79f5abc1a584d7ac6b31c8750f51c43eb3bd6c",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.CheckboxRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_unselected-disabled": {
@@ -23108,7 +23108,7 @@
     "functionName": "CheckboxRowRemote",
     "module": "remote-catalog",
     "renderBasename": "CheckboxRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_unselected_disabled-b3679076.png",
-    "sha256": "37e82572a9dd193eda858204c3dcfa593a3d1e4accbb7969bcd20d3ad003e4d0",
+    "sha256": "7db285309f48a153ed6b73f19f082c2c6bab16a489f0f25db6041bb26df875ec",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.CheckboxRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_unselected-split": {
@@ -23116,7 +23116,7 @@
     "functionName": "CheckboxRowRemote",
     "module": "remote-catalog",
     "renderBasename": "CheckboxRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_unselected_split-d23c4ecc.png",
-    "sha256": "cd32715bef3fbfbf643d00f7f02d1362725849d736009e53c58ef21e2afb3b15",
+    "sha256": "38ff8f8c084ecd313eb4ced37a817122ce4c81fa42c2e5d031114a3352ae2dbd",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.CheckboxRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_unselected-split-disabled": {
@@ -23124,7 +23124,7 @@
     "functionName": "CheckboxRowRemote",
     "module": "remote-catalog",
     "renderBasename": "CheckboxRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_unselected_split_disa-77c8e5e7.png",
-    "sha256": "962ed896e6f4e24c813c8e31d24b6a9a382d409b7ea273231b1f79f1829c1733",
+    "sha256": "e1384a812ac5988a601a647f263bfd2e80be07f6b25ac71d4b7939dbc5a76dab",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.RadioRowRemote_width=227dp,height=100dp,dpi=320": {
@@ -23132,7 +23132,7 @@
     "functionName": "RadioRowRemote",
     "module": "remote-catalog",
     "renderBasename": "RadioRowRemote_width_227dp_height_100dp_dpi_320-b2600d33.png",
-    "sha256": "c075ee2b1373f6b05c756297af04e07fbc4fb4c592617a1fac7fc75b403acbad",
+    "sha256": "fa97edb1554e6d3c8c002bec26eebafb6d59f027767dfbd565a8586fe423d710",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.RadioRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -23140,7 +23140,7 @@
     "functionName": "RadioRowRemote",
     "module": "remote-catalog",
     "renderBasename": "RadioRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_disabled-b83c16a1.png",
-    "sha256": "e365a4551165f1df04b3b059043effa7394501a2756416fe2cc020c1f5a7ea4b",
+    "sha256": "f11d084afc974df42560c87a73d89cdc9d6a7fcee6404d3e94053de0addbf2ec",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.RadioRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_split": {
@@ -23148,7 +23148,7 @@
     "functionName": "RadioRowRemote",
     "module": "remote-catalog",
     "renderBasename": "RadioRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_split-856b7ea8.png",
-    "sha256": "a2d43681d3d707cb3c5d12d3a9e6be03a2ecb8d11d6995c91030bd5f8c58b5c9",
+    "sha256": "27822a37420f212ba86f6dcbe4ad5405e830695639a415f5dc5301cfa490cdba",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.RadioRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_split-disabled": {
@@ -23156,7 +23156,7 @@
     "functionName": "RadioRowRemote",
     "module": "remote-catalog",
     "renderBasename": "RadioRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_split_disabled-cef175ff.png",
-    "sha256": "b593f19e45c3c007a66d59ef4f6ecbbdd09ca367522cf9922f33994dd0a6e9f3",
+    "sha256": "0102d0d8d94254c50a248644dc62a39025792bfb346c29c7e5cfc4f2d0e14cd5",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.RadioRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_unselected": {
@@ -23164,7 +23164,7 @@
     "functionName": "RadioRowRemote",
     "module": "remote-catalog",
     "renderBasename": "RadioRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_unselected-dc8e4354.png",
-    "sha256": "4b3b523ded7a32569d3dc61f6feee91ee29d7a95e7e4a5b2721cc901cae3e0e2",
+    "sha256": "604a77125f670d369ac133d532583e750eed8a87c85b8dbb478152423eb14312",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.RadioRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_unselected-disabled": {
@@ -23172,7 +23172,7 @@
     "functionName": "RadioRowRemote",
     "module": "remote-catalog",
     "renderBasename": "RadioRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_unselected_disabled-8dff756c.png",
-    "sha256": "138711b8fe422a86c6bc69da1e36fbb821bfdb4dff0e6cefc186178b17c94e0a",
+    "sha256": "b26ef36bf19b74bcee07b3e9e7209bcea76dfd9886a69030ed08c484a5393c34",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.RadioRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_unselected-split": {
@@ -23180,7 +23180,7 @@
     "functionName": "RadioRowRemote",
     "module": "remote-catalog",
     "renderBasename": "RadioRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_unselected_split-4bcc622f.png",
-    "sha256": "dfd83d3461e5b4c06c48d10be57d1747afe4e5b0be989bce1ce92688862fc4e1",
+    "sha256": "579c5a0e9238b9746292faa878dfff2a1a640efbd30cdee262d0a6a2dd0f741c",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.RadioRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_unselected-split-disabled": {
@@ -23188,7 +23188,7 @@
     "functionName": "RadioRowRemote",
     "module": "remote-catalog",
     "renderBasename": "RadioRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_unselected_split_disable-01b1edf3.png",
-    "sha256": "69820d5738bec69388e8b078d02973fc69b5ef96b059c97cced0704322a0e756",
+    "sha256": "55a951a5ea76cca038b250cd3add9c636b18df4c5062d9ce21b0d19b98dbe9d6",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.SwitchRowRemote_width=227dp,height=100dp,dpi=320": {
@@ -23196,7 +23196,7 @@
     "functionName": "SwitchRowRemote",
     "module": "remote-catalog",
     "renderBasename": "SwitchRowRemote_width_227dp_height_100dp_dpi_320-1bc86e93.png",
-    "sha256": "85653503745360994772b43c98daff049ae68d562980b495c02e5c7c323e8335",
+    "sha256": "1172b6bfca1942be8adb6ea9347f44ae73233a8c641dcbd138d16864f925bfc9",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.SwitchRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_disabled": {
@@ -23204,7 +23204,7 @@
     "functionName": "SwitchRowRemote",
     "module": "remote-catalog",
     "renderBasename": "SwitchRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_disabled-d3328a47.png",
-    "sha256": "b2d4402675a704e09230c59b3856c311318470710a1ecec5b7409ec9605a2907",
+    "sha256": "58fd52f260173288fe829e72c0e75442f4ab51e5e0dfad792e52c73ffe1eb146",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.SwitchRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_split": {
@@ -23212,7 +23212,7 @@
     "functionName": "SwitchRowRemote",
     "module": "remote-catalog",
     "renderBasename": "SwitchRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_split-287cd403.png",
-    "sha256": "8a417dd6af108a5ceb0b7f508cc54e6bbbf0ef75bff58e59db5caec248f33197",
+    "sha256": "f2cce8a1725e782012dc8097cbaa66c38f570f053c964b05fcc44932206a67af",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.SwitchRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_split-disabled": {
@@ -23220,7 +23220,7 @@
     "functionName": "SwitchRowRemote",
     "module": "remote-catalog",
     "renderBasename": "SwitchRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_split_disabled-ef65e826.png",
-    "sha256": "c137ba667d43a0a313224435c893a1f640a988b5d729ddb77ac1b51e8d706d2c",
+    "sha256": "ca882b58447d7ceb7cdf1119d8133f969c685c323429df04578a4814ab547106",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.SwitchRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_unselected": {
@@ -23228,7 +23228,7 @@
     "functionName": "SwitchRowRemote",
     "module": "remote-catalog",
     "renderBasename": "SwitchRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_unselected-97e9673d.png",
-    "sha256": "601414b997b10d1e99626fab8ad33e06694f6177c39e5804c4dac97f78687c58",
+    "sha256": "9d34825a367349bac5d8a9924b711f6a93355c4837131ce2b4e9ee61cc6a887a",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.SwitchRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_unselected-disabled": {
@@ -23236,7 +23236,7 @@
     "functionName": "SwitchRowRemote",
     "module": "remote-catalog",
     "renderBasename": "SwitchRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_unselected_disabled-0f040907.png",
-    "sha256": "a376bd56fd94cfbd8dc9bcf13cda431af214160f1303e20dd2972b2701533b8f",
+    "sha256": "c43f8c73b9281e8195987110572c186b37dd1166436c829cd3924aba09fd6a24",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.SwitchRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_unselected-split": {
@@ -23244,7 +23244,7 @@
     "functionName": "SwitchRowRemote",
     "module": "remote-catalog",
     "renderBasename": "SwitchRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_unselected_split-8ed55da8.png",
-    "sha256": "b4919c682d86b04081bfbb12f0276073ea7b169a1ee5caee38e191d59abf9f69",
+    "sha256": "f48957be2ec885921bcc008ca25525867bfc02eb48050cadde4d185ff1588cb7",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SelectionPreviewsKt.SwitchRowRemote_width=227dp,height=100dp,dpi=320_VARIANT_unselected-split-disabled": {
@@ -23252,7 +23252,7 @@
     "functionName": "SwitchRowRemote",
     "module": "remote-catalog",
     "renderBasename": "SwitchRowRemote_width_227dp_height_100dp_dpi_320_VARIANT_unselected_split_disabl-f70161af.png",
-    "sha256": "b7d6cf6ed8a084b4c23d7c07ce442af24851da1c13a2821f32f174f600583e7b",
+    "sha256": "060cb3716c16e5abf02021a8c953a01e75b84da96d3aaf64a91b48dc2214f0b4",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/SelectionPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.ShapePreviewsKt.MaterialShapesRemote_width=227dp,height=100dp,dpi=320": {
@@ -23828,7 +23828,7 @@
     "functionName": "ValueStepperRemote",
     "module": "remote-catalog",
     "renderBasename": "ValueStepperRemote_width_227dp_height_227dp_dpi_320-ad2b2364.png",
-    "sha256": "85bdef7235c072ffe30f8b5527a8951ecec345e4efee11f464fdbfb34ba25fdc",
+    "sha256": "197e4a0125a3926b746ec92ae9bf3a361a06b72b859f39639832a0be8e484047",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/StepperPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.StepperPreviewsKt.ValueStepperRemote_width=227dp,height=227dp,dpi=320_VARIANT_disabled": {
@@ -23836,7 +23836,7 @@
     "functionName": "ValueStepperRemote",
     "module": "remote-catalog",
     "renderBasename": "ValueStepperRemote_width_227dp_height_227dp_dpi_320_VARIANT_disabled-3db4a61f.png",
-    "sha256": "74c228ea8a41371254a299358d82f69033b236f5f92a6b9adabaf3b1048dc8f2",
+    "sha256": "40a3a20b275b9c24ce3e67297c9a1723c64d30171e1a81feb4ac27205ccca11e",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/StepperPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.StepperPreviewsKt.ValueStepperRemote_width=227dp,height=227dp,dpi=320_VARIANT_icon": {
@@ -23876,7 +23876,7 @@
     "functionName": "ValueStepperRemote",
     "module": "remote-catalog",
     "renderBasename": "ValueStepperRemote_width_227dp_height_227dp_dpi_320_VARIANT_no_button_fill-68cbb490.png",
-    "sha256": "259004329b75481f7bc2ae38da3005bd8b9c878e92379f80a884e6c0527acb22",
+    "sha256": "2a6f50f5e23f271fd181bb9b516bad27790546c17586810f076344720cd1b1ce",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/StepperPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.StepperPreviewsKt.ValueStepperRemote_width=227dp,height=227dp,dpi=320_VARIANT_no-button-fill-disabled": {
@@ -23884,7 +23884,7 @@
     "functionName": "ValueStepperRemote",
     "module": "remote-catalog",
     "renderBasename": "ValueStepperRemote_width_227dp_height_227dp_dpi_320_VARIANT_no_button_fill_disab-b569ee5e.png",
-    "sha256": "74c228ea8a41371254a299358d82f69033b236f5f92a6b9adabaf3b1048dc8f2",
+    "sha256": "40a3a20b275b9c24ce3e67297c9a1723c64d30171e1a81feb4ac27205ccca11e",
     "sourceFile": "src/snapshot/kotlin/ee/schimke/wearm3catalog/remote/StepperPreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.SystemThemePreviewsKt.SystemThemeSwatchesRemote_width=227dp,height=100dp,dpi=320": {
@@ -23900,7 +23900,7 @@
     "functionName": "TitleCardHostProbeBareText",
     "module": "remote-catalog",
     "renderBasename": "TitleCardHostProbeBareText_width_227dp_height_200dp_dpi_320-f125d87d.png",
-    "sha256": "70303e0830de2d33253766077b855beeb19a93a9885376b425a1a1f35cbf0def",
+    "sha256": "bf8828f93bfb38053b1e9d3942225000fa4749bf0138144cb135c17e9d673573",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/TitleCardHostProbePreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.TitleCardHostProbePreviewsKt.TitleCardHostProbeCard_width=227dp,height=200dp,dpi=320": {
@@ -23908,7 +23908,7 @@
     "functionName": "TitleCardHostProbeCard",
     "module": "remote-catalog",
     "renderBasename": "TitleCardHostProbeCard_width_227dp_height_200dp_dpi_320-b84e6439.png",
-    "sha256": "7786e339d04fe7ed94b517851900dc1398be703b9a00d8cc076b31a13481193a",
+    "sha256": "bd073b49aabb2b01a7197a06d7f33d1a23f10dfd637b21ad0b22721e8572a079",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/TitleCardHostProbePreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.TitleCardHostProbePreviewsKt.TitleCardHostProbeFreshWidth_width=227dp,height=200dp,dpi=320": {
@@ -23916,7 +23916,7 @@
     "functionName": "TitleCardHostProbeFreshWidth",
     "module": "remote-catalog",
     "renderBasename": "TitleCardHostProbeFreshWidth_width_227dp_height_200dp_dpi_320-178933cb.png",
-    "sha256": "49aac71fe22bbc3ad17bebd6b37ed2e4b1feb2eb33b6b4f1d40ffad60734e824",
+    "sha256": "51dd535d3914f5e2d967100583c6e02e1a3f8b6e1c54ef7bdc148d27c0118967",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/TitleCardHostProbePreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.TitleCardHostProbePreviewsKt.TitleCardHostProbeSharedWidth_width=227dp,height=200dp,dpi=320": {
@@ -23924,7 +23924,7 @@
     "functionName": "TitleCardHostProbeSharedWidth",
     "module": "remote-catalog",
     "renderBasename": "TitleCardHostProbeSharedWidth_width_227dp_height_200dp_dpi_320-b23198aa.png",
-    "sha256": "49aac71fe22bbc3ad17bebd6b37ed2e4b1feb2eb33b6b4f1d40ffad60734e824",
+    "sha256": "51dd535d3914f5e2d967100583c6e02e1a3f8b6e1c54ef7bdc148d27c0118967",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/TitleCardHostProbePreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.TitleCardHostProbePreviewsKt.TitleCardHostProbeWithContent_width=227dp,height=200dp,dpi=320": {
@@ -23932,7 +23932,7 @@
     "functionName": "TitleCardHostProbeWithContent",
     "module": "remote-catalog",
     "renderBasename": "TitleCardHostProbeWithContent_width_227dp_height_200dp_dpi_320-c4482e8d.png",
-    "sha256": "62582ad683bdec0fdfcca29988829022c14c5638da98a9f6eacadb3487ebe699",
+    "sha256": "fdd64c7b832482b799dd5a3a71938df8e7b345c0fa9ced556d4984f0697a3e92",
     "sourceFile": "src/main/kotlin/ee/schimke/wearm3catalog/remote/TitleCardHostProbePreviews.kt"
   },
   "remote-catalog/ee.schimke.wearm3catalog.remote.WidgetContainerPreviewsKt.WidgetContainerGradientRemote": {
