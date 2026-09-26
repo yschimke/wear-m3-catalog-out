@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-26T21:15:45.606Z",
+  "generatedAt": "2026-09-26T21:33:10.023Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "c283d882689da3785b0d962e2489e06a9577a2f8",
+        "subject": "fix(deps): update compose-ai-tools (#616)",
+        "at": "2026-09-26T22:26:28+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e2edbf58379e152b53e1a4dd9adcfca5855d5f92",
+        "subject": "fix(ui-builder): default Remote M3 icon canvas mapping (#632)",
+        "at": "2026-09-26T22:21:37+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "24867ffae1856526c6837f40aa836a614091cdc5",
         "subject": "fix(deps): update rc-players to v1.75.0 (#631)",
@@ -466,22 +482,6 @@
         "sha": "0562967067409f846c1fee58353510189c6fadf0",
         "subject": "feat(ui-builder): deliver Remote M3 runtime (#552)",
         "at": "2026-09-21T07:18:03+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "76088f352913cfe73307bf7bd92de3b509ac3c82",
-        "subject": "refactor(ui-builder): share Wear adapter pack (#551)",
-        "at": "2026-09-21T07:18:02+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "17a19a678459a428bae9f3b2f89faf2bbf41fd73",
-        "subject": "feat(ui-builder): derive runtime mappings from policy (#550)",
-        "at": "2026-09-21T07:18:02+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
