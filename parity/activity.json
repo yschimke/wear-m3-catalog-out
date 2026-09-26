@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-26T16:18:25.999Z",
+  "generatedAt": "2026-09-26T16:26:09.821Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "fec8d89071c781837da40d9daf1021f54ec6f28a",
+        "subject": "feat(ui-builder): rebuild runtimes for device view (#628)",
+        "at": "2026-09-26T17:16:17+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8fdf6035c7e5f225102a26c2eddf39e8fb7cbb42",
         "subject": "fix(deps): update compose-preview-daemon to v3.8.4 (#629)",
@@ -474,14 +482,6 @@
         "sha": "fd2b3c4adff4ae578df9536856c6800520c092dc",
         "subject": "feat(ui-builder): run Wear from renderer SDK (#549)",
         "at": "2026-09-21T07:18:02+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5d08280282aa5bd24144903e7d88f94b1e402ce0",
-        "subject": "feat(ui-builder): move Wear screens into runtime (#548)",
-        "at": "2026-09-21T07:18:01+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
