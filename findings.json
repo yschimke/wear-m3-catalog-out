@@ -645,28 +645,28 @@
               "dw": "0",
               "dh": "-78",
               "borderPixels": "35412",
-              "contentPixels": "20010"
+              "contentPixels": "21345"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined: 9.1% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "icon-outlined: 9.0% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "icon-outlined",
-              "alphaLossRatio": "0.0913",
-              "alphaLossPixels": "13347",
+              "alphaLossRatio": "0.089994",
+              "alphaLossPixels": "13156",
               "alphaComparedPixels": "146188"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined: 30.5% of pixels differ from reference",
+            "message": "icon-outlined: 31.3% of pixels differ from reference",
             "detail": {
               "key": "icon-outlined",
-              "score": "0.305187",
-              "diffPixels": "55422"
+              "score": "0.312539",
+              "diffPixels": "56757"
             }
           },
           {
@@ -678,28 +678,28 @@
               "dw": "0",
               "dh": "6",
               "borderPixels": "2724",
-              "contentPixels": "34740"
+              "contentPixels": "35864"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined-content-image: 14.9% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "icon-outlined-content-image: 14.3% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "icon-outlined-content-image",
-              "alphaLossRatio": "0.148811",
-              "alphaLossPixels": "27024",
+              "alphaLossRatio": "0.14326",
+              "alphaLossPixels": "26016",
               "alphaComparedPixels": "181600"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined-content-image: 20.3% of pixels differ from reference",
+            "message": "icon-outlined-content-image: 20.9% of pixels differ from reference",
             "detail": {
               "key": "icon-outlined-content-image",
-              "score": "0.203251",
-              "diffPixels": "37464"
+              "score": "0.209349",
+              "diffPixels": "38588"
             }
           },
           {
@@ -711,28 +711,28 @@
               "dw": "0",
               "dh": "6",
               "borderPixels": "2724",
-              "contentPixels": "41460"
+              "contentPixels": "42175"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined-gallery-1: 19.9% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "icon-outlined-gallery-1: 19.2% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "icon-outlined-gallery-1",
-              "alphaLossRatio": "0.199246",
-              "alphaLossPixels": "36183",
+              "alphaLossRatio": "0.19163",
+              "alphaLossPixels": "34800",
               "alphaComparedPixels": "181600"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined-gallery-1: 24.0% of pixels differ from reference",
+            "message": "icon-outlined-gallery-1: 24.4% of pixels differ from reference",
             "detail": {
               "key": "icon-outlined-gallery-1",
-              "score": "0.239708",
-              "diffPixels": "44184"
+              "score": "0.243587",
+              "diffPixels": "44899"
             }
           },
           {
@@ -744,28 +744,28 @@
               "dw": "0",
               "dh": "-9",
               "borderPixels": "4086",
-              "contentPixels": "35526"
+              "contentPixels": "36895"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined-gallery-2: 17.4% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "icon-outlined-gallery-2: 17.0% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "icon-outlined-gallery-2",
-              "alphaLossRatio": "0.173665",
-              "alphaLossPixels": "30828",
+              "alphaLossRatio": "0.169637",
+              "alphaLossPixels": "30113",
               "alphaComparedPixels": "177514"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined-gallery-2: 21.8% of pixels differ from reference",
+            "message": "icon-outlined-gallery-2: 22.6% of pixels differ from reference",
             "detail": {
               "key": "icon-outlined-gallery-2",
-              "score": "0.218128",
-              "diffPixels": "39612"
+              "score": "0.225666",
+              "diffPixels": "40981"
             }
           },
           {
@@ -777,28 +777,28 @@
               "dw": "0",
               "dh": "-78",
               "borderPixels": "35412",
-              "contentPixels": "21637"
+              "contentPixels": "22936"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined: 10.0% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "outlined: 9.8% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "outlined",
-              "alphaLossRatio": "0.099564",
-              "alphaLossPixels": "14555",
+              "alphaLossRatio": "0.097806",
+              "alphaLossPixels": "14298",
               "alphaComparedPixels": "146188"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined: 31.4% of pixels differ from reference",
+            "message": "outlined: 32.1% of pixels differ from reference",
             "detail": {
               "key": "outlined",
-              "score": "0.314146",
-              "diffPixels": "57049"
+              "score": "0.3213",
+              "diffPixels": "58348"
             }
           },
           {
@@ -810,28 +810,28 @@
               "dw": "0",
               "dh": "6",
               "borderPixels": "2724",
-              "contentPixels": "36341"
+              "contentPixels": "37411"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-content-image: 15.5% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "outlined-content-image: 15.0% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "outlined-content-image",
-              "alphaLossRatio": "0.155358",
-              "alphaLossPixels": "28213",
+              "alphaLossRatio": "0.149515",
+              "alphaLossPixels": "27152",
               "alphaComparedPixels": "181600"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-content-image: 21.2% of pixels differ from reference",
+            "message": "outlined-content-image: 21.8% of pixels differ from reference",
             "detail": {
               "key": "outlined-content-image",
-              "score": "0.211937",
-              "diffPixels": "39065"
+              "score": "0.217742",
+              "diffPixels": "40135"
             }
           },
           {
@@ -843,28 +843,28 @@
               "dw": "0",
               "dh": "6",
               "borderPixels": "2724",
-              "contentPixels": "43061"
+              "contentPixels": "43722"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-gallery-1: 20.6% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "outlined-gallery-1: 19.8% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "outlined-gallery-1",
-              "alphaLossRatio": "0.205793",
-              "alphaLossPixels": "37372",
+              "alphaLossRatio": "0.197885",
+              "alphaLossPixels": "35936",
               "alphaComparedPixels": "181600"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-gallery-1: 24.8% of pixels differ from reference",
+            "message": "outlined-gallery-1: 25.2% of pixels differ from reference",
             "detail": {
               "key": "outlined-gallery-1",
-              "score": "0.248394",
-              "diffPixels": "45785"
+              "score": "0.25198",
+              "diffPixels": "46446"
             }
           },
           {
@@ -876,28 +876,28 @@
               "dw": "0",
               "dh": "-9",
               "borderPixels": "4086",
-              "contentPixels": "37146"
+              "contentPixels": "38441"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-gallery-2: 18.0% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "outlined-gallery-2: 17.6% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "outlined-gallery-2",
-              "alphaLossRatio": "0.180425",
-              "alphaLossPixels": "32028",
+              "alphaLossRatio": "0.175958",
+              "alphaLossPixels": "31235",
               "alphaComparedPixels": "177514"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-gallery-2: 22.7% of pixels differ from reference",
+            "message": "outlined-gallery-2: 23.4% of pixels differ from reference",
             "detail": {
               "key": "outlined-gallery-2",
-              "score": "0.227048",
-              "diffPixels": "41232"
+              "score": "0.23418",
+              "diffPixels": "42527"
             }
           }
         ]
@@ -1547,28 +1547,28 @@
               "dw": "0",
               "dh": "-78",
               "borderPixels": "35412",
-              "contentPixels": "20010"
+              "contentPixels": "21345"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined: 9.1% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "icon-outlined: 9.0% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "icon-outlined",
-              "alphaLossRatio": "0.0913",
-              "alphaLossPixels": "13347",
+              "alphaLossRatio": "0.089994",
+              "alphaLossPixels": "13156",
               "alphaComparedPixels": "146188"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined: 30.5% of pixels differ from reference",
+            "message": "icon-outlined: 31.3% of pixels differ from reference",
             "detail": {
               "key": "icon-outlined",
-              "score": "0.305187",
-              "diffPixels": "55422"
+              "score": "0.312539",
+              "diffPixels": "56757"
             }
           },
           {
@@ -1580,28 +1580,28 @@
               "dw": "0",
               "dh": "6",
               "borderPixels": "2724",
-              "contentPixels": "34740"
+              "contentPixels": "35864"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined-content-image: 14.9% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "icon-outlined-content-image: 14.3% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "icon-outlined-content-image",
-              "alphaLossRatio": "0.148811",
-              "alphaLossPixels": "27024",
+              "alphaLossRatio": "0.14326",
+              "alphaLossPixels": "26016",
               "alphaComparedPixels": "181600"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined-content-image: 20.3% of pixels differ from reference",
+            "message": "icon-outlined-content-image: 20.9% of pixels differ from reference",
             "detail": {
               "key": "icon-outlined-content-image",
-              "score": "0.203251",
-              "diffPixels": "37464"
+              "score": "0.209349",
+              "diffPixels": "38588"
             }
           },
           {
@@ -1613,28 +1613,28 @@
               "dw": "0",
               "dh": "6",
               "borderPixels": "2724",
-              "contentPixels": "41460"
+              "contentPixels": "42175"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined-gallery-1: 19.9% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "icon-outlined-gallery-1: 19.2% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "icon-outlined-gallery-1",
-              "alphaLossRatio": "0.199246",
-              "alphaLossPixels": "36183",
+              "alphaLossRatio": "0.19163",
+              "alphaLossPixels": "34800",
               "alphaComparedPixels": "181600"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined-gallery-1: 24.0% of pixels differ from reference",
+            "message": "icon-outlined-gallery-1: 24.4% of pixels differ from reference",
             "detail": {
               "key": "icon-outlined-gallery-1",
-              "score": "0.239708",
-              "diffPixels": "44184"
+              "score": "0.243587",
+              "diffPixels": "44899"
             }
           },
           {
@@ -1646,28 +1646,28 @@
               "dw": "0",
               "dh": "-9",
               "borderPixels": "4086",
-              "contentPixels": "35526"
+              "contentPixels": "36895"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined-gallery-2: 17.4% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "icon-outlined-gallery-2: 17.0% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "icon-outlined-gallery-2",
-              "alphaLossRatio": "0.173665",
-              "alphaLossPixels": "30828",
+              "alphaLossRatio": "0.169637",
+              "alphaLossPixels": "30113",
               "alphaComparedPixels": "177514"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-outlined-gallery-2: 21.8% of pixels differ from reference",
+            "message": "icon-outlined-gallery-2: 22.6% of pixels differ from reference",
             "detail": {
               "key": "icon-outlined-gallery-2",
-              "score": "0.218128",
-              "diffPixels": "39612"
+              "score": "0.225666",
+              "diffPixels": "40981"
             }
           },
           {
@@ -1679,28 +1679,28 @@
               "dw": "0",
               "dh": "-78",
               "borderPixels": "35412",
-              "contentPixels": "21637"
+              "contentPixels": "22936"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined: 10.0% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "outlined: 9.8% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "outlined",
-              "alphaLossRatio": "0.099564",
-              "alphaLossPixels": "14555",
+              "alphaLossRatio": "0.097806",
+              "alphaLossPixels": "14298",
               "alphaComparedPixels": "146188"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined: 31.4% of pixels differ from reference",
+            "message": "outlined: 32.1% of pixels differ from reference",
             "detail": {
               "key": "outlined",
-              "score": "0.314146",
-              "diffPixels": "57049"
+              "score": "0.3213",
+              "diffPixels": "58348"
             }
           },
           {
@@ -1712,28 +1712,28 @@
               "dw": "0",
               "dh": "6",
               "borderPixels": "2724",
-              "contentPixels": "36341"
+              "contentPixels": "37411"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-content-image: 15.5% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "outlined-content-image: 15.0% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "outlined-content-image",
-              "alphaLossRatio": "0.155358",
-              "alphaLossPixels": "28213",
+              "alphaLossRatio": "0.149515",
+              "alphaLossPixels": "27152",
               "alphaComparedPixels": "181600"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-content-image: 21.2% of pixels differ from reference",
+            "message": "outlined-content-image: 21.8% of pixels differ from reference",
             "detail": {
               "key": "outlined-content-image",
-              "score": "0.211937",
-              "diffPixels": "39065"
+              "score": "0.217742",
+              "diffPixels": "40135"
             }
           },
           {
@@ -1745,28 +1745,28 @@
               "dw": "0",
               "dh": "6",
               "borderPixels": "2724",
-              "contentPixels": "43061"
+              "contentPixels": "43722"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-gallery-1: 20.6% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "outlined-gallery-1: 19.8% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "outlined-gallery-1",
-              "alphaLossRatio": "0.205793",
-              "alphaLossPixels": "37372",
+              "alphaLossRatio": "0.197885",
+              "alphaLossPixels": "35936",
               "alphaComparedPixels": "181600"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-gallery-1: 24.8% of pixels differ from reference",
+            "message": "outlined-gallery-1: 25.2% of pixels differ from reference",
             "detail": {
               "key": "outlined-gallery-1",
-              "score": "0.248394",
-              "diffPixels": "45785"
+              "score": "0.25198",
+              "diffPixels": "46446"
             }
           },
           {
@@ -1778,28 +1778,28 @@
               "dw": "0",
               "dh": "-9",
               "borderPixels": "4086",
-              "contentPixels": "37146"
+              "contentPixels": "38441"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-gallery-2: 18.0% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "outlined-gallery-2: 17.6% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "outlined-gallery-2",
-              "alphaLossRatio": "0.180425",
-              "alphaLossPixels": "32028",
+              "alphaLossRatio": "0.175958",
+              "alphaLossPixels": "31235",
               "alphaComparedPixels": "177514"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-gallery-2: 22.7% of pixels differ from reference",
+            "message": "outlined-gallery-2: 23.4% of pixels differ from reference",
             "detail": {
               "key": "outlined-gallery-2",
-              "score": "0.227048",
-              "diffPixels": "41232"
+              "score": "0.23418",
+              "diffPixels": "42527"
             }
           }
         ]
@@ -19529,7 +19529,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "33615"
+              "contentPixels": "32990"
             }
           },
           {
@@ -19546,11 +19546,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 68.5% of pixels differ from reference",
+            "message": "default: 67.8% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.685209",
-              "diffPixels": "62217"
+              "score": "0.678326",
+              "diffPixels": "61592"
             }
           },
           {
@@ -19562,28 +19562,28 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "8646"
+              "contentPixels": "8093"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child: 9.3% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "child: 9.2% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "child",
-              "alphaLossRatio": "0.092849",
-              "alphaLossPixels": "5775",
+              "alphaLossRatio": "0.092173",
+              "alphaLossPixels": "5733",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child: 41.0% of pixels differ from reference",
+            "message": "child: 40.4% of pixels differ from reference",
             "detail": {
               "key": "child",
-              "score": "0.41022",
-              "diffPixels": "37248"
+              "score": "0.40413",
+              "diffPixels": "36695"
             }
           },
           {
@@ -19595,17 +19595,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "7905"
+              "contentPixels": "7369"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-disabled: 40.2% of pixels differ from reference",
+            "message": "child-disabled: 39.6% of pixels differ from reference",
             "detail": {
               "key": "child-disabled",
-              "score": "0.402059",
-              "diffPixels": "36507"
+              "score": "0.396156",
+              "diffPixels": "35971"
             }
           },
           {
@@ -19617,7 +19617,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "12158"
+              "contentPixels": "11198"
             }
           },
           {
@@ -19626,19 +19626,19 @@
             "message": "child-icon-extra-large: 13.0% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "child-icon-extra-large",
-              "alphaLossRatio": "0.130342",
-              "alphaLossPixels": "8107",
+              "alphaLossRatio": "0.130036",
+              "alphaLossPixels": "8088",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-icon-extra-large: 44.9% of pixels differ from reference",
+            "message": "child-icon-extra-large: 43.8% of pixels differ from reference",
             "detail": {
               "key": "child-icon-extra-large",
-              "score": "0.448899",
-              "diffPixels": "40760"
+              "score": "0.438326",
+              "diffPixels": "39800"
             }
           },
           {
@@ -19650,17 +19650,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "11462"
+              "contentPixels": "10466"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-icon-extra-large-disabled: 44.1% of pixels differ from reference",
+            "message": "child-icon-extra-large-disabled: 43.0% of pixels differ from reference",
             "detail": {
               "key": "child-icon-extra-large-disabled",
-              "score": "0.441233",
-              "diffPixels": "40064"
+              "score": "0.430264",
+              "diffPixels": "39068"
             }
           },
           {
@@ -19672,7 +19672,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "10471"
+              "contentPixels": "9636"
             }
           },
           {
@@ -19681,19 +19681,19 @@
             "message": "child-icon-large: 11.2% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "child-icon-large",
-              "alphaLossRatio": "0.112206",
-              "alphaLossPixels": "6979",
+              "alphaLossRatio": "0.111965",
+              "alphaLossPixels": "6964",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-icon-large: 43.0% of pixels differ from reference",
+            "message": "child-icon-large: 42.1% of pixels differ from reference",
             "detail": {
               "key": "child-icon-large",
-              "score": "0.430319",
-              "diffPixels": "39073"
+              "score": "0.421123",
+              "diffPixels": "38238"
             }
           },
           {
@@ -19705,17 +19705,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "9795"
+              "contentPixels": "8894"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-icon-large-disabled: 42.3% of pixels differ from reference",
+            "message": "child-icon-large-disabled: 41.3% of pixels differ from reference",
             "detail": {
               "key": "child-icon-large-disabled",
-              "score": "0.422874",
-              "diffPixels": "38397"
+              "score": "0.412952",
+              "diffPixels": "37496"
             }
           },
           {
@@ -19727,17 +19727,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "40548"
+              "contentPixels": "40502"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 76.2% of pixels differ from reference",
+            "message": "disabled: 76.1% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.761564",
-              "diffPixels": "69150"
+              "score": "0.761057",
+              "diffPixels": "69104"
             }
           },
           {
@@ -19749,7 +19749,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "35061"
+              "contentPixels": "34091"
             }
           },
           {
@@ -19766,11 +19766,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-extra-large: 70.1% of pixels differ from reference",
+            "message": "icon-extra-large: 69.0% of pixels differ from reference",
             "detail": {
               "key": "icon-extra-large",
-              "score": "0.701134",
-              "diffPixels": "63663"
+              "score": "0.690452",
+              "diffPixels": "62693"
             }
           },
           {
@@ -19782,17 +19782,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "41266"
+              "contentPixels": "41147"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-extra-large-disabled: 76.9% of pixels differ from reference",
+            "message": "icon-extra-large-disabled: 76.8% of pixels differ from reference",
             "detail": {
               "key": "icon-extra-large-disabled",
-              "score": "0.769471",
-              "diffPixels": "69868"
+              "score": "0.768161",
+              "diffPixels": "69749"
             }
           },
           {
@@ -19804,7 +19804,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "34560"
+              "contentPixels": "33706"
             }
           },
           {
@@ -19821,11 +19821,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-large: 69.6% of pixels differ from reference",
+            "message": "icon-large: 68.6% of pixels differ from reference",
             "detail": {
               "key": "icon-large",
-              "score": "0.695617",
-              "diffPixels": "63162"
+              "score": "0.686211",
+              "diffPixels": "62308"
             }
           },
           {
@@ -19837,17 +19837,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "40782"
+              "contentPixels": "40667"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-large-disabled: 76.4% of pixels differ from reference",
+            "message": "icon-large-disabled: 76.3% of pixels differ from reference",
             "detail": {
               "key": "icon-large-disabled",
-              "score": "0.764141",
-              "diffPixels": "69384"
+              "score": "0.762874",
+              "diffPixels": "69269"
             }
           },
           {
@@ -19859,28 +19859,28 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "11594"
+              "contentPixels": "11041"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined: 12.1% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "outlined: 12.0% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "outlined",
-              "alphaLossRatio": "0.120872",
-              "alphaLossPixels": "7518",
+              "alphaLossRatio": "0.120197",
+              "alphaLossPixels": "7476",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined: 44.3% of pixels differ from reference",
+            "message": "outlined: 43.7% of pixels differ from reference",
             "detail": {
               "key": "outlined",
-              "score": "0.442687",
-              "diffPixels": "40196"
+              "score": "0.436597",
+              "diffPixels": "39643"
             }
           },
           {
@@ -19892,17 +19892,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "9370"
+              "contentPixels": "8834"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-disabled: 41.8% of pixels differ from reference",
+            "message": "outlined-disabled: 41.2% of pixels differ from reference",
             "detail": {
               "key": "outlined-disabled",
-              "score": "0.418194",
-              "diffPixels": "37972"
+              "score": "0.412291",
+              "diffPixels": "37436"
             }
           },
           {
@@ -19914,28 +19914,28 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "15086"
+              "contentPixels": "14090"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-icon-extra-large: 15.8% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "outlined-icon-extra-large: 15.7% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "outlined-icon-extra-large",
-              "alphaLossRatio": "0.157545",
-              "alphaLossPixels": "9799",
+              "alphaLossRatio": "0.156983",
+              "alphaLossPixels": "9764",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-icon-extra-large: 48.1% of pixels differ from reference",
+            "message": "outlined-icon-extra-large: 47.0% of pixels differ from reference",
             "detail": {
               "key": "outlined-icon-extra-large",
-              "score": "0.481145",
-              "diffPixels": "43688"
+              "score": "0.470176",
+              "diffPixels": "42692"
             }
           },
           {
@@ -19947,17 +19947,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "12887"
+              "contentPixels": "11874"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-icon-extra-large-disabled: 45.7% of pixels differ from reference",
+            "message": "outlined-icon-extra-large-disabled: 44.6% of pixels differ from reference",
             "detail": {
               "key": "outlined-icon-extra-large-disabled",
-              "score": "0.456927",
-              "diffPixels": "41489"
+              "score": "0.445771",
+              "diffPixels": "40476"
             }
           },
           {
@@ -19969,28 +19969,28 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "13412"
+              "contentPixels": "12577"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-icon-large: 14.0% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "outlined-icon-large: 13.9% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "outlined-icon-large",
-              "alphaLossRatio": "0.139699",
-              "alphaLossPixels": "8689",
+              "alphaLossRatio": "0.139458",
+              "alphaLossPixels": "8674",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-icon-large: 46.3% of pixels differ from reference",
+            "message": "outlined-icon-large: 45.4% of pixels differ from reference",
             "detail": {
               "key": "outlined-icon-large",
-              "score": "0.462709",
-              "diffPixels": "42014"
+              "score": "0.453513",
+              "diffPixels": "41179"
             }
           },
           {
@@ -20002,17 +20002,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "11248"
+              "contentPixels": "10347"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-icon-large-disabled: 43.9% of pixels differ from reference",
+            "message": "outlined-icon-large-disabled: 42.9% of pixels differ from reference",
             "detail": {
               "key": "outlined-icon-large-disabled",
-              "score": "0.438877",
-              "diffPixels": "39850"
+              "score": "0.428954",
+              "diffPixels": "38949"
             }
           }
         ]
@@ -20382,7 +20382,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "33615"
+              "contentPixels": "32990"
             }
           },
           {
@@ -20399,11 +20399,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "default: 68.5% of pixels differ from reference",
+            "message": "default: 67.8% of pixels differ from reference",
             "detail": {
               "key": "default",
-              "score": "0.685209",
-              "diffPixels": "62217"
+              "score": "0.678326",
+              "diffPixels": "61592"
             }
           },
           {
@@ -20415,28 +20415,28 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "8646"
+              "contentPixels": "8093"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child: 9.3% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "child: 9.2% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "child",
-              "alphaLossRatio": "0.092849",
-              "alphaLossPixels": "5775",
+              "alphaLossRatio": "0.092173",
+              "alphaLossPixels": "5733",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child: 41.0% of pixels differ from reference",
+            "message": "child: 40.4% of pixels differ from reference",
             "detail": {
               "key": "child",
-              "score": "0.41022",
-              "diffPixels": "37248"
+              "score": "0.40413",
+              "diffPixels": "36695"
             }
           },
           {
@@ -20448,17 +20448,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "7905"
+              "contentPixels": "7369"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-disabled: 40.2% of pixels differ from reference",
+            "message": "child-disabled: 39.6% of pixels differ from reference",
             "detail": {
               "key": "child-disabled",
-              "score": "0.402059",
-              "diffPixels": "36507"
+              "score": "0.396156",
+              "diffPixels": "35971"
             }
           },
           {
@@ -20470,7 +20470,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "12158"
+              "contentPixels": "11198"
             }
           },
           {
@@ -20479,19 +20479,19 @@
             "message": "child-icon-extra-large: 13.0% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "child-icon-extra-large",
-              "alphaLossRatio": "0.130342",
-              "alphaLossPixels": "8107",
+              "alphaLossRatio": "0.130036",
+              "alphaLossPixels": "8088",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-icon-extra-large: 44.9% of pixels differ from reference",
+            "message": "child-icon-extra-large: 43.8% of pixels differ from reference",
             "detail": {
               "key": "child-icon-extra-large",
-              "score": "0.448899",
-              "diffPixels": "40760"
+              "score": "0.438326",
+              "diffPixels": "39800"
             }
           },
           {
@@ -20503,17 +20503,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "11462"
+              "contentPixels": "10466"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-icon-extra-large-disabled: 44.1% of pixels differ from reference",
+            "message": "child-icon-extra-large-disabled: 43.0% of pixels differ from reference",
             "detail": {
               "key": "child-icon-extra-large-disabled",
-              "score": "0.441233",
-              "diffPixels": "40064"
+              "score": "0.430264",
+              "diffPixels": "39068"
             }
           },
           {
@@ -20525,7 +20525,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "10471"
+              "contentPixels": "9636"
             }
           },
           {
@@ -20534,19 +20534,19 @@
             "message": "child-icon-large: 11.2% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "child-icon-large",
-              "alphaLossRatio": "0.112206",
-              "alphaLossPixels": "6979",
+              "alphaLossRatio": "0.111965",
+              "alphaLossPixels": "6964",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-icon-large: 43.0% of pixels differ from reference",
+            "message": "child-icon-large: 42.1% of pixels differ from reference",
             "detail": {
               "key": "child-icon-large",
-              "score": "0.430319",
-              "diffPixels": "39073"
+              "score": "0.421123",
+              "diffPixels": "38238"
             }
           },
           {
@@ -20558,17 +20558,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "9795"
+              "contentPixels": "8894"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "child-icon-large-disabled: 42.3% of pixels differ from reference",
+            "message": "child-icon-large-disabled: 41.3% of pixels differ from reference",
             "detail": {
               "key": "child-icon-large-disabled",
-              "score": "0.422874",
-              "diffPixels": "38397"
+              "score": "0.412952",
+              "diffPixels": "37496"
             }
           },
           {
@@ -20580,17 +20580,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "40548"
+              "contentPixels": "40502"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "disabled: 76.2% of pixels differ from reference",
+            "message": "disabled: 76.1% of pixels differ from reference",
             "detail": {
               "key": "disabled",
-              "score": "0.761564",
-              "diffPixels": "69150"
+              "score": "0.761057",
+              "diffPixels": "69104"
             }
           },
           {
@@ -20602,7 +20602,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "35061"
+              "contentPixels": "34091"
             }
           },
           {
@@ -20619,11 +20619,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-extra-large: 70.1% of pixels differ from reference",
+            "message": "icon-extra-large: 69.0% of pixels differ from reference",
             "detail": {
               "key": "icon-extra-large",
-              "score": "0.701134",
-              "diffPixels": "63663"
+              "score": "0.690452",
+              "diffPixels": "62693"
             }
           },
           {
@@ -20635,17 +20635,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "41266"
+              "contentPixels": "41147"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-extra-large-disabled: 76.9% of pixels differ from reference",
+            "message": "icon-extra-large-disabled: 76.8% of pixels differ from reference",
             "detail": {
               "key": "icon-extra-large-disabled",
-              "score": "0.769471",
-              "diffPixels": "69868"
+              "score": "0.768161",
+              "diffPixels": "69749"
             }
           },
           {
@@ -20657,7 +20657,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "34560"
+              "contentPixels": "33706"
             }
           },
           {
@@ -20674,11 +20674,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-large: 69.6% of pixels differ from reference",
+            "message": "icon-large: 68.6% of pixels differ from reference",
             "detail": {
               "key": "icon-large",
-              "score": "0.695617",
-              "diffPixels": "63162"
+              "score": "0.686211",
+              "diffPixels": "62308"
             }
           },
           {
@@ -20690,17 +20690,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "40782"
+              "contentPixels": "40667"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "icon-large-disabled: 76.4% of pixels differ from reference",
+            "message": "icon-large-disabled: 76.3% of pixels differ from reference",
             "detail": {
               "key": "icon-large-disabled",
-              "score": "0.764141",
-              "diffPixels": "69384"
+              "score": "0.762874",
+              "diffPixels": "69269"
             }
           },
           {
@@ -20712,28 +20712,28 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "11594"
+              "contentPixels": "11041"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined: 12.1% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "outlined: 12.0% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "outlined",
-              "alphaLossRatio": "0.120872",
-              "alphaLossPixels": "7518",
+              "alphaLossRatio": "0.120197",
+              "alphaLossPixels": "7476",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined: 44.3% of pixels differ from reference",
+            "message": "outlined: 43.7% of pixels differ from reference",
             "detail": {
               "key": "outlined",
-              "score": "0.442687",
-              "diffPixels": "40196"
+              "score": "0.436597",
+              "diffPixels": "39643"
             }
           },
           {
@@ -20745,17 +20745,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "9370"
+              "contentPixels": "8834"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-disabled: 41.8% of pixels differ from reference",
+            "message": "outlined-disabled: 41.2% of pixels differ from reference",
             "detail": {
               "key": "outlined-disabled",
-              "score": "0.418194",
-              "diffPixels": "37972"
+              "score": "0.412291",
+              "diffPixels": "37436"
             }
           },
           {
@@ -20767,28 +20767,28 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "15086"
+              "contentPixels": "14090"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-icon-extra-large: 15.8% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "outlined-icon-extra-large: 15.7% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "outlined-icon-extra-large",
-              "alphaLossRatio": "0.157545",
-              "alphaLossPixels": "9799",
+              "alphaLossRatio": "0.156983",
+              "alphaLossPixels": "9764",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-icon-extra-large: 48.1% of pixels differ from reference",
+            "message": "outlined-icon-extra-large: 47.0% of pixels differ from reference",
             "detail": {
               "key": "outlined-icon-extra-large",
-              "score": "0.481145",
-              "diffPixels": "43688"
+              "score": "0.470176",
+              "diffPixels": "42692"
             }
           },
           {
@@ -20800,17 +20800,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "12887"
+              "contentPixels": "11874"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-icon-extra-large-disabled: 45.7% of pixels differ from reference",
+            "message": "outlined-icon-extra-large-disabled: 44.6% of pixels differ from reference",
             "detail": {
               "key": "outlined-icon-extra-large-disabled",
-              "score": "0.456927",
-              "diffPixels": "41489"
+              "score": "0.445771",
+              "diffPixels": "40476"
             }
           },
           {
@@ -20822,28 +20822,28 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "13412"
+              "contentPixels": "12577"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-icon-large: 14.0% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "outlined-icon-large: 13.9% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "outlined-icon-large",
-              "alphaLossRatio": "0.139699",
-              "alphaLossPixels": "8689",
+              "alphaLossRatio": "0.139458",
+              "alphaLossPixels": "8674",
               "alphaComparedPixels": "62198"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-icon-large: 46.3% of pixels differ from reference",
+            "message": "outlined-icon-large: 45.4% of pixels differ from reference",
             "detail": {
               "key": "outlined-icon-large",
-              "score": "0.462709",
-              "diffPixels": "42014"
+              "score": "0.453513",
+              "diffPixels": "41179"
             }
           },
           {
@@ -20855,17 +20855,17 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "11248"
+              "contentPixels": "10347"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "outlined-icon-large-disabled: 43.9% of pixels differ from reference",
+            "message": "outlined-icon-large-disabled: 42.9% of pixels differ from reference",
             "detail": {
               "key": "outlined-icon-large-disabled",
-              "score": "0.438877",
-              "diffPixels": "39850"
+              "score": "0.428954",
+              "diffPixels": "38949"
             }
           }
         ]
@@ -28164,7 +28164,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "38083"
+              "contentPixels": "33905"
             }
           },
           {
@@ -28181,11 +28181,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "split: 73.4% of pixels differ from reference",
+            "message": "split: 68.8% of pixels differ from reference",
             "detail": {
               "key": "split",
-              "score": "0.734416",
-              "diffPixels": "66685"
+              "score": "0.688403",
+              "diffPixels": "62507"
             }
           },
           {
@@ -28274,7 +28274,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "32627"
+              "contentPixels": "32630"
             }
           },
           {
@@ -28294,8 +28294,8 @@
             "message": "unselected-split: 67.4% of pixels differ from reference",
             "detail": {
               "key": "unselected-split",
-              "score": "0.674328",
-              "diffPixels": "61229"
+              "score": "0.674361",
+              "diffPixels": "61232"
             }
           },
           {
@@ -28682,7 +28682,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "38083"
+              "contentPixels": "33905"
             }
           },
           {
@@ -28699,11 +28699,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "split: 73.4% of pixels differ from reference",
+            "message": "split: 68.8% of pixels differ from reference",
             "detail": {
               "key": "split",
-              "score": "0.734416",
-              "diffPixels": "66685"
+              "score": "0.688403",
+              "diffPixels": "62507"
             }
           },
           {
@@ -28792,7 +28792,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "32627"
+              "contentPixels": "32630"
             }
           },
           {
@@ -28812,8 +28812,8 @@
             "message": "unselected-split: 67.4% of pixels differ from reference",
             "detail": {
               "key": "unselected-split",
-              "score": "0.674328",
-              "diffPixels": "61229"
+              "score": "0.674361",
+              "diffPixels": "61232"
             }
           },
           {
@@ -29200,7 +29200,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "37767"
+              "contentPixels": "32977"
             }
           },
           {
@@ -29217,11 +29217,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "split: 73.1% of pixels differ from reference",
+            "message": "split: 67.8% of pixels differ from reference",
             "detail": {
               "key": "split",
-              "score": "0.730936",
-              "diffPixels": "66369"
+              "score": "0.678183",
+              "diffPixels": "61579"
             }
           },
           {
@@ -29310,7 +29310,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "32453"
+              "contentPixels": "32456"
             }
           },
           {
@@ -29330,8 +29330,8 @@
             "message": "unselected-split: 67.2% of pixels differ from reference",
             "detail": {
               "key": "unselected-split",
-              "score": "0.672412",
-              "diffPixels": "61055"
+              "score": "0.672445",
+              "diffPixels": "61058"
             }
           },
           {
@@ -29718,7 +29718,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "37767"
+              "contentPixels": "32977"
             }
           },
           {
@@ -29735,11 +29735,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "split: 73.1% of pixels differ from reference",
+            "message": "split: 67.8% of pixels differ from reference",
             "detail": {
               "key": "split",
-              "score": "0.730936",
-              "diffPixels": "66369"
+              "score": "0.678183",
+              "diffPixels": "61579"
             }
           },
           {
@@ -29828,7 +29828,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "32453"
+              "contentPixels": "32456"
             }
           },
           {
@@ -29848,8 +29848,8 @@
             "message": "unselected-split: 67.2% of pixels differ from reference",
             "detail": {
               "key": "unselected-split",
-              "score": "0.672412",
-              "diffPixels": "61055"
+              "score": "0.672445",
+              "diffPixels": "61058"
             }
           },
           {
@@ -30236,7 +30236,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "39090"
+              "contentPixels": "34597"
             }
           },
           {
@@ -30253,11 +30253,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "split: 74.6% of pixels differ from reference",
+            "message": "split: 69.6% of pixels differ from reference",
             "detail": {
               "key": "split",
-              "score": "0.745507",
-              "diffPixels": "67692"
+              "score": "0.696024",
+              "diffPixels": "63199"
             }
           },
           {
@@ -30346,7 +30346,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "33211"
+              "contentPixels": "33214"
             }
           },
           {
@@ -30366,8 +30366,8 @@
             "message": "unselected-split: 68.1% of pixels differ from reference",
             "detail": {
               "key": "unselected-split",
-              "score": "0.68076",
-              "diffPixels": "61813"
+              "score": "0.680793",
+              "diffPixels": "61816"
             }
           },
           {
@@ -30754,7 +30754,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "39090"
+              "contentPixels": "34597"
             }
           },
           {
@@ -30771,11 +30771,11 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "split: 74.6% of pixels differ from reference",
+            "message": "split: 69.6% of pixels differ from reference",
             "detail": {
               "key": "split",
-              "score": "0.745507",
-              "diffPixels": "67692"
+              "score": "0.696024",
+              "diffPixels": "63199"
             }
           },
           {
@@ -30864,7 +30864,7 @@
               "dw": "0",
               "dh": "-63",
               "borderPixels": "28602",
-              "contentPixels": "33211"
+              "contentPixels": "33214"
             }
           },
           {
@@ -30884,8 +30884,8 @@
             "message": "unselected-split: 68.1% of pixels differ from reference",
             "detail": {
               "key": "unselected-split",
-              "score": "0.68076",
-              "diffPixels": "61813"
+              "score": "0.680793",
+              "diffPixels": "61816"
             }
           },
           {
