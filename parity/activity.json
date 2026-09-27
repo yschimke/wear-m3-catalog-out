@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-26T21:39:38.658Z",
+  "generatedAt": "2026-09-27T02:44:54.593Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "bd68cc6ad8cb3e36c0e5e94e0fe437b7cef54329",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.64.0 (#633)",
+        "at": "2026-09-27T02:38:16Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d3a9fab34ae454c1b354e1d4d262bbf75a721f5f",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.63.0 (#630)",
@@ -474,14 +482,6 @@
         "sha": "94115b6b8967f0209232d8c5d0375363af4dd036",
         "subject": "fix(ui-builder): address catalog runtime review (#563)",
         "at": "2026-09-21T07:32:03+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "af3d5bb2e3807c8c4ef54d50724d51b6ac2c9b56",
-        "subject": "ci(ui-builder): publish catalog runtimes (#553)",
-        "at": "2026-09-21T07:18:03+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
