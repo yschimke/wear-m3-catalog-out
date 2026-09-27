@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-27T02:44:54.593Z",
+  "generatedAt": "2026-09-27T19:52:19.221Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "1c67faefb26caf7b491f74ed6a0fa01e7e20a8c4",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.66.0 (#636)",
+        "at": "2026-09-27T19:44:49Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "79e577d196e21b6bc5d9479c3c8eaaf0895d2256",
+        "subject": "fix(ui-builder): declare the Wear builder vocabulary so wear-m3 designs create (#634)",
+        "at": "2026-09-27T20:33:02+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "bd68cc6ad8cb3e36c0e5e94e0fe437b7cef54329",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.64.0 (#633)",
@@ -466,22 +482,6 @@
         "sha": "c11f75e963887132404b6a51f37abed299951970",
         "subject": "feat: vendor Remote Compose for multiplatform (#561)",
         "at": "2026-09-21T14:38:39+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a8952ae687e332499f9f867840b53961031e9f11",
-        "subject": "chore: pin catalog runtime SDK (#564)",
-        "at": "2026-09-21T11:14:35+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "94115b6b8967f0209232d8c5d0375363af4dd036",
-        "subject": "fix(ui-builder): address catalog runtime review (#563)",
-        "at": "2026-09-21T07:32:03+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
