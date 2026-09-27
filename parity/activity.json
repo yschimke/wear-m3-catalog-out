@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-27T19:52:19.221Z",
+  "generatedAt": "2026-09-27T19:59:05.745Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "d74b61d343b2088725d9a7cd7813440bda36024f",
+        "subject": "fix(deps): update compose-ai-tools (#635)",
+        "at": "2026-09-27T19:47:36Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "1c67faefb26caf7b491f74ed6a0fa01e7e20a8c4",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.66.0 (#636)",
@@ -474,14 +482,6 @@
         "sha": "b14bc876911609ccc40a38894ee9911030de2f34",
         "subject": "fix: await Skiko before Wasm document capture (#566)",
         "at": "2026-09-21T22:00:47+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c11f75e963887132404b6a51f37abed299951970",
-        "subject": "feat: vendor Remote Compose for multiplatform (#561)",
-        "at": "2026-09-21T14:38:39+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
