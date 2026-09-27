@@ -195,9 +195,6 @@
                 "wear-m3/split-radio-button": {
                     "group": "Selection buttons"
                 },
-                "wear-m3/screen-scaffold": {
-                    "group": "Fast scrolling"
-                },
                 "wear-m3/scroll-indicator": {
                     "group": "Position indicators"
                 },
@@ -325,7 +322,10 @@
                 "group": "Lists and screens",
                 "canvas": "frame/round-screen",
                 "unrolled": null,
-                "traits": [],
+                "traits": [
+                    "ScreenContent",
+                    "WearScreenHost"
+                ],
                 "slots": {
                     "content": {
                         "required": true,
@@ -343,7 +343,23 @@
                         "role": "overlay"
                     }
                 },
-                "properties": [],
+                "properties": [
+                    {
+                        "name": "timeText",
+                        "jsonType": "string",
+                        "notes": "The curved status strip's text. Frozen rather than live, so a design's render does not change every minute."
+                    },
+                    {
+                        "name": "scrollIndicator",
+                        "jsonType": "boolean",
+                        "notes": "Whether the generated screen gives `ScreenScaffold` a scroll indicator."
+                    },
+                    {
+                        "name": "background",
+                        "jsonType": "string",
+                        "notes": "The screen's background; Wear Material 3's `background` when absent."
+                    }
+                ],
                 "modifierCapabilities": null,
                 "implementation": null,
                 "shelfRole": null,
@@ -357,14 +373,34 @@
                 "group": "Lists and screens",
                 "canvas": "wear-m3/transforming-lazy-column",
                 "unrolled": null,
-                "traits": [],
+                "traits": [
+                    "OrderedContent",
+                    "VerticalContent",
+                    "ScrollableContent",
+                    "RepeatedContent",
+                    "WearListContent"
+                ],
                 "slots": {
                     "items": {
-                        "required": true,
                         "role": "list-item"
                     }
                 },
-                "properties": [],
+                "properties": [
+                    {
+                        "name": "verticalSpacingDp",
+                        "jsonType": "number",
+                        "notes": "`Arrangement.spacedBy` between items; 4dp is the Wear list default."
+                    },
+                    {
+                        "name": "transformation",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "spec",
+                            "none"
+                        ],
+                        "notes": "Whether each item carries `SurfaceTransformation(spec)` and `transformedHeight`."
+                    }
+                ],
                 "modifierCapabilities": null,
                 "implementation": null,
                 "shelfRole": null,
@@ -655,7 +691,32 @@
                 "variantProperty": null,
                 "variants": {},
                 "excluded": null,
-                "propertyCapabilities": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "variant",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "title",
+                            "app",
+                            "outlined",
+                            "plain"
+                        ],
+                        "notes": "Which card is written: `TitleCard`, `AppCard`, `OutlinedCard` or `Card`."
+                    },
+                    {
+                        "name": "stableKey",
+                        "jsonType": "string",
+                        "notes": "The item's identity, written as the generated lazy list's `key`."
+                    },
+                    {
+                        "name": "onClickAction",
+                        "jsonType": [
+                            "object",
+                            "null"
+                        ],
+                        "notes": "What a click does."
+                    }
+                ],
                 "slotCapabilities": null,
                 "modifierCapabilities": null
             },
@@ -1028,15 +1089,41 @@
                 "canvasMapping": null,
                 "unrolled": null,
                 "nativeOnly": false,
-                "traits": [],
+                "traits": [
+                    "TextContent",
+                    "RemoteAuthorable",
+                    "ListItem"
+                ],
                 "slots": {},
                 "stateCallbacks": {},
                 "starter": {},
                 "variantProperty": null,
                 "variants": {},
                 "excluded": null,
-                "propertyCapabilities": null,
-                "slotCapabilities": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "text",
+                        "jsonType": "string",
+                        "required": true,
+                        "notes": "The label."
+                    },
+                    {
+                        "name": "maxLines",
+                        "jsonType": "integer",
+                        "notes": "How many lines the label may occupy before it truncates."
+                    },
+                    {
+                        "name": "overflow",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "clip",
+                            "ellipsis",
+                            "visible"
+                        ],
+                        "notes": "What a truncated label does at its edge."
+                    }
+                ],
+                "slotCapabilities": [],
                 "modifierCapabilities": null
             },
             "wear-m3/list-sub-header": {
@@ -1281,7 +1368,7 @@
                 "starter": {},
                 "variantProperty": null,
                 "variants": {},
-                "excluded": null,
+                "excluded": "the `wear-m3/screen-scaffold` builtin above is the screen root, and this record derives the same id. Left in, the record wins the id and the builtin is dropped: the screen composes as a Container with ScreenScaffold's lambda parameters as slots (`timeText`, `scrollIndicator`) and none of the builder's properties, so every Wear template is refused on creation. The Wear screen exporter writes `ScreenScaffold` without a record.",
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null
@@ -1548,7 +1635,51 @@
                 "variantProperty": null,
                 "variants": {},
                 "excluded": null,
-                "propertyCapabilities": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "style",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "displayLarge",
+                            "displayMedium",
+                            "displaySmall",
+                            "headlineLarge",
+                            "headlineMedium",
+                            "headlineSmall",
+                            "titleLarge",
+                            "titleMedium",
+                            "titleSmall",
+                            "bodyLarge",
+                            "bodyMedium",
+                            "bodySmall",
+                            "labelLarge",
+                            "labelMedium",
+                            "labelSmall"
+                        ],
+                        "notes": "The role the text is set in, resolved against Wear's own type scale."
+                    },
+                    {
+                        "name": "alignment",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "topStart",
+                            "topCenter",
+                            "topEnd",
+                            "centerStart",
+                            "center",
+                            "centerEnd",
+                            "bottomStart",
+                            "bottomCenter",
+                            "bottomEnd"
+                        ],
+                        "notes": "Where the text sits in a parent that gives it more room than it needs."
+                    },
+                    {
+                        "name": "weight",
+                        "jsonType": "number",
+                        "notes": "The share of a parent's remaining space the text takes."
+                    }
+                ],
                 "slotCapabilities": null,
                 "modifierCapabilities": null
             },
@@ -2124,9 +2255,9 @@
             "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
         },
         {
-            "code": "component.canvas.unclaimed",
+            "code": "component.excluded",
             "subject": "wear-m3/screen-scaffold",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
+            "message": "kept off the builder's shelf: the `wear-m3/screen-scaffold` builtin above is the screen root, and this record derives the same id. Left in, the record wins the id and the builtin is dropped: the screen composes as a Container with ScreenScaffold's lambda parameters as slots (`timeText`, `scrollIndicator`) and none of the builder's properties, so every Wear template is refused on creation. The Wear screen exporter writes `ScreenScaffold` without a record."
         },
         {
             "code": "component.canvas.unclaimed",
