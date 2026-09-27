@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-27T19:59:05.745Z",
+  "generatedAt": "2026-09-27T20:25:57.778Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "bce5dd92c443f7263628b80663991f8513aae513",
+        "subject": "fix(deps): update compose-ai-tools to v2.28.3 (#641)",
+        "at": "2026-09-27T20:19:19Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "681eefcaa4b0cacb8c751cfb9148f799a3c10c15",
+        "subject": "fix(ui-builder): publish the rest of the Wear builder vocabulary (#640)",
+        "at": "2026-09-27T21:08:46+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d74b61d343b2088725d9a7cd7813440bda36024f",
         "subject": "fix(deps): update compose-ai-tools (#635)",
@@ -466,22 +482,6 @@
         "sha": "3b67f77b9a700ce1db841c5c60c8f7c8e8681aef",
         "subject": "fix: format opt-in renderer sources (#568)",
         "at": "2026-09-21T22:37:59+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cba2c5c8d5085828204e701728c97b551a4cf415",
-        "subject": "fix: isolate UI builder renderer dependencies (#567)",
-        "at": "2026-09-21T22:30:40+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b14bc876911609ccc40a38894ee9911030de2f34",
-        "subject": "fix: await Skiko before Wasm document capture (#566)",
-        "at": "2026-09-21T22:00:47+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
