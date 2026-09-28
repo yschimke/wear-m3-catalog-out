@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-28T02:22:11.408Z",
+  "generatedAt": "2026-09-28T11:02:07.443Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "51b3009e8aebf55282e7f6dbd40dd87b6d06886c",
+        "subject": "fix(ui-builder): play remote icons in the device preview, and build runtimes from UI builder 3.67.0 (#649)",
+        "at": "2026-09-28T11:54:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f32e64634be4a27af48948c2541ff31807d275f0",
         "subject": "chore(deps): pin dependencies (#643)",
@@ -474,14 +482,6 @@
         "sha": "e97d130c4e34c076b2bf02237b6af91ce97bed67",
         "subject": "test: follow moved Remote M3 device adapter (#576)",
         "at": "2026-09-22T10:13:17+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0bce4d368733f984b7138f97649dddf969f13e83",
-        "subject": "fix(deps): update Emoji2 to 1.7.0-rc01 (#575)",
-        "at": "2026-09-22T10:07:28+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
