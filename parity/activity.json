@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-27T20:25:57.778Z",
+  "generatedAt": "2026-09-28T02:14:32.115Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "964491bc80bc19544924f027624486a5e6bf7737",
+        "subject": "fix(deps): update androidx (#644)",
+        "at": "2026-09-28T02:07:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d369556c3efcc95d1e520453737003443cb6216a",
+        "subject": "fix(deps): update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.11.0 (#647)",
+        "at": "2026-09-28T02:07:00Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "738970c0bd23aae2793ed8ebab4af3f39cc80f8f",
+        "subject": "fix(catalog): run the host tests CI skipped, and bring them back to green (#642)",
+        "at": "2026-09-27T21:44:46+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "bce5dd92c443f7263628b80663991f8513aae513",
         "subject": "fix(deps): update compose-ai-tools to v2.28.3 (#641)",
@@ -458,30 +482,6 @@
         "sha": "11b7e48a1bc32b636c7a607ef3f9b99e7d68c662",
         "subject": "test: compose Wear UI builder templates (#571)",
         "at": "2026-09-22T06:21:29+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "43c95d941d2841911d9954f91e96dde0b22b418e",
-        "subject": "fix: preserve remote preview layout properties (#570)",
-        "at": "2026-09-22T06:05:25+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8eadcfdb865812630edb77e24554bb58d4a1ae97",
-        "subject": "feat: add real Remote M3 browser preview (#569)",
-        "at": "2026-09-22T05:53:03+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3b67f77b9a700ce1db841c5c60c8f7c8e8681aef",
-        "subject": "fix: format opt-in renderer sources (#568)",
-        "at": "2026-09-21T22:37:59+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
