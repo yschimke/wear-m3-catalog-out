@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-28T02:14:32.115Z",
+  "generatedAt": "2026-09-28T02:22:11.408Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f32e64634be4a27af48948c2541ff31807d275f0",
+        "subject": "chore(deps): pin dependencies (#643)",
+        "at": "2026-09-28T02:12:00Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c3c328ac06571eb98358e203177194780aec6ea1",
+        "subject": "fix(deps): update compose-multiplatform to v1.12.1 (#646)",
+        "at": "2026-09-28T02:08:41Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "964491bc80bc19544924f027624486a5e6bf7737",
         "subject": "fix(deps): update androidx (#644)",
@@ -466,22 +482,6 @@
         "sha": "0bce4d368733f984b7138f97649dddf969f13e83",
         "subject": "fix(deps): update Emoji2 to 1.7.0-rc01 (#575)",
         "at": "2026-09-22T10:07:28+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a3e93a75f4e563d4199762e2272277af57024673",
-        "subject": "test: cover Remote M3 device preview UI (#572)",
-        "at": "2026-09-22T06:23:10+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "11b7e48a1bc32b636c7a607ef3f9b99e7d68c662",
-        "subject": "test: compose Wear UI builder templates (#571)",
-        "at": "2026-09-22T06:21:29+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
