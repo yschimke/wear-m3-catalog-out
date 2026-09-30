@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-30T06:14:43.395Z",
+  "generatedAt": "2026-09-30T11:08:29.942Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "8324a471ac4061e6ddc2ea7ff2824f0bcb074807",
+        "subject": "fix(deps): build the UI builder runtimes from compose-ui-builder 3.69.0 (#655)",
+        "at": "2026-09-30T12:01:54+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "7cf856c35e1b7452efa3bc372f3be8464114059a",
         "subject": "fix(deps): update dependency ee.schimke.composeai:data-remotecompose-connector to v3.9.1 (#637)",
@@ -475,14 +483,6 @@
         "subject": "fix: version Remote runtime metadata (#583)",
         "at": "2026-09-22T22:11:09+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "df29d9d3ebc0d384cec9bf9e215e37f2edb02a35",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.39.0 (#581)",
-        "at": "2026-09-22T15:19:53Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
