@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "35b83ce146407ea1acea732bac70dcf021773ace",
+    "generatedFrom": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
     "previews": {
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ButtonsKt.ButtonRowGroup": {
             "path": "renders/catalog-desktop/ButtonRowGroup-91cd010c.png",
@@ -4780,6 +4780,13 @@
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined-044d2fa9.png",
             "versions": [
                 {
+                    "blob": "96eb84aae7dd65780e62131c1fe9bad87d67e966",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
+                {
                     "blob": "16eb1721a6be2813bc8c5899a5242b8017113b23",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
                     "date": "2026-09-11T15:38:36Z",
@@ -4794,13 +4801,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-disabled": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_disabled-2159cd93.png",
             "versions": [
+                {
+                    "blob": "8d99156c1bba4e596d4c275175bb4eb98bb5d45b",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "4d83019becac0a957e9aadcff81ab585d65260ad",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -4816,13 +4830,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-extra-small": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_extra_small-6f15ba54.png",
             "versions": [
+                {
+                    "blob": "ac03885ba695f69e242932cf8ad29a56799c8535",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "74de61a0b98108b0a488102aa6efa3d333f2244d",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -4838,13 +4859,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-extra-small-disabled": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_extra_small_disabled-13f9eaac.png",
             "versions": [
+                {
+                    "blob": "02a23dcfd0434bb20218a57fdcd406a7fec8ec2a",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "624d299540f36d9166b76b2abf69d4c2c5167ab3",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -4860,13 +4888,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_icon-0d667da7.png",
             "versions": [
+                {
+                    "blob": "2c9f37ee22ae86100aaf99b67adb6be10659690a",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "74f8c9ab2d9d9af8f670ed173aa7bdf7925567f1",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -4875,13 +4910,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-disabled": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_icon_disabled-c75ceac9.png",
             "versions": [
+                {
+                    "blob": "84f443c4334ebb43e3749ffc9963d84670dc3b44",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "acd1ccec249617ea3b015b0310f7068bc653baad",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -4890,13 +4932,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-extra-small": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_icon_extra_small-e09c6928.png",
             "versions": [
+                {
+                    "blob": "88112b7bd6de8c645b218f8b9c53b1f20a5740a4",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "ae7d18d3dee13ebb45e37a5107994e82b2aa1814",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -4905,13 +4954,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-extra-small-disabled": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_icon_extra_small_disabled-2b42b84c.png",
             "versions": [
+                {
+                    "blob": "75ea463835fe24ec5067c4d2a3a987d308af774a",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "133c65cb37fb4d843cfab60e162b6479a9aa6b44",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -4920,13 +4976,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-large": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_icon_large-2a369a83.png",
             "versions": [
+                {
+                    "blob": "5f9d49fc00424a3782ea061aaab6155d70a4056d",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "01d81a1ea3c9ba42a5d2cd0430199c3b73a77e06",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -4935,13 +4998,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-large-disabled": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_icon_large_disabled-0999f7df.png",
             "versions": [
+                {
+                    "blob": "a4c13676df8a7b09d17cbbdc0da7f2440cb2bc19",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "658ecc2787ffb415c8d3319a6d606e82ef1d2d04",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -4950,13 +5020,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-medium": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_icon_medium-9393fd97.png",
             "versions": [
+                {
+                    "blob": "d2e381d851d97bc27f0a1ae60e5b6047e5f9a15f",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "bedda6d15608550fc16eab40d6501106e45148c7",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -4965,13 +5042,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-medium-disabled": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_icon_medium_disabled-172fcae0.png",
             "versions": [
+                {
+                    "blob": "ff1572d1a0fbbabbaf0c780bb9cedaf04665a5b6",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "7a7b627487645ff9d3af4df060cd8c5026984a4a",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -4980,13 +5064,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-large": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_large-d93038b3.png",
             "versions": [
+                {
+                    "blob": "0dc9d7c27ab9d8698bf42fd2ef93d2aa026e75ed",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "a85fd71e78ddfd664619991ab0dedf0ec58f4be8",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -5002,13 +5093,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-large-disabled": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_large_disabled-72e7fdf5.png",
             "versions": [
+                {
+                    "blob": "a22d757d2b4ee9af23d89c82cbcbf4a3b0e24b94",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "77a75624528128f8ed32c55627531cf39814971e",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -5024,13 +5122,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-medium": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_medium-80c94bc5.png",
             "versions": [
+                {
+                    "blob": "7470e4ae315150c7b7668c597a088742bbb6b782",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "2ea687bbf0dda73a6b0dad9c54d5d79395f8674c",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -5046,13 +5151,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-medium-disabled": {
             "path": "renders/catalog-desktop/ScreenEdgeButton_VARIANT_outlined_medium_disabled-bb6d7c07.png",
             "versions": [
+                {
+                    "blob": "2a977ca3561b8a7e4b2b265c440ac7eaa81b4bcd",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "1d542b1a1bc2d81a664d4bc43d59fcbd5791b17a",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -5068,7 +5180,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
@@ -23232,6 +23344,13 @@
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined-044d2fa9.png",
             "versions": [
                 {
+                    "blob": "1eb3ed4e3eaf3cb179e07bfd1785044571d9c1ce",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
+                {
                     "blob": "d4ba8d1a65b574709ea15e802e8c4b4281417d4d",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
                     "date": "2026-09-11T14:51:53Z",
@@ -23239,13 +23358,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-disabled": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_disabled-2159cd93.png",
             "versions": [
+                {
+                    "blob": "11e49114f81c2fb6c9ae2f0b6b344d5d0d204693",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "d9c7a5f86c21c1160aa244d95a3fee8ee82ec0ab",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23254,13 +23380,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-extra-small": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_extra_small-6f15ba54.png",
             "versions": [
+                {
+                    "blob": "2adf8650a5dcf2e6abd4e389952a6931bd26d4da",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "342bde948baf7d078b76ba9aa8d82dc1fedfc966",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23269,13 +23402,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-extra-small-disabled": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_extra_small_disabled-13f9eaac.png",
             "versions": [
+                {
+                    "blob": "fdb62b38ebb6cf00cbd018822b5a5f5c4084be6e",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "43be23ff1d3d86dd2d8358d72de22507fad9a6d1",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23284,13 +23424,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_icon-0d667da7.png",
             "versions": [
+                {
+                    "blob": "f5a006097e3920faa36bf4c5314da5d898579c79",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "d5e6f8af2e6f630c2cb59613f60665af939dbe70",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23299,13 +23446,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-disabled": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_icon_disabled-c75ceac9.png",
             "versions": [
+                {
+                    "blob": "1e68291d87c68f1652ff247e78f987973366aa03",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "9455e46cb299d33189a9d4a03297080f7547abeb",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23314,13 +23468,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-extra-small": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_icon_extra_small-e09c6928.png",
             "versions": [
+                {
+                    "blob": "07e0218b92f4f77cd8b8e7ee9a1748ad7d52f5a1",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "d12d94d3956dfaaeabd03180f0570cc4d83d77a1",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23329,13 +23490,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-extra-small-disabled": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_icon_extra_small_disabled-2b42b84c.png",
             "versions": [
+                {
+                    "blob": "42f470de0bf3e752b56c619630386c5355e82425",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "a2b60bbf2df79b2cadaff970f71ce225de64f0a9",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23344,13 +23512,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-large": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_icon_large-2a369a83.png",
             "versions": [
+                {
+                    "blob": "ceccef7331fefcb5b9be2eca5e36f2e77f9a0274",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "dcf22520899e19cc83a48a579c061f819094642b",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23359,13 +23534,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-large-disabled": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_icon_large_disabled-0999f7df.png",
             "versions": [
+                {
+                    "blob": "c71e288b8c0b7da3a6d1af4f8d3104e6cb5b1ac0",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "999a4fcd67bf59b8ff8e454a1c92e46e619d911a",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23374,13 +23556,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-medium": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_icon_medium-9393fd97.png",
             "versions": [
+                {
+                    "blob": "db14f217c49a5d67738238b61c01bec0d001c817",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "51229788ede031336761576e5e603c18d36af476",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23389,13 +23578,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-medium-disabled": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_icon_medium_disabled-172fcae0.png",
             "versions": [
+                {
+                    "blob": "2d298976ed92d9d82f531d6249c5569eb6ab9bf8",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "7b68b33821ba43f7bc7d0c217d6590f3f0c00a09",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23404,13 +23600,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-large": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_large-d93038b3.png",
             "versions": [
+                {
+                    "blob": "a5c72806ebbb5eb34968ae47ad03bbf9a804a94d",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "a6590c2dc79e69038461c33deb3b218b92923702",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23419,13 +23622,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-large-disabled": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_large_disabled-72e7fdf5.png",
             "versions": [
+                {
+                    "blob": "dcc0972f391ef149aa84d1a8fd5dd8f9cb82b3cc",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "f07ac0cd958d8629d45ec23fc0751f8ba96cdfcb",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23434,13 +23644,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-medium": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_medium-80c94bc5.png",
             "versions": [
+                {
+                    "blob": "8597f46a85836e0dcb798bd780c6885704de1dd5",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "155cb1d624a38252d13d1f39ca49c91a56e04a2e",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23449,13 +23666,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-medium-disabled": {
             "path": "renders/catalog/ScreenEdgeButton_VARIANT_outlined_medium_disabled-bb6d7c07.png",
             "versions": [
+                {
+                    "blob": "1eed33e2f4bd732f072db3b3230ddc74f0f20c13",
+                    "commit": "efe08d66f78faa838a1bcd6ddecb608ea096025e",
+                    "date": "2026-09-30T17:47:07Z",
+                    "sourceSha": "29de5833",
+                    "commits": 1
+                },
                 {
                     "blob": "fb746e3e9bca7519efbe10962213de424fd9bd2e",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -23464,7 +23688,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
