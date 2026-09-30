@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-30T11:08:29.942Z",
+  "generatedAt": "2026-09-30T16:42:36.366Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "a6e594a9c0c6c57dade892d191b5a606d45b61aa",
+        "subject": "fix(deps): update compose (#645)",
+        "at": "2026-09-30T17:35:10+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "64c682a32ad606d69467ba7e66532048274f3a20",
+        "subject": "chore(deps): update ci toolchain (major) (#648)",
+        "at": "2026-09-30T17:34:56+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "45ba1c1529a58a409b6a40b49087c5b50d884501",
+        "subject": "chore(ci): drop the four ThemeSpecimen entries from the CMP/Wasm allowlist (#656)",
+        "at": "2026-09-30T17:34:33+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8324a471ac4061e6ddc2ea7ff2824f0bcb074807",
         "subject": "fix(deps): build the UI builder runtimes from compose-ui-builder 3.69.0 (#655)",
@@ -458,30 +482,6 @@
         "sha": "713c6eb9636f7c362f146297037efffa85202d25",
         "subject": "build: prepare wear catalog output repository (#585)",
         "at": "2026-09-22T23:29:36+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "53b350ea2a5a8fb37e5a408fa59d0021c9f333dc",
-        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.22.1 (#586)",
-        "at": "2026-09-22T22:27:30Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "73f23448b3df46fb35e5e47e70d26e542e4a1780",
-        "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.22.0 (#584)",
-        "at": "2026-09-22T21:57:18Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6d5b60323f5c8c82dcfc7a63418514dc83178571",
-        "subject": "fix: version Remote runtime metadata (#583)",
-        "at": "2026-09-22T22:11:09+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
