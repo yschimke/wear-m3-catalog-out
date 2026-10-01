@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-01T22:55:30.083Z",
+  "generatedAt": "2026-10-01T23:02:59.648Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "2252a9a34762f55c3a8667d564f7bcbde3b4a0ee",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.72.0 (#670)",
+        "at": "2026-10-01T22:51:55Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e4b551dcefde1be63e3da190a9f70b8c61e4e303",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:data-remotecompose-connector to v3.11.0 (#671)",
+        "at": "2026-10-01T22:49:02Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "411ea51316de2d6d3a6b221dfcfddb7c810fab7e",
         "subject": "fix(deps): update compose-preview-daemon-annotations to v3.11.0 (#669)",
@@ -466,22 +482,6 @@
         "sha": "2577178f4a6060292b4c8bfe5033e4f38ee0bae4",
         "subject": "fix(remote-m3): frame each preview pane in its host shape, over a clear canvas (#603)",
         "at": "2026-09-24T14:15:41+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5af270b8753ac6c85550970943b2387a06b28553",
-        "subject": "fix(remote-compose): keep the Packages step running to its 409 check (#606)",
-        "at": "2026-09-24T13:52:48+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1a975f6c1e0f375440c4dfb0d8512411a16526d2",
-        "subject": "fix(remote-compose): let already-published Packages versions through, so the branch is pushed (#605)",
-        "at": "2026-09-24T13:47:09+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
