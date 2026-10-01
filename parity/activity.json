@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-01T14:21:25.703Z",
+  "generatedAt": "2026-10-01T14:32:30.719Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "d404da4836efdfda5096afce4aa341cd1b23121e",
+        "subject": "fix(deps): update compose-ai-tools to v2.31.0 (#667)",
+        "at": "2026-10-01T14:25:30Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0f6eae041d855c45316b61c73480245c5e0ccf4f",
         "subject": "fix(remote): move the port's RemotePath out of AndroidX's package (#652) (#666)",
@@ -474,14 +482,6 @@
         "sha": "1587213eb174a13fbc89baf350fc8501f9032b86",
         "subject": "Fix Remote Compose drawWithContent composition (#599)",
         "at": "2026-09-23T22:20:04+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a32ba6c486f0b3347c51337da57e21a3453ac4f1",
-        "subject": "fix(remote-m3): use latest outlined card borders (#600)",
-        "at": "2026-09-23T22:18:05+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
