@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-01T05:30:43.475Z",
+  "generatedAt": "2026-10-01T05:55:57.318Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "0e219c744ee91564f510a143c76ed8921b7fec78",
+        "subject": "fix(remote): port the upstream remote-creation-compose and remote-core changes into the vendored port (#661)",
+        "at": "2026-10-01T06:48:26+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9f77c483eb3fcc766f992718e1192100603f97ef",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.29.0 (#662)",
+        "at": "2026-10-01T05:46:50Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "2037640a711c46853f6201138f2df287c91b8a42",
         "subject": "fix(deps): move to rc-players 2.0.3 and connector 3.10.0, and port the upstream remote-material3 selection animation (#660)",
@@ -466,22 +482,6 @@
         "sha": "7a30b4f31eeebcd424896b038acab7dc7824258c",
         "subject": "build: publish preview branches to output repository (#592)",
         "at": "2026-09-23T07:38:33+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "00460482f08fc852a3825100b64c3b7b930dccd3",
-        "subject": "build: publish parity artifacts to output repository (#591)",
-        "at": "2026-09-23T07:02:41+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "62e93a0fa7a6898067437b5d2a9902af8f86a561",
-        "subject": "fix(ci): read served indexes from output repository (#590)",
-        "at": "2026-09-23T06:49:44+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
