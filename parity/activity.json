@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-30T16:42:36.366Z",
+  "generatedAt": "2026-10-01T05:23:32.142Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "2037640a711c46853f6201138f2df287c91b8a42",
+        "subject": "fix(deps): move to rc-players 2.0.3 and connector 3.10.0, and port the upstream remote-material3 selection animation (#660)",
+        "at": "2026-10-01T06:16:07+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "443470bbc1f9457d94b503cf621579208543f866",
+        "subject": "chore(ci): empty the CMP/Wasm allowlist (#659)",
+        "at": "2026-09-30T22:15:53+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "29de5833b10b679347c22afb550446523f0c4c81",
+        "subject": "fix: stroke the outlined EdgeButton, group Glance Wear with Compose, and move the Remote snapshot pin (#658)",
+        "at": "2026-09-30T18:31:23+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9b334369fe91f212a7d60483b82854711bcf7f85",
+        "subject": "feat: declare render assertions for the Wear M3 catalog render (#657)",
+        "at": "2026-09-30T18:25:59+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a6e594a9c0c6c57dade892d191b5a606d45b61aa",
         "subject": "fix(deps): update compose (#645)",
@@ -450,38 +482,6 @@
         "sha": "62e93a0fa7a6898067437b5d2a9902af8f86a561",
         "subject": "fix(ci): read served indexes from output repository (#590)",
         "at": "2026-09-23T06:49:44+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "93a034a89208becbe54674ce7a758b37f68945b3",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:third-party-rc-embedded-player to v1.70.0 (#589)",
-        "at": "2026-09-23T06:47:46+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f9ac28d234007d4f1b5c77153021b4e55a27660f",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.41.0 (#588)",
-        "at": "2026-09-23T06:47:32+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b5b053d8644f0e124520508d4733a625928f4665",
-        "subject": "fix(deps): update compose-ai-tools (#587)",
-        "at": "2026-09-23T06:47:14+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "713c6eb9636f7c362f146297037efffa85202d25",
-        "subject": "build: prepare wear catalog output repository (#585)",
-        "at": "2026-09-22T23:29:36+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
