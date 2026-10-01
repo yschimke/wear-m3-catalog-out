@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-01T05:55:57.318Z",
+  "generatedAt": "2026-10-01T08:17:05.860Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "2007db09e6b35d4deaaa6a9c4917919b181182bd",
+        "subject": "ci: give the remote-m3 design-artifacts job 120 minutes (#664)",
+        "at": "2026-10-01T09:10:40+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "21180a7d7f52d944eeef1746eefa1ab76876fea7",
+        "subject": "fix(ci): pass a token so preview publish can fetch the PR run's handoff (#663)",
+        "at": "2026-10-01T08:02:20+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0e219c744ee91564f510a143c76ed8921b7fec78",
         "subject": "fix(remote): port the upstream remote-creation-compose and remote-core changes into the vendored port (#661)",
@@ -466,22 +482,6 @@
         "sha": "c98138ed0db02b8a566a7a7902d3f70d9e9ea9e9",
         "subject": "fix(ui-builder): parse Wasm color literals as ARGB (#596)",
         "at": "2026-09-23T21:21:45+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ac48951d52543aba6a2b2ad05b5aacd36ea7c622",
-        "subject": "fix: isolate preview publishing credentials (#593)",
-        "at": "2026-09-23T12:17:38+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7a30b4f31eeebcd424896b038acab7dc7824258c",
-        "subject": "build: publish preview branches to output repository (#592)",
-        "at": "2026-09-23T07:38:33+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
