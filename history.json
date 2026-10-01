@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "14e2c5c8295e7f2c26b6bec4bff388aac898ffe1",
+    "generatedFrom": "639be34b26f75e488475e4b90100cd8e0f4bece0",
     "previews": {
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ButtonsKt.ButtonRowGroup": {
             "path": "renders/catalog-desktop/ButtonRowGroup-91cd010c.png",
@@ -57299,6 +57299,15 @@
             "path": "renders/remote-catalog/WidgetContainerGradientRemote-48a21be7.png",
             "versions": [
                 {
+                    "blob": "33eb480c95f6d12518b236d5fbce80d001f41c62",
+                    "commit": "639be34b26f75e488475e4b90100cd8e0f4bece0",
+                    "date": "2026-10-01T14:38:36Z",
+                    "sourceSha": "d404da48",
+                    "sinceCommit": "dc31e01ca4eef7d22cfdc7d0681548c45701b52b",
+                    "commits": 3,
+                    "occurrences": 3
+                },
+                {
                     "blob": "2d3ab8fcfda059977b21f66b5e616b4f160fce98",
                     "commit": "7f79b8317c7f6819299dbd782af443090cbd2b46",
                     "date": "2026-10-01T05:25:49Z",
@@ -57306,15 +57315,6 @@
                     "sinceCommit": "417c08be4444ba06fe8b823c545d0a7c0f9b4a23",
                     "commits": 3,
                     "occurrences": 3
-                },
-                {
-                    "blob": "33eb480c95f6d12518b236d5fbce80d001f41c62",
-                    "commit": "17d979ae38cc7f24daf32c81496050ca9a837923",
-                    "date": "2026-09-25T09:55:00Z",
-                    "sourceSha": "b929388d",
-                    "sinceCommit": "dc31e01ca4eef7d22cfdc7d0681548c45701b52b",
-                    "commits": 2,
-                    "occurrences": 2
                 },
                 {
                     "blob": "3284b92b5ffb19d0e8720cf461269330da0913e1",
@@ -57331,9 +57331,9 @@
                     "commits": 1
                 }
             ],
-            "observations": 7,
+            "observations": 8,
             "unstable": true,
-            "flapCount": 3
+            "flapCount": 4
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.WidgetContainerPreviewsKt.WidgetContainerLargeRemote": {
             "path": "renders/remote-catalog/WidgetContainerLargeRemote-64343fde.png",
