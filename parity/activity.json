@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-01T12:46:24.672Z",
+  "generatedAt": "2026-10-01T14:21:25.703Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "0f6eae041d855c45316b61c73480245c5e0ccf4f",
+        "subject": "fix(remote): move the port's RemotePath out of AndroidX's package (#652) (#666)",
+        "at": "2026-10-01T15:12:28+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "90fcbab25731199b46b8b4483820346144b613d6",
         "subject": "fix(deps): capture remote-m3 against the host density on rc-players 2.0.4 (#665)",
@@ -474,14 +482,6 @@
         "sha": "a32ba6c486f0b3347c51337da57e21a3453ac4f1",
         "subject": "fix(remote-m3): use latest outlined card borders (#600)",
         "at": "2026-09-23T22:18:05+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3d98ff1a568196ba7344d3dd1cef86bd7e62c916",
-        "subject": "chore(remote-m3): bump AndroidX snapshot (#597)",
-        "at": "2026-09-23T21:21:59+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
