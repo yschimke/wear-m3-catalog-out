@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-01T14:32:30.719Z",
+  "generatedAt": "2026-10-01T22:55:30.083Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "411ea51316de2d6d3a6b221dfcfddb7c810fab7e",
+        "subject": "fix(deps): update compose-preview-daemon-annotations to v3.11.0 (#669)",
+        "at": "2026-10-01T22:47:20Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e460bf88fde0af6206dcad50972d9e83e3129af0",
+        "subject": "feat(parity): crop the candidate's renderer-imposed frame against tight kit cells (#138) (#668)",
+        "at": "2026-10-01T23:35:21+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d404da4836efdfda5096afce4aa341cd1b23121e",
         "subject": "fix(deps): update compose-ai-tools to v2.31.0 (#667)",
@@ -466,22 +482,6 @@
         "sha": "1a975f6c1e0f375440c4dfb0d8512411a16526d2",
         "subject": "fix(remote-compose): let already-published Packages versions through, so the branch is pushed (#605)",
         "at": "2026-09-24T13:47:09+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d211957d27913025c126b35b895f406d66018e86",
-        "subject": "fix(remote-compose): republish the Maven branch when Packages already has the version (#602)",
-        "at": "2026-09-24T13:42:16+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1587213eb174a13fbc89baf350fc8501f9032b86",
-        "subject": "Fix Remote Compose drawWithContent composition (#599)",
-        "at": "2026-09-23T22:20:04+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
