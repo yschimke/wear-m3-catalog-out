@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T11:18:20.643Z",
+  "generatedAt": "2026-10-02T11:24:35.495Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "2eb633b9171a74c3f589c73df6915327575c38d8",
+        "subject": "chore(deps): update compose-ai-tools to v2.32.0 (#678)",
+        "at": "2026-10-02T11:13:07Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "3e504ad1525e5e5739d2b12e910ff640e49820cf",
         "subject": "fix(deps): update compose-preview-daemon-annotations to v3.12.0 (#679)",
@@ -475,14 +483,6 @@
         "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.23.0 (#612)",
         "at": "2026-09-24T22:39:32+01:00",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "573935e055be32666682733220766a5361bd25b2",
-        "subject": "chore(remote): use the released CapturingWearWidgetPreview (#613)",
-        "at": "2026-09-24T22:39:05+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
