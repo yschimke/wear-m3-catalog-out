@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T18:24:54.531Z",
+  "generatedAt": "2026-10-02T18:37:45.689Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "c14ded84fc2ce5f0c52c8b595335582ffbef16ee",
+        "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.32.1 (#688)",
+        "at": "2026-10-02T18:31:17Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d8660b37cbf340d2f2f31d57382db3541ae62874",
         "subject": "feat(ui-builder): theme typefaces on the Wear screen scaffold (#687)",
@@ -474,14 +482,6 @@
         "sha": "4868965ec1531f3c7e7ce98661b7e546ea81dc7e",
         "subject": "fix(remote-m3): play real widget designs in the device previews (#620)",
         "at": "2026-09-25T07:52:31+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "27795cadb5bf43f767ce87e2e855c6ad7d2303b2",
-        "subject": "fix(remote): key the adapter's path cache on raw float bits (#619)",
-        "at": "2026-09-25T06:44:07+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
