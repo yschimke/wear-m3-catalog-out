@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "639be34b26f75e488475e4b90100cd8e0f4bece0",
+    "generatedFrom": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
     "previews": {
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ButtonsKt.ButtonRowGroup": {
             "path": "renders/catalog-desktop/ButtonRowGroup-91cd010c.png",
@@ -45263,6 +45263,13 @@
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_192dp-47b893b4.png",
             "versions": [
                 {
+                    "blob": "1c0868f5392bb61e09ba208c208f2a5b48230339",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
+                {
                     "blob": "da72045ff4c6c6e8bae2212b90f0c5b294a154dd",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
                     "date": "2026-09-20T07:55:33Z",
@@ -45277,13 +45284,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_five-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_192dp_VARIANT_five_pages-b54336d9.png",
             "versions": [
+                {
+                    "blob": "1e45ea4038478c5d1a26a72539aed6a8b834dac3",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "58782f7c35af39dfb291ce98bdee87a399d58a3b",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45299,13 +45313,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_many-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_192dp_VARIANT_many_pages-1ad633a4.png",
             "versions": [
+                {
+                    "blob": "ed2780a9b20820f1a5c32dd0119dae43c8d3f23f",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "b7a5efd0e1e5d0cc78691aed58001e5d4b242b1a",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45321,13 +45342,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_many-pages-end": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_192dp_VARIANT_many_pages_end-e68c83f9.png",
             "versions": [
+                {
+                    "blob": "ac81d912c1b62bfbe2d9a3d7bde868fdf736c321",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "5dc97692ff1d1d6dc09d60450eef42ce04162a7b",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45343,13 +45371,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_many-pages-middle": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_192dp_VARIANT_many_pages_middle-1ffc9245.png",
             "versions": [
+                {
+                    "blob": "3281e297b0ef56f79f851fe8ba2b36278bb9b906",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "c94caecde3bd4e6811503a9b51e72d356be1478c",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45365,13 +45400,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_six-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_192dp_VARIANT_six_pages-0dc8e210.png",
             "versions": [
+                {
+                    "blob": "a58f93267690f49cab6b6d4d66d0c3f5a35c3674",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "a29ae1627812eeef883d0b7d5f011fe6177ec1c4",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45387,13 +45429,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_six-pages-end": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_192dp_VARIANT_six_pages_end-c07d6c99.png",
             "versions": [
+                {
+                    "blob": "abd01e406f21a4a971cb7893cb8059209872ed1e",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "b11e1613b781bb406f6deda692cf19fc8508a01b",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45409,13 +45458,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_six-pages-middle": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_192dp_VARIANT_six_pages_middle-0ee924d3.png",
             "versions": [
+                {
+                    "blob": "ad6e88c953722423f0028f3863b9dd141869c165",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "eb394c3dfb176bab850044bfc0fe97e7fbc5f681",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45431,13 +45487,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_three-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_192dp_VARIANT_three_pages-084331a8.png",
             "versions": [
+                {
+                    "blob": "20138675f136fcc282822f1a9689197bb2f05497",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "4285822ae197978a15af45a45beb1b84f14881df",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45453,13 +45516,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_192dp_VARIANT_two-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_192dp_VARIANT_two_pages-cdde7bfe.png",
             "versions": [
+                {
+                    "blob": "8e36102d59d567126c503f7ec604f3f422e472bf",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "9127e7f1fefce767febc637394d29c736dd2cf94",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45475,13 +45545,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_204dp-7eaa12c0.png",
             "versions": [
+                {
+                    "blob": "634b6828742f7b136df9eb419804fe11ffcd0578",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "079d6fdecfef647ed58f945c4a11416c777b3142",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45497,13 +45574,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_five-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_204dp_VARIANT_five_pages-f8069697.png",
             "versions": [
+                {
+                    "blob": "46604820414e897a7df43226c1dc54d5aac6b45f",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "238f87c2eefc9680344bcce1a5d900b74bce8175",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45519,13 +45603,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_many-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_204dp_VARIANT_many_pages-d80d0e9c.png",
             "versions": [
+                {
+                    "blob": "7f36c7da9c2033b4a51f678ccf0e8139e8b8c164",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "3e9a278f9efbab7209316a2645ab1cbc6a3c7605",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45541,13 +45632,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_many-pages-end": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_204dp_VARIANT_many_pages_end-eca4334b.png",
             "versions": [
+                {
+                    "blob": "84d75dab25a27ea4600153c60e40a09174cec39c",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "58a7dff83715c1a37aa5d2d6896996bd289f1a78",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45563,13 +45661,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_many-pages-middle": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_204dp_VARIANT_many_pages_middle-ebb554cb.png",
             "versions": [
+                {
+                    "blob": "07649f93ba6262c9ac528e3ad68fa5d0b14d6871",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "36f3edfefd14d39ca4965b277e1f78eac7cb3004",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45585,13 +45690,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_six-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_204dp_VARIANT_six_pages-15475db6.png",
             "versions": [
+                {
+                    "blob": "c2d5d9b98ee4f655410006f74ecffea90e6481a2",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "d0665eedf3cf67c8af5ba19f18c854c415c8fbbc",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45607,13 +45719,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_six-pages-end": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_204dp_VARIANT_six_pages_end-0938aff9.png",
             "versions": [
+                {
+                    "blob": "b82f31af5ffe584f6c13789a838a0e5c21e9f546",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "fa362504f0829b9725ff872f80e76aae9b9cf021",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45629,13 +45748,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_six-pages-middle": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_204dp_VARIANT_six_pages_middle-f048de8f.png",
             "versions": [
+                {
+                    "blob": "eecf2bbc22ecdae2933ed79fbfde48e65fa7f5e5",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "b492e33d0ab8bdfacdd2094fcd0c27094e122dbf",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45651,13 +45777,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_three-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_204dp_VARIANT_three_pages-2b31576f.png",
             "versions": [
+                {
+                    "blob": "53d58b50394aba47c9645fc847ca9c86c8c2dc2b",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "09458de14ee98835d6c54c95ba65551cdf2c8243",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45673,13 +45806,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_204dp_VARIANT_two-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_204dp_VARIANT_two_pages-8b3f2c34.png",
             "versions": [
+                {
+                    "blob": "896d791d87d4dac4b54ec81ad4c45802b0586d41",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "8fc473e9d356a36e20abb4b703c576438551c795",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45695,13 +45835,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_216dp-63cc1ee5.png",
             "versions": [
+                {
+                    "blob": "a1bc59ffc6b5b5d26085b149a83bb9d3595159b4",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "a5a1c163ca085d70c8bd00703e368ba4b1b0bc60",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45717,13 +45864,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_five-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_216dp_VARIANT_five_pages-35ee566e.png",
             "versions": [
+                {
+                    "blob": "dacbf0a7e15395c4abec015027f92f4319b10f6d",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "9d25fdc801958e61b5c72a36705faa4d948a287c",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45739,13 +45893,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_many-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_216dp_VARIANT_many_pages-e734464e.png",
             "versions": [
+                {
+                    "blob": "b45188bf74bc70f87e63dbaa05f0605cc3fcf4f0",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "8dd0c28920e02a30afcc753712aaad221fddc92e",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45761,13 +45922,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_many-pages-end": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_216dp_VARIANT_many_pages_end-2768a057.png",
             "versions": [
+                {
+                    "blob": "d245ac6c3e9af60aec3588ed1e722a03bc11a131",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "a9a0a2ab4c6eb92440728777e5f39acb0df29c4f",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45783,13 +45951,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_many-pages-middle": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_216dp_VARIANT_many_pages_middle-dc4f328a.png",
             "versions": [
+                {
+                    "blob": "34097351656cbbebad2b4638e143795a460176be",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "63dba787d108d95881740b86381edd8ada4b83a2",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45805,13 +45980,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_six-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_216dp_VARIANT_six_pages-db254b71.png",
             "versions": [
+                {
+                    "blob": "d633861aa9b468ac5fbedd457ddf02421cd65070",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "b39e1be44c512098b4570ba8b86ffc2ca54cbf02",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45827,13 +46009,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_six-pages-end": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_216dp_VARIANT_six_pages_end-23aea028.png",
             "versions": [
+                {
+                    "blob": "d98534fe816a9fa6056874937c3d0e1d3b8dda8a",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "d946aab1d8f06fa7a6dabb5241b37a6594a5062a",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45849,13 +46038,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_six-pages-middle": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_216dp_VARIANT_six_pages_middle-6160c038.png",
             "versions": [
+                {
+                    "blob": "3b1afae807c0da8f2396423f2d846b2c4500afba",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "cdf1d5b6e3c1eb983c6c92f1233c09793daebcf3",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45871,13 +46067,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_three-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_216dp_VARIANT_three_pages-3d2e84a3.png",
             "versions": [
+                {
+                    "blob": "20d63859ea2386e335160a436259dd73284301fa",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "367d3c6f9e15185911700b38934dbc24a6aab52d",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45893,13 +46096,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_216dp_VARIANT_two-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_216dp_VARIANT_two_pages-bc2ab1ee.png",
             "versions": [
+                {
+                    "blob": "0605b17a246995a26c869347c19e73773a8c40de",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "53e19fa58635dcb61edad8613c6ad57d7c46af75",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45915,13 +46125,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_225dp-f92a8df2.png",
             "versions": [
+                {
+                    "blob": "e31478078557d58068ac0a3ed8f8d3c8f640278e",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "f2a33164d523bbdb3dc664a745a106190a945aef",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45937,13 +46154,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_five-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_225dp_VARIANT_five_pages-e7c9e0fc.png",
             "versions": [
+                {
+                    "blob": "244dcc7ac5ad138fd733d79cfb19b8349ef60dda",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "443ffbe23b45f566ab6b80931a62fd7d2710c62b",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45959,13 +46183,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_many-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_225dp_VARIANT_many_pages-6ce9dbc6.png",
             "versions": [
+                {
+                    "blob": "d65d2ff213272ac32dbb8c31528e868d971c3234",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "efb9633a6ba726759372840a7fc004c4ea641855",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -45981,13 +46212,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_many-pages-end": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_225dp_VARIANT_many_pages_end-922df33f.png",
             "versions": [
+                {
+                    "blob": "a146e5ae54ac97672ee0ba97ae6b0a68269f328a",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "1834869b37694473bca8af1f0bf7770277a5fb65",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46003,13 +46241,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_many-pages-middle": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_225dp_VARIANT_many_pages_middle-b2f3e34e.png",
             "versions": [
+                {
+                    "blob": "fc233a29738209e6e521d047b50283c3890dafca",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "41aacf0f64b7cba413cbc4726763e9b5af299c44",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46025,13 +46270,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_six-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_225dp_VARIANT_six_pages-59955233.png",
             "versions": [
+                {
+                    "blob": "95aeb9a6744f4cbe65fce58455c93706fa1cf93d",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "f6e4d2637b8dd6e21a939a39ad683c950ee8c477",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46047,13 +46299,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_six-pages-end": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_225dp_VARIANT_six_pages_end-1e989856.png",
             "versions": [
+                {
+                    "blob": "c629a2de5aff110f6d872f72268341007cfffd11",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "8ed4a873316d12b8a52a9e9366b05d837f80ab09",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46069,13 +46328,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_six-pages-middle": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_225dp_VARIANT_six_pages_middle-f711e5c1.png",
             "versions": [
+                {
+                    "blob": "117359914a2d774d7cce43112be702e84ccd2591",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "173b53978ddbc370fda4323775a47511a3eda1ca",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46091,13 +46357,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_three-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_225dp_VARIANT_three_pages-04c835ac.png",
             "versions": [
+                {
+                    "blob": "2d08b8fac97c094a5a0b175a12e54ae308b75f8b",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "f443fb9a3e18ba10e43eb7c37d277719f79d0cac",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46113,13 +46386,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_225dp_VARIANT_two-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_225dp_VARIANT_two_pages-2a4ff21f.png",
             "versions": [
+                {
+                    "blob": "7620bd67f22dd283f7e31b3d10e2c77df897dd7b",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "4fc87a6bc2cc7d67248a0bda91b42fa95cd5d8f6",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46135,13 +46415,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_240dp-e80e0ab4.png",
             "versions": [
+                {
+                    "blob": "b53014a76c40247c8254ec6dd9500388bd10ab5a",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "6e96389f54d265fd27ec98ea22a6483aed07e873",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46157,13 +46444,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_five-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_240dp_VARIANT_five_pages-b2adf4f5.png",
             "versions": [
+                {
+                    "blob": "367e23bc842be28bdde35e3996e1c4df3655c56b",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "feaf0af8ade67cb1128a5b81b7a8fb4f567d4fd4",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46179,13 +46473,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_many-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_240dp_VARIANT_many_pages-06030eeb.png",
             "versions": [
+                {
+                    "blob": "252537a6ddd9b096715950da5bd686c3508b7701",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "a397d9ce361f22a44863c1ed17336acbf516f029",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46201,13 +46502,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_many-pages-end": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_240dp_VARIANT_many_pages_end-afce9e5a.png",
             "versions": [
+                {
+                    "blob": "1c2edde0c37d720fe8c9b084b77a47491604c337",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "56148e71b629ab6a62d0d91540485d5df1ed1dbc",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46223,13 +46531,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_many-pages-middle": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_240dp_VARIANT_many_pages_middle-800f8c13.png",
             "versions": [
+                {
+                    "blob": "16eb2ac13ad78c0c1b0a4e5c7c9b0206d37398ee",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "19774b6c825822317298e85bc137fda36c2ff1ea",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46245,13 +46560,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_six-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_240dp_VARIANT_six_pages-0bb0baf5.png",
             "versions": [
+                {
+                    "blob": "d417d03462344320ba7f56149deb2466a8096ccb",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "4395e703a3a24e9be3eaf904eec3b4a4b86ead8a",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46267,13 +46589,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_six-pages-end": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_240dp_VARIANT_six_pages_end-af4186df.png",
             "versions": [
+                {
+                    "blob": "1580c3fbc6c38249b248b2bdbaba73b3de93b407",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "0e95b1cbc6dbdaca45b3b6573d3868cc1fb99775",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46289,13 +46618,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_six-pages-middle": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_240dp_VARIANT_six_pages_middle-20c139fb.png",
             "versions": [
+                {
+                    "blob": "fb28a9ac936684732da4d52130350c2d21323e53",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "dc69e709e0641ccfde63c81a9a35a24821928dbe",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46311,13 +46647,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_three-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_240dp_VARIANT_three_pages-e3d32b15.png",
             "versions": [
+                {
+                    "blob": "d9406c83c347009759561758ba48726a71855ddd",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "eb3f1333c9fe57a0cd3da7b1c7c60d060d9077b9",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46333,13 +46676,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.HorizontalPageIndicatorRemote_240dp_VARIANT_two-pages": {
             "path": "renders/remote-catalog/HorizontalPageIndicatorRemote_240dp_VARIANT_two_pages-e081e04f.png",
             "versions": [
+                {
+                    "blob": "fafbd359830add357914641e47511cc5ec5a39db",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "dbe65204a10584ccda64c40d1ee902cfb375abe6",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -46355,7 +46705,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
@@ -47836,6 +48186,13 @@
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp-4d5c31fa.png",
             "versions": [
                 {
+                    "blob": "b8b871a26a2d533558d97309e7c38f5db3796923",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
+                {
                     "blob": "32923e09d7dc9e10864f7eca7fdd007169dddb9f",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
                     "date": "2026-09-20T07:55:33Z",
@@ -47850,13 +48207,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_five-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_five_pages-493625fb.png",
             "versions": [
+                {
+                    "blob": "f728e94b99cd903bb733d87f3d3ba7496a25f260",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "d6db3bf16f3904e62535664ad2dc9228f0f3533c",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -47872,13 +48236,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_left-40369c6c.png",
             "versions": [
+                {
+                    "blob": "44f8d24bf6a271cda206fffa258147509562bdf4",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "353caa185b4a429121cc1a5c0b7dd60220c931e1",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -47894,13 +48265,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-five-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_left_five_pages-a1ac0326.png",
             "versions": [
+                {
+                    "blob": "4c85c5bd1474f068d062d5da4deeea3bbd34601e",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "b07c0948d52cefbdc9fafd63d07312bb02d69be0",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -47916,13 +48294,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-many-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_left_many_pages-b63bd80a.png",
             "versions": [
+                {
+                    "blob": "a320e2eae2063de084426c65d3950f6ff40449ee",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "ceb0d75549bd0ccfd7eedfb7dc19d12b30f2260f",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -47938,13 +48323,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-many-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_left_many_pages_end-19220be9.png",
             "versions": [
+                {
+                    "blob": "c8b66fa92d065dd8fc13fa568438fa99cc9ee37a",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "3625c1ea45547ca6feb9e7e2446e193ca9262a7d",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -47960,13 +48352,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-many-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_left_many_pages_middle-374237bd.png",
             "versions": [
+                {
+                    "blob": "bac9d14338450fcbf0ecd7da5f7ec0bff510fc9a",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "ed8bc27e51305913078a55a2ea7e7c51d141a0e2",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -47982,13 +48381,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-six-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_left_six_pages-4dbaf03f.png",
             "versions": [
+                {
+                    "blob": "b6f71c9daa574742df0c063f49ba6f11196541b6",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "ee0a298e6e4abfb000a9f9ac25d6ac846884710d",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48004,13 +48410,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-six-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_left_six_pages_end-4e3384f6.png",
             "versions": [
+                {
+                    "blob": "630c134d2c1f8b389485aa77f407b35812039dfa",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "80bd6b32fb12a8d9126b6a415308d75bc4b9cebe",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48026,13 +48439,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-six-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_left_six_pages_middle-5fc28f92.png",
             "versions": [
+                {
+                    "blob": "80a7d7f8452e89e869f952e424acfa2a06f9a8e0",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "13baa84970e113f665211d8e98adda326eaf8d9f",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48048,13 +48468,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-three-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_left_three_pages-04dd208d.png",
             "versions": [
+                {
+                    "blob": "9d303f1c4fbe6375ae06870bf17012ceddeb2e93",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "f5a966eb4887438de5080d8637516efac641994d",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48070,13 +48497,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_left-two-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_left_two_pages-09fdd2f1.png",
             "versions": [
+                {
+                    "blob": "5f4c2df8c5b1f964e7f61e6a6eeebb3426bd0b26",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "f8fe19e27c5bcdb6bc5ad50fbe8624aaaf6297a9",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48092,13 +48526,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_many-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_many_pages-522c00bf.png",
             "versions": [
+                {
+                    "blob": "0a1bd584c7abefae110a590c25584ad62797ae4f",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "c0e9254b71cf761fe44dfaa67a569c7d2690e269",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48114,13 +48555,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_many-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_many_pages_end-989c1637.png",
             "versions": [
+                {
+                    "blob": "7c2e6468529068d08af0d8ce63b59220109c3e39",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "fff45735d2cf76168d02aea5e0502e9cc5357cd7",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48136,13 +48584,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_many-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_many_pages_middle-77fbc166.png",
             "versions": [
+                {
+                    "blob": "da52d3cd50670de69ba5da7c883e162b6b8a9e3c",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "ac14bba119d36e0cfa1bfc1963236f699b89b644",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48158,13 +48613,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_six-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_six_pages-4e551e0b.png",
             "versions": [
+                {
+                    "blob": "713aca7f7fa713686aa195f27a6bf95bd24995fd",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "ffa5b556e0fb105c74f1f2b0da524c0d6a3cadfe",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48180,13 +48642,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_six-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_six_pages_end-3bea23b5.png",
             "versions": [
+                {
+                    "blob": "648d8a6149f8a46b1281d35c6b24684afaccf0ef",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "5dfbaa79c94b1923dd4df588de090632281f58b0",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48202,13 +48671,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_six-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_six_pages_middle-6ab179c7.png",
             "versions": [
+                {
+                    "blob": "ccf03e651915d0146897da6676999a152406f46e",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "0746d96a689645ef86fd6b17fd6a9e562f6e5fc7",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48224,13 +48700,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_three-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_three_pages-29f97bf4.png",
             "versions": [
+                {
+                    "blob": "40b234f148d2bdd2fc572dda270c9dc0c48253c1",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "77932c24606349fd995602f48f457e427207e21a",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48246,13 +48729,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_192dp_VARIANT_two-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_192dp_VARIANT_two_pages-5b4e227a.png",
             "versions": [
+                {
+                    "blob": "83141ad3bc951fd1dd9b9b8b5d1f533f1dd6e777",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "3a873bcf0cca88f781cd3cad526d5e54a17c86eb",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48268,13 +48758,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp-327af8ba.png",
             "versions": [
+                {
+                    "blob": "61c2c2963e8a7ae1aedc2f72a22749618c73e347",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "c9354736d894ea764eb05339e69de8125d4e0ebc",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48290,13 +48787,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_five-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_five_pages-6ae25737.png",
             "versions": [
+                {
+                    "blob": "e8560f92585eaa12343bb737b2d478cabb4ecc98",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "5151b68d55867e01933e45193fac7aa7cb8ba115",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48312,13 +48816,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_left-6e9090df.png",
             "versions": [
+                {
+                    "blob": "018ba05b36984ad16365378739f0310310bc4e1e",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "c5cfd5d24a4bb6a4a5114c31007d50e64d032167",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48334,13 +48845,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-five-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_left_five_pages-9826d66b.png",
             "versions": [
+                {
+                    "blob": "d70ddf8606edb40d8a4b2a20f3544d3eb5f84a0b",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "22dee96fd325fbf3b6a4f9aa8c2502855529a9e1",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48356,13 +48874,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-many-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_left_many_pages-9f14ffbb.png",
             "versions": [
+                {
+                    "blob": "45b66bded3e1ca57676f9b1da2e839734668b33d",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "03be7abefbd8658c591f2a0b18dc90f816dfe0fe",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48378,13 +48903,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-many-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_left_many_pages_end-741f8f1b.png",
             "versions": [
+                {
+                    "blob": "ad5e860acb3544637329932ffacc702969ed9d3f",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "f5c0ec4c03ab01d6ee8eb0cdb368a78cc17d8823",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48400,13 +48932,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-many-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_left_many_pages_middle-5ea00b5b.png",
             "versions": [
+                {
+                    "blob": "38cde5923b1a833d9f007750fc2b0f4650f4468a",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "ac7d5af760c65c9369b23243fd6b44c311d728b7",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48422,13 +48961,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-six-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_left_six_pages-98842704.png",
             "versions": [
+                {
+                    "blob": "0ecb0e07bd56281f061d6207798c278475da7a8c",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "b569233ac805aa46bfd9ddbb1670ed7cd78775ba",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48444,13 +48990,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-six-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_left_six_pages_end-0d60edaa.png",
             "versions": [
+                {
+                    "blob": "a65217529cc1c6bd1da38d97e3babc39696f8122",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "01b7d26647100bef195e2dbbe87e203e52ce2ac7",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48466,13 +49019,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-six-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_left_six_pages_middle-1138419b.png",
             "versions": [
+                {
+                    "blob": "16b3ca16c16f59bd4f5163193439601f3d013162",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "347004282269a293433e77aed47d52b0e3e0d7a7",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48488,13 +49048,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-three-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_left_three_pages-f965f566.png",
             "versions": [
+                {
+                    "blob": "3fe185e3030ae2ffc6f0bb014c766494b27bd4e4",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "4d9e6a343141159747898f63be98ec800b7472fd",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48510,13 +49077,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_left-two-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_left_two_pages-c9667fcd.png",
             "versions": [
+                {
+                    "blob": "a3ce920b4522b5c65d03a67a72cc22859a9b8892",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "8e20a6c1748060f4b8ce38111b3759b7dd6c4579",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48532,13 +49106,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_many-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_many_pages-17d57aa1.png",
             "versions": [
+                {
+                    "blob": "569e9ab5619aa3dfd5c4dee61d55dae1e9e038d3",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "7defcc23a77c8827e31632155aec0ea9b4ac3d27",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48554,13 +49135,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_many-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_many_pages_end-35f2a3a0.png",
             "versions": [
+                {
+                    "blob": "4b1b83a70eb855a94d9b70e7d82c4d375bd78715",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "cf06b7018084e82d0b28f6becf533b6248f618ba",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48576,13 +49164,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_many-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_many_pages_middle-51dc039e.png",
             "versions": [
+                {
+                    "blob": "3ac8abb7b6d8aac71609b07312e0b9f65ad49d19",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "d6971d71e04b5a06b67a82c7d7ff6ef5d3c84b61",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48598,13 +49193,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_six-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_six_pages-6691c847.png",
             "versions": [
+                {
+                    "blob": "9c24c1e0aac18807b27f36adc2329ff9e4dc9182",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "1f0015a0b8cc6ceccddd84bb34f2b0d67c7b4073",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48620,13 +49222,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_six-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_six_pages_end-24430689.png",
             "versions": [
+                {
+                    "blob": "1b02da120aa188134491e76b555b1bc08a83a596",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "071935cf4ba481c682f98ab1a4165af8962f12f6",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48642,13 +49251,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_six-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_six_pages_middle-b2e3a990.png",
             "versions": [
+                {
+                    "blob": "a45a8a968530e606ee1964b2b53a5fbbfc449ed5",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "ba02c073b0abe88c2fa229c0c9f27ee0f9cf748f",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48664,13 +49280,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_three-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_three_pages-c9b2d9a1.png",
             "versions": [
+                {
+                    "blob": "1ea2d66a4517d430325033ee1738eb239af0b41b",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "0421d45d5626de4d9755c4de41fb60929162a037",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48686,13 +49309,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_204dp_VARIANT_two-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_204dp_VARIANT_two_pages-7e34b5a2.png",
             "versions": [
+                {
+                    "blob": "bd435730df19b45da292a7a0701df2cd7def2abb",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "14c8c35967b0f868b17c44b1ccef65ffdb97d194",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48708,13 +49338,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp-4b974625.png",
             "versions": [
+                {
+                    "blob": "a6c8d61aeffad5752bcd1ad5db446f3489eacdc6",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "a5ac9acd7e875311fd80e4659ec7de015c5fe3de",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48730,13 +49367,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_five-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_five_pages-51f23ba3.png",
             "versions": [
+                {
+                    "blob": "ea2bf7e4b30b56cd8a7db0cab48c2b93d1abd81e",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "50024b6364902ee05831b7149137d4726750ec57",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48752,13 +49396,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_left-c183c6ba.png",
             "versions": [
+                {
+                    "blob": "226330c27cd39a49fd707154d26207f9a4c3dc1c",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "bc315cd192bec1018780bad1f3cbef55725a17ef",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48774,13 +49425,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-five-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_left_five_pages-70199193.png",
             "versions": [
+                {
+                    "blob": "e7f344495d0ec8b033bc64bedf2b7f99d9df3f5e",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "075faa588b86dd6747ce378d4ceef0bfdd3a3b6f",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48796,13 +49454,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-many-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_left_many_pages-26689fce.png",
             "versions": [
+                {
+                    "blob": "0b693298ee5e4b9348962125306d878f7041d600",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "034d27d502b7226fe0dfb1dd612940746c1d5280",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48818,13 +49483,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-many-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_left_many_pages_end-35931d9d.png",
             "versions": [
+                {
+                    "blob": "183e9647b02298394f87f76ad510646efb89aeb5",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "17156459051efece626ac40ee85a157c8529a13c",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48840,13 +49512,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-many-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_left_many_pages_middle-995fe48f.png",
             "versions": [
+                {
+                    "blob": "ed4ae157e86995d8aed45778457d5f19dc7e9088",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "f82081d88a539f9043af10d41679fa4e26506ef5",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48862,13 +49541,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-six-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_left_six_pages-ac0d1b88.png",
             "versions": [
+                {
+                    "blob": "e31c1a72a333371817fdad6c41aa9bb4d0d5dfce",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "cd4e4005a6a584dd5fbb5ea4f69eaf4d8cc9f243",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48884,13 +49570,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-six-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_left_six_pages_end-b8e426ac.png",
             "versions": [
+                {
+                    "blob": "f8c0ad1345ae96f973d31fda4608686fd45588d8",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "f24aec1144d8ae118b45ad29bd48248a57e61ae1",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48906,13 +49599,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-six-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_left_six_pages_middle-b4fae519.png",
             "versions": [
+                {
+                    "blob": "eb82de20e667473ef40b398b520c69146d14297f",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "648f087392432cf777e27cd7d4c9f4b9ad45a853",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48928,13 +49628,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-three-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_left_three_pages-e7d1f2bf.png",
             "versions": [
+                {
+                    "blob": "6b473b84b74c07a1d905f7bd076a71a45636df69",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "ba8d9092fce577b087929698db8843daba430548",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48950,13 +49657,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_left-two-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_left_two_pages-d2cbca9d.png",
             "versions": [
+                {
+                    "blob": "ad39cadb1531bc3f2078d763b7100d7fd34c6bc8",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "2d59baaaab3a0605651129d9ef3cefb3dcda6937",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48972,13 +49686,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_many-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_many_pages-aa5a34f6.png",
             "versions": [
+                {
+                    "blob": "58515afb7ad02aa64f2ba055d28e3ca4ec0f07c0",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "207dea338e7e0dbed59d7639022a50254f6b2ed1",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -48994,13 +49715,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_many-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_many_pages_end-14db16b7.png",
             "versions": [
+                {
+                    "blob": "3f71f9562c0de542c925472241f874a51f2f1978",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "0105023946ebb12fb59de9a9e070f41b77cd71b8",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49016,13 +49744,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_many-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_many_pages_middle-16747fc3.png",
             "versions": [
+                {
+                    "blob": "9beb274fa788d803ef5b45160ed23b906052de5d",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "c9b40b8b1e24fcea963f062bc40341c96a7874f2",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49038,13 +49773,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_six-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_six_pages-7ef7f253.png",
             "versions": [
+                {
+                    "blob": "148f545358f7b55106b873bff6158b63d6221ced",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "4c03897344678131456ec97f6229b7e7d6f7d4d5",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49060,13 +49802,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_six-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_six_pages_end-23239752.png",
             "versions": [
+                {
+                    "blob": "fa1139eb7bf56055fce8b8fac5b189cdae7c1c73",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "5e47205f3915e766d10f8dc5ae29f92b9e126de5",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49082,13 +49831,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_six-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_six_pages_middle-61f7c320.png",
             "versions": [
+                {
+                    "blob": "adc061c91b307c2a2302a2d195612414dbd45821",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "40d44fdfc5697440a213ab4456a76f400c5fb735",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49104,13 +49860,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_three-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_three_pages-a240229f.png",
             "versions": [
+                {
+                    "blob": "d8c689c355889974b1b4fcc27b7c4c5ff8cce44a",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "017e69d4224f07cce5f523d780fdfeae53c536f9",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49126,13 +49889,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_216dp_VARIANT_two-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_216dp_VARIANT_two_pages-e13dc21f.png",
             "versions": [
+                {
+                    "blob": "384b992e33fbb390a7e82995fc921d47a6b9cda5",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "a655d25d54a34bef025fcebb9ae3c0069ade9ef4",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49148,13 +49918,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp-779661b9.png",
             "versions": [
+                {
+                    "blob": "489ebb0953e3f495e3e8188bd6e26d49b6f625d1",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "fed20f3f211288f64033b4442c5709b7a692561b",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49170,13 +49947,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_five-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_five_pages-f673d979.png",
             "versions": [
+                {
+                    "blob": "443c0ed62430cfaf95ec62169a61545d29b8526d",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "44bb3b92155d702b5fb5575f8d2d53710a5e8e3d",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49192,13 +49976,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_left-e2f762fe.png",
             "versions": [
+                {
+                    "blob": "c23e6304f02cb478dedeed12dce3c8268779ab72",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "37277cab01a27148f3e2c97b9f916e646e938d57",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49214,13 +50005,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-five-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_left_five_pages-92c95e86.png",
             "versions": [
+                {
+                    "blob": "ac85a306514b010b85b8dd258205945306565664",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "1baeab66db2fe4df73f22c7da64f23c8284baafc",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49236,13 +50034,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-many-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_left_many_pages-fd52fee5.png",
             "versions": [
+                {
+                    "blob": "7ea79f9d9c15d69ce2d8e2e4f54ab8fb8bec1546",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "12508b3c1da77edc00c17515a0286d2de0db8e64",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49258,13 +50063,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-many-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_left_many_pages_end-5029a899.png",
             "versions": [
+                {
+                    "blob": "6ef9d61d89fb723e37e7fed958c9adafa39a8e37",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "857c8f6fbef94b788ad6125d82baf83f7b912e76",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49280,13 +50092,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-many-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_left_many_pages_middle-e6791b92.png",
             "versions": [
+                {
+                    "blob": "775782264a78ce68100b9362b38eec830ade6497",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "40eca38409cb5271f19dfb61df27b095c7e64545",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49302,13 +50121,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-six-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_left_six_pages-c2e53741.png",
             "versions": [
+                {
+                    "blob": "8620564d38dd5807103487670d845ce3715ba973",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "9b901367227a5873c7dc026305e47dc891b857d5",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49324,13 +50150,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-six-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_left_six_pages_end-3af2bd2f.png",
             "versions": [
+                {
+                    "blob": "e23cbba353bb64b4325a6947788505643649a5a1",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "c059191b844664358917c688f46aef22e8b837d8",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49346,13 +50179,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-six-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_left_six_pages_middle-89ab30cc.png",
             "versions": [
+                {
+                    "blob": "e45b6d927b41cfaa123ac222c8edf53c74b35329",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "8534dc95d36a7862d91638d62d04b3c815ee21e6",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49368,13 +50208,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-three-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_left_three_pages-d0a75870.png",
             "versions": [
+                {
+                    "blob": "01244a0ec9aae761477b770b70d0a2ba17646d4d",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "4dd2fadac90592f6ab7c56ddd2bc4c02ba8073f9",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49390,13 +50237,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_left-two-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_left_two_pages-56e3fcf9.png",
             "versions": [
+                {
+                    "blob": "3212df5ed02691e48c74509977815cdfe4b6a9b4",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "b391b756f7386553a50f9302d760a745fba93933",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49412,13 +50266,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_many-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_many_pages-18494252.png",
             "versions": [
+                {
+                    "blob": "a08d0e390345e0b7200c58680cb9494e4598bb53",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "5b8446bcaef15de6121683ac1669b82f4079892d",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49434,13 +50295,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_many-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_many_pages_end-f812c503.png",
             "versions": [
+                {
+                    "blob": "7f582c3d0388cf14b1bcc3981c06b5ec239134a5",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "2a5b6ab5f42247fa2cc0d2b2e8a9bca7509ccb9e",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49456,13 +50324,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_many-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_many_pages_middle-6ff3659e.png",
             "versions": [
+                {
+                    "blob": "2f91bb10098a89194772c67636379eb8b8f0451c",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "4ae3153b65193e08c71daac2baffea120ca04c85",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49478,13 +50353,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_six-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_six_pages-510bcf90.png",
             "versions": [
+                {
+                    "blob": "9a7236372c4cd9f2fe326e51dc0c227de843ceb2",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "eca77b8146c39ed7bdb2718506a97c1538b5072a",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49500,13 +50382,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_six-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_six_pages_end-e1ba747f.png",
             "versions": [
+                {
+                    "blob": "9c8b0f2e76b7fd52dec4c326510c78bcf14cd7b2",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "5201ebc0d191d85d9999e3032a87498d9d5198f7",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49522,13 +50411,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_six-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_six_pages_middle-15f67a75.png",
             "versions": [
+                {
+                    "blob": "78eb88baef1fef16f6c916c6e19f30e6168ce087",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "08e197f91c04f471502e15a3cca73f357a2daa85",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49544,13 +50440,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_three-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_three_pages-d70db623.png",
             "versions": [
+                {
+                    "blob": "14960109ac2e72e4ba2e61ba23739b782412d9cb",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "e16823604a441ed04d340acdb9b31065f5bc024b",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49566,13 +50469,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_225dp_VARIANT_two-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_225dp_VARIANT_two_pages-bb7b2526.png",
             "versions": [
+                {
+                    "blob": "1853616ac03f1325f516e0fa852c1f71a9573974",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "ccf08f6e05cab3e7e93e9c74574e458bd28d6310",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49588,13 +50498,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp-55d37aef.png",
             "versions": [
+                {
+                    "blob": "d2f537277da95e77de0954ff8fd2566e3fabeb89",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "d18b0ddf38e6a323bcf9875da21560140a065549",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49610,13 +50527,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_five-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_five_pages-c681c94a.png",
             "versions": [
+                {
+                    "blob": "e47e3623722cbef1c963028c4f0950bc3b14e783",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "5e54d7d2dd7d2df1456a2365a81b74584899c144",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49632,13 +50556,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_left-9a3114f9.png",
             "versions": [
+                {
+                    "blob": "c94debf90ea08538e45296ec50e287e9a3cada06",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "a31cd94fe3f567c6055d232123446cff3fadb8c4",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49654,13 +50585,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-five-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_left_five_pages-9c663d67.png",
             "versions": [
+                {
+                    "blob": "0a9888f5772ea73e0524775e100127a656f1239f",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "00e99f2b43b3029bfb2535ab1c3ec67bcccee9ce",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49676,13 +50614,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-many-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_left_many_pages-3459d287.png",
             "versions": [
+                {
+                    "blob": "a363558edbd3ff1d4575201677d2ff727c08eb40",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "54ac1f87aeb6cdd3d75f046b624bf077039415b6",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49698,13 +50643,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-many-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_left_many_pages_end-b2648576.png",
             "versions": [
+                {
+                    "blob": "6b87d5aa66d50fec9fbfcd1118eaf0df23b3f54a",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "d61757b5e4de813871b57a021140e0fae5ad9f4a",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49720,13 +50672,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-many-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_left_many_pages_middle-ec795983.png",
             "versions": [
+                {
+                    "blob": "5a9621d3a5a67ac085f929d8233c1ee9d2a3dce7",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "14fc31cf13c03592bc7c011bc855d67a39eceed7",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49742,13 +50701,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-six-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_left_six_pages-43b43992.png",
             "versions": [
+                {
+                    "blob": "4ca9f9b8b11e67680b183cf5bdf4f82214d39d37",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "97e1627366eb0f2036f512bc3e3a60c447d9c0ff",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49764,13 +50730,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-six-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_left_six_pages_end-bedd80be.png",
             "versions": [
+                {
+                    "blob": "a6cf25392d8e2bcaeaaf7157f52156821f292c2b",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "740a51dccfd9e2db4e5600352dd2b3e8b11c0065",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49786,13 +50759,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-six-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_left_six_pages_middle-a3cde1f4.png",
             "versions": [
+                {
+                    "blob": "e31ca1e48abb05a774d80602e46ddb62e0791850",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "2641717f6518d8fa2bfe2d947a0f533a2e7206c4",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49808,13 +50788,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-three-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_left_three_pages-c50d93c8.png",
             "versions": [
+                {
+                    "blob": "bc8103659073fd8f725ddc9da50554190dfb4e9b",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "afec7f3528fd9c0aa272fe545705e194ae936428",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49830,13 +50817,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_left-two-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_left_two_pages-6142d6ea.png",
             "versions": [
+                {
+                    "blob": "e9511d352e51f7b472175f4f1133505b61ca42ef",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "08afe2769146a54af536b728c9cf50b322abb149",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49852,13 +50846,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_many-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_many_pages-538ea99c.png",
             "versions": [
+                {
+                    "blob": "05d0586f9a9ce9748e3f56bceeaf72ad860af5b1",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "8665a42718965fdd9e1c5e591a56aad5bf58fe25",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49874,13 +50875,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_many-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_many_pages_end-1345c88a.png",
             "versions": [
+                {
+                    "blob": "a40a831cfd3ddc1455e8388b43ca47137d005fd6",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "9358ec0565672ac9fdee8628906c41ef425bc699",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49896,13 +50904,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_many-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_many_pages_middle-e605cb12.png",
             "versions": [
+                {
+                    "blob": "bd5f6237dacac7579cfabdf6b04ec9cccc63308f",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "751a22f277d66e7deb50cc55a2792e1f709a71a2",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49918,13 +50933,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_six-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_six_pages-15401d49.png",
             "versions": [
+                {
+                    "blob": "42ae2014ac04750a22c4f290007d9684ba1abd71",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "b248742a2d4a074e538407380d3ddfd03345f83f",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49940,13 +50962,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_six-pages-end": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_six_pages_end-1b1f160e.png",
             "versions": [
+                {
+                    "blob": "1ac4986740adf8ac40980dca40012079ccb1b9da",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "9bfd717d851679bdf15bb865f49cc368197112c3",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49962,13 +50991,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_six-pages-middle": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_six_pages_middle-a11314c3.png",
             "versions": [
+                {
+                    "blob": "ad91025a9fb10cc07e79366f9d776f539d53bb49",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "c5a469188edc438854658c95ff11529e4cbbf762",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -49984,13 +51020,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_three-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_three_pages-f82fdbb8.png",
             "versions": [
+                {
+                    "blob": "21845b56b96192b3abce5f08fb9b639e93b01543",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "4b963b2cf793be6c34348cdec6893c731d9e905c",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -50006,13 +51049,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "remote-catalog/ee.schimke.wearm3catalog.remote.ComponentVariantPreviewsKt.VerticalPageIndicatorRemote_240dp_VARIANT_two-pages": {
             "path": "renders/remote-catalog/VerticalPageIndicatorRemote_240dp_VARIANT_two_pages-4377d4e0.png",
             "versions": [
+                {
+                    "blob": "7d831603ef0c8a59b24c07f04167b9e96c8b26c4",
+                    "commit": "f4e8b10bba0c11870f0f1ada835b15f38c095350",
+                    "date": "2026-10-02T09:25:04Z",
+                    "sourceSha": "8dabbb19",
+                    "commits": 1
+                },
                 {
                     "blob": "86d6f367fe01c3d369bcb887588216cf257cb436",
                     "commit": "6f0613fa2b3a7fa61d5fcfd52c3de94d0ae109fd",
@@ -50028,7 +51078,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
