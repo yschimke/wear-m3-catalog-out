@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T18:37:45.689Z",
+  "generatedAt": "2026-10-02T23:52:25.021Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "b7a94b920327cad145d8fee00261b61f6c6e5c2b",
+        "subject": "feat(ui-builder): theme colour roles on the Wear screen scaffold, and Google Fonts on the native lane (#690)",
+        "at": "2026-10-03T00:45:57+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c14ded84fc2ce5f0c52c8b595335582ffbef16ee",
         "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.32.1 (#688)",
@@ -474,14 +482,6 @@
         "sha": "0229ec65f611f2ec16e32323543a605dc8f737bd",
         "subject": "fix(remote): publish the port as cmp04 so the renderer gets encodePng (#621)",
         "at": "2026-09-25T08:20:24+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4868965ec1531f3c7e7ce98661b7e546ea81dc7e",
-        "subject": "fix(remote-m3): play real widget designs in the device previews (#620)",
-        "at": "2026-09-25T07:52:31+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
