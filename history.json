@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "49c8ba13c85f4a0e5a32dca5b24c592920343545",
+    "generatedFrom": "506b4b85f029b0097398c5f382e9f1dcf26fdefd",
     "previews": {
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ButtonsKt.ButtonRowGroup": {
             "path": "renders/catalog-desktop/ButtonRowGroup-91cd010c.png",
@@ -9534,6 +9534,13 @@
             "path": "renders/catalog-desktop/WearList_192dp-97261d54_SCROLL_long.png",
             "versions": [
                 {
+                    "blob": "4f3e6b6779963ea8930e6f812f130d5d98ef54fe",
+                    "commit": "506b4b85f029b0097398c5f382e9f1dcf26fdefd",
+                    "date": "2026-10-02T18:40:36Z",
+                    "sourceSha": "c14ded84",
+                    "commits": 1
+                },
+                {
                     "blob": "71c83049824bb070ef6b015800ae377768a76c4a",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
                     "date": "2026-09-11T14:27:21Z",
@@ -9541,7 +9548,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -9564,6 +9571,13 @@
             "path": "renders/catalog-desktop/WearList_204dp-9f455324_SCROLL_long.png",
             "versions": [
                 {
+                    "blob": "ef88010d0aad3a6640ead895e37e9e86e0530d0a",
+                    "commit": "506b4b85f029b0097398c5f382e9f1dcf26fdefd",
+                    "date": "2026-10-02T18:40:36Z",
+                    "sourceSha": "c14ded84",
+                    "commits": 1
+                },
+                {
                     "blob": "56877b5d8b388b9837058da45b16281c2cd97762",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
                     "date": "2026-09-11T14:27:21Z",
@@ -9571,7 +9585,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -9594,6 +9608,13 @@
             "path": "renders/catalog-desktop/WearList_216dp-1852125b_SCROLL_long.png",
             "versions": [
                 {
+                    "blob": "6650d3c9e64c6b6d16d87b0de4d4afc800e8596d",
+                    "commit": "506b4b85f029b0097398c5f382e9f1dcf26fdefd",
+                    "date": "2026-10-02T18:40:36Z",
+                    "sourceSha": "c14ded84",
+                    "commits": 1
+                },
+                {
                     "blob": "26c186136a63d37b424449fe4d4fa3721a0a1602",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
                     "date": "2026-09-11T14:27:21Z",
@@ -9601,7 +9622,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -9624,6 +9645,13 @@
             "path": "renders/catalog-desktop/WearList_225dp-3f97ce9d_SCROLL_long.png",
             "versions": [
                 {
+                    "blob": "2645a4555dfd989e420e9bc28f4398c38ba92946",
+                    "commit": "506b4b85f029b0097398c5f382e9f1dcf26fdefd",
+                    "date": "2026-10-02T18:40:36Z",
+                    "sourceSha": "c14ded84",
+                    "commits": 1
+                },
+                {
                     "blob": "8053fdff7e1bca084fa0599dfb60c30fab167018",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
                     "date": "2026-09-11T14:27:21Z",
@@ -9631,7 +9659,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -9654,6 +9682,13 @@
             "path": "renders/catalog-desktop/WearList_240dp-f9526f40_SCROLL_long.png",
             "versions": [
                 {
+                    "blob": "ff4ca948e3a2161ebe3a55a850b7dbd747e4e85d",
+                    "commit": "506b4b85f029b0097398c5f382e9f1dcf26fdefd",
+                    "date": "2026-10-02T18:40:36Z",
+                    "sourceSha": "c14ded84",
+                    "commits": 1
+                },
+                {
                     "blob": "c9e9f8fa7de03da26f8f2a3a29c444455eff255d",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
                     "date": "2026-09-11T14:27:21Z",
@@ -9661,7 +9696,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
