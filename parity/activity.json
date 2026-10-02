@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T10:21:08.720Z",
+  "generatedAt": "2026-10-02T11:18:20.643Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "3e504ad1525e5e5739d2b12e910ff640e49820cf",
+        "subject": "fix(deps): update compose-preview-daemon-annotations to v3.12.0 (#679)",
+        "at": "2026-10-02T11:11:34Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "523f70846bb304dc01aa51a8e26497aebdc70d82",
         "subject": "refactor: move the remote-m3 sheet to yschimke/remote-m3-catalog (#675)",
@@ -474,14 +482,6 @@
         "sha": "573935e055be32666682733220766a5361bd25b2",
         "subject": "chore(remote): use the released CapturingWearWidgetPreview (#613)",
         "at": "2026-09-24T22:39:05+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "698f06cfadc8e0574cda4a522977b9c265014b5d",
-        "subject": "test: fix the CMP Android trial harness; pin rc-player-compose 1.74.0 (#610)",
-        "at": "2026-09-24T21:20:49+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
