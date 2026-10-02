@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T11:24:35.495Z",
+  "generatedAt": "2026-10-02T18:24:54.531Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "d8660b37cbf340d2f2f31d57382db3541ae62874",
+        "subject": "feat(ui-builder): theme typefaces on the Wear screen scaffold (#687)",
+        "at": "2026-10-02T19:18:36+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6a6718b37a1dd30c5a33e4f5543158f7903edeaa",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.32.1 (#686)",
+        "at": "2026-10-02T16:49:25Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1387537d4928d59a29a95166044aedaa088420d4",
+        "subject": "docs: branch UI-builder variants instead of forking; note wear-m3 has no typeface control (#685)",
+        "at": "2026-10-02T17:42:18+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "2eb633b9171a74c3f589c73df6915327575c38d8",
         "subject": "chore(deps): update compose-ai-tools to v2.32.0 (#678)",
@@ -459,30 +483,6 @@
         "subject": "fix(remote): key the adapter's path cache on raw float bits (#619)",
         "at": "2026-09-25T06:44:07+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bd7c81e5635d6d1d2f8aaba4b74976cf35855616",
-        "subject": "fix(remote): reset paint at every layout content start in the vendored writers (#615)",
-        "at": "2026-09-24T23:58:00+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "aa5adf6bd040cf43d2d14ffa2411b2b1eaf97168",
-        "subject": "chore(deps): bump the compose-preview plugin to 2.23.0 (#614)",
-        "at": "2026-09-24T22:46:50+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "469e6079acbb1c5f5ece63f882ca79a6fb83a979",
-        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.23.0 (#612)",
-        "at": "2026-09-24T22:39:32+01:00",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
