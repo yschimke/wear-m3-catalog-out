@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-03T08:43:28.767Z",
+  "generatedAt": "2026-10-03T08:59:54.350Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "8e718732d6f1d736d00560fe751b51eedf72bff0",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.76.0 (#695)",
+        "at": "2026-10-03T08:46:41Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5858ee7a499165e1eb164cc03cb1b86162a67932",
+        "subject": "feat(ui-builder): configurable default text style on the Wear screen scaffold (#692)",
+        "at": "2026-10-03T09:31:49+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d06f0fe9ab741b43c886d550c2f8eb838b3638e4",
         "subject": "fix(deps): resolve compose-preview modules through their BOMs (#693)",
@@ -466,22 +482,6 @@
         "sha": "d971c236c20b63f4a0408019a8e89e7bb6b076b1",
         "subject": "fix(remote-m3): a widget's background picture and scrim fill the host frame (#625)",
         "at": "2026-09-25T13:19:45+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ad15071cb58cd71252025cedf6179caade231d30",
-        "subject": "feat(remote-m3): draw fit box, flow row, collapsibles, state layout and shared elements in the builder runtime (#624)",
-        "at": "2026-09-25T12:02:47+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b929388d723833f7d5eecbd4bbc64f980e1a6609",
-        "subject": "test(ui-builder): compile and render the upstream Wear sample designs (#622)",
-        "at": "2026-09-25T10:45:50+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
