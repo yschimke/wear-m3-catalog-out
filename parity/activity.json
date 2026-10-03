@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T23:52:25.021Z",
+  "generatedAt": "2026-10-03T08:43:28.767Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "d06f0fe9ab741b43c886d550c2f8eb838b3638e4",
+        "subject": "fix(deps): resolve compose-preview modules through their BOMs (#693)",
+        "at": "2026-10-03T09:27:27+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3b25c995e654c0f3790c0be4e368fc3c9288ef40",
+        "subject": "feat(ui-builder): offer Wear's own type roles on wear-m3/text (#691)",
+        "at": "2026-10-03T09:01:52+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b7a94b920327cad145d8fee00261b61f6c6e5c2b",
         "subject": "feat(ui-builder): theme colour roles on the Wear screen scaffold, and Google Fonts on the native lane (#690)",
@@ -466,22 +482,6 @@
         "sha": "b929388d723833f7d5eecbd4bbc64f980e1a6609",
         "subject": "test(ui-builder): compile and render the upstream Wear sample designs (#622)",
         "at": "2026-09-25T10:45:50+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4a7e7e54059c9323fbb39f01838ce25887b5ac0b",
-        "subject": "fix(remote): the widget frame's padding and corner radius come from the host (#623)",
-        "at": "2026-09-25T09:48:56+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0229ec65f611f2ec16e32323543a605dc8f737bd",
-        "subject": "fix(remote): publish the port as cmp04 so the renderer gets encodePng (#621)",
-        "at": "2026-09-25T08:20:24+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
