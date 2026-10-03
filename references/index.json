@@ -19775,36 +19775,6 @@
       }
     },
     {
-      "id": "icontogglebutton__ideal__small",
-      "previewId": "icontogglebutton__ideal__small",
-      "label": "IconToggleButton — figma",
-      "tier": "secondary",
-      "slot": {
-        "size": "small"
-      },
-      "raster": {
-        "path": "references/icontogglebutton__ideal__small.png",
-        "width": 96,
-        "height": 96,
-        "density": 2,
-        "sha256": "ee95ce719d7349809f5b3b2567cfa63f5bbc8b49d0903afcc0cd9dc1b9f9ee35"
-      },
-      "source": {
-        "provider": "figma",
-        "attributes": {
-          "code": "catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/ToggleButtons.kt#IconToggle",
-          "preview": "IconToggle",
-          "componentId": "IconToggleButton"
-        },
-        "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:686"
-      },
-      "match": {
-        "percent": 98.23,
-        "changedPercent": 3.96,
-        "scoreVersion": 3
-      }
-    },
-    {
       "id": "texttogglebutton__ideal__default",
       "previewId": "texttogglebutton__ideal__default",
       "label": "TextToggleButton — figma",
