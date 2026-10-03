@@ -13596,7 +13596,7 @@
     "functionName": "AnimatedTextMotion",
     "module": "catalog",
     "renderBasename": "AnimatedTextMotion-1b6b716a.gif",
-    "sha256": "cc7036f427d1e94a8bf1aef7aa0ac376901dd31570e47873b336c5223667c6a7",
+    "sha256": "11590c674b84a5b61d30c91bd0191c88d62b83a3dcc17ee6b230556f109d39b8",
     "sourceFile": "src/androidMain/kotlin/ee/schimke/wearm3catalog/sections/Motion.kt"
   },
   "catalog/ee.schimke.wearm3catalog.sections.MotionKt.ButtonGroupExpansionMotion": {
@@ -13620,7 +13620,7 @@
     "functionName": "EdgeButtonRevealMotion",
     "module": "catalog",
     "renderBasename": "EdgeButtonRevealMotion-ca40423c.gif",
-    "sha256": "4d5cbaadb4dcb5c4d4902d4eecd2816758a0f67ddf3e0139ed9704efff464201",
+    "sha256": "7746efa60eeb0f368e43bd876df70af24628f4792dfa51933969efc9894e67be",
     "sourceFile": "src/androidMain/kotlin/ee/schimke/wearm3catalog/sections/Motion.kt"
   },
   "catalog/ee.schimke.wearm3catalog.sections.MotionKt.FadingExpandingLabelMotion": {
@@ -13628,7 +13628,7 @@
     "functionName": "FadingExpandingLabelMotion",
     "module": "catalog",
     "renderBasename": "FadingExpandingLabelMotion-a18cf02e.gif",
-    "sha256": "5d52e6d2e7cba1cda3d791bc02fbd1b2f2b280c3b8f1a928b9e1157c7e8df2fe",
+    "sha256": "f7d9fe7b1ee2e7cb38568a17c19ca84c3eb221585e2c870b3d10e9d77e8b4447",
     "sourceFile": "src/androidMain/kotlin/ee/schimke/wearm3catalog/sections/Motion.kt"
   },
   "catalog/ee.schimke.wearm3catalog.sections.MotionKt.GestureHintMotion": {
@@ -13660,7 +13660,7 @@
     "functionName": "IndeterminateProgressMotion",
     "module": "catalog",
     "renderBasename": "IndeterminateProgressMotion-712acc69.gif",
-    "sha256": "0f799d95be97469e3f615018a0c798bea1b20b94a5f365cbab091c2526d605b2",
+    "sha256": "22fa0f8800d79c519463aaa48521acf6283b72f2fece092f2b59a81045565dd8",
     "sourceFile": "src/androidMain/kotlin/ee/schimke/wearm3catalog/sections/Motion.kt"
   },
   "catalog/ee.schimke.wearm3catalog.sections.MotionKt.MediaTransportMotion": {
@@ -13684,7 +13684,7 @@
     "functionName": "PagerTransitionMotion",
     "module": "catalog",
     "renderBasename": "PagerTransitionMotion-52210bbc.gif",
-    "sha256": "0504265b047c0afc7fa7f7052637fadb4116af208544148b7c72d1665465aa78",
+    "sha256": "be003608bc228132e52ec946f4d15a4ad6c18d1026e687cb983d551d3ba93a93",
     "sourceFile": "src/androidMain/kotlin/ee/schimke/wearm3catalog/sections/Motion.kt"
   },
   "catalog/ee.schimke.wearm3catalog.sections.MotionKt.PlaceholderButtonMotion": {
@@ -13716,7 +13716,7 @@
     "functionName": "SwipeToRevealMotion",
     "module": "catalog",
     "renderBasename": "SwipeToRevealMotion-671dbb6d.gif",
-    "sha256": "1741d1266d2961926d98d14545df3af849175e91972601cfe67078d55b100a2f",
+    "sha256": "490edc73623f8c14106618dc200156e1a62eddc2f25499d30f4c5c8a574c2fd8",
     "sourceFile": "src/androidMain/kotlin/ee/schimke/wearm3catalog/sections/Motion.kt"
   },
   "catalog/ee.schimke.wearm3catalog.sections.MotionKt.SwitchTransitionMotion": {
@@ -13756,7 +13756,7 @@
     "functionName": "VerticalPagerTransitionMotion",
     "module": "catalog",
     "renderBasename": "VerticalPagerTransitionMotion-6b8ee6e6.gif",
-    "sha256": "f2963ad6eeca0bbf8109b06e6cbd182f0c0e42010c23a46ba0b49810df618671",
+    "sha256": "41e917828a3a3bf8d550744da9d0d9ac8117e9ec827244d9657e124b8463f110",
     "sourceFile": "src/androidMain/kotlin/ee/schimke/wearm3catalog/sections/Motion.kt"
   },
   "catalog/ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureClickIndicator": {
