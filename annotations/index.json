@@ -56458,6 +56458,46 @@
         }
       }
     ],
+    "icontogglebutton__ideal__small": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 96,
+          "height": 96
+        },
+        "label": "pad 12px · gap 8px · r 200px",
+        "detail": {
+          "padding.start": "12",
+          "padding.top": "12",
+          "padding.end": "12",
+          "padding.bottom": "12",
+          "gap": "8",
+          "cornerRadius": "200",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 24,
+          "y": 24,
+          "width": 48,
+          "height": 48
+        },
+        "label": "≈pad 5px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "5",
+          "padding.top": "5",
+          "padding.end": "5",
+          "padding.bottom": "5",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      }
+    ],
     "texttogglebutton__ideal__default": [
       {
         "kind": "layout",
