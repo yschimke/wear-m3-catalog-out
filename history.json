@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "506b4b85f029b0097398c5f382e9f1dcf26fdefd",
+    "generatedFrom": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
     "previews": {
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ButtonsKt.ButtonRowGroup": {
             "path": "renders/catalog-desktop/ButtonRowGroup-91cd010c.png",
@@ -28711,6 +28711,13 @@
             "path": "renders/catalog/AnimatedTextMotion-1b6b716a.gif",
             "versions": [
                 {
+                    "blob": "e3f8fd9e7bccb41b3bb02497483c0605230fa86f",
+                    "commit": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
+                    "date": "2026-10-03T11:11:22Z",
+                    "sourceSha": "5138c85c",
+                    "commits": 1
+                },
+                {
                     "blob": "14df5affd871c220581d284311a6a06fd6cd1d7a",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
                     "date": "2026-09-11T14:51:53Z",
@@ -28718,7 +28725,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -28756,6 +28763,13 @@
             "path": "renders/catalog/EdgeButtonRevealMotion-ca40423c.gif",
             "versions": [
                 {
+                    "blob": "e7ad5bf43897fa0b9cea050a4d53eb8701d37dfb",
+                    "commit": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
+                    "date": "2026-10-03T11:11:22Z",
+                    "sourceSha": "5138c85c",
+                    "commits": 1
+                },
+                {
                     "blob": "f24c5030fdf5718c1aa4d9d21032a6ac072005e9",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
                     "date": "2026-09-11T14:51:53Z",
@@ -28763,13 +28777,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.MotionKt.FadingExpandingLabelMotion": {
             "path": "renders/catalog/FadingExpandingLabelMotion-a18cf02e.gif",
             "versions": [
+                {
+                    "blob": "fb0880d432177f1df92f4ee6c51e58c5e6507bcf",
+                    "commit": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
+                    "date": "2026-10-03T11:11:22Z",
+                    "sourceSha": "5138c85c",
+                    "commits": 1
+                },
                 {
                     "blob": "a16712004f45af07292c93428da89f9235fe9fc4",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -28778,13 +28799,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.MotionKt.GestureHintMotion": {
             "path": "renders/catalog/GestureHintMotion-c32095d5.gif",
             "versions": [
+                {
+                    "blob": "532ce28def33cf0442d7d25af51f12cb9598810a",
+                    "commit": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
+                    "date": "2026-10-03T11:11:22Z",
+                    "sourceSha": "5138c85c",
+                    "commits": 1
+                },
                 {
                     "blob": "5fa33f78de0355bcb7341ba24e7fed8a0a4ceb59",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -28793,13 +28821,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.MotionKt.GesturePageHintMotion": {
             "path": "renders/catalog/GesturePageHintMotion-85862716.gif",
             "versions": [
+                {
+                    "blob": "2b329f34385128a54eea6d75c8b0dd4bfdc22c29",
+                    "commit": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
+                    "date": "2026-10-03T11:11:22Z",
+                    "sourceSha": "5138c85c",
+                    "commits": 1
+                },
                 {
                     "blob": "42881f9066a5e130bcb432b2f0e3efb6e7bb37a9",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -28808,13 +28843,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.MotionKt.GestureScrollHintMotion": {
             "path": "renders/catalog/GestureScrollHintMotion-23e92e79.gif",
             "versions": [
+                {
+                    "blob": "1d49389e0a96dce61af7858b69f3d8702783f9a9",
+                    "commit": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
+                    "date": "2026-10-03T11:11:22Z",
+                    "sourceSha": "5138c85c",
+                    "commits": 1
+                },
                 {
                     "blob": "fe7cd6c9f26bafa33842147c9d06f009cf6dad78",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -28823,13 +28865,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.MotionKt.IndeterminateProgressMotion": {
             "path": "renders/catalog/IndeterminateProgressMotion-712acc69.gif",
             "versions": [
+                {
+                    "blob": "cd50abe1dcb1476559225a1ca57d7f0aa3622899",
+                    "commit": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
+                    "date": "2026-10-03T11:11:22Z",
+                    "sourceSha": "5138c85c",
+                    "commits": 1
+                },
                 {
                     "blob": "55f8c7490beb1d8eace1464793d85df2aaa97ce6",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -28838,7 +28887,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -28876,6 +28925,13 @@
             "path": "renders/catalog/PagerTransitionMotion-52210bbc.gif",
             "versions": [
                 {
+                    "blob": "e4c54dfe65d1e27176250e305d28f3a3c76bbe72",
+                    "commit": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
+                    "date": "2026-10-03T11:11:22Z",
+                    "sourceSha": "5138c85c",
+                    "commits": 1
+                },
+                {
                     "blob": "b9a98d94e1d7d54d146f9425fd447c19fc6d1695",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
                     "date": "2026-09-11T14:51:53Z",
@@ -28883,13 +28939,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.MotionKt.PlaceholderButtonMotion": {
             "path": "renders/catalog/PlaceholderButtonMotion-b9022d06.gif",
             "versions": [
+                {
+                    "blob": "5ed7f15d8c0f8889e96df06ba9885d58d86d8991",
+                    "commit": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
+                    "date": "2026-10-03T11:11:22Z",
+                    "sourceSha": "5138c85c",
+                    "commits": 1
+                },
                 {
                     "blob": "2c289374ca01045543f65882de842d73feeb9cc7",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -28898,13 +28961,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.MotionKt.PlaceholderCardMotion": {
             "path": "renders/catalog/PlaceholderCardMotion-0edbd3c1.gif",
             "versions": [
+                {
+                    "blob": "a22f3b2227fa2a1d27f8e7a27868d1eb0d11cb9a",
+                    "commit": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
+                    "date": "2026-10-03T11:11:22Z",
+                    "sourceSha": "5138c85c",
+                    "commits": 1
+                },
                 {
                     "blob": "4995e55332a36ef2428538dae3933f89a363ae53",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -28913,13 +28983,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.MotionKt.PlaceholderIconButtonMotion": {
             "path": "renders/catalog/PlaceholderIconButtonMotion-f1d3922c.gif",
             "versions": [
+                {
+                    "blob": "ef0d8baf80cf2ebf3ab7ea64c507f71024eda32d",
+                    "commit": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
+                    "date": "2026-10-03T11:11:22Z",
+                    "sourceSha": "5138c85c",
+                    "commits": 1
+                },
                 {
                     "blob": "bca102f58141c34e2626ac7d19be97876c9220f4",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -28928,13 +29005,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.wearm3catalog.sections.MotionKt.SwipeToRevealMotion": {
             "path": "renders/catalog/SwipeToRevealMotion-671dbb6d.gif",
             "versions": [
+                {
+                    "blob": "e3cc8c8bbd07656b0d8c8aec469213e03a58aadd",
+                    "commit": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
+                    "date": "2026-10-03T11:11:22Z",
+                    "sourceSha": "5138c85c",
+                    "commits": 1
+                },
                 {
                     "blob": "de23d05edef776f80e03ba7df8ce1c383444f1b0",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
@@ -28943,7 +29027,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -29011,6 +29095,13 @@
             "path": "renders/catalog/VerticalPagerTransitionMotion-6b8ee6e6.gif",
             "versions": [
                 {
+                    "blob": "732e4f7f0e543d047233ea5171a8c88d2df07d87",
+                    "commit": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
+                    "date": "2026-10-03T11:11:22Z",
+                    "sourceSha": "5138c85c",
+                    "commits": 1
+                },
+                {
                     "blob": "1b7030a14940779c25430ab2e6b1c29f101715f7",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
                     "date": "2026-09-11T14:51:53Z",
@@ -29018,7 +29109,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
