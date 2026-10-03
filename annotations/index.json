@@ -34537,6 +34537,301 @@
         }
       }
     ],
+    "pageindicator-vertical__ideal__six-pages-end__192dp": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 384,
+          "height": 384
+        },
+        "label": "gap 30px · r 200px",
+        "detail": {
+          "gap": "30",
+          "cornerRadius": "200",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 384,
+          "height": 384
+        },
+        "label": "pad 2px",
+        "role": "Container",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 384,
+          "height": 384
+        },
+        "label": "pad 5px · r 200px",
+        "role": ".Base / Page-Indicator-Full",
+        "detail": {
+          "padding.start": "5",
+          "padding.top": "5",
+          "padding.end": "5",
+          "padding.bottom": "5",
+          "cornerRadius": "200",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 352,
+          "y": 10,
+          "width": 22,
+          "height": 364
+        },
+        "label": "≈pad 58px/0px",
+        "role": "Segments",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "58",
+          "padding.end": "0",
+          "padding.bottom": "58",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 352,
+          "y": 236,
+          "width": 22,
+          "height": 22
+        },
+        "label": "gap 8px",
+        "role": "01",
+        "detail": {
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 352,
+          "y": 234,
+          "width": 18,
+          "height": 24
+        },
+        "label": "pad e 2px s 2px",
+        "role": ".Base / Page-Indicator-Dots",
+        "detail": {
+          "padding.start": "2",
+          "padding.end": "2",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 352,
+          "y": 148,
+          "width": 22,
+          "height": 86
+        },
+        "label": "gap 0.3px",
+        "role": "Middle",
+        "detail": {
+          "gap": "0.3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 352,
+          "y": 214,
+          "width": 22,
+          "height": 22
+        },
+        "label": "pad b 0.6px · gap 8px",
+        "role": "02",
+        "detail": {
+          "padding.bottom": "0.6",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 358,
+          "y": 212,
+          "width": 16,
+          "height": 24
+        },
+        "label": "pad e 2px s 2px",
+        "role": ".Base / Page-Indicator-Dots",
+        "detail": {
+          "padding.start": "2",
+          "padding.end": "2",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 352,
+          "y": 192,
+          "width": 22,
+          "height": 20
+        },
+        "label": "gap 8px",
+        "role": "03",
+        "detail": {
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 362,
+          "y": 192,
+          "width": 12,
+          "height": 22
+        },
+        "label": "pad e 2px s 2px",
+        "role": ".Base / Page-Indicator-Dots",
+        "detail": {
+          "padding.start": "2",
+          "padding.end": "2",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 352,
+          "y": 172,
+          "width": 22,
+          "height": 20
+        },
+        "label": "gap 8px",
+        "role": "04",
+        "detail": {
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 362,
+          "y": 170,
+          "width": 12,
+          "height": 22
+        },
+        "label": "pad e 2px s 2px",
+        "role": ".Base / Page-Indicator-Dots",
+        "detail": {
+          "padding.start": "2",
+          "padding.end": "2",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 352,
+          "y": 148,
+          "width": 22,
+          "height": 22
+        },
+        "label": "pad b 0.6px · gap 8px",
+        "role": "05",
+        "detail": {
+          "padding.bottom": "0.6",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 358,
+          "y": 148,
+          "width": 16,
+          "height": 24
+        },
+        "label": "pad e 2px s 2px",
+        "role": ".Base / Page-Indicator-Dots",
+        "detail": {
+          "padding.start": "2",
+          "padding.end": "2",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 352,
+          "y": 126,
+          "width": 22,
+          "height": 22
+        },
+        "label": "gap 8px",
+        "role": "06",
+        "detail": {
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 352,
+          "y": 126,
+          "width": 18,
+          "height": 24
+        },
+        "label": "pad e 2px s 2px",
+        "role": ".Base / Page-Indicator-Dots",
+        "detail": {
+          "padding.start": "2",
+          "padding.end": "2",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 352,
+          "y": 130,
+          "width": 14,
+          "height": 14
+        },
+        "label": "≈pad 1px",
+        "role": "Dot",
+        "detail": {
+          "padding.start": "1",
+          "padding.top": "1",
+          "padding.end": "1",
+          "padding.bottom": "1",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      }
+    ],
     "pageindicator-vertical__ideal__six-pages-middle__192dp": [
       {
         "kind": "layout",

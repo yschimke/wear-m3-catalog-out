@@ -10212,6 +10212,36 @@
       }
     },
     {
+      "id": "pageindicator-vertical__ideal__six-pages-end__192dp",
+      "previewId": "pageindicator-vertical__ideal__six-pages-end__192dp",
+      "label": "PageIndicator/Vertical — figma",
+      "tier": "secondary",
+      "slot": {
+        "state": "six-pages-end"
+      },
+      "raster": {
+        "path": "references/pageindicator-vertical__ideal__six-pages-end__192dp.png",
+        "width": 384,
+        "height": 384,
+        "density": 2,
+        "sha256": "b19f4d896b10d8efbcfaadae0a6b016173dadc0a282a3de038374ec72a9bc4f2"
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/Indicators.kt#VerticalPages",
+          "preview": "VerticalPages",
+          "componentId": "PageIndicator/Vertical"
+        },
+        "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:426"
+      },
+      "match": {
+        "percent": 95.89,
+        "changedPercent": 0.69,
+        "scoreVersion": 3
+      }
+    },
+    {
       "id": "pageindicator-vertical__ideal__six-pages-middle__192dp",
       "previewId": "pageindicator-vertical__ideal__six-pages-middle__192dp",
       "label": "PageIndicator/Vertical — figma",
