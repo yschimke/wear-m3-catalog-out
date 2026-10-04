@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-03T16:27:55.270Z",
+  "generatedAt": "2026-10-04T10:01:13.172Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "47664dc9021730825e008908681cf2523c33bdad",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.81.0 (#705)",
+        "at": "2026-10-04T09:55:39Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "aaeb9bbf41da65dd14085f8e8c885fbed3e66c47",
+        "subject": "fix(ui-builder): pad the unrolled list's ends as the device list does (#703)",
+        "at": "2026-10-03T20:22:57+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b2d169cee2d65c077cc7baca37c765cc3a0eb11d",
+        "subject": "fix(ui-builder): draw a screen's EdgeButton, fully expanded, on the unrolled extent (#702)",
+        "at": "2026-10-03T18:36:30+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "adac4c82fe0ff7e53c141348a0db76d70c57d208",
         "subject": "fix(deps): build the UI builder runtime from compose-ui-builder 3.80.0 (#701)",
@@ -459,30 +483,6 @@
         "subject": "fix(ui-builder): declare the Wear builder vocabulary so wear-m3 designs create (#634)",
         "at": "2026-09-27T20:33:02+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bd68cc6ad8cb3e36c0e5e94e0fe437b7cef54329",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.64.0 (#633)",
-        "at": "2026-09-27T02:38:16Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d3a9fab34ae454c1b354e1d4d262bbf75a721f5f",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.63.0 (#630)",
-        "at": "2026-09-26T22:26:57+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c283d882689da3785b0d962e2489e06a9577a2f8",
-        "subject": "fix(deps): update compose-ai-tools (#616)",
-        "at": "2026-09-26T22:26:28+01:00",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
