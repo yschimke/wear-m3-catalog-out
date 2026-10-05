@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-04T10:01:13.172Z",
+  "generatedAt": "2026-10-05T02:15:45.206Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "c5db7b101ae122712e2b9736f267f561248b7c3c",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.82.0 (#708)",
+        "at": "2026-10-05T02:09:31Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "bfb384d5aee9d9630d6e64bc6b5dcc71058159a9",
+        "subject": "chore(deps): update gradle/actions action to v6.4.0 (#707)",
+        "at": "2026-10-05T02:08:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5a8489cb2bb9432b725f04b84d1a40c93ed58baa",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.34.0 (#704)",
+        "at": "2026-10-04T09:56:16Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "47664dc9021730825e008908681cf2523c33bdad",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.81.0 (#705)",
@@ -458,30 +482,6 @@
         "sha": "681eefcaa4b0cacb8c751cfb9148f799a3c10c15",
         "subject": "fix(ui-builder): publish the rest of the Wear builder vocabulary (#640)",
         "at": "2026-09-27T21:08:46+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d74b61d343b2088725d9a7cd7813440bda36024f",
-        "subject": "fix(deps): update compose-ai-tools (#635)",
-        "at": "2026-09-27T19:47:36Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1c67faefb26caf7b491f74ed6a0fa01e7e20a8c4",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.66.0 (#636)",
-        "at": "2026-09-27T19:44:49Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "79e577d196e21b6bc5d9479c3c8eaaf0895d2256",
-        "subject": "fix(ui-builder): declare the Wear builder vocabulary so wear-m3 designs create (#634)",
-        "at": "2026-09-27T20:33:02+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
