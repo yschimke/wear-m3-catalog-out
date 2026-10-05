@@ -127771,7 +127771,7 @@
     "androidx.wear.compose:compose-material3"
   ],
   "renderer": "compose-preview 2.32.4",
-  "generatedAt": "2026-10-05T10:59:37.323Z",
+  "generatedAt": "2026-10-05T14:23:12.751Z",
   "display": {
     "surface": "dark",
     "hero": "Media/PlayerScreen"
