@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-05T14:00:26.842Z",
+  "generatedAt": "2026-10-06T07:35:05.604Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "3a2e7f87c96f7d2d7c4a5cf168913721526feaaf",
+        "subject": "fix: align Wear catalog runtimes through latest release BOMs",
+        "at": "2026-10-06T08:26:23+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "89f415cd363f51bf74206c3bde311f2784c5486b",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.83.0 (#709)",
@@ -475,14 +483,6 @@
         "subject": "fix(catalog): run the host tests CI skipped, and bring them back to green (#642)",
         "at": "2026-09-27T21:44:46+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bce5dd92c443f7263628b80663991f8513aae513",
-        "subject": "fix(deps): update compose-ai-tools to v2.28.3 (#641)",
-        "at": "2026-09-27T20:19:19Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
