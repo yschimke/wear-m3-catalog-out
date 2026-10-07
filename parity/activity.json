@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-07T19:35:35.333Z",
+  "generatedAt": "2026-10-07T20:26:36.104Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "128d5a89e37b3dff01430f4acfe8e5f7f701b8b8",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.20.0 (#717)",
+        "at": "2026-10-07T20:06:28Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5519aea53200be71ce2c16c98d1a42591e3252aa",
+        "subject": "chore: drop setup-repo-protection.sh for the shared repo policy (#715)",
+        "at": "2026-10-07T20:54:20+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4f91cebb10c670af8b51575238e17af828b11fa4",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.14.1 (#716)",
@@ -467,22 +483,6 @@
         "subject": "fix(ui-builder): play remote icons in the device preview, and build runtimes from UI builder 3.67.0 (#649)",
         "at": "2026-09-28T11:54:48+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f32e64634be4a27af48948c2541ff31807d275f0",
-        "subject": "chore(deps): pin dependencies (#643)",
-        "at": "2026-09-28T02:12:00Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c3c328ac06571eb98358e203177194780aec6ea1",
-        "subject": "fix(deps): update compose-multiplatform to v1.12.1 (#646)",
-        "at": "2026-09-28T02:08:41Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
