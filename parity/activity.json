@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-07T12:20:33.948Z",
+  "generatedAt": "2026-10-07T19:35:35.333Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "4f91cebb10c670af8b51575238e17af828b11fa4",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.14.1 (#716)",
+        "at": "2026-10-07T19:28:59Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e5a0e619f3feb049bc97c378537af39593f4984e",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.89.0 (#710)",
@@ -474,14 +482,6 @@
         "sha": "c3c328ac06571eb98358e203177194780aec6ea1",
         "subject": "fix(deps): update compose-multiplatform to v1.12.1 (#646)",
         "at": "2026-09-28T02:08:41Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "964491bc80bc19544924f027624486a5e6bf7737",
-        "subject": "fix(deps): update androidx (#644)",
-        "at": "2026-09-28T02:07:42Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
