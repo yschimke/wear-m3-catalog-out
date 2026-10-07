@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-06T07:35:05.604Z",
+  "generatedAt": "2026-10-07T12:10:48.100Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "54eb5bb0f70e9e3091c411233ff442985cca8b73",
+        "subject": "feat: wear-m3/text draws font variation settings and font features (#713)",
+        "at": "2026-10-07T13:04:22+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "3a2e7f87c96f7d2d7c4a5cf168913721526feaaf",
         "subject": "fix: align Wear catalog runtimes through latest release BOMs",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.11.0 (#647)",
         "at": "2026-09-28T02:07:00Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "738970c0bd23aae2793ed8ebab4af3f39cc80f8f",
-        "subject": "fix(catalog): run the host tests CI skipped, and bring them back to green (#642)",
-        "at": "2026-09-27T21:44:46+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
