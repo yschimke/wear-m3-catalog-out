@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-07T20:26:36.104Z",
+  "generatedAt": "2026-10-07T20:34:05.075Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "1cc5ea19df9f1a8a396aba317993e233031c9c87",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.91.0 (#718)",
+        "at": "2026-10-07T20:06:33Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "128d5a89e37b3dff01430f4acfe8e5f7f701b8b8",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.20.0 (#717)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.67.0 (#651)",
         "at": "2026-09-28T11:06:06Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "51b3009e8aebf55282e7f6dbd40dd87b6d06886c",
-        "subject": "fix(ui-builder): play remote icons in the device preview, and build runtimes from UI builder 3.67.0 (#649)",
-        "at": "2026-09-28T11:54:48+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
