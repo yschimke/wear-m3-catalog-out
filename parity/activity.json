@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-07T20:34:05.075Z",
+  "generatedAt": "2026-10-07T22:56:00.064Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "81660a1d7d89dac75cd10bd46bb5371863fbc2f7",
+        "subject": "chore(deps): update compose-ai-tools to v2.35.1 (#722)",
+        "at": "2026-10-07T22:39:13Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5bb220042271659909994af4be1362d39ffbb077",
+        "subject": "ci: add the Conventional Commit title check (#719)",
+        "at": "2026-10-07T21:57:47+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "1cc5ea19df9f1a8a396aba317993e233031c9c87",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.91.0 (#718)",
@@ -467,22 +483,6 @@
         "subject": "fix(ci): repair preview publish, component-map refresh and the compose-preview-daemon ref split (#654)",
         "at": "2026-09-30T06:47:15+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "589fc1b891865bceae97ec21a642a6d0ac138601",
-        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.28.4 (#650)",
-        "at": "2026-09-28T11:08:40Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "824d8c440ca0947592dfb1fcc0fcedafb490479b",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.67.0 (#651)",
-        "at": "2026-09-28T11:06:06Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
