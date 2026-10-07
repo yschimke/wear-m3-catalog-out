@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-07T12:10:48.100Z",
+  "generatedAt": "2026-10-07T12:20:33.948Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "e5a0e619f3feb049bc97c378537af39593f4984e",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.89.0 (#710)",
+        "at": "2026-10-07T12:15:07Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "54eb5bb0f70e9e3091c411233ff442985cca8b73",
         "subject": "feat: wear-m3/text draws font variation settings and font features (#713)",
@@ -474,14 +482,6 @@
         "sha": "964491bc80bc19544924f027624486a5e6bf7737",
         "subject": "fix(deps): update androidx (#644)",
         "at": "2026-09-28T02:07:42Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d369556c3efcc95d1e520453737003443cb6216a",
-        "subject": "fix(deps): update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.11.0 (#647)",
-        "at": "2026-09-28T02:07:00Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
