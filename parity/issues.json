@@ -1,6 +1,6 @@
 {
   "schema": "compose-preview-issues/v1",
-  "generatedAt": "2026-10-07T07:45:56.529Z",
+  "generatedAt": "2026-10-07T07:46:14.341Z",
   "issues": [
     {
       "repository": "yschimke/wear-m3-catalog",
@@ -995,7 +995,7 @@
     {
       "repository": "yschimke/wear-m3-catalog",
       "number": 304,
-      "title": "Upstream: `RemoteTitleCard` lets the `content` slot decide its `time` slot — moved above the title without `content`, dropped entirely under `RemoteDensity.Host`",
+      "title": "Upstream: `RemoteTitleCard` drops its `time` slot under `RemoteDensity.Host` when `content` is filled",
       "url": "https://github.com/yschimke/wear-m3-catalog/issues/304",
       "state": "open",
       "area": "component",
