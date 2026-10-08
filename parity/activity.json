@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-08T12:01:58.797Z",
+  "generatedAt": "2026-10-08T13:50:52.683Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "0951a72c43047da89c3d35a2177747ffa7043842",
+        "subject": "feat: name selection rows' events after their callbacks (#730)",
+        "at": "2026-10-08T14:44:34+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b8d34f734d47e940349ae7ac01b5ba996601374b",
         "subject": "refactor: use the SDK's changeBoundState for two-way bound rows (#729)",
@@ -475,14 +483,6 @@
         "subject": "feat: declare render assertions for the Wear M3 catalog render (#657)",
         "at": "2026-09-30T18:25:59+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a6e594a9c0c6c57dade892d191b5a606d45b61aa",
-        "subject": "fix(deps): update compose (#645)",
-        "at": "2026-09-30T17:35:10+01:00",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
