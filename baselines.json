@@ -18364,7 +18364,7 @@
     "functionName": "SurfaceTransformationOnCustomComponent",
     "module": "samples-catalog",
     "renderBasename": "SurfaceTransformationOnCustomComponent_width_225dp_height_225dp_dpi_320_isRound-5f63388e.png",
-    "sha256": "d4365f16aac99300f1514d9822a32baf8644b7a7b49ba6f5e5639c90193ad861",
+    "sha256": "014e7b064ddae2fbc57f5e22e2aafda7a08a6876d9a51fc807008f8dd4e77a84",
     "sourceFile": "src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SurfaceTransformationSample.kt"
   },
   "samples-catalog/androidx.wear.compose.material3.samples.SwipeToRevealSampleKt.SwipeToRevealNoPartialRevealWithScalingLazyColumnSample_width=225dp,height=225dp,dpi=320,isRound=true": {
