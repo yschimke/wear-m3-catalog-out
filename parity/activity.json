@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-08T13:50:52.683Z",
+  "generatedAt": "2026-10-08T22:37:31.057Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "4f95485b39512d1350a846ecae8b2572049c3d2d",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.95.0 (#731)",
+        "at": "2026-10-08T22:31:54Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0951a72c43047da89c3d35a2177747ffa7043842",
         "subject": "feat: name selection rows' events after their callbacks (#730)",
@@ -474,14 +482,6 @@
         "sha": "29de5833b10b679347c22afb550446523f0c4c81",
         "subject": "fix: stroke the outlined EdgeButton, group Glance Wear with Compose, and move the Remote snapshot pin (#658)",
         "at": "2026-09-30T18:31:23+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9b334369fe91f212a7d60483b82854711bcf7f85",
-        "subject": "feat: declare render assertions for the Wear M3 catalog render (#657)",
-        "at": "2026-09-30T18:25:59+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
