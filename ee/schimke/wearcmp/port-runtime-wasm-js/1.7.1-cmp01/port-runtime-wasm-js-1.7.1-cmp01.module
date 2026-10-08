@@ -1,0 +1,172 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../port-runtime/1.7.1-cmp01/port-runtime-1.7.1-cmp01.module",
+    "group": "ee.schimke.wearcmp",
+    "module": "port-runtime",
+    "version": "1.7.1-cmp01",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "wasmJsApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-datetime",
+          "version": {
+            "requires": "0.8.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.ui",
+          "module": "ui",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "androidx.graphics",
+          "module": "graphics-shapes",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.skiko",
+          "module": "skiko",
+          "version": {
+            "requires": "0.150.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "port-runtime-wasm-js-1.7.1-cmp01.klib",
+          "url": "port-runtime-wasm-js-1.7.1-cmp01.klib",
+          "size": 65690,
+          "sha512": "8b66af6da0cde72407ca2bc094a941043abb8e214eb360c67b05b273d55fcc71656f3e11eb04454740765cf0a4d28dd85bc3793b887eee703a3fbd1cb875c8d4",
+          "sha256": "ac92bb4671863442be8e1c9dd1d9e629526120bf1837311e893d396cd51e897a",
+          "sha1": "d03c1a2486f609a58c754d37e90ae9e0c32b59e9",
+          "md5": "ba4c3a324c0a3084e25a1f0883e82951"
+        }
+      ]
+    },
+    {
+      "name": "wasmJsRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-datetime",
+          "version": {
+            "requires": "0.8.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.ui",
+          "module": "ui",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "androidx.graphics",
+          "module": "graphics-shapes",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.skiko",
+          "module": "skiko",
+          "version": {
+            "requires": "0.150.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "port-runtime-wasm-js-1.7.1-cmp01.klib",
+          "url": "port-runtime-wasm-js-1.7.1-cmp01.klib",
+          "size": 65690,
+          "sha512": "8b66af6da0cde72407ca2bc094a941043abb8e214eb360c67b05b273d55fcc71656f3e11eb04454740765cf0a4d28dd85bc3793b887eee703a3fbd1cb875c8d4",
+          "sha256": "ac92bb4671863442be8e1c9dd1d9e629526120bf1837311e893d396cd51e897a",
+          "sha1": "d03c1a2486f609a58c754d37e90ae9e0c32b59e9",
+          "md5": "ba4c3a324c0a3084e25a1f0883e82951"
+        }
+      ]
+    },
+    {
+      "name": "wasmJsSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "files": [
+        {
+          "name": "port-runtime-wasm-js-1.7.1-cmp01-sources.jar",
+          "url": "port-runtime-wasm-js-1.7.1-cmp01-sources.jar",
+          "size": 36701,
+          "sha512": "14d0626e4d009525b1fe971834f4f490733e65b80fa008f2ac4530fd8b57bfa59c25febd9afbc7097fdc06239b292b4859527c90cd127de718d9cac773a32b86",
+          "sha256": "120f0a4a4af0ecb204035d556f66fc810124cc415cac4c0162689b69a68a40d0",
+          "sha1": "a86d7ce0f28a0f64e4d6962d7b9f46ee339a1f77",
+          "md5": "f33f79450b2a596de8505864c3de781f"
+        }
+      ]
+    }
+  ]
+}
