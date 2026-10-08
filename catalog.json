@@ -9927,7 +9927,7 @@
       "caption": "SurfaceTransformationButtonSample — the sample `SurfaceTransformation`'s KDoc points at.",
       "wireframe": "wireframes/surfacetransformation-surfacetransformationbuttonsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SurfaceTransformationSample.kt",
-      "bodyLine": 109,
+      "bodyLine": 110,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "SurfaceTransformationButtonSample",
       "sourceModule": ":samples-catalog"
@@ -10006,7 +10006,7 @@
       "caption": "SurfaceTransformationCardSample — the sample `SurfaceTransformation`'s KDoc points at.",
       "wireframe": "wireframes/surfacetransformation-surfacetransformationcardsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SurfaceTransformationSample.kt",
-      "bodyLine": 147,
+      "bodyLine": 148,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "SurfaceTransformationCardSample",
       "sourceModule": ":samples-catalog"
@@ -10037,9 +10037,9 @@
       "redlines": [
         {
           "bounds": {
-            "x": 32,
+            "x": 52,
             "y": 120,
-            "width": 386,
+            "width": 346,
             "height": 66
           },
           "padding": {
@@ -10052,9 +10052,9 @@
         },
         {
           "bounds": {
-            "x": 32,
+            "x": 52,
             "y": 226,
-            "width": 386,
+            "width": 346,
             "height": 66
           },
           "padding": {
@@ -10067,9 +10067,9 @@
         },
         {
           "bounds": {
-            "x": 46,
+            "x": 65,
             "y": 330,
-            "width": 357,
+            "width": 319,
             "height": 61
           },
           "padding": {
@@ -10082,9 +10082,9 @@
         },
         {
           "bounds": {
-            "x": 95,
+            "x": 109,
             "y": 425,
-            "width": 259,
+            "width": 231,
             "height": 44
           },
           "padding": {
@@ -10100,7 +10100,7 @@
       "caption": "SurfaceTransformationOnCustomComponent — the sample `SurfaceTransformation`'s KDoc points at.",
       "wireframe": "wireframes/surfacetransformation-surfacetransformationoncustomcomponent.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SurfaceTransformationSample.kt",
-      "bodyLine": 58,
+      "bodyLine": 59,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "SurfaceTransformationOnCustomComponent",
       "sourceModule": ":samples-catalog"
@@ -10391,7 +10391,7 @@
       "caption": "SwipeToRevealNoPartialRevealWithScalingLazyColumnSample — the sample `SwipeToReveal`'s KDoc points at.",
       "wireframe": "wireframes/swipetoreveal-swipetorevealnopartialrevealwithscalinglazycolumnsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SwipeToRevealSample.kt",
-      "bodyLine": 328,
+      "bodyLine": 331,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "SwipeToRevealNoPartialRevealWithScalingLazyColumnSample",
       "sourceModule": ":samples-catalog",
@@ -10523,7 +10523,7 @@
       "caption": "SwipeToRevealSingleActionCardSample — the sample `SwipeToReveal`'s KDoc points at.",
       "wireframe": "wireframes/swipetoreveal-swipetorevealsingleactioncardsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SwipeToRevealSample.kt",
-      "bodyLine": 112,
+      "bodyLine": 113,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "SwipeToRevealSingleActionCardSamplePreview",
       "sourceModule": ":samples-catalog",
@@ -10708,7 +10708,7 @@
       "caption": "SwipeToRevealWithScalingLazyColumnSample — the sample `SwipeToReveal`'s KDoc points at.",
       "wireframe": "wireframes/swipetoreveal-swipetorevealwithscalinglazycolumnsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SwipeToRevealSample.kt",
-      "bodyLine": 247,
+      "bodyLine": 249,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "SwipeToRevealWithScalingLazyColumnSample",
       "sourceModule": ":samples-catalog",
@@ -10778,7 +10778,7 @@
       "caption": "SwipeToRevealWithTransformingLazyColumnSample — the sample `SwipeToReveal`'s KDoc points at.",
       "wireframe": "wireframes/swipetoreveal-swipetorevealwithtransforminglazycolumnsample.svg",
       "sourceFile": "src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SwipeToRevealSample.kt",
-      "bodyLine": 160,
+      "bodyLine": 162,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "SwipeToRevealWithTransformingLazyColumnSample",
       "sourceModule": ":samples-catalog",
@@ -13048,7 +13048,7 @@
     "androidx.wear.compose:compose-material3"
   ],
   "renderer": "compose-preview 2.35.1",
-  "generatedAt": "2026-10-08T09:00:38.958Z",
+  "generatedAt": "2026-10-08T10:22:41.779Z",
   "display": {
     "role": "samples"
   },

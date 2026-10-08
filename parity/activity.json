@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-08T09:01:02.125Z",
+  "generatedAt": "2026-10-08T10:23:04.535Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "fb9353f9e631b023f90512c823c14d51c716f7d0",
+        "subject": "fix(deps): bump alpha deps, adopt the Wear Compose 1.7.1 port and re-cut the AndroidX samples (#726)",
+        "at": "2026-10-08T11:16:35+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ad8b1d8816620cadc178a33e050365c23545896f",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.94.0 (#727)",
@@ -474,14 +482,6 @@
         "sha": "45ba1c1529a58a409b6a40b49087c5b50d884501",
         "subject": "chore(ci): drop the four ThemeSpecimen entries from the CMP/Wasm allowlist (#656)",
         "at": "2026-09-30T17:34:33+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8324a471ac4061e6ddc2ea7ff2824f0bcb074807",
-        "subject": "fix(deps): build the UI builder runtimes from compose-ui-builder 3.69.0 (#655)",
-        "at": "2026-09-30T12:01:54+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
