@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-08T08:17:48.388Z",
+  "generatedAt": "2026-10-08T08:34:23.998Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "64ff58cdf277845ac689310a2fe26d150251c27e",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.93.0 (#725)",
+        "at": "2026-10-08T08:26:13Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4f5d2bcdf966a53fc59d161c81549312749ed46f",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.35.1 (#724)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:data-remotecompose-connector to v3.9.1 (#637)",
         "at": "2026-09-30T06:07:40Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "46efb8daef0926b4d805232c324c8567776dce62",
-        "subject": "fix(ui-builder): grow the unrolled Wear screen, and transform each list row once (#653)",
-        "at": "2026-09-30T06:50:09+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
