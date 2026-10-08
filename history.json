@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "d0fa06edf58cf45c3e0714e5572a52c6fd8f5fa2",
+    "generatedFrom": "a545631994bd1b12a6a77121d17a34bd26d419d6",
     "previews": {
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ButtonsKt.ButtonRowGroup": {
             "path": "renders/catalog-desktop/ButtonRowGroup-91cd010c.png",
@@ -37896,6 +37896,13 @@
             "path": "renders/samples-catalog/SurfaceTransformationOnCustomComponent_width_225dp_height_225dp_dpi_320_isRound-5f63388e.png",
             "versions": [
                 {
+                    "blob": "4cfe5d5bbcf849c1235f0f64451de560e9172afe",
+                    "commit": "a545631994bd1b12a6a77121d17a34bd26d419d6",
+                    "date": "2026-10-08T10:23:35Z",
+                    "sourceSha": "fb9353f9",
+                    "commits": 1
+                },
+                {
                     "blob": "721ef98851a5258df49e0f5fe13125fa5ea400d1",
                     "commit": "4127f23d3dcb8c27c7efe7551ffa542b93c7db84",
                     "date": "2026-09-11T18:48:44Z",
@@ -37903,7 +37910,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
