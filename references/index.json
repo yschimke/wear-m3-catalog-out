@@ -27,12 +27,6 @@
           "componentId": "Button/Child"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93128"
-      },
-      "match": {
-        "percent": 96.54,
-        "changedPercent": 34.78,
-        "scoreVersion": 3,
-        "geometry": 2.1
       }
     },
     {
@@ -64,12 +58,6 @@
           "componentId": "Button/Child"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93134"
-      },
-      "match": {
-        "percent": 99.37,
-        "changedPercent": 33.87,
-        "scoreVersion": 3,
-        "geometry": 2.1
       }
     },
     {
@@ -101,11 +89,6 @@
           "componentId": "Button/Child"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93329"
-      },
-      "match": {
-        "percent": 95.53,
-        "changedPercent": 29.53,
-        "scoreVersion": 3
       }
     },
     {
@@ -137,11 +120,6 @@
           "componentId": "Button/Child"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93347"
-      },
-      "match": {
-        "percent": 98.14,
-        "changedPercent": 30.76,
-        "scoreVersion": 3
       }
     },
     {
@@ -173,12 +151,6 @@
           "componentId": "Button/Child"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:65467"
-      },
-      "match": {
-        "percent": 95.59,
-        "changedPercent": 24.82,
-        "scoreVersion": 3,
-        "geometry": 3.2
       }
     },
     {
@@ -210,12 +182,6 @@
           "componentId": "Button/Child"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:65494"
-      },
-      "match": {
-        "percent": 98.27,
-        "changedPercent": 28.22,
-        "scoreVersion": 3,
-        "geometry": 3.2
       }
     },
     {
@@ -247,12 +213,6 @@
           "componentId": "Button/Child"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:57059"
-      },
-      "match": {
-        "percent": 96.94,
-        "changedPercent": 24.53,
-        "scoreVersion": 3,
-        "geometry": 2.6
       }
     },
     {
@@ -284,11 +244,6 @@
           "componentId": "Button/Child"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:57086"
-      },
-      "match": {
-        "percent": 99,
-        "changedPercent": 28.61,
-        "scoreVersion": 3
       }
     },
     {
@@ -320,12 +275,6 @@
           "componentId": "Button/Child"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45529:125951"
-      },
-      "match": {
-        "percent": 73.45,
-        "changedPercent": 56.91,
-        "scoreVersion": 3,
-        "geometry": 46.8
       }
     },
     {
@@ -357,12 +306,6 @@
           "componentId": "Button/Child"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45529:125976"
-      },
-      "match": {
-        "percent": 85.5,
-        "changedPercent": 55.19,
-        "scoreVersion": 3,
-        "geometry": 46.8
       }
     },
     {
@@ -391,11 +334,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:87975"
-      },
-      "match": {
-        "percent": 92.73,
-        "changedPercent": 14.89,
-        "scoreVersion": 3
       }
     },
     {
@@ -427,12 +365,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88005"
-      },
-      "match": {
-        "percent": 86.39,
-        "changedPercent": 38.52,
-        "scoreVersion": 3,
-        "geometry": 8
       }
     },
     {
@@ -464,12 +396,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88045"
-      },
-      "match": {
-        "percent": 91.88,
-        "changedPercent": 39.13,
-        "scoreVersion": 3,
-        "geometry": 5.2
       }
     },
     {
@@ -501,11 +427,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88009"
-      },
-      "match": {
-        "percent": 99.16,
-        "changedPercent": 2.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -537,11 +458,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88049"
-      },
-      "match": {
-        "percent": 99.74,
-        "changedPercent": 23.11,
-        "scoreVersion": 3
       }
     },
     {
@@ -573,12 +489,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88002"
-      },
-      "match": {
-        "percent": 96.22,
-        "changedPercent": 35.27,
-        "scoreVersion": 3,
-        "geometry": 4.2
       }
     },
     {
@@ -610,12 +520,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88042"
-      },
-      "match": {
-        "percent": 99,
-        "changedPercent": 34.16,
-        "scoreVersion": 3,
-        "geometry": 4.2
       }
     },
     {
@@ -647,11 +551,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88015"
-      },
-      "match": {
-        "percent": 96.69,
-        "changedPercent": 91.08,
-        "scoreVersion": 3
       }
     },
     {
@@ -683,11 +582,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44993:154003"
-      },
-      "match": {
-        "percent": 93.56,
-        "changedPercent": 14.94,
-        "scoreVersion": 3
       }
     },
     {
@@ -719,11 +613,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44993:154024"
-      },
-      "match": {
-        "percent": 96.69,
-        "changedPercent": 91.08,
-        "scoreVersion": 3
       }
     },
     {
@@ -755,11 +644,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44993:154009"
-      },
-      "match": {
-        "percent": 99.5,
-        "changedPercent": 3.37,
-        "scoreVersion": 3
       }
     },
     {
@@ -791,11 +675,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44993:154030"
-      },
-      "match": {
-        "percent": 99.94,
-        "changedPercent": 85.2,
-        "scoreVersion": 3
       }
     },
     {
@@ -827,12 +706,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44993:154001"
-      },
-      "match": {
-        "percent": 98.54,
-        "changedPercent": 17.45,
-        "scoreVersion": 3,
-        "geometry": 3
       }
     },
     {
@@ -864,12 +737,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44993:154022"
-      },
-      "match": {
-        "percent": 99.67,
-        "changedPercent": 91.73,
-        "scoreVersion": 3,
-        "geometry": 3
       }
     },
     {
@@ -901,11 +768,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:87979"
-      },
-      "match": {
-        "percent": 99.24,
-        "changedPercent": 3.38,
-        "scoreVersion": 3
       }
     },
     {
@@ -937,11 +799,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88019"
-      },
-      "match": {
-        "percent": 99.94,
-        "changedPercent": 85.2,
-        "scoreVersion": 3
       }
     },
     {
@@ -973,11 +830,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:87995"
-      },
-      "match": {
-        "percent": 93.6,
-        "changedPercent": 16.85,
-        "scoreVersion": 3
       }
     },
     {
@@ -1009,11 +861,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88035"
-      },
-      "match": {
-        "percent": 80.7,
-        "changedPercent": 22.16,
-        "scoreVersion": 3
       }
     },
     {
@@ -1045,11 +892,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:87999"
-      },
-      "match": {
-        "percent": 99.76,
-        "changedPercent": 6.18,
-        "scoreVersion": 3
       }
     },
     {
@@ -1081,11 +923,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88039"
-      },
-      "match": {
-        "percent": 74.42,
-        "changedPercent": 14.2,
-        "scoreVersion": 3
       }
     },
     {
@@ -1117,12 +954,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:87992"
-      },
-      "match": {
-        "percent": 98.27,
-        "changedPercent": 25.89,
-        "scoreVersion": 3,
-        "geometry": 3
       }
     },
     {
@@ -1154,12 +985,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88032"
-      },
-      "match": {
-        "percent": 79.35,
-        "changedPercent": 24.78,
-        "scoreVersion": 3,
-        "geometry": 3
       }
     },
     {
@@ -1191,12 +1016,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:87972"
-      },
-      "match": {
-        "percent": 98.24,
-        "changedPercent": 17.35,
-        "scoreVersion": 3,
-        "geometry": 3
       }
     },
     {
@@ -1228,12 +1047,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88012"
-      },
-      "match": {
-        "percent": 99.67,
-        "changedPercent": 91.73,
-        "scoreVersion": 3,
-        "geometry": 3
       }
     },
     {
@@ -1265,11 +1078,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:87985"
-      },
-      "match": {
-        "percent": 93.29,
-        "changedPercent": 15.45,
-        "scoreVersion": 3
       }
     },
     {
@@ -1301,11 +1109,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88025"
-      },
-      "match": {
-        "percent": 96.69,
-        "changedPercent": 91.08,
-        "scoreVersion": 3
       }
     },
     {
@@ -1337,11 +1140,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:87989"
-      },
-      "match": {
-        "percent": 99.38,
-        "changedPercent": 3.34,
-        "scoreVersion": 3
       }
     },
     {
@@ -1373,11 +1171,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88029"
-      },
-      "match": {
-        "percent": 99.94,
-        "changedPercent": 85.2,
-        "scoreVersion": 3
       }
     },
     {
@@ -1409,12 +1202,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:87982"
-      },
-      "match": {
-        "percent": 98.25,
-        "changedPercent": 18.72,
-        "scoreVersion": 3,
-        "geometry": 3
       }
     },
     {
@@ -1446,12 +1233,6 @@
           "componentId": "Button/Compact"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:88022"
-      },
-      "match": {
-        "percent": 99.67,
-        "changedPercent": 91.73,
-        "scoreVersion": 3,
-        "geometry": 3
       }
     },
     {
@@ -1474,11 +1255,6 @@
           "componentId": "Button/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93092"
-      },
-      "match": {
-        "percent": 86.58,
-        "changedPercent": 8.82,
-        "scoreVersion": 3
       }
     },
     {
@@ -1504,11 +1280,6 @@
           "componentId": "Button/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93098"
-      },
-      "match": {
-        "percent": 94.06,
-        "changedPercent": 93.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -1534,11 +1305,6 @@
           "componentId": "Button/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93167"
-      },
-      "match": {
-        "percent": 96.55,
-        "changedPercent": 13.88,
-        "scoreVersion": 3
       }
     },
     {
@@ -1564,11 +1330,6 @@
           "componentId": "Button/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93185"
-      },
-      "match": {
-        "percent": 98.49,
-        "changedPercent": 93.69,
-        "scoreVersion": 3
       }
     },
     {
@@ -1594,11 +1355,6 @@
           "componentId": "Button/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:65439"
-      },
-      "match": {
-        "percent": 90.31,
-        "changedPercent": 16.28,
-        "scoreVersion": 3
       }
     },
     {
@@ -1624,11 +1380,6 @@
           "componentId": "Button/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:65474"
-      },
-      "match": {
-        "percent": 95.26,
-        "changedPercent": 93.69,
-        "scoreVersion": 3
       }
     },
     {
@@ -1654,11 +1405,6 @@
           "componentId": "Button/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:57031"
-      },
-      "match": {
-        "percent": 96.97,
-        "changedPercent": 13.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -1684,11 +1430,6 @@
           "componentId": "Button/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:57066"
-      },
-      "match": {
-        "percent": 98.55,
-        "changedPercent": 93.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -1714,11 +1455,6 @@
           "componentId": "Button/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45529:125931"
-      },
-      "match": {
-        "percent": 76.34,
-        "changedPercent": 15.41,
-        "scoreVersion": 3
       }
     },
     {
@@ -1744,11 +1480,6 @@
           "componentId": "Button/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45529:125956"
-      },
-      "match": {
-        "percent": 89.01,
-        "changedPercent": 93.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -1771,11 +1502,6 @@
           "componentId": "Button/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39577:895"
-      },
-      "match": {
-        "percent": 87.79,
-        "changedPercent": 8.84,
-        "scoreVersion": 3
       }
     },
     {
@@ -1801,11 +1527,6 @@
           "componentId": "Button/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93110"
-      },
-      "match": {
-        "percent": 94.06,
-        "changedPercent": 93.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -1831,11 +1552,6 @@
           "componentId": "Button/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39577:897"
-      },
-      "match": {
-        "percent": 96.98,
-        "changedPercent": 14.45,
-        "scoreVersion": 3
       }
     },
     {
@@ -1861,11 +1577,6 @@
           "componentId": "Button/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93251"
-      },
-      "match": {
-        "percent": 98.49,
-        "changedPercent": 93.69,
-        "scoreVersion": 3
       }
     },
     {
@@ -1891,11 +1602,6 @@
           "componentId": "Button/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:65446"
-      },
-      "match": {
-        "percent": 91.07,
-        "changedPercent": 16.77,
-        "scoreVersion": 3
       }
     },
     {
@@ -1921,11 +1627,6 @@
           "componentId": "Button/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:65479"
-      },
-      "match": {
-        "percent": 95.26,
-        "changedPercent": 93.69,
-        "scoreVersion": 3
       }
     },
     {
@@ -1951,11 +1652,6 @@
           "componentId": "Button/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:57038"
-      },
-      "match": {
-        "percent": 97.28,
-        "changedPercent": 14.43,
-        "scoreVersion": 3
       }
     },
     {
@@ -1981,11 +1677,6 @@
           "componentId": "Button/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:57071"
-      },
-      "match": {
-        "percent": 98.55,
-        "changedPercent": 93.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -2011,11 +1702,6 @@
           "componentId": "Button/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45529:125936"
-      },
-      "match": {
-        "percent": 77.98,
-        "changedPercent": 15.43,
-        "scoreVersion": 3
       }
     },
     {
@@ -2041,11 +1727,6 @@
           "componentId": "Button/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45529:125961"
-      },
-      "match": {
-        "percent": 89.01,
-        "changedPercent": 93.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -2068,11 +1749,6 @@
           "componentId": "Button/ImageBackground"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:101029"
-      },
-      "match": {
-        "percent": 98.97,
-        "changedPercent": 88.71,
-        "scoreVersion": 3
       }
     },
     {
@@ -2098,11 +1774,6 @@
           "componentId": "Button/ImageBackground"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:101046"
-      },
-      "match": {
-        "percent": 17.04,
-        "changedPercent": 93.9,
-        "scoreVersion": 3
       }
     },
     {
@@ -2128,11 +1799,6 @@
           "componentId": "Button/ImageBackground"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:101037"
-      },
-      "match": {
-        "percent": 96.55,
-        "changedPercent": 90.03,
-        "scoreVersion": 3
       }
     },
     {
@@ -2158,11 +1824,6 @@
           "componentId": "Button/ImageBackground"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:101055"
-      },
-      "match": {
-        "percent": 18.44,
-        "changedPercent": 93.9,
-        "scoreVersion": 3
       }
     },
     {
@@ -2185,11 +1846,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155116"
-      },
-      "match": {
-        "percent": 93.93,
-        "changedPercent": 19.65,
-        "scoreVersion": 3
       }
     },
     {
@@ -2215,11 +1871,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155174"
-      },
-      "match": {
-        "percent": 91.35,
-        "changedPercent": 37.42,
-        "scoreVersion": 3
       }
     },
     {
@@ -2245,11 +1896,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155286"
-      },
-      "match": {
-        "percent": 82.86,
-        "changedPercent": 39.28,
-        "scoreVersion": 3
       }
     },
     {
@@ -2275,12 +1921,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155188"
-      },
-      "match": {
-        "percent": 84.91,
-        "changedPercent": 38.58,
-        "scoreVersion": 3,
-        "geometry": 2.4
       }
     },
     {
@@ -2306,12 +1946,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155296"
-      },
-      "match": {
-        "percent": 80.54,
-        "changedPercent": 43.91,
-        "scoreVersion": 3,
-        "geometry": 5.8
       }
     },
     {
@@ -2337,12 +1971,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155181"
-      },
-      "match": {
-        "percent": 87.82,
-        "changedPercent": 38.7,
-        "scoreVersion": 3,
-        "geometry": 2.4
       }
     },
     {
@@ -2368,12 +1996,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155291"
-      },
-      "match": {
-        "percent": 81.48,
-        "changedPercent": 43.23,
-        "scoreVersion": 3,
-        "geometry": 3.5
       }
     },
     {
@@ -2399,11 +2021,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155245"
-      },
-      "match": {
-        "percent": 84.12,
-        "changedPercent": 93.69,
-        "scoreVersion": 3
       }
     },
     {
@@ -2429,11 +2046,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71581:108278"
-      },
-      "match": {
-        "percent": 84.38,
-        "changedPercent": 27.46,
-        "scoreVersion": 3
       }
     },
     {
@@ -2459,11 +2071,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155255"
-      },
-      "match": {
-        "percent": 84.82,
-        "changedPercent": 93.69,
-        "scoreVersion": 3
       }
     },
     {
@@ -2489,11 +2096,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71581:108293"
-      },
-      "match": {
-        "percent": 91.64,
-        "changedPercent": 22.05,
-        "scoreVersion": 3
       }
     },
     {
@@ -2519,11 +2121,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155250"
-      },
-      "match": {
-        "percent": 83.77,
-        "changedPercent": 93.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -2549,11 +2146,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155145"
-      },
-      "match": {
-        "percent": 94.62,
-        "changedPercent": 20.95,
-        "scoreVersion": 3
       }
     },
     {
@@ -2579,11 +2171,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155266"
-      },
-      "match": {
-        "percent": 81.41,
-        "changedPercent": 25.35,
-        "scoreVersion": 3
       }
     },
     {
@@ -2609,11 +2196,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155159"
-      },
-      "match": {
-        "percent": 85.75,
-        "changedPercent": 28.9,
-        "scoreVersion": 3
       }
     },
     {
@@ -2639,11 +2221,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155276"
-      },
-      "match": {
-        "percent": 82.24,
-        "changedPercent": 33.15,
-        "scoreVersion": 3
       }
     },
     {
@@ -2669,11 +2246,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155152"
-      },
-      "match": {
-        "percent": 92.49,
-        "changedPercent": 23.66,
-        "scoreVersion": 3
       }
     },
     {
@@ -2699,11 +2271,6 @@
           "componentId": "Button/Loading"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/68333:155271"
-      },
-      "match": {
-        "percent": 81.49,
-        "changedPercent": 28.26,
-        "scoreVersion": 3
       }
     },
     {
@@ -2726,11 +2293,6 @@
           "componentId": "Button/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93116"
-      },
-      "match": {
-        "percent": 90.34,
-        "changedPercent": 10.23,
-        "scoreVersion": 3
       }
     },
     {
@@ -2756,11 +2318,6 @@
           "componentId": "Button/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93122"
-      },
-      "match": {
-        "percent": 95,
-        "changedPercent": 13.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -2786,11 +2343,6 @@
           "componentId": "Button/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93293"
-      },
-      "match": {
-        "percent": 97.07,
-        "changedPercent": 15.63,
-        "scoreVersion": 3
       }
     },
     {
@@ -2816,11 +2368,6 @@
           "componentId": "Button/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93311"
-      },
-      "match": {
-        "percent": 98.62,
-        "changedPercent": 20.38,
-        "scoreVersion": 3
       }
     },
     {
@@ -2846,11 +2393,6 @@
           "componentId": "Button/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:65460"
-      },
-      "match": {
-        "percent": 91.78,
-        "changedPercent": 18.1,
-        "scoreVersion": 3
       }
     },
     {
@@ -2876,11 +2418,6 @@
           "componentId": "Button/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:65489"
-      },
-      "match": {
-        "percent": 95.59,
-        "changedPercent": 22.45,
-        "scoreVersion": 3
       }
     },
     {
@@ -2906,11 +2443,6 @@
           "componentId": "Button/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:57052"
-      },
-      "match": {
-        "percent": 97.34,
-        "changedPercent": 15.54,
-        "scoreVersion": 3
       }
     },
     {
@@ -2936,11 +2468,6 @@
           "componentId": "Button/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:57081"
-      },
-      "match": {
-        "percent": 98.73,
-        "changedPercent": 20.24,
-        "scoreVersion": 3
       }
     },
     {
@@ -2966,11 +2493,6 @@
           "componentId": "Button/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45529:125946"
-      },
-      "match": {
-        "percent": 80.13,
-        "changedPercent": 16.42,
-        "scoreVersion": 3
       }
     },
     {
@@ -2996,11 +2518,6 @@
           "componentId": "Button/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45529:125971"
-      },
-      "match": {
-        "percent": 89.66,
-        "changedPercent": 19.88,
-        "scoreVersion": 3
       }
     },
     {
@@ -3023,11 +2540,6 @@
           "componentId": "Button/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93104"
-      },
-      "match": {
-        "percent": 86.84,
-        "changedPercent": 9.24,
-        "scoreVersion": 3
       }
     },
     {
@@ -3053,11 +2565,6 @@
           "componentId": "Button/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39577:36594"
-      },
-      "match": {
-        "percent": 94.06,
-        "changedPercent": 93.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -3083,11 +2590,6 @@
           "componentId": "Button/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35239:93233"
-      },
-      "match": {
-        "percent": 96.83,
-        "changedPercent": 14.55,
-        "scoreVersion": 3
       }
     },
     {
@@ -3113,11 +2615,6 @@
           "componentId": "Button/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39577:36596"
-      },
-      "match": {
-        "percent": 98.49,
-        "changedPercent": 93.69,
-        "scoreVersion": 3
       }
     },
     {
@@ -3143,11 +2640,6 @@
           "componentId": "Button/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:65453"
-      },
-      "match": {
-        "percent": 90.69,
-        "changedPercent": 17.05,
-        "scoreVersion": 3
       }
     },
     {
@@ -3173,11 +2665,6 @@
           "componentId": "Button/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:65484"
-      },
-      "match": {
-        "percent": 95.26,
-        "changedPercent": 93.69,
-        "scoreVersion": 3
       }
     },
     {
@@ -3203,11 +2690,6 @@
           "componentId": "Button/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:57045"
-      },
-      "match": {
-        "percent": 97.15,
-        "changedPercent": 14.41,
-        "scoreVersion": 3
       }
     },
     {
@@ -3233,11 +2715,6 @@
           "componentId": "Button/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48689:57076"
-      },
-      "match": {
-        "percent": 98.55,
-        "changedPercent": 93.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -3263,11 +2740,6 @@
           "componentId": "Button/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45529:125941"
-      },
-      "match": {
-        "percent": 76.84,
-        "changedPercent": 15.44,
-        "scoreVersion": 3
       }
     },
     {
@@ -3293,11 +2765,6 @@
           "componentId": "Button/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45529:125966"
-      },
-      "match": {
-        "percent": 89.01,
-        "changedPercent": 93.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -3326,12 +2793,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38437:5712"
-      },
-      "match": {
-        "percent": 75.95,
-        "changedPercent": 29.53,
-        "scoreVersion": 3,
-        "geometry": 29.5
       }
     },
     {
@@ -3363,12 +2824,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38437:5728"
-      },
-      "match": {
-        "percent": 77.12,
-        "changedPercent": 51.4,
-        "scoreVersion": 3,
-        "geometry": 5.4
       }
     },
     {
@@ -3400,12 +2855,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39710:11171"
-      },
-      "match": {
-        "percent": 85.27,
-        "changedPercent": 49.91,
-        "scoreVersion": 3,
-        "geometry": 6.6
       }
     },
     {
@@ -3437,12 +2886,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39880:105417"
-      },
-      "match": {
-        "percent": 83.73,
-        "changedPercent": 44.99,
-        "scoreVersion": 3,
-        "geometry": 6.8
       }
     },
     {
@@ -3474,12 +2917,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46048:69274"
-      },
-      "match": {
-        "percent": 75.85,
-        "changedPercent": 28.64,
-        "scoreVersion": 3,
-        "geometry": 29.5
       }
     },
     {
@@ -3511,12 +2948,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46048:69301"
-      },
-      "match": {
-        "percent": 76.56,
-        "changedPercent": 50.6,
-        "scoreVersion": 3,
-        "geometry": 6.6
       }
     },
     {
@@ -3548,12 +2979,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46048:69313"
-      },
-      "match": {
-        "percent": 85.48,
-        "changedPercent": 49.19,
-        "scoreVersion": 3,
-        "geometry": 6.6
       }
     },
     {
@@ -3585,12 +3010,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46048:69327"
-      },
-      "match": {
-        "percent": 83.93,
-        "changedPercent": 44.25,
-        "scoreVersion": 3,
-        "geometry": 6.8
       }
     },
     {
@@ -3622,12 +3041,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46048:69357"
-      },
-      "match": {
-        "percent": 77.29,
-        "changedPercent": 29.9,
-        "scoreVersion": 3,
-        "geometry": 29.5
       }
     },
     {
@@ -3659,12 +3072,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46048:69370"
-      },
-      "match": {
-        "percent": 78.35,
-        "changedPercent": 51.87,
-        "scoreVersion": 3,
-        "geometry": 6.6
       }
     },
     {
@@ -3696,12 +3103,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46048:69382"
-      },
-      "match": {
-        "percent": 86.79,
-        "changedPercent": 50.48,
-        "scoreVersion": 3,
-        "geometry": 6.6
       }
     },
     {
@@ -3733,12 +3134,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46048:69396"
-      },
-      "match": {
-        "percent": 85.46,
-        "changedPercent": 45.64,
-        "scoreVersion": 3,
-        "geometry": 6.8
       }
     },
     {
@@ -3770,12 +3165,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39827:105154"
-      },
-      "match": {
-        "percent": 77.08,
-        "changedPercent": 30.79,
-        "scoreVersion": 3,
-        "geometry": 29.5
       }
     },
     {
@@ -3807,12 +3196,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39827:105142"
-      },
-      "match": {
-        "percent": 78.17,
-        "changedPercent": 52.59,
-        "scoreVersion": 3,
-        "geometry": 6.6
       }
     },
     {
@@ -3844,12 +3227,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39827:105128"
-      },
-      "match": {
-        "percent": 86.53,
-        "changedPercent": 51.2,
-        "scoreVersion": 3,
-        "geometry": 6.6
       }
     },
     {
@@ -3881,12 +3258,6 @@
           "componentId": "AppCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39880:105431"
-      },
-      "match": {
-        "percent": 85.19,
-        "changedPercent": 46.38,
-        "scoreVersion": 3,
-        "geometry": 6.8
       }
     },
     {
@@ -3915,12 +3286,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38437:5747"
-      },
-      "match": {
-        "percent": 77.55,
-        "changedPercent": 27.85,
-        "scoreVersion": 3,
-        "geometry": 30.8
       }
     },
     {
@@ -3952,12 +3317,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38437:5776"
-      },
-      "match": {
-        "percent": 83.82,
-        "changedPercent": 94.4,
-        "scoreVersion": 3,
-        "geometry": 28.8
       }
     },
     {
@@ -3989,12 +3348,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38437:5761"
-      },
-      "match": {
-        "percent": 68.85,
-        "changedPercent": 53.8,
-        "scoreVersion": 3,
-        "geometry": 18.4
       }
     },
     {
@@ -4026,12 +3379,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39710:11308"
-      },
-      "match": {
-        "percent": 76.16,
-        "changedPercent": 53.95,
-        "scoreVersion": 3,
-        "geometry": 18.4
       }
     },
     {
@@ -4063,12 +3410,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39880:105575"
-      },
-      "match": {
-        "percent": 73.76,
-        "changedPercent": 48.59,
-        "scoreVersion": 3,
-        "geometry": 19.1
       }
     },
     {
@@ -4100,12 +3441,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39827:105691"
-      },
-      "match": {
-        "percent": 79.15,
-        "changedPercent": 28.59,
-        "scoreVersion": 3,
-        "geometry": 30.8
       }
     },
     {
@@ -4137,12 +3472,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39827:105716"
-      },
-      "match": {
-        "percent": 71.1,
-        "changedPercent": 55.29,
-        "scoreVersion": 3,
-        "geometry": 18.4
       }
     },
     {
@@ -4174,12 +3503,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39827:105747"
-      },
-      "match": {
-        "percent": 77.91,
-        "changedPercent": 55.45,
-        "scoreVersion": 3,
-        "geometry": 18.4
       }
     },
     {
@@ -4211,12 +3534,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39880:105609"
-      },
-      "match": {
-        "percent": 75.43,
-        "changedPercent": 50.08,
-        "scoreVersion": 3,
-        "geometry": 19.1
       }
     },
     {
@@ -4248,12 +3565,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39662:45982"
-      },
-      "match": {
-        "percent": 77.45,
-        "changedPercent": 25.73,
-        "scoreVersion": 3,
-        "geometry": 36.2
       }
     },
     {
@@ -4285,12 +3596,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39662:45964"
-      },
-      "match": {
-        "percent": 83.74,
-        "changedPercent": 94.81,
-        "scoreVersion": 3,
-        "geometry": 34.1
       }
     },
     {
@@ -4322,12 +3627,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39662:45973"
-      },
-      "match": {
-        "percent": 67.16,
-        "changedPercent": 49.1,
-        "scoreVersion": 3,
-        "geometry": 16
       }
     },
     {
@@ -4359,12 +3658,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39710:11317"
-      },
-      "match": {
-        "percent": 73.57,
-        "changedPercent": 49.36,
-        "scoreVersion": 3,
-        "geometry": 16
       }
     },
     {
@@ -4396,12 +3689,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39880:105585"
-      },
-      "match": {
-        "percent": 71.58,
-        "changedPercent": 44.16,
-        "scoreVersion": 3,
-        "geometry": 17.1
       }
     },
     {
@@ -4433,12 +3720,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39827:105699"
-      },
-      "match": {
-        "percent": 78.4,
-        "changedPercent": 26.18,
-        "scoreVersion": 3,
-        "geometry": 36.2
       }
     },
     {
@@ -4470,12 +3751,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39827:105725"
-      },
-      "match": {
-        "percent": 69.55,
-        "changedPercent": 50.01,
-        "scoreVersion": 3,
-        "geometry": 16
       }
     },
     {
@@ -4507,12 +3782,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39827:105757"
-      },
-      "match": {
-        "percent": 75.58,
-        "changedPercent": 50.28,
-        "scoreVersion": 3,
-        "geometry": 16
       }
     },
     {
@@ -4544,12 +3813,6 @@
           "componentId": "TitleCard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39880:105619"
-      },
-      "match": {
-        "percent": 72.63,
-        "changedPercent": 45.6,
-        "scoreVersion": 3,
-        "geometry": 17.1
       }
     },
     {
@@ -4572,11 +3835,6 @@
           "componentId": "AlertDialog"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/58475:87077"
-      },
-      "match": {
-        "percent": 79.08,
-        "changedPercent": 8.63,
-        "scoreVersion": 3
       }
     },
     {
@@ -4602,11 +3860,6 @@
           "componentId": "AlertDialog"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/58475:87067"
-      },
-      "match": {
-        "percent": 78.18,
-        "changedPercent": 8.19,
-        "scoreVersion": 3
       }
     },
     {
@@ -4632,11 +3885,6 @@
           "componentId": "AlertDialog"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/58475:87087"
-      },
-      "match": {
-        "percent": 78.84,
-        "changedPercent": 8.34,
-        "scoreVersion": 3
       }
     },
     {
@@ -4659,11 +3907,6 @@
           "componentId": "ConfirmationDialog/Failure"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47251:36863"
-      },
-      "match": {
-        "percent": 95.54,
-        "changedPercent": 26.9,
-        "scoreVersion": 3
       }
     },
     {
@@ -4689,11 +3932,6 @@
           "componentId": "ConfirmationDialog/Failure"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47251:36881"
-      },
-      "match": {
-        "percent": 97.3,
-        "changedPercent": 25.51,
-        "scoreVersion": 3
       }
     },
     {
@@ -4716,11 +3954,6 @@
           "componentId": "ConfirmationDialog/Generic"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47251:36801"
-      },
-      "match": {
-        "percent": 95.58,
-        "changedPercent": 6.23,
-        "scoreVersion": 3
       }
     },
     {
@@ -4746,11 +3979,6 @@
           "componentId": "ConfirmationDialog/Generic"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47251:36825"
-      },
-      "match": {
-        "percent": 96.16,
-        "changedPercent": 4.36,
-        "scoreVersion": 3
       }
     },
     {
@@ -4773,11 +4001,6 @@
           "componentId": "OpenOnPhoneDialog"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46964:91112"
-      },
-      "match": {
-        "percent": 78.74,
-        "changedPercent": 18.59,
-        "scoreVersion": 3
       }
     },
     {
@@ -4803,11 +4026,6 @@
           "componentId": "OpenOnPhoneDialog"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46964:90943"
-      },
-      "match": {
-        "percent": 73.44,
-        "changedPercent": 16.31,
-        "scoreVersion": 3
       }
     },
     {
@@ -4830,11 +4048,6 @@
           "componentId": "ConfirmationDialog/Success"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47251:36766"
-      },
-      "match": {
-        "percent": 91.03,
-        "changedPercent": 8.71,
-        "scoreVersion": 3
       }
     },
     {
@@ -4860,11 +4073,6 @@
           "componentId": "ConfirmationDialog/Success"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47251:36783"
-      },
-      "match": {
-        "percent": 95.9,
-        "changedPercent": 5.3,
-        "scoreVersion": 3
       }
     },
     {
@@ -4893,12 +4101,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/36601:6587"
-      },
-      "match": {
-        "percent": 89.38,
-        "changedPercent": 18.58,
-        "scoreVersion": 3,
-        "geometry": 2.5
       }
     },
     {
@@ -4930,11 +4132,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98764"
-      },
-      "match": {
-        "percent": 94.61,
-        "changedPercent": 80.35,
-        "scoreVersion": 3
       }
     },
     {
@@ -4966,12 +4163,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/36601:4589"
-      },
-      "match": {
-        "percent": 93.04,
-        "changedPercent": 12.1,
-        "scoreVersion": 3,
-        "geometry": 5.6
       }
     },
     {
@@ -5003,12 +4194,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98948"
-      },
-      "match": {
-        "percent": 96.37,
-        "changedPercent": 81.07,
-        "scoreVersion": 3,
-        "geometry": 3.8
       }
     },
     {
@@ -5040,12 +4225,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:37733"
-      },
-      "match": {
-        "percent": 90.24,
-        "changedPercent": 18.68,
-        "scoreVersion": 3,
-        "geometry": 2.5
       }
     },
     {
@@ -5077,11 +4256,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:38572"
-      },
-      "match": {
-        "percent": 94.61,
-        "changedPercent": 80.35,
-        "scoreVersion": 3
       }
     },
     {
@@ -5113,12 +4287,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:37725"
-      },
-      "match": {
-        "percent": 93.93,
-        "changedPercent": 12.1,
-        "scoreVersion": 3,
-        "geometry": 5.6
       }
     },
     {
@@ -5150,12 +4318,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:38564"
-      },
-      "match": {
-        "percent": 96.37,
-        "changedPercent": 81.07,
-        "scoreVersion": 3,
-        "geometry": 3.8
       }
     },
     {
@@ -5187,12 +4349,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:37797"
-      },
-      "match": {
-        "percent": 93.79,
-        "changedPercent": 4.78,
-        "scoreVersion": 3,
-        "geometry": 2.5
       }
     },
     {
@@ -5224,11 +4380,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:38636"
-      },
-      "match": {
-        "percent": 96.42,
-        "changedPercent": 80.35,
-        "scoreVersion": 3
       }
     },
     {
@@ -5260,12 +4411,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:37789"
-      },
-      "match": {
-        "percent": 93.95,
-        "changedPercent": 4.57,
-        "scoreVersion": 3,
-        "geometry": 5.6
       }
     },
     {
@@ -5297,12 +4442,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:38628"
-      },
-      "match": {
-        "percent": 96.14,
-        "changedPercent": 81.07,
-        "scoreVersion": 3,
-        "geometry": 3.8
       }
     },
     {
@@ -5334,11 +4473,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:37813"
-      },
-      "match": {
-        "percent": 96.02,
-        "changedPercent": 2.76,
-        "scoreVersion": 3
       }
     },
     {
@@ -5370,11 +4504,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:38652"
-      },
-      "match": {
-        "percent": 97.67,
-        "changedPercent": 80.14,
-        "scoreVersion": 3
       }
     },
     {
@@ -5406,11 +4535,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:37805"
-      },
-      "match": {
-        "percent": 94.43,
-        "changedPercent": 3.95,
-        "scoreVersion": 3
       }
     },
     {
@@ -5442,11 +4566,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:38644"
-      },
-      "match": {
-        "percent": 97.14,
-        "changedPercent": 81.45,
-        "scoreVersion": 3
       }
     },
     {
@@ -5478,11 +4597,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:37749"
-      },
-      "match": {
-        "percent": 84.11,
-        "changedPercent": 16.9,
-        "scoreVersion": 3
       }
     },
     {
@@ -5514,11 +4628,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:38588"
-      },
-      "match": {
-        "percent": 91.77,
-        "changedPercent": 80.14,
-        "scoreVersion": 3
       }
     },
     {
@@ -5550,11 +4659,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:37741"
-      },
-      "match": {
-        "percent": 86.43,
-        "changedPercent": 17.96,
-        "scoreVersion": 3
       }
     },
     {
@@ -5586,11 +4690,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46812:38580"
-      },
-      "match": {
-        "percent": 92.55,
-        "changedPercent": 81.46,
-        "scoreVersion": 3
       }
     },
     {
@@ -5622,12 +4721,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/36944:34611"
-      },
-      "match": {
-        "percent": 93.39,
-        "changedPercent": 4.79,
-        "scoreVersion": 3,
-        "geometry": 2.5
       }
     },
     {
@@ -5659,11 +4752,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98852"
-      },
-      "match": {
-        "percent": 96.42,
-        "changedPercent": 80.35,
-        "scoreVersion": 3
       }
     },
     {
@@ -5695,12 +4783,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/36944:34595"
-      },
-      "match": {
-        "percent": 93.06,
-        "changedPercent": 4.6,
-        "scoreVersion": 3,
-        "geometry": 5.6
       }
     },
     {
@@ -5732,12 +4814,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98844"
-      },
-      "match": {
-        "percent": 96.14,
-        "changedPercent": 81.07,
-        "scoreVersion": 3,
-        "geometry": 3.8
       }
     },
     {
@@ -5769,11 +4845,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/36944:34643"
-      },
-      "match": {
-        "percent": 95.14,
-        "changedPercent": 2.76,
-        "scoreVersion": 3
       }
     },
     {
@@ -5805,11 +4876,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98900"
-      },
-      "match": {
-        "percent": 97.67,
-        "changedPercent": 80.14,
-        "scoreVersion": 3
       }
     },
     {
@@ -5841,11 +4907,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/36944:34627"
-      },
-      "match": {
-        "percent": 93.94,
-        "changedPercent": 3.96,
-        "scoreVersion": 3
       }
     },
     {
@@ -5877,11 +4938,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98876"
-      },
-      "match": {
-        "percent": 97.14,
-        "changedPercent": 81.45,
-        "scoreVersion": 3
       }
     },
     {
@@ -5913,11 +4969,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/36604:6601"
-      },
-      "match": {
-        "percent": 82.27,
-        "changedPercent": 16.95,
-        "scoreVersion": 3
       }
     },
     {
@@ -5949,11 +5000,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98788"
-      },
-      "match": {
-        "percent": 91.77,
-        "changedPercent": 80.14,
-        "scoreVersion": 3
       }
     },
     {
@@ -5985,11 +5031,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/36604:6593"
-      },
-      "match": {
-        "percent": 85.06,
-        "changedPercent": 17.99,
-        "scoreVersion": 3
       }
     },
     {
@@ -6021,11 +5062,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98932"
-      },
-      "match": {
-        "percent": 92.55,
-        "changedPercent": 81.46,
-        "scoreVersion": 3
       }
     },
     {
@@ -6057,12 +5093,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255676"
-      },
-      "match": {
-        "percent": 89.6,
-        "changedPercent": 22.82,
-        "scoreVersion": 3,
-        "geometry": 2.5
       }
     },
     {
@@ -6094,12 +5124,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255829"
-      },
-      "match": {
-        "percent": 94.61,
-        "changedPercent": 24.56,
-        "scoreVersion": 3,
-        "geometry": 2.5
       }
     },
     {
@@ -6131,12 +5155,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255667"
-      },
-      "match": {
-        "percent": 94.16,
-        "changedPercent": 17.54,
-        "scoreVersion": 3,
-        "geometry": 5.6
       }
     },
     {
@@ -6168,12 +5186,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255820"
-      },
-      "match": {
-        "percent": 96.66,
-        "changedPercent": 19.67,
-        "scoreVersion": 3,
-        "geometry": 5.6
       }
     },
     {
@@ -6205,12 +5217,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255713"
-      },
-      "match": {
-        "percent": 94.19,
-        "changedPercent": 8.18,
-        "scoreVersion": 3,
-        "geometry": 2.5
       }
     },
     {
@@ -6242,12 +5248,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255865"
-      },
-      "match": {
-        "percent": 96.82,
-        "changedPercent": 10.03,
-        "scoreVersion": 3,
-        "geometry": 2.5
       }
     },
     {
@@ -6279,12 +5279,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255703"
-      },
-      "match": {
-        "percent": 94.91,
-        "changedPercent": 9.35,
-        "scoreVersion": 3,
-        "geometry": 5.6
       }
     },
     {
@@ -6316,12 +5310,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255856"
-      },
-      "match": {
-        "percent": 96.87,
-        "changedPercent": 11.49,
-        "scoreVersion": 3,
-        "geometry": 5.6
       }
     },
     {
@@ -6353,11 +5341,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255731"
-      },
-      "match": {
-        "percent": 95.7,
-        "changedPercent": 5.31,
-        "scoreVersion": 3
       }
     },
     {
@@ -6389,11 +5372,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255883"
-      },
-      "match": {
-        "percent": 97.98,
-        "changedPercent": 6.27,
-        "scoreVersion": 3
       }
     },
     {
@@ -6425,11 +5403,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255722"
-      },
-      "match": {
-        "percent": 95.29,
-        "changedPercent": 7,
-        "scoreVersion": 3
       }
     },
     {
@@ -6461,11 +5434,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255874"
-      },
-      "match": {
-        "percent": 97.44,
-        "changedPercent": 8.36,
-        "scoreVersion": 3
       }
     },
     {
@@ -6497,11 +5465,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255694"
-      },
-      "match": {
-        "percent": 83.3,
-        "changedPercent": 19.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -6533,11 +5496,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255847"
-      },
-      "match": {
-        "percent": 91.35,
-        "changedPercent": 20.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -6569,11 +5527,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255685"
-      },
-      "match": {
-        "percent": 86.26,
-        "changedPercent": 21.49,
-        "scoreVersion": 3
       }
     },
     {
@@ -6605,11 +5558,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48566:255838"
-      },
-      "match": {
-        "percent": 92.28,
-        "changedPercent": 22.69,
-        "scoreVersion": 3
       }
     },
     {
@@ -6641,12 +5589,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98064"
-      },
-      "match": {
-        "percent": 89.65,
-        "changedPercent": 19.48,
-        "scoreVersion": 3,
-        "geometry": 2.5
       }
     },
     {
@@ -6678,11 +5620,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98884"
-      },
-      "match": {
-        "percent": 94.61,
-        "changedPercent": 80.35,
-        "scoreVersion": 3
       }
     },
     {
@@ -6714,12 +5651,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98048"
-      },
-      "match": {
-        "percent": 93.5,
-        "changedPercent": 12.82,
-        "scoreVersion": 3,
-        "geometry": 5.6
       }
     },
     {
@@ -6751,12 +5682,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98868"
-      },
-      "match": {
-        "percent": 96.37,
-        "changedPercent": 81.07,
-        "scoreVersion": 3,
-        "geometry": 3.8
       }
     },
     {
@@ -6788,12 +5713,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98136"
-      },
-      "match": {
-        "percent": 93.75,
-        "changedPercent": 4.9,
-        "scoreVersion": 3,
-        "geometry": 2.5
       }
     },
     {
@@ -6825,11 +5744,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98972"
-      },
-      "match": {
-        "percent": 96.42,
-        "changedPercent": 80.35,
-        "scoreVersion": 3
       }
     },
     {
@@ -6861,12 +5775,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98112"
-      },
-      "match": {
-        "percent": 93.59,
-        "changedPercent": 4.72,
-        "scoreVersion": 3,
-        "geometry": 5.6
       }
     },
     {
@@ -6898,12 +5806,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98964"
-      },
-      "match": {
-        "percent": 96.14,
-        "changedPercent": 81.07,
-        "scoreVersion": 3,
-        "geometry": 3.8
       }
     },
     {
@@ -6935,11 +5837,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98160"
-      },
-      "match": {
-        "percent": 95.7,
-        "changedPercent": 2.79,
-        "scoreVersion": 3
       }
     },
     {
@@ -6971,11 +5868,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98988"
-      },
-      "match": {
-        "percent": 97.67,
-        "changedPercent": 80.14,
-        "scoreVersion": 3
       }
     },
     {
@@ -7007,11 +5899,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98144"
-      },
-      "match": {
-        "percent": 94.17,
-        "changedPercent": 4.03,
-        "scoreVersion": 3
       }
     },
     {
@@ -7043,11 +5930,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98980"
-      },
-      "match": {
-        "percent": 97.14,
-        "changedPercent": 81.45,
-        "scoreVersion": 3
       }
     },
     {
@@ -7079,11 +5961,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98096"
-      },
-      "match": {
-        "percent": 83.01,
-        "changedPercent": 17.2,
-        "scoreVersion": 3
       }
     },
     {
@@ -7115,11 +5992,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98804"
-      },
-      "match": {
-        "percent": 91.77,
-        "changedPercent": 80.14,
-        "scoreVersion": 3
       }
     },
     {
@@ -7151,11 +6023,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98080"
-      },
-      "match": {
-        "percent": 85.81,
-        "changedPercent": 18.45,
-        "scoreVersion": 3
       }
     },
     {
@@ -7187,11 +6054,6 @@
           "componentId": "EdgeButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38425:98772"
-      },
-      "match": {
-        "percent": 92.55,
-        "changedPercent": 81.46,
-        "scoreVersion": 3
       }
     },
     {
@@ -7214,11 +6076,6 @@
           "componentId": "IconButton/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:102976"
-      },
-      "match": {
-        "percent": 98.12,
-        "changedPercent": 4.3,
-        "scoreVersion": 3
       }
     },
     {
@@ -7244,11 +6101,6 @@
           "componentId": "IconButton/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103029"
-      },
-      "match": {
-        "percent": 99.97,
-        "changedPercent": 79.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -7274,11 +6126,6 @@
           "componentId": "IconButton/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:102982"
-      },
-      "match": {
-        "percent": 98.34,
-        "changedPercent": 5.6,
-        "scoreVersion": 3
       }
     },
     {
@@ -7304,11 +6151,6 @@
           "componentId": "IconButton/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103035"
-      },
-      "match": {
-        "percent": 99.93,
-        "changedPercent": 75.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -7334,11 +6176,6 @@
           "componentId": "IconButton/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:102973"
-      },
-      "match": {
-        "percent": 97.53,
-        "changedPercent": 3.84,
-        "scoreVersion": 3
       }
     },
     {
@@ -7364,11 +6201,6 @@
           "componentId": "IconButton/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103026"
-      },
-      "match": {
-        "percent": 99.82,
-        "changedPercent": 79.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -7394,11 +6226,6 @@
           "componentId": "IconButton/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:102979"
-      },
-      "match": {
-        "percent": 98.23,
-        "changedPercent": 3.96,
-        "scoreVersion": 3
       }
     },
     {
@@ -7424,11 +6251,6 @@
           "componentId": "IconButton/Filled"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103032"
-      },
-      "match": {
-        "percent": 99.95,
-        "changedPercent": 80.07,
-        "scoreVersion": 3
       }
     },
     {
@@ -7451,11 +6273,6 @@
           "componentId": "IconButton/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41409:52153"
-      },
-      "match": {
-        "percent": 98.59,
-        "changedPercent": 4.3,
-        "scoreVersion": 3
       }
     },
     {
@@ -7481,11 +6298,6 @@
           "componentId": "IconButton/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41409:52235"
-      },
-      "match": {
-        "percent": 99.97,
-        "changedPercent": 79.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -7511,11 +6323,6 @@
           "componentId": "IconButton/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41409:52157"
-      },
-      "match": {
-        "percent": 98.68,
-        "changedPercent": 5.6,
-        "scoreVersion": 3
       }
     },
     {
@@ -7541,11 +6348,6 @@
           "componentId": "IconButton/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41409:52239"
-      },
-      "match": {
-        "percent": 99.93,
-        "changedPercent": 75.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -7571,11 +6373,6 @@
           "componentId": "IconButton/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41409:52151"
-      },
-      "match": {
-        "percent": 98.14,
-        "changedPercent": 3.83,
-        "scoreVersion": 3
       }
     },
     {
@@ -7601,11 +6398,6 @@
           "componentId": "IconButton/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41409:52233"
-      },
-      "match": {
-        "percent": 99.82,
-        "changedPercent": 79.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -7631,11 +6423,6 @@
           "componentId": "IconButton/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41409:52155"
-      },
-      "match": {
-        "percent": 98.61,
-        "changedPercent": 3.95,
-        "scoreVersion": 3
       }
     },
     {
@@ -7661,11 +6448,6 @@
           "componentId": "IconButton/FilledVariant"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41409:52237"
-      },
-      "match": {
-        "percent": 99.95,
-        "changedPercent": 80.07,
-        "scoreVersion": 3
       }
     },
     {
@@ -7688,11 +6470,6 @@
           "componentId": "IconButton/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103002"
-      },
-      "match": {
-        "percent": 99.09,
-        "changedPercent": 6.88,
-        "scoreVersion": 3
       }
     },
     {
@@ -7718,11 +6495,6 @@
           "componentId": "IconButton/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103055"
-      },
-      "match": {
-        "percent": 99.96,
-        "changedPercent": 11.72,
-        "scoreVersion": 3
       }
     },
     {
@@ -7748,11 +6520,6 @@
           "componentId": "IconButton/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103008"
-      },
-      "match": {
-        "percent": 99.23,
-        "changedPercent": 9.44,
-        "scoreVersion": 3
       }
     },
     {
@@ -7778,11 +6545,6 @@
           "componentId": "IconButton/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103061"
-      },
-      "match": {
-        "percent": 99.91,
-        "changedPercent": 17.75,
-        "scoreVersion": 3
       }
     },
     {
@@ -7808,11 +6570,6 @@
           "componentId": "IconButton/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:102999"
-      },
-      "match": {
-        "percent": 98.45,
-        "changedPercent": 6.18,
-        "scoreVersion": 3
       }
     },
     {
@@ -7838,11 +6595,6 @@
           "componentId": "IconButton/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103052"
-      },
-      "match": {
-        "percent": 99.81,
-        "changedPercent": 10.41,
-        "scoreVersion": 3
       }
     },
     {
@@ -7868,11 +6620,6 @@
           "componentId": "IconButton/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103005"
-      },
-      "match": {
-        "percent": 99.17,
-        "changedPercent": 6.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -7898,11 +6645,6 @@
           "componentId": "IconButton/Outlined"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103058"
-      },
-      "match": {
-        "percent": 99.95,
-        "changedPercent": 11.39,
-        "scoreVersion": 3
       }
     },
     {
@@ -7925,11 +6667,6 @@
           "componentId": "IconButton/Standard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103015"
-      },
-      "match": {
-        "percent": 98.38,
-        "changedPercent": 11.42,
-        "scoreVersion": 3
       }
     },
     {
@@ -7955,11 +6692,6 @@
           "componentId": "IconButton/Standard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103068"
-      },
-      "match": {
-        "percent": 98.08,
-        "changedPercent": 34.52,
-        "scoreVersion": 3
       }
     },
     {
@@ -7985,11 +6717,6 @@
           "componentId": "IconButton/Standard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103021"
-      },
-      "match": {
-        "percent": 99.16,
-        "changedPercent": 2.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -8015,11 +6742,6 @@
           "componentId": "IconButton/Standard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103074"
-      },
-      "match": {
-        "percent": 99.74,
-        "changedPercent": 23.11,
-        "scoreVersion": 3
       }
     },
     {
@@ -8045,11 +6767,6 @@
           "componentId": "IconButton/Standard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103012"
-      },
-      "match": {
-        "percent": 95.29,
-        "changedPercent": 9.63,
-        "scoreVersion": 3
       }
     },
     {
@@ -8075,11 +6792,6 @@
           "componentId": "IconButton/Standard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103065"
-      },
-      "match": {
-        "percent": 99.19,
-        "changedPercent": 26.25,
-        "scoreVersion": 3
       }
     },
     {
@@ -8105,11 +6817,6 @@
           "componentId": "IconButton/Standard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103018"
-      },
-      "match": {
-        "percent": 99.16,
-        "changedPercent": 2.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -8135,11 +6842,6 @@
           "componentId": "IconButton/Standard"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103071"
-      },
-      "match": {
-        "percent": 99.74,
-        "changedPercent": 23.11,
-        "scoreVersion": 3
       }
     },
     {
@@ -8162,11 +6864,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103081"
-      },
-      "match": {
-        "percent": 97.92,
-        "changedPercent": 9,
-        "scoreVersion": 3
       }
     },
     {
@@ -8192,12 +6889,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103107"
-      },
-      "match": {
-        "percent": 96.89,
-        "changedPercent": 60.52,
-        "scoreVersion": 3,
-        "geometry": 2.4
       }
     },
     {
@@ -8223,12 +6914,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103143"
-      },
-      "match": {
-        "percent": 99.43,
-        "changedPercent": 58.91,
-        "scoreVersion": 3,
-        "geometry": 2.4
       }
     },
     {
@@ -8254,11 +6939,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103113"
-      },
-      "match": {
-        "percent": 96.41,
-        "changedPercent": 60.31,
-        "scoreVersion": 3
       }
     },
     {
@@ -8284,11 +6964,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103149"
-      },
-      "match": {
-        "percent": 99.04,
-        "changedPercent": 59.78,
-        "scoreVersion": 3
       }
     },
     {
@@ -8314,12 +6989,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103110"
-      },
-      "match": {
-        "percent": 96.4,
-        "changedPercent": 62.29,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -8345,12 +7014,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103146"
-      },
-      "match": {
-        "percent": 99.53,
-        "changedPercent": 61.46,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -8376,11 +7039,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103116"
-      },
-      "match": {
-        "percent": 99.72,
-        "changedPercent": 79.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -8406,11 +7064,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41409:52255"
-      },
-      "match": {
-        "percent": 98.39,
-        "changedPercent": 8.93,
-        "scoreVersion": 3
       }
     },
     {
@@ -8436,11 +7089,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41409:52267"
-      },
-      "match": {
-        "percent": 99.72,
-        "changedPercent": 79.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -8466,11 +7114,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41409:52253"
-      },
-      "match": {
-        "percent": 79.2,
-        "changedPercent": 16.94,
-        "scoreVersion": 3
       }
     },
     {
@@ -8496,11 +7139,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41409:52265"
-      },
-      "match": {
-        "percent": 87.35,
-        "changedPercent": 79.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -8526,11 +7164,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41409:52257"
-      },
-      "match": {
-        "percent": 91.52,
-        "changedPercent": 16.34,
-        "scoreVersion": 3
       }
     },
     {
@@ -8556,11 +7189,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41409:52269"
-      },
-      "match": {
-        "percent": 95.42,
-        "changedPercent": 80.07,
-        "scoreVersion": 3
       }
     },
     {
@@ -8586,11 +7214,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103087"
-      },
-      "match": {
-        "percent": 78.85,
-        "changedPercent": 16.94,
-        "scoreVersion": 3
       }
     },
     {
@@ -8616,11 +7239,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103122"
-      },
-      "match": {
-        "percent": 87.35,
-        "changedPercent": 79.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -8646,11 +7264,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103098"
-      },
-      "match": {
-        "percent": 98.42,
-        "changedPercent": 15.86,
-        "scoreVersion": 3
       }
     },
     {
@@ -8676,11 +7289,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103134"
-      },
-      "match": {
-        "percent": 78.34,
-        "changedPercent": 18.97,
-        "scoreVersion": 3
       }
     },
     {
@@ -8706,11 +7314,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103104"
-      },
-      "match": {
-        "percent": 80.8,
-        "changedPercent": 20.49,
-        "scoreVersion": 3
       }
     },
     {
@@ -8736,11 +7339,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103140"
-      },
-      "match": {
-        "percent": 78.23,
-        "changedPercent": 23,
-        "scoreVersion": 3
       }
     },
     {
@@ -8766,11 +7364,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103101"
-      },
-      "match": {
-        "percent": 92.23,
-        "changedPercent": 20.32,
-        "scoreVersion": 3
       }
     },
     {
@@ -8796,11 +7389,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103137"
-      },
-      "match": {
-        "percent": 78.53,
-        "changedPercent": 23.33,
-        "scoreVersion": 3
       }
     },
     {
@@ -8826,11 +7414,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103084"
-      },
-      "match": {
-        "percent": 91.83,
-        "changedPercent": 16.43,
-        "scoreVersion": 3
       }
     },
     {
@@ -8856,11 +7439,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103119"
-      },
-      "match": {
-        "percent": 95.42,
-        "changedPercent": 80.07,
-        "scoreVersion": 3
       }
     },
     {
@@ -8886,11 +7464,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103090"
-      },
-      "match": {
-        "percent": 98.13,
-        "changedPercent": 13.2,
-        "scoreVersion": 3
       }
     },
     {
@@ -8916,11 +7489,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103125"
-      },
-      "match": {
-        "percent": 99.72,
-        "changedPercent": 79.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -8946,11 +7514,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103095"
-      },
-      "match": {
-        "percent": 78.89,
-        "changedPercent": 18.1,
-        "scoreVersion": 3
       }
     },
     {
@@ -8976,11 +7539,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103131"
-      },
-      "match": {
-        "percent": 87.35,
-        "changedPercent": 79.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -9006,11 +7564,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103092"
-      },
-      "match": {
-        "percent": 91.48,
-        "changedPercent": 17.53,
-        "scoreVersion": 3
       }
     },
     {
@@ -9036,11 +7589,6 @@
           "componentId": "TextButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103128"
-      },
-      "match": {
-        "percent": 95.42,
-        "changedPercent": 80.07,
-        "scoreVersion": 3
       }
     },
     {
@@ -9063,11 +7611,6 @@
           "componentId": "IconButton/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:102989"
-      },
-      "match": {
-        "percent": 98.39,
-        "changedPercent": 4.29,
-        "scoreVersion": 3
       }
     },
     {
@@ -9093,11 +7636,6 @@
           "componentId": "IconButton/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103042"
-      },
-      "match": {
-        "percent": 99.97,
-        "changedPercent": 79.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -9123,11 +7661,6 @@
           "componentId": "IconButton/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:102995"
-      },
-      "match": {
-        "percent": 98.52,
-        "changedPercent": 5.6,
-        "scoreVersion": 3
       }
     },
     {
@@ -9153,11 +7686,6 @@
           "componentId": "IconButton/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103048"
-      },
-      "match": {
-        "percent": 99.93,
-        "changedPercent": 75.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -9183,11 +7711,6 @@
           "componentId": "IconButton/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:102986"
-      },
-      "match": {
-        "percent": 97.9,
-        "changedPercent": 3.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -9213,11 +7736,6 @@
           "componentId": "IconButton/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103039"
-      },
-      "match": {
-        "percent": 99.82,
-        "changedPercent": 79.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -9243,11 +7761,6 @@
           "componentId": "IconButton/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:102992"
-      },
-      "match": {
-        "percent": 98.44,
-        "changedPercent": 3.93,
-        "scoreVersion": 3
       }
     },
     {
@@ -9273,11 +7786,6 @@
           "componentId": "IconButton/Tonal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/34732:103045"
-      },
-      "match": {
-        "percent": 99.95,
-        "changedPercent": 80.07,
-        "scoreVersion": 3
       }
     },
     {
@@ -9300,12 +7808,6 @@
           "componentId": "PageIndicator/Horizontal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38684:138301"
-      },
-      "match": {
-        "percent": 98.73,
-        "changedPercent": 0.42,
-        "scoreVersion": 3,
-        "geometry": 6.4
       }
     },
     {
@@ -9331,12 +7833,6 @@
           "componentId": "PageIndicator/Horizontal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38684:138312"
-      },
-      "match": {
-        "percent": 92.56,
-        "changedPercent": 0.55,
-        "scoreVersion": 3,
-        "geometry": 3.6
       }
     },
     {
@@ -9362,11 +7858,6 @@
           "componentId": "PageIndicator/Horizontal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47507:108439"
-      },
-      "match": {
-        "percent": 96.11,
-        "changedPercent": 0.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -9392,11 +7883,6 @@
           "componentId": "PageIndicator/Horizontal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47507:108577"
-      },
-      "match": {
-        "percent": 96.34,
-        "changedPercent": 0.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -9422,12 +7908,6 @@
           "componentId": "PageIndicator/Horizontal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38684:138356"
-      },
-      "match": {
-        "percent": 97.35,
-        "changedPercent": 0.63,
-        "scoreVersion": 3,
-        "geometry": 3
       }
     },
     {
@@ -9453,11 +7933,6 @@
           "componentId": "PageIndicator/Horizontal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38684:138341"
-      },
-      "match": {
-        "percent": 95.72,
-        "changedPercent": 0.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -9483,11 +7958,6 @@
           "componentId": "PageIndicator/Horizontal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38684:138390"
-      },
-      "match": {
-        "percent": 95.94,
-        "changedPercent": 0.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -9513,11 +7983,6 @@
           "componentId": "PageIndicator/Horizontal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47507:108304"
-      },
-      "match": {
-        "percent": 90.62,
-        "changedPercent": 0.8,
-        "scoreVersion": 3
       }
     },
     {
@@ -9543,11 +8008,6 @@
           "componentId": "PageIndicator/Horizontal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38684:137918"
-      },
-      "match": {
-        "percent": 99.08,
-        "changedPercent": 0.21,
-        "scoreVersion": 3
       }
     },
     {
@@ -9573,12 +8033,6 @@
           "componentId": "PageIndicator/Horizontal"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38682:86524"
-      },
-      "match": {
-        "percent": 98.75,
-        "changedPercent": 0.16,
-        "scoreVersion": 3,
-        "geometry": 7.7
       }
     },
     {
@@ -9601,11 +8055,6 @@
           "componentId": "LevelIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46640:262811"
-      },
-      "match": {
-        "percent": 98.96,
-        "changedPercent": 8.71,
-        "scoreVersion": 3
       }
     },
     {
@@ -9631,11 +8080,6 @@
           "componentId": "LevelIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46813:80262"
-      },
-      "match": {
-        "percent": 99.72,
-        "changedPercent": 27.44,
-        "scoreVersion": 3
       }
     },
     {
@@ -9658,12 +8102,6 @@
           "componentId": "ScrollIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44998:18343"
-      },
-      "match": {
-        "percent": 66.35,
-        "changedPercent": 0.76,
-        "scoreVersion": 3,
-        "geometry": 7.1
       }
     },
     {
@@ -9689,12 +8127,6 @@
           "componentId": "ScrollIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44998:18471"
-      },
-      "match": {
-        "percent": 66.29,
-        "changedPercent": 0.77,
-        "scoreVersion": 3,
-        "geometry": 7.1
       }
     },
     {
@@ -9720,11 +8152,6 @@
           "componentId": "ScrollIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44998:18475"
-      },
-      "match": {
-        "percent": 69.42,
-        "changedPercent": 0.77,
-        "scoreVersion": 3
       }
     },
     {
@@ -9747,12 +8174,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:402"
-      },
-      "match": {
-        "percent": 98.78,
-        "changedPercent": 0.41,
-        "scoreVersion": 3,
-        "geometry": 6.4
       }
     },
     {
@@ -9778,12 +8199,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:413"
-      },
-      "match": {
-        "percent": 92.51,
-        "changedPercent": 0.54,
-        "scoreVersion": 3,
-        "geometry": 3.6
       }
     },
     {
@@ -9809,12 +8224,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:486"
-      },
-      "match": {
-        "percent": 98.7,
-        "changedPercent": 0.41,
-        "scoreVersion": 3,
-        "geometry": 6.4
       }
     },
     {
@@ -9840,12 +8249,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:497"
-      },
-      "match": {
-        "percent": 92.47,
-        "changedPercent": 0.54,
-        "scoreVersion": 3,
-        "geometry": 3.6
       }
     },
     {
@@ -9871,11 +8274,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47507:108444"
-      },
-      "match": {
-        "percent": 96.07,
-        "changedPercent": 0.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -9901,11 +8299,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47507:108581"
-      },
-      "match": {
-        "percent": 96.28,
-        "changedPercent": 0.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -9931,12 +8324,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:525"
-      },
-      "match": {
-        "percent": 97.31,
-        "changedPercent": 0.63,
-        "scoreVersion": 3,
-        "geometry": 3
       }
     },
     {
@@ -9962,11 +8349,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:540"
-      },
-      "match": {
-        "percent": 95.65,
-        "changedPercent": 0.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -9992,11 +8374,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:510"
-      },
-      "match": {
-        "percent": 95.86,
-        "changedPercent": 0.69,
-        "scoreVersion": 3
       }
     },
     {
@@ -10022,11 +8399,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47507:108309"
-      },
-      "match": {
-        "percent": 90.62,
-        "changedPercent": 0.8,
-        "scoreVersion": 3
       }
     },
     {
@@ -10052,11 +8424,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:477"
-      },
-      "match": {
-        "percent": 99.1,
-        "changedPercent": 0.21,
-        "scoreVersion": 3
       }
     },
     {
@@ -10082,12 +8449,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:471"
-      },
-      "match": {
-        "percent": 98.86,
-        "changedPercent": 0.16,
-        "scoreVersion": 3,
-        "geometry": 7.7
       }
     },
     {
@@ -10113,11 +8474,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47507:108442"
-      },
-      "match": {
-        "percent": 96.09,
-        "changedPercent": 0.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -10143,11 +8499,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47507:108579"
-      },
-      "match": {
-        "percent": 96.32,
-        "changedPercent": 0.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -10173,12 +8524,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:441"
-      },
-      "match": {
-        "percent": 97.28,
-        "changedPercent": 0.63,
-        "scoreVersion": 3,
-        "geometry": 3
       }
     },
     {
@@ -10204,11 +8549,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:456"
-      },
-      "match": {
-        "percent": 95.67,
-        "changedPercent": 0.69,
-        "scoreVersion": 3
       }
     },
     {
@@ -10234,11 +8574,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:426"
-      },
-      "match": {
-        "percent": 95.89,
-        "changedPercent": 0.69,
-        "scoreVersion": 3
       }
     },
     {
@@ -10264,11 +8599,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/47507:108307"
-      },
-      "match": {
-        "percent": 90.62,
-        "changedPercent": 0.8,
-        "scoreVersion": 3
       }
     },
     {
@@ -10294,11 +8624,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:393"
-      },
-      "match": {
-        "percent": 99.12,
-        "changedPercent": 0.21,
-        "scoreVersion": 3
       }
     },
     {
@@ -10324,12 +8649,6 @@
           "componentId": "PageIndicator/Vertical"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38966:387"
-      },
-      "match": {
-        "percent": 98.75,
-        "changedPercent": 0.17,
-        "scoreVersion": 3,
-        "geometry": 7.7
       }
     },
     {
@@ -10352,11 +8671,6 @@
           "componentId": "DatePicker"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43678:8942"
-      },
-      "match": {
-        "percent": 88.52,
-        "changedPercent": 5.19,
-        "scoreVersion": 3
       }
     },
     {
@@ -10382,11 +8696,6 @@
           "componentId": "DatePicker"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43678:8880"
-      },
-      "match": {
-        "percent": 88.24,
-        "changedPercent": 6.82,
-        "scoreVersion": 3
       }
     },
     {
@@ -10412,11 +8721,6 @@
           "componentId": "DatePicker"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44398:82540"
-      },
-      "match": {
-        "percent": 88.84,
-        "changedPercent": 7.66,
-        "scoreVersion": 3
       }
     },
     {
@@ -10442,11 +8746,6 @@
           "componentId": "DatePicker"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44398:82430"
-      },
-      "match": {
-        "percent": 88.14,
-        "changedPercent": 7.64,
-        "scoreVersion": 3
       }
     },
     {
@@ -10472,11 +8771,6 @@
           "componentId": "DatePicker"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43678:9386"
-      },
-      "match": {
-        "percent": 84.18,
-        "changedPercent": 6.86,
-        "scoreVersion": 3
       }
     },
     {
@@ -10499,11 +8793,6 @@
           "componentId": "Picker"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43678:8581"
-      },
-      "match": {
-        "percent": 38.43,
-        "changedPercent": 21.31,
-        "scoreVersion": 3
       }
     },
     {
@@ -10529,11 +8818,6 @@
           "componentId": "Picker"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43678:9004"
-      },
-      "match": {
-        "percent": 41.56,
-        "changedPercent": 18.83,
-        "scoreVersion": 3
       }
     },
     {
@@ -10556,11 +8840,6 @@
           "componentId": "TimePicker"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43678:8697"
-      },
-      "match": {
-        "percent": 90.69,
-        "changedPercent": 21.55,
-        "scoreVersion": 3
       }
     },
     {
@@ -10586,11 +8865,6 @@
           "componentId": "TimePicker"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43678:8595"
-      },
-      "match": {
-        "percent": 85.51,
-        "changedPercent": 21.97,
-        "scoreVersion": 3
       }
     },
     {
@@ -10616,11 +8890,6 @@
           "componentId": "TimePicker"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43678:8631"
-      },
-      "match": {
-        "percent": 92.2,
-        "changedPercent": 20.93,
-        "scoreVersion": 3
       }
     },
     {
@@ -10646,11 +8915,6 @@
           "componentId": "TimePicker"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43678:9120"
-      },
-      "match": {
-        "percent": 79.56,
-        "changedPercent": 22.71,
-        "scoreVersion": 3
       }
     },
     {
@@ -10673,11 +8937,6 @@
           "componentId": "Placeholder/Button"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:44771"
-      },
-      "match": {
-        "percent": 73.11,
-        "changedPercent": 93.99,
-        "scoreVersion": 3
       }
     },
     {
@@ -10703,11 +8962,6 @@
           "componentId": "Placeholder/Button"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:44768"
-      },
-      "match": {
-        "percent": 46.99,
-        "changedPercent": 92.06,
-        "scoreVersion": 3
       }
     },
     {
@@ -10733,11 +8987,6 @@
           "componentId": "Placeholder/Button"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:44769"
-      },
-      "match": {
-        "percent": 99.27,
-        "changedPercent": 73.73,
-        "scoreVersion": 3
       }
     },
     {
@@ -10763,11 +9012,6 @@
           "componentId": "Placeholder/Button"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:44770"
-      },
-      "match": {
-        "percent": 84.92,
-        "changedPercent": 89.44,
-        "scoreVersion": 3
       }
     },
     {
@@ -10796,12 +9040,6 @@
           "componentId": "Placeholder/Card"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:45108"
-      },
-      "match": {
-        "percent": 93.05,
-        "changedPercent": 67.68,
-        "scoreVersion": 3,
-        "geometry": 5.4
       }
     },
     {
@@ -10833,12 +9071,6 @@
           "componentId": "Placeholder/Card"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:45110"
-      },
-      "match": {
-        "percent": 46.48,
-        "changedPercent": 95.82,
-        "scoreVersion": 3,
-        "geometry": 5.4
       }
     },
     {
@@ -10861,11 +9093,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:44842"
-      },
-      "match": {
-        "percent": 76.57,
-        "changedPercent": 79.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -10891,11 +9118,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:45039"
-      },
-      "match": {
-        "percent": 54.61,
-        "changedPercent": 75.69,
-        "scoreVersion": 3
       }
     },
     {
@@ -10921,11 +9143,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:45005"
-      },
-      "match": {
-        "percent": 73.67,
-        "changedPercent": 79.72,
-        "scoreVersion": 3
       }
     },
     {
@@ -10951,11 +9168,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:44839"
-      },
-      "match": {
-        "percent": 43.91,
-        "changedPercent": 79.82,
-        "scoreVersion": 3
       }
     },
     {
@@ -10981,11 +9193,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:45048"
-      },
-      "match": {
-        "percent": 40.63,
-        "changedPercent": 75.78,
-        "scoreVersion": 3
       }
     },
     {
@@ -11011,11 +9218,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:45017"
-      },
-      "match": {
-        "percent": 38.55,
-        "changedPercent": 79.74,
-        "scoreVersion": 3
       }
     },
     {
@@ -11047,11 +9249,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:45034"
-      },
-      "match": {
-        "percent": 45.7,
-        "changedPercent": 80.78,
-        "scoreVersion": 3
       }
     },
     {
@@ -11083,11 +9280,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:45030"
-      },
-      "match": {
-        "percent": 76.86,
-        "changedPercent": 81.36,
-        "scoreVersion": 3
       }
     },
     {
@@ -11113,11 +9305,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:44840"
-      },
-      "match": {
-        "percent": 93.61,
-        "changedPercent": 79.82,
-        "scoreVersion": 3
       }
     },
     {
@@ -11143,11 +9330,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:45045"
-      },
-      "match": {
-        "percent": 96.77,
-        "changedPercent": 71.49,
-        "scoreVersion": 3
       }
     },
     {
@@ -11173,11 +9355,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:45013"
-      },
-      "match": {
-        "percent": 92,
-        "changedPercent": 79.72,
-        "scoreVersion": 3
       }
     },
     {
@@ -11209,11 +9386,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:45022"
-      },
-      "match": {
-        "percent": 94.22,
-        "changedPercent": 80.38,
-        "scoreVersion": 3
       }
     },
     {
@@ -11239,11 +9411,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:44841"
-      },
-      "match": {
-        "percent": 89.56,
-        "changedPercent": 79.82,
-        "scoreVersion": 3
       }
     },
     {
@@ -11269,11 +9436,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:45042"
-      },
-      "match": {
-        "percent": 89.29,
-        "changedPercent": 75.8,
-        "scoreVersion": 3
       }
     },
     {
@@ -11299,11 +9461,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:45009"
-      },
-      "match": {
-        "percent": 87.68,
-        "changedPercent": 79.72,
-        "scoreVersion": 3
       }
     },
     {
@@ -11335,11 +9492,6 @@
           "componentId": "Placeholder/IconButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/71571:45026"
-      },
-      "match": {
-        "percent": 90.55,
-        "changedPercent": 81.38,
-        "scoreVersion": 3
       }
     },
     {
@@ -11362,11 +9514,6 @@
           "componentId": "CircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41424:58637"
-      },
-      "match": {
-        "percent": 81.8,
-        "changedPercent": 9.57,
-        "scoreVersion": 3
       }
     },
     {
@@ -11392,11 +9539,6 @@
           "componentId": "CircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41424:58701"
-      },
-      "match": {
-        "percent": 93.12,
-        "changedPercent": 7.28,
-        "scoreVersion": 3
       }
     },
     {
@@ -11422,11 +9564,6 @@
           "componentId": "CircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41424:58909"
-      },
-      "match": {
-        "percent": 90.43,
-        "changedPercent": 15.59,
-        "scoreVersion": 3
       }
     },
     {
@@ -11452,11 +9589,6 @@
           "componentId": "CircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41424:58710"
-      },
-      "match": {
-        "percent": 88.6,
-        "changedPercent": 8.76,
-        "scoreVersion": 3
       }
     },
     {
@@ -11482,11 +9614,6 @@
           "componentId": "CircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41424:58732"
-      },
-      "match": {
-        "percent": 86.41,
-        "changedPercent": 8.37,
-        "scoreVersion": 3
       }
     },
     {
@@ -11512,11 +9639,6 @@
           "componentId": "CircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41424:58771"
-      },
-      "match": {
-        "percent": 92.71,
-        "changedPercent": 7.36,
-        "scoreVersion": 3
       }
     },
     {
@@ -11542,11 +9664,6 @@
           "componentId": "CircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41424:58758"
-      },
-      "match": {
-        "percent": 92.51,
-        "changedPercent": 11.07,
-        "scoreVersion": 3
       }
     },
     {
@@ -11572,11 +9689,6 @@
           "componentId": "CircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41424:58780"
-      },
-      "match": {
-        "percent": 90.49,
-        "changedPercent": 8.02,
-        "scoreVersion": 3
       }
     },
     {
@@ -11602,11 +9714,6 @@
           "componentId": "CircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41424:58745"
-      },
-      "match": {
-        "percent": 93.07,
-        "changedPercent": 7.3,
-        "scoreVersion": 3
       }
     },
     {
@@ -11632,11 +9739,6 @@
           "componentId": "CircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52408:59313"
-      },
-      "match": {
-        "percent": 99.26,
-        "changedPercent": 10.97,
-        "scoreVersion": 3
       }
     },
     {
@@ -11662,11 +9764,6 @@
           "componentId": "CircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/41424:58688"
-      },
-      "match": {
-        "percent": 93.17,
-        "changedPercent": 7.26,
-        "scoreVersion": 3
       }
     },
     {
@@ -11692,11 +9789,6 @@
           "componentId": "CircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52408:59303"
-      },
-      "match": {
-        "percent": 99.3,
-        "changedPercent": 15.48,
-        "scoreVersion": 3
       }
     },
     {
@@ -11725,11 +9817,6 @@
           "componentId": "LinearProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45011:259221"
-      },
-      "match": {
-        "percent": 66.47,
-        "changedPercent": 57.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -11761,11 +9848,6 @@
           "componentId": "LinearProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46818:60712"
-      },
-      "match": {
-        "percent": 18.28,
-        "changedPercent": 81.87,
-        "scoreVersion": 3
       }
     },
     {
@@ -11797,11 +9879,6 @@
           "componentId": "LinearProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46375:9407"
-      },
-      "match": {
-        "percent": 64.67,
-        "changedPercent": 82.88,
-        "scoreVersion": 3
       }
     },
     {
@@ -11833,11 +9910,6 @@
           "componentId": "LinearProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45011:259368"
-      },
-      "match": {
-        "percent": 68.66,
-        "changedPercent": 13.85,
-        "scoreVersion": 3
       }
     },
     {
@@ -11869,11 +9941,6 @@
           "componentId": "LinearProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46375:9391"
-      },
-      "match": {
-        "percent": 69.68,
-        "changedPercent": 14.06,
-        "scoreVersion": 3
       }
     },
     {
@@ -11905,11 +9972,6 @@
           "componentId": "LinearProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45096:30183"
-      },
-      "match": {
-        "percent": 61.95,
-        "changedPercent": 98.54,
-        "scoreVersion": 3
       }
     },
     {
@@ -11941,11 +10003,6 @@
           "componentId": "LinearProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46375:9403"
-      },
-      "match": {
-        "percent": 59.99,
-        "changedPercent": 99.24,
-        "scoreVersion": 3
       }
     },
     {
@@ -11977,11 +10034,6 @@
           "componentId": "LinearProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/46375:9383"
-      },
-      "match": {
-        "percent": 68.11,
-        "changedPercent": 57.96,
-        "scoreVersion": 3
       }
     },
     {
@@ -12010,11 +10062,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57063"
-      },
-      "match": {
-        "percent": 86.39,
-        "changedPercent": 8.87,
-        "scoreVersion": 3
       }
     },
     {
@@ -12046,11 +10093,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57085"
-      },
-      "match": {
-        "percent": 94.9,
-        "changedPercent": 7.06,
-        "scoreVersion": 3
       }
     },
     {
@@ -12082,11 +10124,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57115"
-      },
-      "match": {
-        "percent": 83.31,
-        "changedPercent": 27.61,
-        "scoreVersion": 3
       }
     },
     {
@@ -12118,11 +10155,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57095"
-      },
-      "match": {
-        "percent": 89.03,
-        "changedPercent": 9.14,
-        "scoreVersion": 3
       }
     },
     {
@@ -12154,11 +10186,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:56952"
-      },
-      "match": {
-        "percent": 75.37,
-        "changedPercent": 11.5,
-        "scoreVersion": 3
       }
     },
     {
@@ -12190,11 +10217,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:56965"
-      },
-      "match": {
-        "percent": 92.98,
-        "changedPercent": 7.73,
-        "scoreVersion": 3
       }
     },
     {
@@ -12226,11 +10248,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:56979"
-      },
-      "match": {
-        "percent": 77.71,
-        "changedPercent": 30.87,
-        "scoreVersion": 3
       }
     },
     {
@@ -12262,11 +10279,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:56969"
-      },
-      "match": {
-        "percent": 83.95,
-        "changedPercent": 11.45,
-        "scoreVersion": 3
       }
     },
     {
@@ -12298,11 +10310,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:56916"
-      },
-      "match": {
-        "percent": 82.62,
-        "changedPercent": 9.84,
-        "scoreVersion": 3
       }
     },
     {
@@ -12334,11 +10341,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:56928"
-      },
-      "match": {
-        "percent": 94.52,
-        "changedPercent": 7.6,
-        "scoreVersion": 3
       }
     },
     {
@@ -12370,11 +10372,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:56942"
-      },
-      "match": {
-        "percent": 80.91,
-        "changedPercent": 21.89,
-        "scoreVersion": 3
       }
     },
     {
@@ -12406,11 +10403,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:56932"
-      },
-      "match": {
-        "percent": 88.12,
-        "changedPercent": 9.6,
-        "scoreVersion": 3
       }
     },
     {
@@ -12442,11 +10434,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:56937"
-      },
-      "match": {
-        "percent": 27.11,
-        "changedPercent": 21.51,
-        "scoreVersion": 3
       }
     },
     {
@@ -12478,11 +10465,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:56947"
-      },
-      "match": {
-        "percent": 99.74,
-        "changedPercent": 21.55,
-        "scoreVersion": 3
       }
     },
     {
@@ -12514,11 +10496,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:56974"
-      },
-      "match": {
-        "percent": 95.59,
-        "changedPercent": 7.46,
-        "scoreVersion": 3
       }
     },
     {
@@ -12550,11 +10527,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:56984"
-      },
-      "match": {
-        "percent": 99.56,
-        "changedPercent": 31.01,
-        "scoreVersion": 3
       }
     },
     {
@@ -12586,11 +10558,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57558"
-      },
-      "match": {
-        "percent": 86.76,
-        "changedPercent": 9.2,
-        "scoreVersion": 3
       }
     },
     {
@@ -12622,11 +10589,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57587"
-      },
-      "match": {
-        "percent": 93.87,
-        "changedPercent": 7.72,
-        "scoreVersion": 3
       }
     },
     {
@@ -12658,11 +10620,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57628"
-      },
-      "match": {
-        "percent": 86.95,
-        "changedPercent": 25.34,
-        "scoreVersion": 3
       }
     },
     {
@@ -12694,11 +10651,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57600"
-      },
-      "match": {
-        "percent": 83.22,
-        "changedPercent": 11.47,
-        "scoreVersion": 3
       }
     },
     {
@@ -12730,11 +10682,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57615"
-      },
-      "match": {
-        "percent": 96.57,
-        "changedPercent": 6.91,
-        "scoreVersion": 3
       }
     },
     {
@@ -12766,11 +10713,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57641"
-      },
-      "match": {
-        "percent": 99.59,
-        "changedPercent": 24.72,
-        "scoreVersion": 3
       }
     },
     {
@@ -12802,11 +10744,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57654"
-      },
-      "match": {
-        "percent": 91.16,
-        "changedPercent": 8.89,
-        "scoreVersion": 3
       }
     },
     {
@@ -12838,11 +10775,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57685"
-      },
-      "match": {
-        "percent": 92.67,
-        "changedPercent": 8.45,
-        "scoreVersion": 3
       }
     },
     {
@@ -12874,11 +10806,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57729"
-      },
-      "match": {
-        "percent": 86.01,
-        "changedPercent": 24.96,
-        "scoreVersion": 3
       }
     },
     {
@@ -12910,11 +10837,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57699"
-      },
-      "match": {
-        "percent": 82.3,
-        "changedPercent": 12.4,
-        "scoreVersion": 3
       }
     },
     {
@@ -12946,11 +10868,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57715"
-      },
-      "match": {
-        "percent": 95.46,
-        "changedPercent": 7.73,
-        "scoreVersion": 3
       }
     },
     {
@@ -12982,11 +10899,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57743"
-      },
-      "match": {
-        "percent": 99.43,
-        "changedPercent": 24.39,
-        "scoreVersion": 3
       }
     },
     {
@@ -13018,11 +10930,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57757"
-      },
-      "match": {
-        "percent": 92.77,
-        "changedPercent": 7.82,
-        "scoreVersion": 3
       }
     },
     {
@@ -13054,11 +10961,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57790"
-      },
-      "match": {
-        "percent": 95,
-        "changedPercent": 7.39,
-        "scoreVersion": 3
       }
     },
     {
@@ -13090,11 +10992,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57837"
-      },
-      "match": {
-        "percent": 86.72,
-        "changedPercent": 24.07,
-        "scoreVersion": 3
       }
     },
     {
@@ -13126,11 +11023,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57805"
-      },
-      "match": {
-        "percent": 83.53,
-        "changedPercent": 11.37,
-        "scoreVersion": 3
       }
     },
     {
@@ -13162,11 +11054,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57822"
-      },
-      "match": {
-        "percent": 97.42,
-        "changedPercent": 6.43,
-        "scoreVersion": 3
       }
     },
     {
@@ -13198,11 +11085,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57852"
-      },
-      "match": {
-        "percent": 99.73,
-        "changedPercent": 23.41,
-        "scoreVersion": 3
       }
     },
     {
@@ -13234,11 +11116,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57867"
-      },
-      "match": {
-        "percent": 93.66,
-        "changedPercent": 8.59,
-        "scoreVersion": 3
       }
     },
     {
@@ -13270,11 +11147,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57902"
-      },
-      "match": {
-        "percent": 92.22,
-        "changedPercent": 8.74,
-        "scoreVersion": 3
       }
     },
     {
@@ -13306,11 +11178,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57952"
-      },
-      "match": {
-        "percent": 86.04,
-        "changedPercent": 23.76,
-        "scoreVersion": 3
       }
     },
     {
@@ -13342,11 +11209,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57918"
-      },
-      "match": {
-        "percent": 81.11,
-        "changedPercent": 12.78,
-        "scoreVersion": 3
       }
     },
     {
@@ -13378,11 +11240,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57936"
-      },
-      "match": {
-        "percent": 95.05,
-        "changedPercent": 7.89,
-        "scoreVersion": 3
       }
     },
     {
@@ -13414,11 +11271,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57968"
-      },
-      "match": {
-        "percent": 99.38,
-        "changedPercent": 23.14,
-        "scoreVersion": 3
       }
     },
     {
@@ -13450,11 +11302,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57984"
-      },
-      "match": {
-        "percent": 93.18,
-        "changedPercent": 8.31,
-        "scoreVersion": 3
       }
     },
     {
@@ -13486,11 +11333,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:58021"
-      },
-      "match": {
-        "percent": 92.88,
-        "changedPercent": 8.27,
-        "scoreVersion": 3
       }
     },
     {
@@ -13522,11 +11364,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:58074"
-      },
-      "match": {
-        "percent": 86.66,
-        "changedPercent": 23.03,
-        "scoreVersion": 3
       }
     },
     {
@@ -13558,11 +11395,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:58038"
-      },
-      "match": {
-        "percent": 82.65,
-        "changedPercent": 11.93,
-        "scoreVersion": 3
       }
     },
     {
@@ -13594,11 +11426,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:58057"
-      },
-      "match": {
-        "percent": 95.85,
-        "changedPercent": 7.26,
-        "scoreVersion": 3
       }
     },
     {
@@ -13630,11 +11457,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:58091"
-      },
-      "match": {
-        "percent": 99.46,
-        "changedPercent": 22.32,
-        "scoreVersion": 3
       }
     },
     {
@@ -13666,11 +11488,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65488"
-      },
-      "match": {
-        "percent": 86.97,
-        "changedPercent": 8.42,
-        "scoreVersion": 3
       }
     },
     {
@@ -13702,11 +11519,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65493"
-      },
-      "match": {
-        "percent": 96.59,
-        "changedPercent": 6.57,
-        "scoreVersion": 3
       }
     },
     {
@@ -13738,11 +11550,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65506"
-      },
-      "match": {
-        "percent": 83.03,
-        "changedPercent": 29.96,
-        "scoreVersion": 3
       }
     },
     {
@@ -13774,11 +11581,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65497"
-      },
-      "match": {
-        "percent": 83.44,
-        "changedPercent": 11.04,
-        "scoreVersion": 3
       }
     },
     {
@@ -13810,11 +11612,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65502"
-      },
-      "match": {
-        "percent": 98.08,
-        "changedPercent": 6.06,
-        "scoreVersion": 3
       }
     },
     {
@@ -13846,11 +11643,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65511"
-      },
-      "match": {
-        "percent": 99.92,
-        "changedPercent": 29.48,
-        "scoreVersion": 3
       }
     },
     {
@@ -13882,11 +11674,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65515"
-      },
-      "match": {
-        "percent": 88.37,
-        "changedPercent": 8.62,
-        "scoreVersion": 3
       }
     },
     {
@@ -13918,11 +11705,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65520"
-      },
-      "match": {
-        "percent": 94.69,
-        "changedPercent": 7.28,
-        "scoreVersion": 3
       }
     },
     {
@@ -13954,11 +11736,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65536"
-      },
-      "match": {
-        "percent": 82.02,
-        "changedPercent": 29.55,
-        "scoreVersion": 3
       }
     },
     {
@@ -13990,11 +11767,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65525"
-      },
-      "match": {
-        "percent": 84.36,
-        "changedPercent": 11.1,
-        "scoreVersion": 3
       }
     },
     {
@@ -14026,11 +11798,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65531"
-      },
-      "match": {
-        "percent": 97.03,
-        "changedPercent": 6.87,
-        "scoreVersion": 3
       }
     },
     {
@@ -14062,11 +11829,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65541"
-      },
-      "match": {
-        "percent": 99.74,
-        "changedPercent": 29.07,
-        "scoreVersion": 3
       }
     },
     {
@@ -14098,11 +11860,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65546"
-      },
-      "match": {
-        "percent": 87.37,
-        "changedPercent": 7.89,
-        "scoreVersion": 3
       }
     },
     {
@@ -14134,11 +11891,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65552"
-      },
-      "match": {
-        "percent": 97.4,
-        "changedPercent": 6.1,
-        "scoreVersion": 3
       }
     },
     {
@@ -14170,11 +11922,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65571"
-      },
-      "match": {
-        "percent": 83.41,
-        "changedPercent": 28.62,
-        "scoreVersion": 3
       }
     },
     {
@@ -14206,11 +11953,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65558"
-      },
-      "match": {
-        "percent": 87.88,
-        "changedPercent": 9.02,
-        "scoreVersion": 3
       }
     },
     {
@@ -14242,11 +11984,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65565"
-      },
-      "match": {
-        "percent": 98.73,
-        "changedPercent": 5.46,
-        "scoreVersion": 3
       }
     },
     {
@@ -14278,11 +12015,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65577"
-      },
-      "match": {
-        "percent": 99.9,
-        "changedPercent": 28.16,
-        "scoreVersion": 3
       }
     },
     {
@@ -14314,11 +12046,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65583"
-      },
-      "match": {
-        "percent": 95.63,
-        "changedPercent": 7.4,
-        "scoreVersion": 3
       }
     },
     {
@@ -14350,11 +12077,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65590"
-      },
-      "match": {
-        "percent": 93.91,
-        "changedPercent": 7.59,
-        "scoreVersion": 3
       }
     },
     {
@@ -14386,11 +12108,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65612"
-      },
-      "match": {
-        "percent": 85.39,
-        "changedPercent": 28.41,
-        "scoreVersion": 3
       }
     },
     {
@@ -14422,11 +12139,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65597"
-      },
-      "match": {
-        "percent": 90.98,
-        "changedPercent": 8.87,
-        "scoreVersion": 3
       }
     },
     {
@@ -14458,11 +12170,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65605"
-      },
-      "match": {
-        "percent": 96.57,
-        "changedPercent": 7.11,
-        "scoreVersion": 3
       }
     },
     {
@@ -14494,11 +12201,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/57279:65619"
-      },
-      "match": {
-        "percent": 99.67,
-        "changedPercent": 27.88,
-        "scoreVersion": 3
       }
     },
     {
@@ -14530,11 +12232,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57310"
-      },
-      "match": {
-        "percent": 91.6,
-        "changedPercent": 8.32,
-        "scoreVersion": 3
       }
     },
     {
@@ -14566,11 +12263,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57334"
-      },
-      "match": {
-        "percent": 93.24,
-        "changedPercent": 7.9,
-        "scoreVersion": 3
       }
     },
     {
@@ -14602,11 +12294,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57366"
-      },
-      "match": {
-        "percent": 84.61,
-        "changedPercent": 27.31,
-        "scoreVersion": 3
       }
     },
     {
@@ -14638,11 +12325,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57344"
-      },
-      "match": {
-        "percent": 85.37,
-        "changedPercent": 11.01,
-        "scoreVersion": 3
       }
     },
     {
@@ -14674,11 +12356,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57356"
-      },
-      "match": {
-        "percent": 95.92,
-        "changedPercent": 7.35,
-        "scoreVersion": 3
       }
     },
     {
@@ -14710,11 +12387,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57376"
-      },
-      "match": {
-        "percent": 99.54,
-        "changedPercent": 26.77,
-        "scoreVersion": 3
       }
     },
     {
@@ -14746,11 +12418,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57386"
-      },
-      "match": {
-        "percent": 95.01,
-        "changedPercent": 6.95,
-        "scoreVersion": 3
       }
     },
     {
@@ -14782,11 +12449,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57411"
-      },
-      "match": {
-        "percent": 96.36,
-        "changedPercent": 6.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -14818,11 +12480,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57446"
-      },
-      "match": {
-        "percent": 85.56,
-        "changedPercent": 26.35,
-        "scoreVersion": 3
       }
     },
     {
@@ -14854,11 +12511,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57422"
-      },
-      "match": {
-        "percent": 85,
-        "changedPercent": 10.55,
-        "scoreVersion": 3
       }
     },
     {
@@ -14890,11 +12542,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57435"
-      },
-      "match": {
-        "percent": 98.19,
-        "changedPercent": 5.95,
-        "scoreVersion": 3
       }
     },
     {
@@ -14926,11 +12573,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57457"
-      },
-      "match": {
-        "percent": 99.84,
-        "changedPercent": 25.79,
-        "scoreVersion": 3
       }
     },
     {
@@ -14962,11 +12604,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57468"
-      },
-      "match": {
-        "percent": 88.07,
-        "changedPercent": 9.26,
-        "scoreVersion": 3
       }
     },
     {
@@ -14998,11 +12635,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57496"
-      },
-      "match": {
-        "percent": 93.03,
-        "changedPercent": 8.11,
-        "scoreVersion": 3
       }
     },
     {
@@ -15034,11 +12666,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57534"
-      },
-      "match": {
-        "percent": 86.11,
-        "changedPercent": 26.03,
-        "scoreVersion": 3
       }
     },
     {
@@ -15070,11 +12697,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57508"
-      },
-      "match": {
-        "percent": 83.47,
-        "changedPercent": 11.78,
-        "scoreVersion": 3
       }
     },
     {
@@ -15106,11 +12728,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57522"
-      },
-      "match": {
-        "percent": 95.91,
-        "changedPercent": 7.47,
-        "scoreVersion": 3
       }
     },
     {
@@ -15142,11 +12759,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57546"
-      },
-      "match": {
-        "percent": 99.52,
-        "changedPercent": 25.48,
-        "scoreVersion": 3
       }
     },
     {
@@ -15178,11 +12790,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57106"
-      },
-      "match": {
-        "percent": 97.26,
-        "changedPercent": 6.51,
-        "scoreVersion": 3
       }
     },
     {
@@ -15214,11 +12821,6 @@
           "componentId": "SegmentedCircularProgressIndicator"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/52431:57124"
-      },
-      "match": {
-        "percent": 99.73,
-        "changedPercent": 27.13,
-        "scoreVersion": 3
       }
     },
     {
@@ -15241,11 +12843,6 @@
           "componentId": "CheckboxButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35326:85642"
-      },
-      "match": {
-        "percent": 85.41,
-        "changedPercent": 15.78,
-        "scoreVersion": 3
       }
     },
     {
@@ -15271,11 +12868,6 @@
           "componentId": "CheckboxButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35326:85759"
-      },
-      "match": {
-        "percent": 92.86,
-        "changedPercent": 93.89,
-        "scoreVersion": 3
       }
     },
     {
@@ -15301,11 +12893,6 @@
           "componentId": "CheckboxButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:85470"
-      },
-      "match": {
-        "percent": 98.34,
-        "changedPercent": 11.54,
-        "scoreVersion": 3
       }
     },
     {
@@ -15331,11 +12918,6 @@
           "componentId": "CheckboxButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39901:68053"
-      },
-      "match": {
-        "percent": 8.45,
-        "changedPercent": 92.54,
-        "scoreVersion": 3
       }
     },
     {
@@ -15361,11 +12943,6 @@
           "componentId": "CheckboxButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35326:85681"
-      },
-      "match": {
-        "percent": 84.89,
-        "changedPercent": 12.61,
-        "scoreVersion": 3
       }
     },
     {
@@ -15391,11 +12968,6 @@
           "componentId": "CheckboxButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35326:85720"
-      },
-      "match": {
-        "percent": 92.85,
-        "changedPercent": 93.89,
-        "scoreVersion": 3
       }
     },
     {
@@ -15421,11 +12993,6 @@
           "componentId": "CheckboxButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39901:67929"
-      },
-      "match": {
-        "percent": 98.04,
-        "changedPercent": 34.01,
-        "scoreVersion": 3
       }
     },
     {
@@ -15451,11 +13018,6 @@
           "componentId": "CheckboxButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39901:68045"
-      },
-      "match": {
-        "percent": 8.29,
-        "changedPercent": 92.54,
-        "scoreVersion": 3
       }
     },
     {
@@ -15478,11 +13040,6 @@
           "componentId": "RadioButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35326:85655"
-      },
-      "match": {
-        "percent": 85.7,
-        "changedPercent": 14.8,
-        "scoreVersion": 3
       }
     },
     {
@@ -15508,11 +13065,6 @@
           "componentId": "RadioButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35326:85772"
-      },
-      "match": {
-        "percent": 92.96,
-        "changedPercent": 93.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -15538,11 +13090,6 @@
           "componentId": "RadioButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:85752"
-      },
-      "match": {
-        "percent": 98.31,
-        "changedPercent": 11.78,
-        "scoreVersion": 3
       }
     },
     {
@@ -15568,11 +13115,6 @@
           "componentId": "RadioButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39901:68069"
-      },
-      "match": {
-        "percent": 8.29,
-        "changedPercent": 92.54,
-        "scoreVersion": 3
       }
     },
     {
@@ -15598,11 +13140,6 @@
           "componentId": "RadioButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35326:85694"
-      },
-      "match": {
-        "percent": 84.84,
-        "changedPercent": 12.87,
-        "scoreVersion": 3
       }
     },
     {
@@ -15628,11 +13165,6 @@
           "componentId": "RadioButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35326:85733"
-      },
-      "match": {
-        "percent": 92.77,
-        "changedPercent": 93.7,
-        "scoreVersion": 3
       }
     },
     {
@@ -15658,11 +13190,6 @@
           "componentId": "RadioButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39901:67937"
-      },
-      "match": {
-        "percent": 98.01,
-        "changedPercent": 34.31,
-        "scoreVersion": 3
       }
     },
     {
@@ -15688,11 +13215,6 @@
           "componentId": "RadioButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39901:68061"
-      },
-      "match": {
-        "percent": 8.29,
-        "changedPercent": 92.54,
-        "scoreVersion": 3
       }
     },
     {
@@ -15715,11 +13237,6 @@
           "componentId": "SwitchButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35326:85629"
-      },
-      "match": {
-        "percent": 86.43,
-        "changedPercent": 17.71,
-        "scoreVersion": 3
       }
     },
     {
@@ -15745,11 +13262,6 @@
           "componentId": "SwitchButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35326:85746"
-      },
-      "match": {
-        "percent": 93.42,
-        "changedPercent": 93.88,
-        "scoreVersion": 3
       }
     },
     {
@@ -15775,11 +13287,6 @@
           "componentId": "SwitchButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35276:84912"
-      },
-      "match": {
-        "percent": 98.4,
-        "changedPercent": 12.77,
-        "scoreVersion": 3
       }
     },
     {
@@ -15805,11 +13312,6 @@
           "componentId": "SwitchButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39901:68037"
-      },
-      "match": {
-        "percent": 8.35,
-        "changedPercent": 92.54,
-        "scoreVersion": 3
       }
     },
     {
@@ -15835,11 +13337,6 @@
           "componentId": "SwitchButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35326:85668"
-      },
-      "match": {
-        "percent": 86.2,
-        "changedPercent": 14.99,
-        "scoreVersion": 3
       }
     },
     {
@@ -15865,11 +13362,6 @@
           "componentId": "SwitchButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/35326:85707"
-      },
-      "match": {
-        "percent": 93.46,
-        "changedPercent": 93.89,
-        "scoreVersion": 3
       }
     },
     {
@@ -15895,11 +13387,6 @@
           "componentId": "SwitchButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39901:67921"
-      },
-      "match": {
-        "percent": 98.01,
-        "changedPercent": 37.19,
-        "scoreVersion": 3
       }
     },
     {
@@ -15925,11 +13412,6 @@
           "componentId": "SwitchButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39901:68029"
-      },
-      "match": {
-        "percent": 7.12,
-        "changedPercent": 92.54,
-        "scoreVersion": 3
       }
     },
     {
@@ -15958,11 +13440,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176655"
-      },
-      "match": {
-        "percent": 96.12,
-        "changedPercent": 2.96,
-        "scoreVersion": 3
       }
     },
     {
@@ -15994,11 +13471,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176695"
-      },
-      "match": {
-        "percent": 94.32,
-        "changedPercent": 5.42,
-        "scoreVersion": 3
       }
     },
     {
@@ -16030,11 +13502,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176699"
-      },
-      "match": {
-        "percent": 93.95,
-        "changedPercent": 6.47,
-        "scoreVersion": 3
       }
     },
     {
@@ -16066,11 +13533,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176663"
-      },
-      "match": {
-        "percent": 88.72,
-        "changedPercent": 7.16,
-        "scoreVersion": 3
       }
     },
     {
@@ -16102,11 +13564,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176689"
-      },
-      "match": {
-        "percent": 96.86,
-        "changedPercent": 5.05,
-        "scoreVersion": 3
       }
     },
     {
@@ -16138,12 +13595,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176691"
-      },
-      "match": {
-        "percent": 93.83,
-        "changedPercent": 5.84,
-        "scoreVersion": 3,
-        "geometry": 2.1
       }
     },
     {
@@ -16175,11 +13626,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176701"
-      },
-      "match": {
-        "percent": 91.71,
-        "changedPercent": 6.35,
-        "scoreVersion": 3
       }
     },
     {
@@ -16211,11 +13657,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176693"
-      },
-      "match": {
-        "percent": 91.9,
-        "changedPercent": 6.39,
-        "scoreVersion": 3
       }
     },
     {
@@ -16247,11 +13688,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176661"
-      },
-      "match": {
-        "percent": 97.79,
-        "changedPercent": 1.41,
-        "scoreVersion": 3
       }
     },
     {
@@ -16283,11 +13719,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176665"
-      },
-      "match": {
-        "percent": 96.62,
-        "changedPercent": 4.93,
-        "scoreVersion": 3
       }
     },
     {
@@ -16319,11 +13750,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176707"
-      },
-      "match": {
-        "percent": 98.32,
-        "changedPercent": 6.06,
-        "scoreVersion": 3
       }
     },
     {
@@ -16355,11 +13781,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176717"
-      },
-      "match": {
-        "percent": 98.25,
-        "changedPercent": 2.03,
-        "scoreVersion": 3
       }
     },
     {
@@ -16391,11 +13812,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176705"
-      },
-      "match": {
-        "percent": 98.32,
-        "changedPercent": 2.99,
-        "scoreVersion": 3
       }
     },
     {
@@ -16427,11 +13843,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176669"
-      },
-      "match": {
-        "percent": 97.96,
-        "changedPercent": 2.74,
-        "scoreVersion": 3
       }
     },
     {
@@ -16463,11 +13874,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176685"
-      },
-      "match": {
-        "percent": 97.04,
-        "changedPercent": 2.18,
-        "scoreVersion": 3
       }
     },
     {
@@ -16499,11 +13905,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176711"
-      },
-      "match": {
-        "percent": 98.57,
-        "changedPercent": 2.73,
-        "scoreVersion": 3
       }
     },
     {
@@ -16535,11 +13936,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176673"
-      },
-      "match": {
-        "percent": 98.36,
-        "changedPercent": 2.17,
-        "scoreVersion": 3
       }
     },
     {
@@ -16571,11 +13967,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176683"
-      },
-      "match": {
-        "percent": 83.86,
-        "changedPercent": 6.58,
-        "scoreVersion": 3
       }
     },
     {
@@ -16607,11 +13998,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176653"
-      },
-      "match": {
-        "percent": 96.33,
-        "changedPercent": 5.29,
-        "scoreVersion": 3
       }
     },
     {
@@ -16643,12 +14029,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176675"
-      },
-      "match": {
-        "percent": 95.56,
-        "changedPercent": 5.2,
-        "scoreVersion": 3,
-        "geometry": 13.8
       }
     },
     {
@@ -16680,11 +14060,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176677"
-      },
-      "match": {
-        "percent": 92.45,
-        "changedPercent": 5.85,
-        "scoreVersion": 3
       }
     },
     {
@@ -16716,12 +14091,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176671"
-      },
-      "match": {
-        "percent": 94.45,
-        "changedPercent": 5.11,
-        "scoreVersion": 3,
-        "geometry": 5.6
       }
     },
     {
@@ -16753,11 +14122,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176679"
-      },
-      "match": {
-        "percent": 97.51,
-        "changedPercent": 2.54,
-        "scoreVersion": 3
       }
     },
     {
@@ -16789,11 +14153,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176651"
-      },
-      "match": {
-        "percent": 96.11,
-        "changedPercent": 1.64,
-        "scoreVersion": 3
       }
     },
     {
@@ -16825,11 +14184,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176715"
-      },
-      "match": {
-        "percent": 97.41,
-        "changedPercent": 2.58,
-        "scoreVersion": 3
       }
     },
     {
@@ -16861,12 +14215,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176719"
-      },
-      "match": {
-        "percent": 98.71,
-        "changedPercent": 3.41,
-        "scoreVersion": 3,
-        "geometry": 9.4
       }
     },
     {
@@ -16898,11 +14246,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176713"
-      },
-      "match": {
-        "percent": 98.45,
-        "changedPercent": 2.19,
-        "scoreVersion": 3
       }
     },
     {
@@ -16934,11 +14277,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176667"
-      },
-      "match": {
-        "percent": 98.68,
-        "changedPercent": 2.05,
-        "scoreVersion": 3
       }
     },
     {
@@ -16970,11 +14308,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176659"
-      },
-      "match": {
-        "percent": 96.79,
-        "changedPercent": 3.99,
-        "scoreVersion": 3
       }
     },
     {
@@ -17006,11 +14339,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176709"
-      },
-      "match": {
-        "percent": 98.2,
-        "changedPercent": 5.88,
-        "scoreVersion": 3
       }
     },
     {
@@ -17042,12 +14370,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176703"
-      },
-      "match": {
-        "percent": 97.24,
-        "changedPercent": 4.96,
-        "scoreVersion": 3,
-        "geometry": 4.2
       }
     },
     {
@@ -17079,11 +14401,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176657"
-      },
-      "match": {
-        "percent": 97.49,
-        "changedPercent": 1.82,
-        "scoreVersion": 3
       }
     },
     {
@@ -17115,11 +14432,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176687"
-      },
-      "match": {
-        "percent": 96.91,
-        "changedPercent": 3.11,
-        "scoreVersion": 3
       }
     },
     {
@@ -17151,11 +14463,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176681"
-      },
-      "match": {
-        "percent": 96.24,
-        "changedPercent": 4.78,
-        "scoreVersion": 3
       }
     },
     {
@@ -17187,11 +14494,6 @@
           "componentId": "Shape/MaterialShapes"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/42284:176697"
-      },
-      "match": {
-        "percent": 96.95,
-        "changedPercent": 5.31,
-        "scoreVersion": 3
       }
     },
     {
@@ -17220,12 +14522,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:37256"
-      },
-      "match": {
-        "percent": 94.85,
-        "changedPercent": 6.38,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17257,12 +14553,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:37350"
-      },
-      "match": {
-        "percent": 86.84,
-        "changedPercent": 7.39,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17294,12 +14584,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38275"
-      },
-      "match": {
-        "percent": 86.67,
-        "changedPercent": 89.32,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17331,12 +14615,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:37529"
-      },
-      "match": {
-        "percent": 94.41,
-        "changedPercent": 5.7,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17368,12 +14646,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38293"
-      },
-      "match": {
-        "percent": 96.95,
-        "changedPercent": 84.6,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17405,12 +14677,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:37090"
-      },
-      "match": {
-        "percent": 87.93,
-        "changedPercent": 6.92,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17442,12 +14708,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38257"
-      },
-      "match": {
-        "percent": 89.9,
-        "changedPercent": 90.61,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17479,12 +14739,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38094"
-      },
-      "match": {
-        "percent": 97.68,
-        "changedPercent": 89.02,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17516,12 +14770,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:37238"
-      },
-      "match": {
-        "percent": 95.31,
-        "changedPercent": 6.03,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17553,12 +14801,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38041"
-      },
-      "match": {
-        "percent": 97.73,
-        "changedPercent": 87.94,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17590,12 +14832,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:37511"
-      },
-      "match": {
-        "percent": 94.57,
-        "changedPercent": 6.15,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17627,12 +14863,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38059"
-      },
-      "match": {
-        "percent": 97.18,
-        "changedPercent": 84.97,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17664,12 +14894,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:36912"
-      },
-      "match": {
-        "percent": 94.26,
-        "changedPercent": 6.32,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17701,12 +14925,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38023"
-      },
-      "match": {
-        "percent": 97.43,
-        "changedPercent": 90,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17738,12 +14956,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:37547"
-      },
-      "match": {
-        "percent": 94.57,
-        "changedPercent": 6.4,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17775,12 +14987,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38114"
-      },
-      "match": {
-        "percent": 97.23,
-        "changedPercent": 85.23,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17812,12 +15018,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:36952"
-      },
-      "match": {
-        "percent": 94.09,
-        "changedPercent": 6.59,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17849,12 +15049,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38074"
-      },
-      "match": {
-        "percent": 97.22,
-        "changedPercent": 90.64,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17886,12 +15080,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:37298"
-      },
-      "match": {
-        "percent": 90.05,
-        "changedPercent": 8.28,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17923,12 +15111,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38215"
-      },
-      "match": {
-        "percent": 88.5,
-        "changedPercent": 90.71,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17960,12 +15142,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:37589"
-      },
-      "match": {
-        "percent": 94.66,
-        "changedPercent": 6.75,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -17997,12 +15173,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38239"
-      },
-      "match": {
-        "percent": 97.44,
-        "changedPercent": 85.57,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18034,12 +15204,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:37044"
-      },
-      "match": {
-        "percent": 93.29,
-        "changedPercent": 7.15,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18071,12 +15235,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38191"
-      },
-      "match": {
-        "percent": 96.54,
-        "changedPercent": 91.59,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18108,12 +15266,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:37276"
-      },
-      "match": {
-        "percent": 89.7,
-        "changedPercent": 8.31,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18145,12 +15297,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38152"
-      },
-      "match": {
-        "percent": 87.25,
-        "changedPercent": 90.21,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18182,12 +15328,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:37567"
-      },
-      "match": {
-        "percent": 94.73,
-        "changedPercent": 6.59,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18219,12 +15359,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38174"
-      },
-      "match": {
-        "percent": 97.33,
-        "changedPercent": 85.38,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18256,12 +15390,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:36996"
-      },
-      "match": {
-        "percent": 93.67,
-        "changedPercent": 6.88,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18293,12 +15421,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38130"
-      },
-      "match": {
-        "percent": 96.81,
-        "changedPercent": 91.15,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18330,12 +15452,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:37128"
-      },
-      "match": {
-        "percent": 95.83,
-        "changedPercent": 5.96,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18367,12 +15483,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:37993"
-      },
-      "match": {
-        "percent": 97.83,
-        "changedPercent": 86.66,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18404,12 +15514,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:37495"
-      },
-      "match": {
-        "percent": 94.6,
-        "changedPercent": 6.06,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18441,12 +15545,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:38009"
-      },
-      "match": {
-        "percent": 97.11,
-        "changedPercent": 84.9,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18478,12 +15576,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43711:36893"
-      },
-      "match": {
-        "percent": 94.94,
-        "changedPercent": 6.06,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18515,12 +15607,6 @@
           "componentId": "Slider"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/43718:37977"
-      },
-      "match": {
-        "percent": 97.52,
-        "changedPercent": 89.17,
-        "scoreVersion": 3,
-        "geometry": 2.8
       }
     },
     {
@@ -18543,11 +15629,6 @@
           "componentId": "Stepper"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45007:258717"
-      },
-      "match": {
-        "percent": 47.87,
-        "changedPercent": 24.73,
-        "scoreVersion": 3
       }
     },
     {
@@ -18573,11 +15654,6 @@
           "componentId": "Stepper"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/45007:258722"
-      },
-      "match": {
-        "percent": 88.8,
-        "changedPercent": 25.15,
-        "scoreVersion": 3
       }
     },
     {
@@ -18603,11 +15679,6 @@
           "componentId": "Stepper"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44993:97953"
-      },
-      "match": {
-        "percent": 41.48,
-        "changedPercent": 24.42,
-        "scoreVersion": 3
       }
     },
     {
@@ -18633,11 +15704,6 @@
           "componentId": "Stepper"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44998:8717"
-      },
-      "match": {
-        "percent": 88.47,
-        "changedPercent": 24.87,
-        "scoreVersion": 3
       }
     },
     {
@@ -18663,11 +15729,6 @@
           "componentId": "Stepper"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44998:9084"
-      },
-      "match": {
-        "percent": 65.32,
-        "changedPercent": 18.13,
-        "scoreVersion": 3
       }
     },
     {
@@ -18693,11 +15754,6 @@
           "componentId": "Stepper"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44998:9089"
-      },
-      "match": {
-        "percent": 91.81,
-        "changedPercent": 6.55,
-        "scoreVersion": 3
       }
     },
     {
@@ -18723,11 +15779,6 @@
           "componentId": "Stepper"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44993:61163"
-      },
-      "match": {
-        "percent": 66.34,
-        "changedPercent": 19.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -18753,11 +15804,6 @@
           "componentId": "Stepper"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/44998:8712"
-      },
-      "match": {
-        "percent": 91.06,
-        "changedPercent": 8.34,
-        "scoreVersion": 3
       }
     },
     {
@@ -18780,11 +15826,6 @@
           "componentId": "SwipeToReveal/Button"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/56392:155785"
-      },
-      "match": {
-        "percent": 26.24,
-        "changedPercent": 21.46,
-        "scoreVersion": 3
       }
     },
     {
@@ -18810,11 +15851,6 @@
           "componentId": "SwipeToReveal/Button"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/56392:155789"
-      },
-      "match": {
-        "percent": 46.3,
-        "changedPercent": 20.78,
-        "scoreVersion": 3
       }
     },
     {
@@ -18837,11 +15873,6 @@
           "componentId": "SwipeToReveal/Card"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/56392:155753"
-      },
-      "match": {
-        "percent": 62.27,
-        "changedPercent": 21.97,
-        "scoreVersion": 3
       }
     },
     {
@@ -18867,11 +15898,6 @@
           "componentId": "SwipeToReveal/Card"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/56392:155756"
-      },
-      "match": {
-        "percent": 62.53,
-        "changedPercent": 26.27,
-        "scoreVersion": 3
       }
     },
     {
@@ -18900,12 +15926,6 @@
           "componentId": "Text/Body"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38977:66993"
-      },
-      "match": {
-        "percent": 97.3,
-        "changedPercent": 26.54,
-        "scoreVersion": 3,
-        "geometry": 3
       }
     },
     {
@@ -18937,12 +15957,6 @@
           "componentId": "Text/Body"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38977:66991"
-      },
-      "match": {
-        "percent": 97.28,
-        "changedPercent": 26.53,
-        "scoreVersion": 3,
-        "geometry": 3.3
       }
     },
     {
@@ -18971,12 +15985,6 @@
           "componentId": "Text/Caption"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38977:66998"
-      },
-      "match": {
-        "percent": 91.93,
-        "changedPercent": 28.42,
-        "scoreVersion": 3,
-        "geometry": 8.6
       }
     },
     {
@@ -19008,12 +16016,6 @@
           "componentId": "Text/Caption"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38977:66996"
-      },
-      "match": {
-        "percent": 92,
-        "changedPercent": 29.73,
-        "scoreVersion": 3,
-        "geometry": 9.7
       }
     },
     {
@@ -19036,12 +16038,6 @@
           "componentId": "TimeText"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48151:45209"
-      },
-      "match": {
-        "percent": 77.15,
-        "changedPercent": 2.72,
-        "scoreVersion": 3,
-        "geometry": 24.9
       }
     },
     {
@@ -19067,12 +16063,6 @@
           "componentId": "TimeText"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48151:45224"
-      },
-      "match": {
-        "percent": 78.1,
-        "changedPercent": 3.3,
-        "scoreVersion": 3,
-        "geometry": 19.9
       }
     },
     {
@@ -19098,12 +16088,6 @@
           "componentId": "TimeText"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/64151:205537"
-      },
-      "match": {
-        "percent": 80.17,
-        "changedPercent": 79.38,
-        "scoreVersion": 3,
-        "geometry": 23.1
       }
     },
     {
@@ -19129,12 +16113,6 @@
           "componentId": "TimeText"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/64151:205522"
-      },
-      "match": {
-        "percent": 69.1,
-        "changedPercent": 3.82,
-        "scoreVersion": 3,
-        "geometry": 28.1
       }
     },
     {
@@ -19163,12 +16141,6 @@
           "componentId": "ListHeader"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38977:66978"
-      },
-      "match": {
-        "percent": 96.38,
-        "changedPercent": 28.94,
-        "scoreVersion": 3,
-        "geometry": 4.6
       }
     },
     {
@@ -19200,12 +16172,6 @@
           "componentId": "ListHeader"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48563:243254"
-      },
-      "match": {
-        "percent": 95.44,
-        "changedPercent": 33.39,
-        "scoreVersion": 3,
-        "geometry": 5.9
       }
     },
     {
@@ -19234,12 +16200,6 @@
           "componentId": "ListSubHeader"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38977:66983"
-      },
-      "match": {
-        "percent": 97.24,
-        "changedPercent": 46.81,
-        "scoreVersion": 3,
-        "geometry": 3.7
       }
     },
     {
@@ -19271,12 +16231,6 @@
           "componentId": "ListSubHeader"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/48064:200804"
-      },
-      "match": {
-        "percent": 96.66,
-        "changedPercent": 49.43,
-        "scoreVersion": 3,
-        "geometry": 4.6
       }
     },
     {
@@ -19308,11 +16262,6 @@
           "componentId": "ListSubHeader"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/38977:66985"
-      },
-      "match": {
-        "percent": 82.34,
-        "changedPercent": 44.43,
-        "scoreVersion": 3
       }
     },
     {
@@ -19335,11 +16284,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:684"
-      },
-      "match": {
-        "percent": 98.12,
-        "changedPercent": 4.3,
-        "scoreVersion": 3
       }
     },
     {
@@ -19365,11 +16309,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:756"
-      },
-      "match": {
-        "percent": 99.97,
-        "changedPercent": 79.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -19395,11 +16334,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:752"
-      },
-      "match": {
-        "percent": 99.62,
-        "changedPercent": 79.52,
-        "scoreVersion": 3
       }
     },
     {
@@ -19425,11 +16359,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:754"
-      },
-      "match": {
-        "percent": 99.82,
-        "changedPercent": 79.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -19455,11 +16384,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:758"
-      },
-      "match": {
-        "percent": 99.95,
-        "changedPercent": 80.07,
-        "scoreVersion": 3
       }
     },
     {
@@ -19491,11 +16415,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:680"
-      },
-      "match": {
-        "percent": 82.43,
-        "changedPercent": 7.51,
-        "scoreVersion": 3
       }
     },
     {
@@ -19521,11 +16440,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:682"
-      },
-      "match": {
-        "percent": 97.53,
-        "changedPercent": 3.84,
-        "scoreVersion": 3
       }
     },
     {
@@ -19551,11 +16465,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:748"
-      },
-      "match": {
-        "percent": 98.48,
-        "changedPercent": 4.29,
-        "scoreVersion": 3
       }
     },
     {
@@ -19587,11 +16496,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:744"
-      },
-      "match": {
-        "percent": 95.3,
-        "changedPercent": 6.96,
-        "scoreVersion": 3
       }
     },
     {
@@ -19617,11 +16521,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:746"
-      },
-      "match": {
-        "percent": 98.12,
-        "changedPercent": 3.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -19647,11 +16546,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:750"
-      },
-      "match": {
-        "percent": 98.47,
-        "changedPercent": 3.93,
-        "scoreVersion": 3
       }
     },
     {
@@ -19677,11 +16571,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:694"
-      },
-      "match": {
-        "percent": 91.62,
-        "changedPercent": 9.38,
-        "scoreVersion": 3
       }
     },
     {
@@ -19707,11 +16596,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:688"
-      },
-      "match": {
-        "percent": 57.84,
-        "changedPercent": 13.3,
-        "scoreVersion": 3
       }
     },
     {
@@ -19737,11 +16621,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:691"
-      },
-      "match": {
-        "percent": 97.07,
-        "changedPercent": 2.86,
-        "scoreVersion": 3
       }
     },
     {
@@ -19767,11 +16646,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:697"
-      },
-      "match": {
-        "percent": 92.21,
-        "changedPercent": 10.68,
-        "scoreVersion": 3
       }
     },
     {
@@ -19797,11 +16671,6 @@
           "componentId": "IconToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:686"
-      },
-      "match": {
-        "percent": 98.23,
-        "changedPercent": 3.96,
-        "scoreVersion": 3
       }
     },
     {
@@ -19824,11 +16693,6 @@
           "componentId": "TextToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:767"
-      },
-      "match": {
-        "percent": 80.11,
-        "changedPercent": 17.31,
-        "scoreVersion": 3
       }
     },
     {
@@ -19854,11 +16718,6 @@
           "componentId": "TextToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:789"
-      },
-      "match": {
-        "percent": 99.72,
-        "changedPercent": 79.81,
-        "scoreVersion": 3
       }
     },
     {
@@ -19884,11 +16743,6 @@
           "componentId": "TextToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:785"
-      },
-      "match": {
-        "percent": 87.99,
-        "changedPercent": 79.52,
-        "scoreVersion": 3
       }
     },
     {
@@ -19914,11 +16768,6 @@
           "componentId": "TextToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:787"
-      },
-      "match": {
-        "percent": 99.74,
-        "changedPercent": 79.67,
-        "scoreVersion": 3
       }
     },
     {
@@ -19944,11 +16793,6 @@
           "componentId": "TextToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:761"
-      },
-      "match": {
-        "percent": 61.47,
-        "changedPercent": 20.48,
-        "scoreVersion": 3
       }
     },
     {
@@ -19974,11 +16818,6 @@
           "componentId": "TextToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:776"
-      },
-      "match": {
-        "percent": 72.32,
-        "changedPercent": 19.86,
-        "scoreVersion": 3
       }
     },
     {
@@ -20010,12 +16849,6 @@
           "componentId": "TextToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:770"
-      },
-      "match": {
-        "percent": 89.95,
-        "changedPercent": 14.34,
-        "scoreVersion": 3,
-        "geometry": 26.4
       }
     },
     {
@@ -20047,12 +16880,6 @@
           "componentId": "TextToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:773"
-      },
-      "match": {
-        "percent": 70.53,
-        "changedPercent": 24.25,
-        "scoreVersion": 3,
-        "geometry": 11.7
       }
     },
     {
@@ -20078,11 +16905,6 @@
           "componentId": "TextToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:764"
-      },
-      "match": {
-        "percent": 60.23,
-        "changedPercent": 20.5,
-        "scoreVersion": 3
       }
     },
     {
@@ -20108,11 +16930,6 @@
           "componentId": "TextToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:783"
-      },
-      "match": {
-        "percent": 98.4,
-        "changedPercent": 8.59,
-        "scoreVersion": 3
       }
     },
     {
@@ -20138,11 +16955,6 @@
           "componentId": "TextToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:779"
-      },
-      "match": {
-        "percent": 80.23,
-        "changedPercent": 12.55,
-        "scoreVersion": 3
       }
     },
     {
@@ -20168,11 +16980,6 @@
           "componentId": "TextToggleButton"
         },
         "uri": "figma:B24oss2tTeXAFykyeyusz0/39083:781"
-      },
-      "match": {
-        "percent": 98.49,
-        "changedPercent": 6.89,
-        "scoreVersion": 3
       }
     }
   ]
