@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-08T10:23:04.535Z",
+  "generatedAt": "2026-10-08T12:01:58.797Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "b8d34f734d47e940349ae7ac01b5ba996601374b",
+        "subject": "refactor: use the SDK's changeBoundState for two-way bound rows (#729)",
+        "at": "2026-10-08T12:52:30+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ad69d1b2b3991195dbe55d3e82d54f4e6a8dd2ee",
+        "subject": "feat: two-way bind selection controls to design state on the canvas (#728)",
+        "at": "2026-10-08T11:19:10+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "fb9353f9e631b023f90512c823c14d51c716f7d0",
         "subject": "fix(deps): bump alpha deps, adopt the Wear Compose 1.7.1 port and re-cut the AndroidX samples (#726)",
@@ -467,22 +483,6 @@
         "subject": "fix(deps): update compose (#645)",
         "at": "2026-09-30T17:35:10+01:00",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "64c682a32ad606d69467ba7e66532048274f3a20",
-        "subject": "chore(deps): update ci toolchain (major) (#648)",
-        "at": "2026-09-30T17:34:56+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "45ba1c1529a58a409b6a40b49087c5b50d884501",
-        "subject": "chore(ci): drop the four ThemeSpecimen entries from the CMP/Wasm allowlist (#656)",
-        "at": "2026-09-30T17:34:33+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
