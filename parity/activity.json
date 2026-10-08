@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-07T22:56:00.064Z",
+  "generatedAt": "2026-10-08T08:17:48.388Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "4f5d2bcdf966a53fc59d161c81549312749ed46f",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.35.1 (#724)",
+        "at": "2026-10-08T08:11:31Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "81660a1d7d89dac75cd10bd46bb5371863fbc2f7",
         "subject": "chore(deps): update compose-ai-tools to v2.35.1 (#722)",
@@ -474,14 +482,6 @@
         "sha": "46efb8daef0926b4d805232c324c8567776dce62",
         "subject": "fix(ui-builder): grow the unrolled Wear screen, and transform each list row once (#653)",
         "at": "2026-09-30T06:50:09+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "83874da1322dae466d7c6a9342a4d4de03c47c0f",
-        "subject": "fix(ci): repair preview publish, component-map refresh and the compose-preview-daemon ref split (#654)",
-        "at": "2026-09-30T06:47:15+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
