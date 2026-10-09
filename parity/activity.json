@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T22:40:59.052Z",
+  "generatedAt": "2026-10-09T22:55:47.718Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "46406c6c79539f88e4e944ddc448919dc260cc55",
+        "subject": "fix(ci): build the UI-builder runtime against compose-ui-builder v3.100.0 (#744)",
+        "at": "2026-10-09T23:49:06+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "322d7227df3c5b99f1a5888100b564ed08d0b806",
+        "subject": "chore(deps): update compose-ai-tools to v2.38.0 (#743)",
+        "at": "2026-10-09T22:34:44Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a6fb8605f1c5d8ee654f88b4e7d4a17255f9dbb7",
         "subject": "ci: compose-ai-tools 2.38.0, and check changed previews against this catalog's design guidelines (#742)",
@@ -467,22 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:data-remotecompose-connector to v3.11.0 (#671)",
         "at": "2026-10-01T22:49:02Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "411ea51316de2d6d3a6b221dfcfddb7c810fab7e",
-        "subject": "fix(deps): update compose-preview-daemon-annotations to v3.11.0 (#669)",
-        "at": "2026-10-01T22:47:20Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e460bf88fde0af6206dcad50972d9e83e3129af0",
-        "subject": "feat(parity): crop the candidate's renderer-imposed frame against tight kit cells (#138) (#668)",
-        "at": "2026-10-01T23:35:21+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
