@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T09:16:58.404Z",
+  "generatedAt": "2026-10-09T15:35:28.450Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "6ed51ca0090190623dbf1ed75181583b786b1f2d",
+        "subject": "chore(deps): update compose-ai-tools to v2.37.0 (#739)",
+        "at": "2026-10-09T15:29:13Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b123e1696b36cb55ca6dce26d147ad8b8258bca7",
+        "subject": "chore(renovate): group the Wear Compose CMP port with Compose (#738)",
+        "at": "2026-10-09T11:29:35+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d094b5b9c35412b97a279a5a52d92214f1ab2d63",
         "subject": "fix(deps): bump the Wear Compose CMP port to 1.7.1-cmp02 (#737)",
@@ -466,22 +482,6 @@
         "sha": "90fcbab25731199b46b8b4483820346144b613d6",
         "subject": "fix(deps): capture remote-m3 against the host density on rc-players 2.0.4 (#665)",
         "at": "2026-10-01T13:39:05+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2007db09e6b35d4deaaa6a9c4917919b181182bd",
-        "subject": "ci: give the remote-m3 design-artifacts job 120 minutes (#664)",
-        "at": "2026-10-01T09:10:40+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "21180a7d7f52d944eeef1746eefa1ab76876fea7",
-        "subject": "fix(ci): pass a token so preview publish can fetch the PR run's handoff (#663)",
-        "at": "2026-10-01T08:02:20+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
