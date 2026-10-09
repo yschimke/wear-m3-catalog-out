@@ -1,0 +1,200 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../wear-compose-foundation/1.7.1-cmp02/wear-compose-foundation-1.7.1-cmp02.module",
+    "group": "ee.schimke.wearcmp",
+    "module": "wear-compose-foundation",
+    "version": "1.7.1-cmp02",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "wasmJsApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.foundation",
+          "module": "foundation",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.ui",
+          "module": "ui",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.animation",
+          "module": "animation",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "ee.schimke.wearcmp",
+          "module": "port-runtime",
+          "version": {
+            "requires": "1.7.1-cmp02"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.skiko",
+          "module": "skiko",
+          "version": {
+            "requires": "0.150.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "wear-compose-foundation-wasm-js-1.7.1-cmp02.klib",
+          "url": "wear-compose-foundation-wasm-js-1.7.1-cmp02.klib",
+          "size": 816092,
+          "sha512": "71720502ad61fc70f8c0742ef3661cc35f063dc33180c730ee2528f1bb01be1b37a7f62d69b5863985e12ee70bd81a436c2ad29027fdbe81341f9a32a417f374",
+          "sha256": "4cb0d35949d632ccab4554c3a3f79e48b8ffa2984cadb0a0dcf69d5a1b7333ce",
+          "sha1": "ef67db859627d9529b18ab369f63bb2b95887117",
+          "md5": "90fa7b8474f44f4bec34c9e1f0b13d10"
+        }
+      ]
+    },
+    {
+      "name": "wasmJsRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.foundation",
+          "module": "foundation",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.ui",
+          "module": "ui",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.animation",
+          "module": "animation",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "ee.schimke.wearcmp",
+          "module": "port-runtime",
+          "version": {
+            "requires": "1.7.1-cmp02"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.skiko",
+          "module": "skiko",
+          "version": {
+            "requires": "0.150.1"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.10.0"
+          }
+        },
+        {
+          "group": "androidx.collection",
+          "module": "collection",
+          "version": {
+            "requires": "1.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "wear-compose-foundation-wasm-js-1.7.1-cmp02.klib",
+          "url": "wear-compose-foundation-wasm-js-1.7.1-cmp02.klib",
+          "size": 816092,
+          "sha512": "71720502ad61fc70f8c0742ef3661cc35f063dc33180c730ee2528f1bb01be1b37a7f62d69b5863985e12ee70bd81a436c2ad29027fdbe81341f9a32a417f374",
+          "sha256": "4cb0d35949d632ccab4554c3a3f79e48b8ffa2984cadb0a0dcf69d5a1b7333ce",
+          "sha1": "ef67db859627d9529b18ab369f63bb2b95887117",
+          "md5": "90fa7b8474f44f4bec34c9e1f0b13d10"
+        }
+      ]
+    },
+    {
+      "name": "wasmJsSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "files": [
+        {
+          "name": "wear-compose-foundation-wasm-js-1.7.1-cmp02-sources.jar",
+          "url": "wear-compose-foundation-wasm-js-1.7.1-cmp02-sources.jar",
+          "size": 230759,
+          "sha512": "ac2f3d9188d618b045152139c0aba52e23c4431410d5a274ceba887d4f79851441e8be420070762ba618946622444dca324f3a4bfa43104c94301df9e1ba1424",
+          "sha256": "4c381b9c9f036745a4af250706dff4395fb75f5c86d1ba02aaafffa9b9dd5e98",
+          "sha1": "1f51f0419be33216fae6243834a89861ce5f1b2a",
+          "md5": "5085152c833f0b2d2b9ec697a3732cf0"
+        }
+      ]
+    }
+  ]
+}
