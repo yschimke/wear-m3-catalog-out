@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "a545631994bd1b12a6a77121d17a34bd26d419d6",
+    "generatedFrom": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
     "previews": {
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ButtonsKt.ButtonRowGroup": {
             "path": "renders/catalog-desktop/ButtonRowGroup-91cd010c.png",
@@ -9534,6 +9534,13 @@
             "path": "renders/catalog-desktop/WearList_192dp-97261d54_SCROLL_long.png",
             "versions": [
                 {
+                    "blob": "109df8186789008f054b110697afd14944386f09",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
+                {
                     "blob": "4f3e6b6779963ea8930e6f812f130d5d98ef54fe",
                     "commit": "506b4b85f029b0097398c5f382e9f1dcf26fdefd",
                     "date": "2026-10-02T18:40:36Z",
@@ -9548,7 +9555,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
@@ -9571,6 +9578,13 @@
             "path": "renders/catalog-desktop/WearList_204dp-9f455324_SCROLL_long.png",
             "versions": [
                 {
+                    "blob": "6c9190abeeb648d6f4dabb18aa3a2c3fa73bac46",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
+                {
                     "blob": "ef88010d0aad3a6640ead895e37e9e86e0530d0a",
                     "commit": "506b4b85f029b0097398c5f382e9f1dcf26fdefd",
                     "date": "2026-10-02T18:40:36Z",
@@ -9585,7 +9599,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
@@ -9608,6 +9622,13 @@
             "path": "renders/catalog-desktop/WearList_216dp-1852125b_SCROLL_long.png",
             "versions": [
                 {
+                    "blob": "8a3e46ceedab870cb2336db8b2d561f81f2dcdae",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
+                {
                     "blob": "6650d3c9e64c6b6d16d87b0de4d4afc800e8596d",
                     "commit": "506b4b85f029b0097398c5f382e9f1dcf26fdefd",
                     "date": "2026-10-02T18:40:36Z",
@@ -9622,7 +9643,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
@@ -9645,6 +9666,13 @@
             "path": "renders/catalog-desktop/WearList_225dp-3f97ce9d_SCROLL_long.png",
             "versions": [
                 {
+                    "blob": "df7b99e4fb936d3e4c0b22c3eb9d6e58ccaf918c",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
+                {
                     "blob": "2645a4555dfd989e420e9bc28f4398c38ba92946",
                     "commit": "506b4b85f029b0097398c5f382e9f1dcf26fdefd",
                     "date": "2026-10-02T18:40:36Z",
@@ -9659,7 +9687,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
@@ -9682,6 +9710,13 @@
             "path": "renders/catalog-desktop/WearList_240dp-f9526f40_SCROLL_long.png",
             "versions": [
                 {
+                    "blob": "2752d69b604736f6c1d4cc8c8fc0466b2d352287",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
+                {
                     "blob": "ff4ca948e3a2161ebe3a55a850b7dbd747e4e85d",
                     "commit": "506b4b85f029b0097398c5f382e9f1dcf26fdefd",
                     "date": "2026-10-02T18:40:36Z",
@@ -9696,13 +9731,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_192dp": {
             "path": "renders/catalog-desktop/WearScaffold_192dp-07484732.png",
             "versions": [
+                {
+                    "blob": "b53cdc226c804ba78e318e659907997af01277a2",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "c07e2446771d0a39efec4902e78b61d37b9990eb",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -9711,13 +9753,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_192dp_VARIANT_no-scroll-indicator": {
             "path": "renders/catalog-desktop/WearScaffold_192dp_VARIANT_no_scroll_indicator-e02a328e.png",
             "versions": [
+                {
+                    "blob": "2d1790f8381ddaf0c18936acea023cd5b586fc62",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "3901ab90221a36197d300aba38ceb5f517e6dec8",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -9726,13 +9775,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_204dp": {
             "path": "renders/catalog-desktop/WearScaffold_204dp-78d340b7.png",
             "versions": [
+                {
+                    "blob": "b3a67409d4aa2254eed6759ed1de05f919c66213",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "5521a482332229ef995b3ab354dac7310bbd1980",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -9741,13 +9797,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_204dp_VARIANT_no-scroll-indicator": {
             "path": "renders/catalog-desktop/WearScaffold_204dp_VARIANT_no_scroll_indicator-79cd8b52.png",
             "versions": [
+                {
+                    "blob": "324c3d1de50c907ae419ef27bdf0fc8093b59e22",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "305de2df160bcf09ce94402e1726471f69782046",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -9756,13 +9819,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_216dp": {
             "path": "renders/catalog-desktop/WearScaffold_216dp-42b25897.png",
             "versions": [
+                {
+                    "blob": "4497e205b31b5001462d3e86ca9a1b3e8f29381a",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "9cc67f13774fe51a9cda71ceb06a0c272120d6c5",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -9771,13 +9841,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_216dp_VARIANT_no-scroll-indicator": {
             "path": "renders/catalog-desktop/WearScaffold_216dp_VARIANT_no_scroll_indicator-208b490d.png",
             "versions": [
+                {
+                    "blob": "af4c6760c2eff155e3f8d23e9c935bf0c848b351",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "05b17babe2fde3ef56f5675966a1cc0594b5f442",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -9786,13 +9863,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_225dp": {
             "path": "renders/catalog-desktop/WearScaffold_225dp-3432b0f0.png",
             "versions": [
+                {
+                    "blob": "c39c2fa1aa8d959a7d5947dd03b3d66835f669a6",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "2b71110775d7f5e253feef6fd50837d246c04a22",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -9801,13 +9885,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_225dp_VARIANT_no-scroll-indicator": {
             "path": "renders/catalog-desktop/WearScaffold_225dp_VARIANT_no_scroll_indicator-fe625eec.png",
             "versions": [
+                {
+                    "blob": "f099dbc8acf6ab3bd65237e266c2033555e73668",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "6473764da23b84e9ac4b9915d671fd2f6bcbd0d1",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -9816,13 +9907,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_240dp": {
             "path": "renders/catalog-desktop/WearScaffold_240dp-0677c17d.png",
             "versions": [
+                {
+                    "blob": "a89ffbb2e2a7d15162a6e9e04b2c988f83d1a17f",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "b6c8927063c6e354964a5807efda36c95da0aec0",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -9831,13 +9929,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_240dp_VARIANT_no-scroll-indicator": {
             "path": "renders/catalog-desktop/WearScaffold_240dp_VARIANT_no_scroll_indicator-c2a5222c.png",
             "versions": [
+                {
+                    "blob": "a3c16e656496a085916a2174e389d34e37727f94",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "330a04c2082e854ad066a3e8ffefa26e58aef78d",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -9846,7 +9951,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -10371,6 +10476,13 @@
             "path": "renders/catalog-desktop/HorizontalPagerScreen_192dp-fb808ca1.png",
             "versions": [
                 {
+                    "blob": "fdf65458606c638f544eafa3823da7f7f160bf10",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
+                {
                     "blob": "1f96b272addd576c10bff95b17601f64414f3006",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
                     "date": "2026-09-11T15:38:36Z",
@@ -10385,13 +10497,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_192dp_VARIANT_first-page": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_192dp_VARIANT_first_page-3ed939be.png",
             "versions": [
+                {
+                    "blob": "0ab8194355c7d1160192f17d377ec0db03fae33d",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "91443a2123757af0ae41bad5e6e10d4b6e0b4ae0",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10407,13 +10526,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_192dp_VARIANT_last-page": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_192dp_VARIANT_last_page-7c30ddf7.png",
             "versions": [
+                {
+                    "blob": "e8d918dd546ffa1b0ea21ae1116bf31822de6a8a",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "3c00c2ac63f84586d2507176940ec8fb0c8a629c",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10429,13 +10555,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_192dp_VARIANT_two-pages": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_192dp_VARIANT_two_pages-07e841e4.png",
             "versions": [
+                {
+                    "blob": "d3c853382c7475e7b44c3c0bbd5a1105f5efb38e",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "63c0f0585ec145552503367d9a3aa409f18f2e2d",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10451,13 +10584,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_204dp": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_204dp-727b1ac2.png",
             "versions": [
+                {
+                    "blob": "a862bace9d3c77f29cc429bf5dc69ab9167b906c",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "fd880113ed5733c4c17df9a005f654f543187e4e",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10473,13 +10613,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_204dp_VARIANT_first-page": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_204dp_VARIANT_first_page-a9b49a6f.png",
             "versions": [
+                {
+                    "blob": "61bdf8352a34f9512f5f65e733f915316caef03d",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "3f69056d5b602443bd972138f29c763a80da0585",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10495,13 +10642,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_204dp_VARIANT_last-page": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_204dp_VARIANT_last_page-f5ed28da.png",
             "versions": [
+                {
+                    "blob": "64411a57b188e4e6442d7359ae9c45f109ecce52",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "26edd6f10238dc4a7fb5f1f424aa9971882a42f4",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10517,13 +10671,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_204dp_VARIANT_two-pages": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_204dp_VARIANT_two_pages-955f5c9c.png",
             "versions": [
+                {
+                    "blob": "48549503168028362864d8cd0c233d99602b6acf",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "cce40f5401a770da3e481ee055247051ce95f38c",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10539,13 +10700,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_216dp": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_216dp-50d31222.png",
             "versions": [
+                {
+                    "blob": "a7f99543953e1ba4913a0966befb1e726031155e",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "cbf9b32023ff0fc8a420948ce320ea4d3e5746ec",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10561,13 +10729,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_216dp_VARIANT_first-page": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_216dp_VARIANT_first_page-47edeada.png",
             "versions": [
+                {
+                    "blob": "ff04f68d59aebed07b91ca15816a74735393bbdf",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "954935e07a225a432382df3eb3c837541efdf78c",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10583,13 +10758,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_216dp_VARIANT_last-page": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_216dp_VARIANT_last_page-843b82d9.png",
             "versions": [
+                {
+                    "blob": "ba4b821d1d3dcf5396f0c31c6cd6985554006c69",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "f064364cd10fa446b8eb4a423582ef3371d9ca53",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10605,13 +10787,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_216dp_VARIANT_two-pages": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_216dp_VARIANT_two_pages-5a4b5a1a.png",
             "versions": [
+                {
+                    "blob": "7ef12d2d350fd0ea72dfd8638a1a01cb82346011",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "fc47484ddc67b8b6495e3f473917d3834ebea846",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10627,13 +10816,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_225dp": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_225dp-736e8d85.png",
             "versions": [
+                {
+                    "blob": "038e07f5ea0ad5b5b1aca16edd76847df1453d1e",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "8a2c1620affeea81a92237954d7965b88b079bec",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10649,13 +10845,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_225dp_VARIANT_first-page": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_225dp_VARIANT_first_page-f9e9a6ff.png",
             "versions": [
+                {
+                    "blob": "f4c6347aa4011ffc9e3ea947edfab5682b52a68d",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "f76d11fff5a97bd6b620ea010cf05e88b1d3937b",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10671,13 +10874,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_225dp_VARIANT_last-page": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_225dp_VARIANT_last_page-ab6443b4.png",
             "versions": [
+                {
+                    "blob": "a8cf99049a2a7126786314ca87546c54734584fb",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "2874afeabc000419b1bd572a87243256ad5219fd",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10693,13 +10903,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_225dp_VARIANT_two-pages": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_225dp_VARIANT_two_pages-be504eef.png",
             "versions": [
+                {
+                    "blob": "16efb05d7a7f53ea992f012cdad3b6331cef1c6b",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "d429af54662f269f861190c43fdd394de57b161b",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10715,13 +10932,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_240dp": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_240dp-f046b48c.png",
             "versions": [
+                {
+                    "blob": "0f3ea4333b1a3be154e0a1100eaceb7753f88bc4",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "85f9b12864d189c00c6fd45a17330889b63a0f05",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10737,13 +10961,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_240dp_VARIANT_first-page": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_240dp_VARIANT_first_page-44206066.png",
             "versions": [
+                {
+                    "blob": "b4ab18f85905fdf66c6f5ea6ba68d710714613c7",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "2c40d752dd60d1ffba1f27aee7c1327343cd4982",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10759,13 +10990,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_240dp_VARIANT_last-page": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_240dp_VARIANT_last_page-42c40c90.png",
             "versions": [
+                {
+                    "blob": "4fbbb1ae4d789e9a953d2d97efb836b65fcdee42",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "c7139e04efa6eb354ddd5f734b2a8aa5a476f512",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10781,13 +11019,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_240dp_VARIANT_two-pages": {
             "path": "renders/catalog-desktop/HorizontalPagerScreen_240dp_VARIANT_two_pages-f981ee82.png",
             "versions": [
+                {
+                    "blob": "dcc1a1a2fab072571af5832859e636a28cde77c4",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "2daae5991241c09c29d571eff8db8de56693ba53",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10803,13 +11048,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_192dp": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_192dp-fd95127a.png",
             "versions": [
+                {
+                    "blob": "b1ebc46961f7c99c4338c60ad167ca8b6648f16a",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "98d533a0e448dbf98dc4b4d88708017c283b094c",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10825,13 +11077,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_192dp_VARIANT_first-page": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_192dp_VARIANT_first_page-2dc6a0ec.png",
             "versions": [
+                {
+                    "blob": "b64ea3b2666b1b6ad7fca8ab40dea1f6f569248e",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "0948377de09fb3a15be15190e841a7b2484eaf4f",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10847,13 +11106,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_192dp_VARIANT_last-page": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_192dp_VARIANT_last_page-19cb7c3b.png",
             "versions": [
+                {
+                    "blob": "54daa3cc94fa87d606afcf9f8664f5a4a10cabf3",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "dadd1e26d721b20a59bd4606e94daea34a6aac17",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10869,13 +11135,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_204dp": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_204dp-a8149279.png",
             "versions": [
+                {
+                    "blob": "31f4ccf5bc1f41ab9b0513deb7145ef9e66166a3",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "4f1b9b00453d221bf354edf538d3917c7a1f9b96",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10891,13 +11164,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_204dp_VARIANT_first-page": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_204dp_VARIANT_first_page-1b20810a.png",
             "versions": [
+                {
+                    "blob": "a51a571ecff320d8df62b9e9ab477688be762d31",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "8d0cdb6d87f55c855a2f7d50667e788f9d4aaf8f",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10913,13 +11193,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_204dp_VARIANT_last-page": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_204dp_VARIANT_last_page-5cfaba44.png",
             "versions": [
+                {
+                    "blob": "ab444f348d4091d8439cb6548570b7ea1df99c05",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "b743e88f5a56afcd1cfe38b1842df9b35e2acd6a",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10935,13 +11222,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_216dp": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_216dp-18c74923.png",
             "versions": [
+                {
+                    "blob": "e1679e737edd33dd282d6ca7f9d2417f394ece36",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "21d6362e94018773848f2da3a233b0b9f329e77f",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10957,13 +11251,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_216dp_VARIANT_first-page": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_216dp_VARIANT_first_page-8e4ca213.png",
             "versions": [
+                {
+                    "blob": "bb18245b89270f5afb18cef0e201f597376022d0",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "097c8aca26337c24eb6db7dcc8a7a8ae57608ffa",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -10979,13 +11280,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_216dp_VARIANT_last-page": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_216dp_VARIANT_last_page-b6609c10.png",
             "versions": [
+                {
+                    "blob": "60dc04baa78e4238f681b698fba7ccf04d093764",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "1872be3f25f0ab526dfba7ac95fbed0cfe635895",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -11001,13 +11309,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_225dp": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_225dp-d6250121.png",
             "versions": [
+                {
+                    "blob": "3f5110e1f87dfdc2f108471ea2fbe634fa531d92",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "748d35a6b00d01dbbbbc2d9e913cd472ac8f0bac",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -11023,13 +11338,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_225dp_VARIANT_first-page": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_225dp_VARIANT_first_page-09e6ede3.png",
             "versions": [
+                {
+                    "blob": "cb9d17f92e56230557cd4c375c5c862de768768f",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "538f887805e3f3650ac0e7a7806ea57ccdc71d24",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -11045,13 +11367,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_225dp_VARIANT_last-page": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_225dp_VARIANT_last_page-26aa490a.png",
             "versions": [
+                {
+                    "blob": "03894ce621b640a05b4a6c37f2b7221c89266cec",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "b3992a6823389f16cf92b0882792ee4eb01b1d6b",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -11067,13 +11396,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_240dp": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_240dp-6300dd8a.png",
             "versions": [
+                {
+                    "blob": "d0adf8347c660330b626e3c2d5782295e3a08306",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "3199ee50f7bf2e85c33e4259771c730505a317fc",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -11089,13 +11425,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_240dp_VARIANT_first-page": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_240dp_VARIANT_first_page-3fa40d15.png",
             "versions": [
+                {
+                    "blob": "94e163432551b483c8e0653711a208d16742dbd2",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "a8443c701e9a180767e1dd6edc3a0ad40bde1bd5",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -11111,13 +11454,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_240dp_VARIANT_last-page": {
             "path": "renders/catalog-desktop/VerticalPagerScreen_240dp_VARIANT_last_page-0c265c4c.png",
             "versions": [
+                {
+                    "blob": "7e2d8103637d283a4f562275c13be0527ef1a91f",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "c03824c1382542bde297a7c64c4e12e8eb031f98",
                     "commit": "5724538233bc7295cb6ce54ee97b7cd570c89525",
@@ -11133,7 +11483,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 2,
+            "observations": 3,
             "unstable": false,
             "flapCount": 0
         },
@@ -18595,6 +18945,13 @@
             "path": "renders/catalog-desktop/FixedTimeText_192dp-1ef57197.png",
             "versions": [
                 {
+                    "blob": "10411e0cf9575dfeeafaad6ea74e0b1dc0e6ac2f",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
+                {
                     "blob": "ca3ade71cb13b4e9afe61a92695029cf2879ee46",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
                     "date": "2026-09-11T14:27:21Z",
@@ -18602,13 +18959,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_192dp_VARIANT_24-hour": {
             "path": "renders/catalog-desktop/FixedTimeText_192dp_VARIANT_24_hour-084e1ec5.png",
             "versions": [
+                {
+                    "blob": "0276385a2836c4946e9d0a66718fc0341b41e510",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "a1eaf7e5a3cfb188579860cf7fbaf4973a3ab352",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18617,13 +18981,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_192dp_VARIANT_24-hour-largest-font": {
             "path": "renders/catalog-desktop/FixedTimeText_192dp_VARIANT_24_hour_largest_font-6200ae58.png",
             "versions": [
+                {
+                    "blob": "ab6b51e202981fd63159d2257fa7199fc18c0247",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "86132064c18a0a87216abb08c5a36357092b5480",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18632,13 +19003,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_192dp_VARIANT_largest-font": {
             "path": "renders/catalog-desktop/FixedTimeText_192dp_VARIANT_largest_font-88a6da2b.png",
             "versions": [
+                {
+                    "blob": "548d8ad954ab1f6b4fc7bb139d7c125bcc4a06cb",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "37a5f055edc0f81e561359b70847e536a27e11fa",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18647,13 +19025,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_204dp": {
             "path": "renders/catalog-desktop/FixedTimeText_204dp-b89a00d6.png",
             "versions": [
+                {
+                    "blob": "dc7bf319e6f6f639db02d714a2bcaa3d1c1df687",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "e7fe7da0b379887e44b12ff1bbe2f57b5d6de3e0",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18662,13 +19047,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_204dp_VARIANT_24-hour": {
             "path": "renders/catalog-desktop/FixedTimeText_204dp_VARIANT_24_hour-9bc306de.png",
             "versions": [
+                {
+                    "blob": "c348a4635ca370707d4221a628f59372fcc048b6",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "b318b88405c79743903adce49583cb1d5aa16e35",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18677,13 +19069,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_204dp_VARIANT_24-hour-largest-font": {
             "path": "renders/catalog-desktop/FixedTimeText_204dp_VARIANT_24_hour_largest_font-417cdeb4.png",
             "versions": [
+                {
+                    "blob": "4fc430beec0447a28e0e14d89fba0696d6122d35",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "2e2acccb4b28c72ccd7e817761f9dc9affa4adc1",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18692,13 +19091,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_204dp_VARIANT_largest-font": {
             "path": "renders/catalog-desktop/FixedTimeText_204dp_VARIANT_largest_font-db81b3e1.png",
             "versions": [
+                {
+                    "blob": "697e30b33f83980d99621ac892bb52c6c6482e1d",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "28ef39aada98053786e914f65e53c2e0d3f8d8a0",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18707,13 +19113,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_216dp": {
             "path": "renders/catalog-desktop/FixedTimeText_216dp-cc38be13.png",
             "versions": [
+                {
+                    "blob": "5d33769a260f895981b1fcd4095d54ad2c4e0318",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "5fce92ca8256cec59a3c811274322b6f54d3a04d",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18722,13 +19135,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_216dp_VARIANT_24-hour": {
             "path": "renders/catalog-desktop/FixedTimeText_216dp_VARIANT_24_hour-29858267.png",
             "versions": [
+                {
+                    "blob": "92489cb302ecf57df2dc4f94df995df48325f8bc",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "3e51e4d3c0f92b23d0062441da390c069cb8c719",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18737,13 +19157,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_216dp_VARIANT_24-hour-largest-font": {
             "path": "renders/catalog-desktop/FixedTimeText_216dp_VARIANT_24_hour_largest_font-9feed1eb.png",
             "versions": [
+                {
+                    "blob": "d7c3cabce6207ba248801ebb2bf7179a20fe93d5",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "b3fbc2125ed502dbba398b41b51ec43829f9ec6c",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18752,13 +19179,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_216dp_VARIANT_largest-font": {
             "path": "renders/catalog-desktop/FixedTimeText_216dp_VARIANT_largest_font-9849b2c7.png",
             "versions": [
+                {
+                    "blob": "c32b09d09856796311344c22f07745b3862829f1",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "bd637f9c7874c403540e668b75f40c535afd816b",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18767,13 +19201,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_225dp": {
             "path": "renders/catalog-desktop/FixedTimeText_225dp-86a09720.png",
             "versions": [
+                {
+                    "blob": "6ec365ed3380cda27932ac87945a4f64dfc8d2ae",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "76ed885986598c2c337cade9bc1fc3e6fb36d965",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18782,13 +19223,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_225dp_VARIANT_24-hour": {
             "path": "renders/catalog-desktop/FixedTimeText_225dp_VARIANT_24_hour-c96bc789.png",
             "versions": [
+                {
+                    "blob": "f3e362eb591550995192f3a60d7034d1d3f648b0",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "a840b8b214d264a7d4e6a01c9e3b340bbe7d18ba",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18797,13 +19245,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_225dp_VARIANT_24-hour-largest-font": {
             "path": "renders/catalog-desktop/FixedTimeText_225dp_VARIANT_24_hour_largest_font-23daa7cf.png",
             "versions": [
+                {
+                    "blob": "ac8b4eacfa47181be664cd939cab9256cdb2b4ea",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "c66e6ee67d0add435826f8c3fabca6694734cc33",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18812,13 +19267,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_225dp_VARIANT_largest-font": {
             "path": "renders/catalog-desktop/FixedTimeText_225dp_VARIANT_largest_font-c03a0960.png",
             "versions": [
+                {
+                    "blob": "5775fd0ba4e5cf64fc97394f9138a93ff60d1197",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "a56643928aba517a2f7bb4f16d93c576256f1ea8",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18827,13 +19289,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_240dp": {
             "path": "renders/catalog-desktop/FixedTimeText_240dp-3857b449.png",
             "versions": [
+                {
+                    "blob": "db7ac222fc51c4858c59f7bb1df1ea303feeccef",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "d18c2f99f08ff46068f0cdfeedc951778b13c435",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18842,13 +19311,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_240dp_VARIANT_24-hour": {
             "path": "renders/catalog-desktop/FixedTimeText_240dp_VARIANT_24_hour-f542e1b1.png",
             "versions": [
+                {
+                    "blob": "e22cfd8b6c0e9ec64500d591f8d863fdff867d65",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "0bbe71ae360d02b2ad50cbe71fd6e73a73ebb303",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18857,13 +19333,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_240dp_VARIANT_24-hour-largest-font": {
             "path": "renders/catalog-desktop/FixedTimeText_240dp_VARIANT_24_hour_largest_font-7b1f4882.png",
             "versions": [
+                {
+                    "blob": "fb887b3ebb7f4fe86d5b1d5ac4408e0dabe876bb",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "7163bd5d86a2fc8bb6a7bbf8ab5f6b4e9244a765",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18872,13 +19355,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog-desktop/ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_240dp_VARIANT_largest-font": {
             "path": "renders/catalog-desktop/FixedTimeText_240dp_VARIANT_largest_font-19e8c4f0.png",
             "versions": [
+                {
+                    "blob": "8aa8b357d5d258978f14e0442a13bad2c5ef302b",
+                    "commit": "0df8622129517d2ae6b2a2677d43ea8c5d368d52",
+                    "date": "2026-10-09T09:17:30Z",
+                    "sourceSha": "d094b5b9",
+                    "commits": 1
+                },
                 {
                     "blob": "1d12cf0082f7bd15b889008c92843cc19372af30",
                     "commit": "a83f06e12138a790911be513538826e7ac539baf",
@@ -18887,7 +19377,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
