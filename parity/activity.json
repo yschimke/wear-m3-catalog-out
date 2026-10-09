@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T06:23:38.603Z",
+  "generatedAt": "2026-10-09T09:16:58.404Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "d094b5b9c35412b97a279a5a52d92214f1ab2d63",
+        "subject": "fix(deps): bump the Wear Compose CMP port to 1.7.1-cmp02 (#737)",
+        "at": "2026-10-09T10:10:43+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e69c7d7b149c66bd0020743d95efc2e8697bac99",
+        "subject": "feat: publish this catalog's design guidelines for the UI builder's check (#735)",
+        "at": "2026-10-09T09:26:58+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "75d11bf40dbf303711db8e936bf4c8747afb3bdc",
+        "subject": "fix(ui-builder): draw Material icons in the browser canvas instead of \"?\" (#734)",
+        "at": "2026-10-09T09:04:25+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6c05240cfc3fa617be7a6c9c42e02b482490c866",
+        "subject": "feat(ui-builder): close wear-m3's catalog-owned cutover gaps (#733)",
+        "at": "2026-10-09T07:34:37+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "6216e79167e7b80a922488eeefad8e76d355e374",
         "subject": "chore(deps): update compose-ai-tools to v2.36.0 (#732)",
@@ -450,38 +482,6 @@
         "sha": "21180a7d7f52d944eeef1746eefa1ab76876fea7",
         "subject": "fix(ci): pass a token so preview publish can fetch the PR run's handoff (#663)",
         "at": "2026-10-01T08:02:20+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0e219c744ee91564f510a143c76ed8921b7fec78",
-        "subject": "fix(remote): port the upstream remote-creation-compose and remote-core changes into the vendored port (#661)",
-        "at": "2026-10-01T06:48:26+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9f77c483eb3fcc766f992718e1192100603f97ef",
-        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.29.0 (#662)",
-        "at": "2026-10-01T05:46:50Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2037640a711c46853f6201138f2df287c91b8a42",
-        "subject": "fix(deps): move to rc-players 2.0.3 and connector 3.10.0, and port the upstream remote-material3 selection animation (#660)",
-        "at": "2026-10-01T06:16:07+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "443470bbc1f9457d94b503cf621579208543f866",
-        "subject": "chore(ci): empty the CMP/Wasm allowlist (#659)",
-        "at": "2026-09-30T22:15:53+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
