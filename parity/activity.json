@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T22:55:47.718Z",
+  "generatedAt": "2026-10-09T23:07:30.419Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "b9f407ae9317bdbebc3422e63bdae78f0821e180",
+        "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.38.0 (#745)",
+        "at": "2026-10-09T23:00:15Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "46406c6c79539f88e4e944ddc448919dc260cc55",
         "subject": "fix(ci): build the UI-builder runtime against compose-ui-builder v3.100.0 (#744)",
@@ -474,14 +482,6 @@
         "sha": "2252a9a34762f55c3a8667d564f7bcbde3b4a0ee",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.72.0 (#670)",
         "at": "2026-10-01T22:51:55Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e4b551dcefde1be63e3da190a9f70b8c61e4e303",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:data-remotecompose-connector to v3.11.0 (#671)",
-        "at": "2026-10-01T22:49:02Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
