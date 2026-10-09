@@ -295,7 +295,10 @@
             }
         },
         "code": null,
-        "composeSourceExport": null,
+        "composeSourceExport": {
+            "adapter": "wear-compose-screen",
+            "version": 1
+        },
         "templates": [
             "ui-builder/designs/wear-screen.json",
             "ui-builder/designs/wear-list.json"
@@ -334,7 +337,7 @@
                 ],
                 "slots": {
                     "content": {
-                        "required": true,
+                        "required": false,
                         "role": "list",
                         "max": 1,
                         "acceptedRoles": [
@@ -764,6 +767,16 @@
                             "object"
                         ],
                         "notes": "How many segments the segmented circular form is divided into."
+                    },
+                    {
+                        "name": "indicatorColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is rejected rather than guessed at."
+                    },
+                    {
+                        "name": "trackColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is rejected rather than guessed at."
                     }
                 ],
                 "modifierCapabilities": null,
@@ -1169,6 +1182,16 @@
                             "object",
                             "null"
                         ]
+                    },
+                    {
+                        "name": "containerColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is rejected rather than guessed at."
+                    },
+                    {
+                        "name": "contentColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is rejected rather than guessed at."
                     }
                 ],
                 "slotCapabilities": [
@@ -1454,6 +1477,16 @@
                             "large"
                         ],
                         "notes": "`EdgeButtonSize`. The button's shape comes from the screen's bottom curve, so its size is chosen from upstream's four rather than set in dp."
+                    },
+                    {
+                        "name": "containerColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is rejected rather than guessed at."
+                    },
+                    {
+                        "name": "contentColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is rejected rather than guessed at."
                     }
                 ],
                 "slotCapabilities": [
@@ -13079,6 +13112,11 @@
                         "name": "contentDescription",
                         "jsonType": "string",
                         "notes": "What a screen reader says for the icon. Leave it empty beside a label, which already names the action; set it when the icon is the whole button — an icon button's only accessible name is this."
+                    },
+                    {
+                        "name": "color",
+                        "jsonType": "string",
+                        "notes": "The icon's tint, written as `tint =`. A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is rejected rather than guessed at."
                     }
                 ],
                 "slotCapabilities": [],
