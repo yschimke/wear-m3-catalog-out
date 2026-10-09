@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T23:17:25.336Z",
+  "generatedAt": "2026-10-09T23:26:09.060Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "1582597c3372b19f355ac593f400dd6877bd024a",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.24.0 (#748)",
+        "at": "2026-10-09T23:10:58Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ae416962a2d862d44d1033767365d5390c0186bc",
+        "subject": "fix(ui-builder): source the guidelines publicly, drop the tile-only rule, republish on a guidelines edit (#750)",
+        "at": "2026-10-10T00:10:17+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9df558180713bbc2a2dcdec57835803aaa7c45c6",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.101.0 (#749)",
@@ -466,22 +482,6 @@
         "sha": "523f70846bb304dc01aa51a8e26497aebdc70d82",
         "subject": "refactor: move the remote-m3 sheet to yschimke/remote-m3-catalog (#675)",
         "at": "2026-10-02T11:13:52+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "efc5708ecbbaeb3c458860b610a7b202c5977d8b",
-        "subject": "fix(remote): override remote-material3 colour defaults that differ from Wear Compose M3 (#673) (#676)",
-        "at": "2026-10-02T11:05:03+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c5ff4e4ec0cc9b379a8c44daaef102ea3079c687",
-        "subject": "fix(remote-catalog): declare the adaptive Wear widget container as a builtin (#674)",
-        "at": "2026-10-02T10:34:46+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
