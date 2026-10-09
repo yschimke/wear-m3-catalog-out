@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T23:26:09.060Z",
+  "generatedAt": "2026-10-09T23:39:00.344Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "ff39ee1cfdf43f79107beb13efa693617385fdbb",
+        "subject": "chore(deps): update compose-ai-tools to v2.39.0 (#751)",
+        "at": "2026-10-09T23:20:49Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "1582597c3372b19f355ac593f400dd6877bd024a",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.24.0 (#748)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update compose-preview-daemon-annotations to v3.12.0 (#679)",
         "at": "2026-10-02T11:11:34Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "523f70846bb304dc01aa51a8e26497aebdc70d82",
-        "subject": "refactor: move the remote-m3 sheet to yschimke/remote-m3-catalog (#675)",
-        "at": "2026-10-02T11:13:52+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
