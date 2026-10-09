@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T23:07:30.419Z",
+  "generatedAt": "2026-10-09T23:17:25.336Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "9df558180713bbc2a2dcdec57835803aaa7c45c6",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.101.0 (#749)",
+        "at": "2026-10-09T23:09:09Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "016b682d24494743870c5f3971dd5d34e0fa8e2c",
+        "subject": "fix(ui-builder): cite https sources for the two guidelines that pointed at a kb:// URI (#747)",
+        "at": "2026-10-10T00:01:31+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b9f407ae9317bdbebc3422e63bdae78f0821e180",
         "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.38.0 (#745)",
@@ -467,22 +483,6 @@
         "subject": "fix(remote-catalog): declare the adaptive Wear widget container as a builtin (#674)",
         "at": "2026-10-02T10:34:46+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8dabbb1970d0824f328ad3006ff13def6f038843",
-        "subject": "fix(remote): draw page indicator dots in Wear's colours and correct the straight-rail comments (#672)",
-        "at": "2026-10-02T10:15:51+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2252a9a34762f55c3a8667d564f7bcbde3b4a0ee",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export to v3.72.0 (#670)",
-        "at": "2026-10-01T22:51:55Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
