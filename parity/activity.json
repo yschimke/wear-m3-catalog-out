@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T07:03:42.505Z",
+  "generatedAt": "2026-10-10T07:14:28.849Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "e47b7d0c4258ec598e1fb4eb4f89de57567f7d73",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.1 (#758)",
+        "at": "2026-10-10T08:07:33+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "bd71eec9efe904a7444410fa23e5e203b9e80a9e",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.25.0 (#759)",
@@ -474,14 +482,6 @@
         "sha": "d06f0fe9ab741b43c886d550c2f8eb838b3638e4",
         "subject": "fix(deps): resolve compose-preview modules through their BOMs (#693)",
         "at": "2026-10-03T09:27:27+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3b25c995e654c0f3790c0be4e368fc3c9288ef40",
-        "subject": "feat(ui-builder): offer Wear's own type roles on wear-m3/text (#691)",
-        "at": "2026-10-03T09:01:52+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
