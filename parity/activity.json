@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T07:26:48.477Z",
+  "generatedAt": "2026-10-10T07:51:28.003Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "da0e67274e69b75ff57b8aa8daa7e47d11863483",
+        "subject": "chore(deps): update compose-ai-tools to v2.39.2 (#762)",
+        "at": "2026-10-10T07:42:48Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "caa7da8fab51d57b6cca3b262ed28c418376d4a9",
         "subject": "fix(deps): update compose-ai-tools to v2.39.1 (#756)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.76.0 (#695)",
         "at": "2026-10-03T08:46:41Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5858ee7a499165e1eb164cc03cb1b86162a67932",
-        "subject": "feat(ui-builder): configurable default text style on the Wear screen scaffold (#692)",
-        "at": "2026-10-03T09:31:49+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
