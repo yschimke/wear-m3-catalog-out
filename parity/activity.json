@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T23:39:00.344Z",
+  "generatedAt": "2026-10-10T00:01:29.431Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "298b8b4f2d762971d0a941b83313c8ecfe64ae96",
+        "subject": "fix(deps): update compose-ai-tools to v2.39.0 (#753)",
+        "at": "2026-10-09T23:47:13Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "bbc99f0d4b39d8e09718665c41327c5cd66b77c1",
+        "subject": "fix: the alert-dialog guideline names both alert dialog components (#752)",
+        "at": "2026-10-10T00:25:45+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ff39ee1cfdf43f79107beb13efa693617385fdbb",
         "subject": "chore(deps): update compose-ai-tools to v2.39.0 (#751)",
@@ -467,22 +483,6 @@
         "subject": "docs: branch UI-builder variants instead of forking; note wear-m3 has no typeface control (#685)",
         "at": "2026-10-02T17:42:18+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2eb633b9171a74c3f589c73df6915327575c38d8",
-        "subject": "chore(deps): update compose-ai-tools to v2.32.0 (#678)",
-        "at": "2026-10-02T11:13:07Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3e504ad1525e5e5739d2b12e910ff640e49820cf",
-        "subject": "fix(deps): update compose-preview-daemon-annotations to v3.12.0 (#679)",
-        "at": "2026-10-02T11:11:34Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
