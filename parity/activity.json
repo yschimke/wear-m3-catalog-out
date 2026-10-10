@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T02:18:24.110Z",
+  "generatedAt": "2026-10-10T06:29:48.072Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "7e1657de2203593e7b4da9efd8251a20ce6f0284",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.102.0 (#757)",
+        "at": "2026-10-10T06:23:53Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "05612a81fe0325b60563980c8e61aed86d633532",
+        "subject": "fix(catalog): frame WearList and WearScaffold in ScreenSticker, not a bare MaterialTheme (#755)",
+        "at": "2026-10-10T07:15:40+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0be5950d33d178e7099b8a938d29d4a0716b558e",
         "subject": "chore(deps): update compose-ai-tools to v2.39.1 (#754)",
@@ -466,22 +482,6 @@
         "sha": "c14ded84fc2ce5f0c52c8b595335582ffbef16ee",
         "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.32.1 (#688)",
         "at": "2026-10-02T18:31:17Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d8660b37cbf340d2f2f31d57382db3541ae62874",
-        "subject": "feat(ui-builder): theme typefaces on the Wear screen scaffold (#687)",
-        "at": "2026-10-02T19:18:36+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6a6718b37a1dd30c5a33e4f5543158f7903edeaa",
-        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.32.1 (#686)",
-        "at": "2026-10-02T16:49:25Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
