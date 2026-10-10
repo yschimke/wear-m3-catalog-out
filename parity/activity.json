@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T23:16:38.713Z",
+  "generatedAt": "2026-10-10T23:36:01.166Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "7ceca7b9d13a421e05cd24fd0d1e24f5bc950e73",
+        "subject": "feat: add parallel Kotlin-authored Wear M3 policies (#776)",
+        "at": "2026-10-11T00:04:52+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9d1ae41ba05593f4d179ea3ec5e8b08158277e92",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.104.0 (#774)",
+        "at": "2026-10-10T22:52:54Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "12d90bc37c7aecfee0481204ffbd8e0ed91d508e",
+        "subject": "fix(guidelines): judge the scroll indicator from code and nodes, not a still render (#775)",
+        "at": "2026-10-10T23:22:38+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d3dbf8004464ce882f3581e540ef5b8148e64629",
         "subject": "fix(deps): compose-ai-tools 2.43.0 (#772)",
@@ -458,30 +482,6 @@
         "sha": "89f415cd363f51bf74206c3bde311f2784c5486b",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.83.0 (#709)",
         "at": "2026-10-05T10:39:33Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c5db7b101ae122712e2b9736f267f561248b7c3c",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.82.0 (#708)",
-        "at": "2026-10-05T02:09:31Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bfb384d5aee9d9630d6e64bc6b5dcc71058159a9",
-        "subject": "chore(deps): update gradle/actions action to v6.4.0 (#707)",
-        "at": "2026-10-05T02:08:42Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5a8489cb2bb9432b725f04b84d1a40c93ed58baa",
-        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.34.0 (#704)",
-        "at": "2026-10-04T09:56:16Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
