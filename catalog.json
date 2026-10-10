@@ -13047,8 +13047,8 @@
   "library": [
     "androidx.wear.compose:compose-material3"
   ],
-  "renderer": "compose-preview 2.42.0",
-  "generatedAt": "2026-10-10T22:50:53.440Z",
+  "renderer": "compose-preview 2.43.0",
+  "generatedAt": "2026-10-10T23:16:15.998Z",
   "display": {
     "role": "samples"
   },
