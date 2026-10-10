@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T06:49:05.445Z",
+  "generatedAt": "2026-10-10T07:03:42.505Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "bd71eec9efe904a7444410fa23e5e203b9e80a9e",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.25.0 (#759)",
+        "at": "2026-10-10T06:48:31Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c5c5112f93c5d2aca97591468061a55d13f82bb5",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.102.0 (#746)",
@@ -474,14 +482,6 @@
         "sha": "3b25c995e654c0f3790c0be4e368fc3c9288ef40",
         "subject": "feat(ui-builder): offer Wear's own type roles on wear-m3/text (#691)",
         "at": "2026-10-03T09:01:52+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b7a94b920327cad145d8fee00261b61f6c6e5c2b",
-        "subject": "feat(ui-builder): theme colour roles on the Wear screen scaffold, and Google Fonts on the native lane (#690)",
-        "at": "2026-10-03T00:45:57+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
