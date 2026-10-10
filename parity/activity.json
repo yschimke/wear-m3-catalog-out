@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T19:58:11.888Z",
+  "generatedAt": "2026-10-10T22:51:20.961Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "77de4c0afdced111e2335a8ff3e5a2baf0f0f3b7",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.104.0 (#773)",
+        "at": "2026-10-10T22:16:22Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7c25b17b03cb6faa46d3eb8aea8f8582e0770939",
+        "subject": "chore(renovate): automerge the compose-ui-builder runtime ref (#771)",
+        "at": "2026-10-10T20:45:04+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "824f573e14115b59a87140185c0c2a64201341dc",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.103.0 (#768)",
@@ -467,22 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.81.0 (#705)",
         "at": "2026-10-04T09:55:39Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "aaeb9bbf41da65dd14085f8e8c885fbed3e66c47",
-        "subject": "fix(ui-builder): pad the unrolled list's ends as the device list does (#703)",
-        "at": "2026-10-03T20:22:57+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b2d169cee2d65c077cc7baca37c765cc3a0eb11d",
-        "subject": "fix(ui-builder): draw a screen's EdgeButton, fully expanded, on the unrolled extent (#702)",
-        "at": "2026-10-03T18:36:30+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
