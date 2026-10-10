@@ -56660,7 +56660,7 @@
       "wireframe": "wireframes/transforminglazycolumn.svg",
       "sourceFile": "src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/Lists.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 65,
+      "bodyLine": 62,
       "sourceDirectory": "catalog",
       "sourceFunction": "WearList",
       "parameters": [
@@ -57149,9 +57149,9 @@
       "redlines": [
         {
           "bounds": {
-            "x": 149,
+            "x": 148,
             "y": 73,
-            "width": 86,
+            "width": 88,
             "height": 38
           },
           "padding": {
@@ -57163,9 +57163,9 @@
         },
         {
           "bounds": {
-            "x": 147,
+            "x": 146,
             "y": 177,
-            "width": 90,
+            "width": 92,
             "height": 38
           },
           "padding": {
@@ -57177,9 +57177,9 @@
         },
         {
           "bounds": {
-            "x": 147,
+            "x": 146,
             "y": 281,
-            "width": 91,
+            "width": 93,
             "height": 38
           },
           "padding": {
@@ -57191,9 +57191,9 @@
         },
         {
           "bounds": {
-            "x": 147,
+            "x": 146,
             "y": 385,
-            "width": 90,
+            "width": 93,
             "height": 38
           },
           "padding": {
@@ -57211,7 +57211,7 @@
       "wireframe": "wireframes/scaffold.svg",
       "sourceFile": "src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/Lists.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 131,
+      "bodyLine": 128,
       "sourceDirectory": "catalog",
       "sourceFunction": "WearScaffold",
       "parameters": [
@@ -127771,7 +127771,7 @@
     "androidx.wear.compose:compose-material3"
   ],
   "renderer": "compose-preview 2.39.0",
-  "generatedAt": "2026-10-10T02:40:18.000Z",
+  "generatedAt": "2026-10-10T06:43:39.426Z",
   "display": {
     "surface": "dark",
     "hero": "Media/PlayerScreen"
@@ -127792,7 +127792,7 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "wear-m3-p2-0be5950d33d1",
+    "runtimeId": "wear-m3-p2-05612a81fe03",
     "protocolVersion": 2,
     "integritySha256": "22c6f8df9a0ce320d4bb72575273a04b6fa9f75efd0c5446ad9cc87d9422f366"
   },

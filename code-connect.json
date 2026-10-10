@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":catalog"
   },
-  "generatedAt": "2026-10-10T02:40:21.634Z",
+  "generatedAt": "2026-10-10T06:43:42.577Z",
   "mappings": [
     {
       "componentId": "Auth/SignInButton",
@@ -878,14 +878,14 @@
     {
       "componentId": "TransformingLazyColumn",
       "figmaLayerName": "TransformingLazyColumn",
-      "componentName": "WearScreen",
-      "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/Lists.kt",
+      "componentName": "ScreenSticker",
+      "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/CatalogTheme.kt",
       "label": "Compose",
-      "confidence": "MEDIUM",
+      "confidence": "HIGH",
       "previewName": "WearList",
-      "codeSnippet": "WearScreen(\n    content = { },\n)",
+      "codeSnippet": "ScreenSticker(\n    content = { },\n)",
       "imports": [
-        "import ee.schimke.wearm3catalog.sections.WearScreen"
+        "import ee.schimke.wearm3catalog.ScreenSticker"
       ],
       "parameters": [
         {
@@ -906,14 +906,14 @@
     {
       "componentId": "Scaffold",
       "figmaLayerName": "Scaffold",
-      "componentName": "WearScreen",
-      "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/Lists.kt",
+      "componentName": "ScreenSticker",
+      "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/CatalogTheme.kt",
       "label": "Compose",
-      "confidence": "MEDIUM",
+      "confidence": "HIGH",
       "previewName": "WearScaffold",
-      "codeSnippet": "WearScreen(\n    content = { },\n)",
+      "codeSnippet": "ScreenSticker(\n    content = { },\n)",
       "imports": [
-        "import ee.schimke.wearm3catalog.sections.WearScreen"
+        "import ee.schimke.wearm3catalog.ScreenSticker"
       ],
       "parameters": [
         {

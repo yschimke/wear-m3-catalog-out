@@ -25818,7 +25818,9 @@
                 "FastScrollingTransformingLazyColumn",
                 "Media/PlayerScreen",
                 "Pager/Horizontal",
-                "Pager/Vertical"
+                "Pager/Vertical",
+                "Scaffold",
+                "TransformingLazyColumn"
             ],
             "symbol": {
                 "jvmOwner": "ee.schimke.wearm3catalog.CatalogThemeKt",
@@ -25878,6 +25880,81 @@
                     "previewId": "ee.schimke.wearm3catalog.sections.FastScrollingKt.FastScrollingList_240dp",
                     "componentId": "FastScrollingTransformingLazyColumn",
                     "group": "Fast scrolling"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearList_192dp",
+                    "componentId": "TransformingLazyColumn",
+                    "group": "Lists and screens"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearList_204dp",
+                    "componentId": "TransformingLazyColumn",
+                    "group": "Lists and screens"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearList_216dp",
+                    "componentId": "TransformingLazyColumn",
+                    "group": "Lists and screens"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearList_225dp",
+                    "componentId": "TransformingLazyColumn",
+                    "group": "Lists and screens"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearList_240dp",
+                    "componentId": "TransformingLazyColumn",
+                    "group": "Lists and screens"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_192dp",
+                    "componentId": "Scaffold",
+                    "group": "Lists and screens"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_192dp_VARIANT_no-scroll-indicator",
+                    "componentId": "Scaffold",
+                    "group": "Lists and screens"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_204dp",
+                    "componentId": "Scaffold",
+                    "group": "Lists and screens"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_204dp_VARIANT_no-scroll-indicator",
+                    "componentId": "Scaffold",
+                    "group": "Lists and screens"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_216dp",
+                    "componentId": "Scaffold",
+                    "group": "Lists and screens"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_216dp_VARIANT_no-scroll-indicator",
+                    "componentId": "Scaffold",
+                    "group": "Lists and screens"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_225dp",
+                    "componentId": "Scaffold",
+                    "group": "Lists and screens"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_225dp_VARIANT_no-scroll-indicator",
+                    "componentId": "Scaffold",
+                    "group": "Lists and screens"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_240dp",
+                    "componentId": "Scaffold",
+                    "group": "Lists and screens"
+                },
+                {
+                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_240dp_VARIANT_no-scroll-indicator",
+                    "componentId": "Scaffold",
+                    "group": "Lists and screens"
                 },
                 {
                     "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_192dp",
@@ -29689,138 +29766,6 @@
             },
             "signatureKnown": true,
             "callableFromAnotherFile": true,
-            "hasTypeParameters": false,
-            "hasContextReceivers": false,
-            "overloadsCollided": false,
-            "builder": null,
-            "requiredOptIns": [],
-            "androidxOptIns": []
-        },
-        {
-            "canonicalId": "catalog/ee.schimke.wearm3catalog.sections.ListsKt.WearScreen",
-            "componentIds": [
-                "Scaffold",
-                "TransformingLazyColumn"
-            ],
-            "symbol": {
-                "jvmOwner": "ee.schimke.wearm3catalog.sections.ListsKt",
-                "callable": "ee.schimke.wearm3catalog.sections.WearScreen",
-                "name": "WearScreen",
-                "origin": "PROJECT",
-                "jvmName": "WearScreen",
-                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;I)V",
-                "sourceFile": "src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/Lists.kt",
-                "docs": "unavailable",
-                "receiver": null
-            },
-            "parameters": [
-                {
-                    "name": "content",
-                    "type": "() -> Unit",
-                    "typeFqn": "kotlin.Function0",
-                    "hasDefault": false,
-                    "composableSlot": true,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                }
-            ],
-            "slots": [
-                {
-                    "name": "content",
-                    "required": true,
-                    "receiverScope": null
-                }
-            ],
-            "bindings": [
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearList_192dp",
-                    "componentId": "TransformingLazyColumn",
-                    "group": "Lists and screens"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearList_204dp",
-                    "componentId": "TransformingLazyColumn",
-                    "group": "Lists and screens"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearList_216dp",
-                    "componentId": "TransformingLazyColumn",
-                    "group": "Lists and screens"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearList_225dp",
-                    "componentId": "TransformingLazyColumn",
-                    "group": "Lists and screens"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearList_240dp",
-                    "componentId": "TransformingLazyColumn",
-                    "group": "Lists and screens"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_192dp",
-                    "componentId": "Scaffold",
-                    "group": "Lists and screens"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_192dp_VARIANT_no-scroll-indicator",
-                    "componentId": "Scaffold",
-                    "group": "Lists and screens"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_204dp",
-                    "componentId": "Scaffold",
-                    "group": "Lists and screens"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_204dp_VARIANT_no-scroll-indicator",
-                    "componentId": "Scaffold",
-                    "group": "Lists and screens"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_216dp",
-                    "componentId": "Scaffold",
-                    "group": "Lists and screens"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_216dp_VARIANT_no-scroll-indicator",
-                    "componentId": "Scaffold",
-                    "group": "Lists and screens"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_225dp",
-                    "componentId": "Scaffold",
-                    "group": "Lists and screens"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_225dp_VARIANT_no-scroll-indicator",
-                    "componentId": "Scaffold",
-                    "group": "Lists and screens"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_240dp",
-                    "componentId": "Scaffold",
-                    "group": "Lists and screens"
-                },
-                {
-                    "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_240dp_VARIANT_no-scroll-indicator",
-                    "componentId": "Scaffold",
-                    "group": "Lists and screens"
-                }
-            ],
-            "code": {
-                "call": null,
-                "imports": [],
-                "refusedReason": "not public or internal, so a generated file cannot call it",
-                "requiredOptIns": [],
-                "androidxOptIns": []
-            },
-            "signatureKnown": true,
-            "callableFromAnotherFile": false,
             "hasTypeParameters": false,
             "hasContextReceivers": false,
             "overloadsCollided": false,

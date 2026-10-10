@@ -11,7 +11,7 @@
     "record": {
         "file": "components.json",
         "schemaVersion": 2,
-        "components": 81
+        "components": 80
     },
     "statusSemantics": {
         "platform": "wear",
@@ -14602,26 +14602,6 @@
                 "modifierCapabilities": null,
                 "insertContent": null
             },
-            "wear-m3/wear-screen": {
-                "record": "catalog/ee.schimke.wearm3catalog.sections.ListsKt.WearScreen",
-                "catalogId": null,
-                "displayName": null,
-                "canvas": null,
-                "canvasMapping": null,
-                "unrolled": null,
-                "nativeOnly": false,
-                "traits": [],
-                "slots": {},
-                "stateCallbacks": {},
-                "starter": {},
-                "variantProperty": null,
-                "variants": {},
-                "excluded": "the catalog's own preview frame, not a Wear Material 3 component: every sticker is drawn inside one, the Design Kit publishes no node for it, and nobody places one in a design. Same exclusion, and the same reason, as `m3/sticker` in the sibling m3-catalog. The list sections' screen frame — `MaterialTheme` plus an `AppScaffold` with a stubbed `TimeText`. It sits in a file that carries a `@file:CatalogGroup`, which is the only reason it published on a plausible-looking shelf (`Lists and screens`) rather than a scattered one.",
-                "propertyCapabilities": null,
-                "slotCapabilities": null,
-                "modifierCapabilities": null,
-                "insertContent": null
-            },
             "wear-m3/media-row-sticker": {
                 "record": "catalog/ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaRowSticker",
                 "catalogId": null,
@@ -14977,11 +14957,6 @@
         },
         {
             "code": "component.excluded",
-            "subject": "wear-m3/wear-screen",
-            "message": "kept off the builder's shelf: the catalog's own preview frame, not a Wear Material 3 component: every sticker is drawn inside one, the Design Kit publishes no node for it, and nobody places one in a design. Same exclusion, and the same reason, as `m3/sticker` in the sibling m3-catalog. The list sections' screen frame — `MaterialTheme` plus an `AppScaffold` with a stubbed `TimeText`. It sits in a file that carries a `@file:CatalogGroup`, which is the only reason it published on a plausible-looking shelf (`Lists and screens`) rather than a scattered one."
-        },
-        {
-            "code": "component.excluded",
             "subject": "wear-m3/media-row-sticker",
             "message": "kept off the builder's shelf: the catalog's own preview frame, not a Wear Material 3 component: every sticker is drawn inside one, the Design Kit publishes no node for it, and nobody places one in a design. Same exclusion, and the same reason, as `m3/sticker` in the sibling m3-catalog. The Media Controls row frame — a `Sticker` narrowed to the kit's 192dp base screen width and a fixed row height. Same as `wear-screen`: its file's `@file:CatalogGroup` is why it published on `Media controls` rather than a scattered shelf."
         },
@@ -14989,6 +14964,11 @@
             "code": "component.canvas.unclaimed",
             "subject": "wear-m3/placeholder-sticker",
             "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
+        },
+        {
+            "code": "component.policy.orphaned",
+            "subject": "wear-m3/wear-screen",
+            "message": "ui-builder.policy.json states a policy for \"wear-m3/wear-screen\", which joins no component in this record, so every field in it does nothing. Check its `record` canonicalId or its builder id against components.json."
         }
     ]
 }
