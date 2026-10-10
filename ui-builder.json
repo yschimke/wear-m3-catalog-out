@@ -899,7 +899,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/dismiss-button": {
                 "record": "catalog/androidx.wear.compose.material3.AlertDialogDefaults.DismissButton",
@@ -919,7 +920,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/alert-dialog-edge-button": {
                 "record": "catalog/androidx.wear.compose.material3.AlertDialogDefaults.EdgeButton",
@@ -939,7 +941,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/alert-dialog-content": {
                 "record": "catalog/androidx.wear.compose.material3.AlertDialogKt.AlertDialogContent",
@@ -959,7 +962,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/animated-text": {
                 "record": "catalog/androidx.wear.compose.material3.AnimatedTextKt.AnimatedText",
@@ -979,7 +983,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/app-scaffold": {
                 "record": "catalog/androidx.wear.compose.material3.AppScaffoldKt.AppScaffold",
@@ -999,7 +1004,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/arc-progress-indicator": {
                 "record": "catalog/androidx.wear.compose.material3.ArcProgressIndicatorKt.ArcProgressIndicator",
@@ -1019,7 +1025,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/button-group": {
                 "record": "catalog/androidx.wear.compose.material3.ButtonGroupKt.ButtonGroup",
@@ -1053,7 +1060,8 @@
                     }
                 ],
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/button": {
                 "record": "catalog/androidx.wear.compose.material3.ButtonKt.Button",
@@ -1144,7 +1152,8 @@
                     "alignVertical",
                     "weight"
                 ],
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/child-button": {
                 "record": "catalog/androidx.wear.compose.material3.ButtonKt.ChildButton",
@@ -1164,7 +1173,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/compact-button": {
                 "record": "catalog/androidx.wear.compose.material3.ButtonKt.CompactButton",
@@ -1184,7 +1194,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/filled-tonal-button": {
                 "record": "catalog/androidx.wear.compose.material3.ButtonKt.FilledTonalButton",
@@ -1204,7 +1215,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/outlined-button": {
                 "record": "catalog/androidx.wear.compose.material3.ButtonKt.OutlinedButton",
@@ -1224,7 +1236,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/app-card": {
                 "record": "catalog/androidx.wear.compose.material3.CardKt.AppCard",
@@ -1244,7 +1257,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/card": {
                 "record": "catalog/androidx.wear.compose.material3.CardKt.Card",
@@ -1342,7 +1356,8 @@
                     "alignVertical",
                     "weight"
                 ],
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/outlined-card": {
                 "record": "catalog/androidx.wear.compose.material3.CardKt.OutlinedCard",
@@ -1362,7 +1377,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/title-card": {
                 "record": "catalog/androidx.wear.compose.material3.CardKt.TitleCard",
@@ -1382,7 +1398,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/checkbox-button": {
                 "record": "catalog/androidx.wear.compose.material3.CheckboxButtonKt.CheckboxButton",
@@ -1426,7 +1443,8 @@
                 ],
                 "slotCapabilities": [],
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/split-checkbox-button": {
                 "record": "catalog/androidx.wear.compose.material3.CheckboxButtonKt.SplitCheckboxButton",
@@ -1446,7 +1464,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/circular-progress-indicator": {
                 "record": "catalog/androidx.wear.compose.material3.CircularProgressIndicatorKt.CircularProgressIndicator",
@@ -1466,7 +1485,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/confirmation-dialog-content": {
                 "record": "catalog/androidx.wear.compose.material3.ConfirmationDialogKt.ConfirmationDialogContent",
@@ -1486,7 +1506,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/failure-confirmation-dialog-content": {
                 "record": "catalog/androidx.wear.compose.material3.ConfirmationDialogKt.FailureConfirmationDialogContent",
@@ -1506,7 +1527,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/success-confirmation-dialog-content": {
                 "record": "catalog/androidx.wear.compose.material3.ConfirmationDialogKt.SuccessConfirmationDialogContent",
@@ -1526,7 +1548,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/date-picker": {
                 "record": "catalog/androidx.wear.compose.material3.DatePickerKt.DatePicker",
@@ -1564,7 +1587,8 @@
                 ],
                 "slotCapabilities": [],
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/edge-button": {
                 "record": "catalog/androidx.wear.compose.material3.EdgeButtonKt.EdgeButton",
@@ -1620,7 +1644,8 @@
                     }
                 ],
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/fading-expanding-label": {
                 "record": "catalog/androidx.wear.compose.material3.FadingExpandingLabelKt.FadingExpandingLabel",
@@ -1640,7 +1665,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/filled-icon-button": {
                 "record": "catalog/androidx.wear.compose.material3.IconButtonKt.FilledIconButton",
@@ -1660,7 +1686,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/filled-tonal-icon-button": {
                 "record": "catalog/androidx.wear.compose.material3.IconButtonKt.FilledTonalIconButton",
@@ -1680,7 +1707,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/icon-button": {
                 "record": "catalog/androidx.wear.compose.material3.IconButtonKt.IconButton",
@@ -1744,7 +1772,8 @@
                     "padding",
                     "testTag"
                 ],
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/outlined-icon-button": {
                 "record": "catalog/androidx.wear.compose.material3.IconButtonKt.OutlinedIconButton",
@@ -1764,7 +1793,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/icon": {
                 "record": "catalog/androidx.wear.compose.material3.IconKt.Icon",
@@ -13244,7 +13274,8 @@
                 ],
                 "slotCapabilities": [],
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/icon-toggle-button": {
                 "record": "catalog/androidx.wear.compose.material3.IconToggleButtonKt.IconToggleButton",
@@ -13264,7 +13295,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/level-indicator": {
                 "record": "catalog/androidx.wear.compose.material3.LevelIndicatorKt.LevelIndicator",
@@ -13284,7 +13316,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/stepper-level-indicator": {
                 "record": "catalog/androidx.wear.compose.material3.LevelIndicatorKt.StepperLevelIndicator",
@@ -13304,7 +13337,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/linear-progress-indicator": {
                 "record": "catalog/androidx.wear.compose.material3.LinearProgressIndicatorKt.LinearProgressIndicator",
@@ -13324,7 +13358,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/list-header": {
                 "record": "catalog/androidx.wear.compose.material3.ListHeaderKt.ListHeader",
@@ -13370,7 +13405,8 @@
                 ],
                 "slotCapabilities": [],
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/list-sub-header": {
                 "record": "catalog/androidx.wear.compose.material3.ListHeaderKt.ListSubHeader",
@@ -13415,7 +13451,8 @@
                 ],
                 "slotCapabilities": [],
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/open-on-phone-dialog-icon": {
                 "record": "catalog/androidx.wear.compose.material3.OpenOnPhoneDialogDefaults.Icon",
@@ -13435,7 +13472,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/open-on-phone-dialog-content": {
                 "record": "catalog/androidx.wear.compose.material3.OpenOnPhoneDialogKt.OpenOnPhoneDialogContent",
@@ -13455,7 +13493,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/horizontal-page-indicator": {
                 "record": "catalog/androidx.wear.compose.material3.PageIndicatorKt.HorizontalPageIndicator",
@@ -13475,7 +13514,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/vertical-page-indicator": {
                 "record": "catalog/androidx.wear.compose.material3.PageIndicatorKt.VerticalPageIndicator",
@@ -13495,7 +13535,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/animated-page": {
                 "record": "catalog/androidx.wear.compose.material3.PagerScaffoldKt.AnimatedPage",
@@ -13515,7 +13556,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/horizontal-pager-scaffold": {
                 "record": "catalog/androidx.wear.compose.material3.PagerScaffoldKt.HorizontalPagerScaffold",
@@ -13535,7 +13577,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/vertical-pager-scaffold": {
                 "record": "catalog/androidx.wear.compose.material3.PagerScaffoldKt.VerticalPagerScaffold",
@@ -13555,7 +13598,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/picker-group": {
                 "record": "catalog/androidx.wear.compose.material3.PickerGroupKt.PickerGroup",
@@ -13575,7 +13619,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/picker-group-item": {
                 "record": "catalog/androidx.wear.compose.material3.PickerGroupScope.PickerGroupItem",
@@ -13595,7 +13640,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/picker": {
                 "record": "catalog/androidx.wear.compose.material3.PickerKt.Picker",
@@ -13615,7 +13661,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/radio-button": {
                 "record": "catalog/androidx.wear.compose.material3.RadioButtonKt.RadioButton",
@@ -13659,7 +13706,8 @@
                 ],
                 "slotCapabilities": [],
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/split-radio-button": {
                 "record": "catalog/androidx.wear.compose.material3.RadioButtonKt.SplitRadioButton",
@@ -13679,7 +13727,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/screen-scaffold": {
                 "record": "catalog/androidx.wear.compose.material3.ScreenScaffoldKt.ScreenScaffold",
@@ -13699,7 +13748,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/scroll-indicator": {
                 "record": "catalog/androidx.wear.compose.material3.ScrollIndicatorKt.ScrollIndicator",
@@ -13719,7 +13769,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/segmented-circular-progress-indicator": {
                 "record": "catalog/androidx.wear.compose.material3.SegmentedCircularProgressIndicatorKt.SegmentedCircularProgressIndicator",
@@ -13739,7 +13790,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/decrease-icon": {
                 "record": "catalog/androidx.wear.compose.material3.SliderDefaults.DecreaseIcon",
@@ -13759,7 +13811,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/increase-icon": {
                 "record": "catalog/androidx.wear.compose.material3.SliderDefaults.IncreaseIcon",
@@ -13779,7 +13832,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/slider": {
                 "record": "catalog/androidx.wear.compose.material3.SliderKt.Slider",
@@ -13844,7 +13898,8 @@
                 ],
                 "slotCapabilities": [],
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/stepper": {
                 "record": "catalog/androidx.wear.compose.material3.StepperKt.Stepper",
@@ -13911,7 +13966,8 @@
                     }
                 ],
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/swipe-to-dismiss-box": {
                 "record": "catalog/androidx.wear.compose.material3.SwipeToDismissBoxKt.SwipeToDismissBox",
@@ -13931,7 +13987,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/swipe-to-reveal": {
                 "record": "catalog/androidx.wear.compose.material3.SwipeToRevealKt.SwipeToReveal",
@@ -13951,7 +14008,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/primary-action-button": {
                 "record": "catalog/androidx.wear.compose.material3.SwipeToRevealScope.PrimaryActionButton",
@@ -13971,7 +14029,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/secondary-action-button": {
                 "record": "catalog/androidx.wear.compose.material3.SwipeToRevealScope.SecondaryActionButton",
@@ -13991,7 +14050,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/split-switch-button": {
                 "record": "catalog/androidx.wear.compose.material3.SwitchButtonKt.SplitSwitchButton",
@@ -14011,7 +14071,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/switch-button": {
                 "record": "catalog/androidx.wear.compose.material3.SwitchButtonKt.SwitchButton",
@@ -14055,7 +14116,8 @@
                 ],
                 "slotCapabilities": [],
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/text-button": {
                 "record": "catalog/androidx.wear.compose.material3.TextButtonKt.TextButton",
@@ -14109,7 +14171,8 @@
                     "padding",
                     "testTag"
                 ],
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/text": {
                 "record": "catalog/androidx.wear.compose.material3.TextKt.Text",
@@ -14302,7 +14365,8 @@
                     "alignVertical",
                     "weight"
                 ],
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/text-toggle-button": {
                 "record": "catalog/androidx.wear.compose.material3.TextToggleButtonKt.TextToggleButton",
@@ -14322,7 +14386,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/time-picker": {
                 "record": "catalog/androidx.wear.compose.material3.TimePickerKt.TimePicker",
@@ -14360,7 +14425,8 @@
                 ],
                 "slotCapabilities": [],
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/time-text": {
                 "record": "catalog/androidx.wear.compose.material3.TimeTextKt.TimeText",
@@ -14380,7 +14446,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/one-handed-gesture-click-indicator": {
                 "record": "catalog/androidx.wear.compose.material3.onehandedgesture.OneHandedGestureClickIndicatorKt.OneHandedGestureClickIndicator",
@@ -14400,7 +14467,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/one-handed-gesture-horizontal-page-indicator": {
                 "record": "catalog/androidx.wear.compose.material3.onehandedgesture.OneHandedGesturePageIndicatorKt.OneHandedGestureHorizontalPageIndicator",
@@ -14420,7 +14488,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/one-handed-gesture-vertical-page-indicator": {
                 "record": "catalog/androidx.wear.compose.material3.onehandedgesture.OneHandedGesturePageIndicatorKt.OneHandedGestureVerticalPageIndicator",
@@ -14440,7 +14509,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/one-handed-gesture-scroll-indicator": {
                 "record": "catalog/androidx.wear.compose.material3.onehandedgesture.OneHandedGestureScrollIndicatorKt.OneHandedGestureScrollIndicator",
@@ -14460,7 +14530,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/animated-sticker": {
                 "record": "catalog/ee.schimke.wearm3catalog.CatalogThemeKt.AnimatedSticker",
@@ -14480,7 +14551,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/edge-button-screen": {
                 "record": "catalog/ee.schimke.wearm3catalog.CatalogThemeKt.EdgeButtonScreen",
@@ -14500,7 +14572,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/edge-button-sticker": {
                 "record": "catalog/ee.schimke.wearm3catalog.CatalogThemeKt.EdgeButtonSticker",
@@ -14520,7 +14593,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/full-screen-sticker": {
                 "record": "catalog/ee.schimke.wearm3catalog.CatalogThemeKt.FullScreenSticker",
@@ -14540,7 +14614,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/screen-sticker": {
                 "record": "catalog/ee.schimke.wearm3catalog.CatalogThemeKt.ScreenSticker",
@@ -14560,7 +14635,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/sticker": {
                 "record": "catalog/ee.schimke.wearm3catalog.CatalogThemeKt.Sticker",
@@ -14580,7 +14656,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/transparent-screen-sticker": {
                 "record": "catalog/ee.schimke.wearm3catalog.CatalogThemeKt.TransparentScreenSticker",
@@ -14600,7 +14677,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/media-row-sticker": {
                 "record": "catalog/ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaRowSticker",
@@ -14620,7 +14698,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "wear-m3/placeholder-sticker": {
                 "record": "catalog/ee.schimke.wearm3catalog.sections.PlaceholdersKt.PlaceholderSticker",
@@ -14640,7 +14719,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             }
         }
     },

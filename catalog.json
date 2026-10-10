@@ -127770,12 +127770,56 @@
   "library": [
     "androidx.wear.compose:compose-material3"
   ],
-  "renderer": "compose-preview 2.39.2",
-  "generatedAt": "2026-10-10T16:07:10.426Z",
+  "renderer": "compose-preview 2.42.0",
+  "generatedAt": "2026-10-10T17:01:03.028Z",
   "display": {
     "surface": "dark",
     "hero": "Media/PlayerScreen"
   },
+  "themes": [
+    {
+      "id": "ee.schimke.wearm3catalog.AndroidMakersTheme",
+      "tokensFile": "themes/ee.schimke.wearm3catalog.androidmakerstheme.dtcg.json",
+      "name": "AndroidMakers",
+      "group": "Confetti",
+      "dark": true
+    },
+    {
+      "id": "ee.schimke.wearm3catalog.ConfettiDefaultTheme",
+      "tokensFile": "themes/ee.schimke.wearm3catalog.confettidefaulttheme.dtcg.json",
+      "name": "Confetti (default)",
+      "group": "Confetti",
+      "dark": true
+    },
+    {
+      "id": "ee.schimke.wearm3catalog.DevFestTheme",
+      "tokensFile": "themes/ee.schimke.wearm3catalog.devfesttheme.dtcg.json",
+      "name": "DevFest",
+      "group": "Confetti",
+      "dark": true
+    },
+    {
+      "id": "ee.schimke.wearm3catalog.DroidconTheme",
+      "tokensFile": "themes/ee.schimke.wearm3catalog.droidcontheme.dtcg.json",
+      "name": "Droidcon",
+      "group": "Confetti",
+      "dark": true
+    },
+    {
+      "id": "ee.schimke.wearm3catalog.GoogleSansFlexTheme",
+      "tokensFile": "themes/ee.schimke.wearm3catalog.googlesansflextheme.dtcg.json",
+      "name": "Google Sans Flex",
+      "group": "Wear M3",
+      "dark": true
+    },
+    {
+      "id": "ee.schimke.wearm3catalog.KotlinConfTheme",
+      "tokensFile": "themes/ee.schimke.wearm3catalog.kotlinconftheme.dtcg.json",
+      "name": "KotlinConf",
+      "group": "Confetti",
+      "dark": true
+    }
+  ],
   "liveBundle": {
     "path": "bundle/",
     "file": "bundle.png"
@@ -127793,7 +127837,7 @@
   "uiBuilderGuidelinesFile": "ui-builder.guidelines.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "wear-m3-p2-b22196f43b79",
+    "runtimeId": "wear-m3-p2-046522ca0079",
     "protocolVersion": 2,
     "integritySha256": "006ee9caeab7a7aedcc57e07669b2b571eb8eb9967ff724b991adddc2dd6d7b8"
   },
