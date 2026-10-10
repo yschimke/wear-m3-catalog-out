@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T10:00:57.832Z",
+  "generatedAt": "2026-10-10T10:42:14.170Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "ba5055c55bd3e8f0abf6a2e92ce01e0ff99ae028",
+        "subject": "chore(deps): update compose-ai-tools to v2.40.0 (#764)",
+        "at": "2026-10-10T10:33:25Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0df5365542b0b9c22555ea9e2ee21c9e99a5a2cb",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.39.2 (#763)",
@@ -474,14 +482,6 @@
         "sha": "e4d9c8b4a429b2b1467360f1f3be01a1bf35ec97",
         "subject": "fix(deps): compose-preview plugin 2.32.4 and daemon 3.13.1 (#696)",
         "at": "2026-10-03T11:47:45+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "737f14b00bd618fe60d71e0079a508ca011c16f9",
-        "subject": "fix(ui-builder): Wear runtime draws button colours and round screens as the editor does (#697)",
-        "at": "2026-10-03T11:46:44+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
