@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":catalog"
   },
-  "generatedAt": "2026-10-10T00:27:36.061Z",
+  "generatedAt": "2026-10-10T02:40:21.634Z",
   "mappings": [
     {
       "componentId": "Auth/SignInButton",
