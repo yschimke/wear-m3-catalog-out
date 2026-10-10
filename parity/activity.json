@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T16:30:42.284Z",
+  "generatedAt": "2026-10-10T17:24:13.798Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "e708686c160be805fe949c936ee9bdd6513f287c",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.26.0 (#770)",
+        "at": "2026-10-10T17:17:43Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "046522ca0079ddbdaccf3edf79c1828bab06ef47",
         "subject": "fix(deps): compose-ai-tools 2.42.0, and design guidelines on the catalog publish (#769)",
@@ -474,14 +482,6 @@
         "sha": "adac4c82fe0ff7e53c141348a0db76d70c57d208",
         "subject": "fix(deps): build the UI builder runtime from compose-ui-builder 3.80.0 (#701)",
         "at": "2026-10-03T17:21:39+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "10a1af77d0826481b57ee191b781767dc13ffe04",
-        "subject": "fix(ui-builder): runtime reads a child's weight property and sets Wear in Roboto Flex (#700)",
-        "at": "2026-10-03T15:15:13+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
