@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T14:05:09.826Z",
+  "generatedAt": "2026-10-11T17:30:38.267Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f0c7f5aae17dafc06c0141177da14040ca8e3c36",
+        "subject": "ci: lower the catalog publish's guidelines cap to $0.25 (#789)",
+        "at": "2026-10-11T18:10:27+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "33d5bf1efc82c169ab0dde1f0af2659219cb95d1",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.29.0 (#787)",
@@ -474,14 +482,6 @@
         "sha": "ad8b1d8816620cadc178a33e050365c23545896f",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.94.0 (#727)",
         "at": "2026-10-08T08:54:22Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "64ff58cdf277845ac689310a2fe26d150251c27e",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.93.0 (#725)",
-        "at": "2026-10-08T08:26:13Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
