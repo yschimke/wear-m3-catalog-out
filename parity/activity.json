@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T20:34:59.522Z",
+  "generatedAt": "2026-10-11T20:46:37.104Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "31e99fbef194ac0cf5f1defdd3766b2f4b81a4c8",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.107.0 (#797)",
+        "at": "2026-10-11T20:29:39Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a2549407bb0aa4d8e1f94d117301618e28a27adc",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.107.0 (#798)",
@@ -474,14 +482,6 @@
         "sha": "e69c7d7b149c66bd0020743d95efc2e8697bac99",
         "subject": "feat: publish this catalog's design guidelines for the UI builder's check (#735)",
         "at": "2026-10-09T09:26:58+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "75d11bf40dbf303711db8e936bf4c8747afb3bdc",
-        "subject": "fix(ui-builder): draw Material icons in the browser canvas instead of \"?\" (#734)",
-        "at": "2026-10-09T09:04:25+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
