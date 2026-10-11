@@ -1,1 +1,4530 @@
-{"entries": [], "scope": "changed-previews"}
+{
+  "entries": [
+    {
+      "annotatedBasename": "WearScaffold_192dp-07484732.a11y.png",
+      "cleanBasename": "WearScaffold_192dp-07484732.png",
+      "findings": [],
+      "functionName": "WearScaffold",
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ListsKt.WearScaffold_192dp",
+      "rendersDir": "catalog",
+      "sourceFile": "src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/Lists.kt",
+      "variant": "wearos_small_round"
+    }
+  ],
+  "scope": "changed-previews",
+  "uncheckedPreviews": [
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthGuestModeButton"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthGuestModeButton_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSelectAccountScreen_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSelectAccountScreen_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSelectAccountScreen_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSelectAccountScreen_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSelectAccountScreen_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSignInButton"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSignInButton_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSignInPlaceholderScreen_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSignInPlaceholderScreen_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSignInPlaceholderScreen_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSignInPlaceholderScreen_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSignInPlaceholderScreen_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSignedInConfirmationDialog_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSignedInConfirmationDialog_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSignedInConfirmationDialog_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSignedInConfirmationDialog_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.AuthKt.AuthSignedInConfirmationDialog_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ButtonRowGroup"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ButtonRowGroup_VARIANT_three"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ChildLabelButton"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ChildLabelButton_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ChildLabelButton_VARIANT_icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ChildLabelButton_VARIANT_icon-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ChildLabelButton_VARIANT_icon-extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ChildLabelButton_VARIANT_icon-extra-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ChildLabelButton_VARIANT_icon-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ChildLabelButton_VARIANT_icon-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ChildLabelButton_VARIANT_left"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ChildLabelButton_VARIANT_left-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_child"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_child-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_child-icon-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_child-icon-only-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_child-text-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_child-text-only-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_filled-variant"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_filled-variant-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_filled-variant-icon-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_filled-variant-icon-only-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_filled-variant-text-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_filled-variant-text-only-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_icon-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_icon-only-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_outlined"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_outlined-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_outlined-icon-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_outlined-icon-only-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_outlined-text-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_outlined-text-only-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_text-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_text-only-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_tonal"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_tonal-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_tonal-icon-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_tonal-icon-only-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_tonal-text-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.CompactActionButton_VARIANT_tonal-text-only-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledButton"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledButton_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledButton_VARIANT_icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledButton_VARIANT_icon-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledButton_VARIANT_icon-extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledButton_VARIANT_icon-extra-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledButton_VARIANT_icon-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledButton_VARIANT_icon-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledButton_VARIANT_left"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledButton_VARIANT_left-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledVariantButton"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledVariantButton_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledVariantButton_VARIANT_icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledVariantButton_VARIANT_icon-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledVariantButton_VARIANT_icon-extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledVariantButton_VARIANT_icon-extra-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledVariantButton_VARIANT_icon-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledVariantButton_VARIANT_icon-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledVariantButton_VARIANT_left"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.FilledVariantButton_VARIANT_left-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ImageBackgroundButton"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ImageBackgroundButton_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ImageBackgroundButton_VARIANT_secondary-label"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.ImageBackgroundButton_VARIANT_secondary-label-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_child"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_child-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_child-icon-extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_child-icon-extra-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_child-icon-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_child-icon-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_icon-extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_icon-extra-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_icon-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_icon-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_outlined"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_outlined-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_outlined-icon-extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_outlined-icon-extra-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_outlined-icon-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.LoadingButton_VARIANT_outlined-icon-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.OutlineButton"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.OutlineButton_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.OutlineButton_VARIANT_icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.OutlineButton_VARIANT_icon-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.OutlineButton_VARIANT_icon-extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.OutlineButton_VARIANT_icon-extra-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.OutlineButton_VARIANT_icon-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.OutlineButton_VARIANT_icon-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.OutlineButton_VARIANT_left"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.OutlineButton_VARIANT_left-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.TonalButton"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.TonalButton_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.TonalButton_VARIANT_icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.TonalButton_VARIANT_icon-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.TonalButton_VARIANT_icon-extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.TonalButton_VARIANT_icon-extra-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.TonalButton_VARIANT_icon-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.TonalButton_VARIANT_icon-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.TonalButton_VARIANT_left"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ButtonsKt.TonalButton_VARIANT_left-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_content-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_gallery-1"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_gallery-2"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_icon-content-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_icon-gallery-1"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_icon-gallery-2"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_icon-outlined"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_icon-outlined-content-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_icon-outlined-gallery-1"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_icon-outlined-gallery-2"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_no-app-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_outlined"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_outlined-content-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_outlined-gallery-1"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.ApplicationCard_VARIANT_outlined-gallery-2"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.OutlineCard"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.PlainCard"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.PlainCard_VARIANT_background-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_background-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_content-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_gallery-1"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_gallery-2"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_outlined"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_outlined-content-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_outlined-gallery-1"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_outlined-gallery-2"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_title-and-subtitle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_title-and-subtitle-background-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_title-and-subtitle-content-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_title-and-subtitle-gallery-1"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_title-and-subtitle-gallery-2"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_title-and-subtitle-outlined"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_title-and-subtitle-outlined-content-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_title-and-subtitle-outlined-gallery-1"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_title-and-subtitle-outlined-gallery-2"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_with-subtitle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_with-subtitle-background-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_with-subtitle-content-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_with-subtitle-gallery-1"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_with-subtitle-gallery-2"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_with-subtitle-outlined"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_with-subtitle-outlined-content-image"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_with-subtitle-outlined-gallery-1"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.CardsKt.TitledCard_VARIANT_with-subtitle-outlined-gallery-2"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_192dp_VARIANT_edge-button"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_192dp_VARIANT_no-buttons"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_204dp_VARIANT_edge-button"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_204dp_VARIANT_no-buttons"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_216dp_VARIANT_edge-button"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_216dp_VARIANT_no-buttons"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_225dp_VARIANT_edge-button"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_225dp_VARIANT_no-buttons"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_240dp_VARIANT_edge-button"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.AlertDialogSticker_240dp_VARIANT_no-buttons"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.FailureConfirmation_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.FailureConfirmation_192dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.FailureConfirmation_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.FailureConfirmation_204dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.FailureConfirmation_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.FailureConfirmation_216dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.FailureConfirmation_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.FailureConfirmation_225dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.FailureConfirmation_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.FailureConfirmation_240dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.GenericConfirmation_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.GenericConfirmation_192dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.GenericConfirmation_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.GenericConfirmation_204dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.GenericConfirmation_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.GenericConfirmation_216dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.GenericConfirmation_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.GenericConfirmation_225dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.GenericConfirmation_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.GenericConfirmation_240dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.OpenOnPhoneDialogSticker_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.OpenOnPhoneDialogSticker_192dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.OpenOnPhoneDialogSticker_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.OpenOnPhoneDialogSticker_204dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.OpenOnPhoneDialogSticker_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.OpenOnPhoneDialogSticker_216dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.OpenOnPhoneDialogSticker_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.OpenOnPhoneDialogSticker_225dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.OpenOnPhoneDialogSticker_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.OpenOnPhoneDialogSticker_240dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.SuccessConfirmation_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.SuccessConfirmation_192dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.SuccessConfirmation_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.SuccessConfirmation_204dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.SuccessConfirmation_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.SuccessConfirmation_216dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.SuccessConfirmation_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.SuccessConfirmation_225dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.SuccessConfirmation_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.DialogsKt.SuccessConfirmation_240dp_VARIANT_no-text"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_extra-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-extra-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-icon-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-icon-extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-icon-extra-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-icon-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-icon-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-icon-medium"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-icon-medium-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-medium"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_filled-variant-medium-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_icon-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_icon-extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_icon-extra-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_icon-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_icon-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_icon-medium"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_icon-medium-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_medium"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_medium-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-extra-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-extra-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-medium"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-icon-medium-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-medium"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_outlined-medium-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-extra-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-icon-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-icon-extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-icon-extra-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-icon-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-icon-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-icon-medium"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-icon-medium-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-medium"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.EdgeButtonsKt.ScreenEdgeButton_VARIANT_tonal-medium-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledIconAction"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledIconAction_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledIconAction_VARIANT_extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledIconAction_VARIANT_extra-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledIconAction_VARIANT_large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledIconAction_VARIANT_large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledIconAction_VARIANT_small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledIconAction_VARIANT_small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledVariantIconAction"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledVariantIconAction_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledVariantIconAction_VARIANT_extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledVariantIconAction_VARIANT_extra-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledVariantIconAction_VARIANT_large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledVariantIconAction_VARIANT_large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledVariantIconAction_VARIANT_small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.FilledVariantIconAction_VARIANT_small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.OutlinedIconAction"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.OutlinedIconAction_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.OutlinedIconAction_VARIANT_extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.OutlinedIconAction_VARIANT_extra-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.OutlinedIconAction_VARIANT_large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.OutlinedIconAction_VARIANT_large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.OutlinedIconAction_VARIANT_small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.OutlinedIconAction_VARIANT_small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.StandardIconAction"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.StandardIconAction_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.StandardIconAction_VARIANT_extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.StandardIconAction_VARIANT_extra-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.StandardIconAction_VARIANT_large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.StandardIconAction_VARIANT_large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.StandardIconAction_VARIANT_small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.StandardIconAction_VARIANT_small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_child"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_child-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_child-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_child-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_child-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_child-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_filled-variant"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_filled-variant-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_filled-variant-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_filled-variant-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_filled-variant-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_filled-variant-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_outlined"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_outlined-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_outlined-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_outlined-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_outlined-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_outlined-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_tonal"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_tonal-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_tonal-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_tonal-large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_tonal-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TextAction_VARIANT_tonal-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TonalIconAction"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TonalIconAction_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TonalIconAction_VARIANT_extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TonalIconAction_VARIANT_extra-small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TonalIconAction_VARIANT_large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TonalIconAction_VARIANT_large-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TonalIconAction_VARIANT_small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IconButtonsKt.TonalIconAction_VARIANT_small-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_192dp_VARIANT_five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_192dp_VARIANT_many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_192dp_VARIANT_many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_192dp_VARIANT_many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_192dp_VARIANT_six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_192dp_VARIANT_six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_192dp_VARIANT_six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_192dp_VARIANT_three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_192dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_204dp_VARIANT_five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_204dp_VARIANT_many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_204dp_VARIANT_many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_204dp_VARIANT_many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_204dp_VARIANT_six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_204dp_VARIANT_six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_204dp_VARIANT_six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_204dp_VARIANT_three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_204dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_216dp_VARIANT_five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_216dp_VARIANT_many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_216dp_VARIANT_many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_216dp_VARIANT_many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_216dp_VARIANT_six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_216dp_VARIANT_six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_216dp_VARIANT_six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_216dp_VARIANT_three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_216dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_225dp_VARIANT_five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_225dp_VARIANT_many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_225dp_VARIANT_many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_225dp_VARIANT_many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_225dp_VARIANT_six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_225dp_VARIANT_six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_225dp_VARIANT_six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_225dp_VARIANT_three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_225dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_240dp_VARIANT_five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_240dp_VARIANT_many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_240dp_VARIANT_many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_240dp_VARIANT_many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_240dp_VARIANT_six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_240dp_VARIANT_six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_240dp_VARIANT_six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_240dp_VARIANT_three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.HorizontalPages_240dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_192dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_192dp_VARIANT_full"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_192dp_VARIANT_low"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_204dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_204dp_VARIANT_full"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_204dp_VARIANT_low"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_216dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_216dp_VARIANT_full"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_216dp_VARIANT_low"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_225dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_225dp_VARIANT_full"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_225dp_VARIANT_low"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_240dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_240dp_VARIANT_full"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.LevelRail_240dp_VARIANT_low"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_192dp_VARIANT_bottom"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_192dp_VARIANT_middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_204dp_VARIANT_bottom"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_204dp_VARIANT_middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_216dp_VARIANT_bottom"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_216dp_VARIANT_middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_225dp_VARIANT_bottom"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_225dp_VARIANT_middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_240dp_VARIANT_bottom"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.ScrollRail_240dp_VARIANT_middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_left"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_left-five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_left-many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_left-many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_left-many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_left-six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_left-six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_left-six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_left-three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_left-two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_192dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_left"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_left-five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_left-many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_left-many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_left-many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_left-six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_left-six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_left-six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_left-three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_left-two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_204dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_left"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_left-five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_left-many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_left-many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_left-many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_left-six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_left-six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_left-six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_left-three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_left-two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_216dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_left"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_left-five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_left-many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_left-many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_left-many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_left-six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_left-six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_left-six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_left-three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_left-two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_225dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_left"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_left-five-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_left-many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_left-many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_left-many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_left-six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_left-six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_left-six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_left-three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_left-two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_many-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_many-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_many-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_six-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_six-pages-end"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_six-pages-middle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_three-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.IndicatorsKt.VerticalPages_240dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaControlButtonsRow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaControlButtonsRow_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaControlButtonsRow_VARIANT_paused"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaControlButtonsRow_VARIANT_progress-20"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaFooterButtonsRow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaFooterButtonsRow_VARIANT_ambient"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaInfoDisplayHeader"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaInfoDisplayHeader_VARIANT_loading"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaInfoDisplayHeader_VARIANT_nothing-playing"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayPauseProgressButton"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayPauseProgressButton_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayPauseProgressButton_VARIANT_paused"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayPauseProgressButton_VARIANT_progress-20"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_192dp_VARIANT_ambient"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_192dp_VARIANT_loading"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_192dp_VARIANT_nothing-playing"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_204dp_VARIANT_ambient"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_204dp_VARIANT_loading"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_204dp_VARIANT_nothing-playing"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_216dp_VARIANT_ambient"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_216dp_VARIANT_loading"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_216dp_VARIANT_nothing-playing"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_225dp_VARIANT_ambient"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_225dp_VARIANT_loading"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_225dp_VARIANT_nothing-playing"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_240dp_VARIANT_ambient"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_240dp_VARIANT_loading"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPlayerScreen_240dp_VARIANT_nothing-playing"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPodcastControlButtons"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaPodcastControlButtons_VARIANT_paused"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.MediaControlsKt.MediaShowPlaylistButton"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureClickIndicator"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureClickIndicator_VARIANT_dismiss"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureClickIndicator_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureClickIndicator_VARIANT_small-indicator"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureHorizontalPages_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureHorizontalPages_192dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureHorizontalPages_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureHorizontalPages_204dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureHorizontalPages_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureHorizontalPages_216dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureHorizontalPages_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureHorizontalPages_225dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureHorizontalPages_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureHorizontalPages_240dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureScrollIndicator_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureScrollIndicator_192dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureScrollIndicator_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureScrollIndicator_204dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureScrollIndicator_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureScrollIndicator_216dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureScrollIndicator_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureScrollIndicator_225dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureScrollIndicator_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureScrollIndicator_240dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureVerticalPages_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureVerticalPages_192dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureVerticalPages_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureVerticalPages_204dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureVerticalPages_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureVerticalPages_216dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureVerticalPages_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureVerticalPages_225dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureVerticalPages_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.OneHandedGesturesKt.GestureVerticalPages_240dp_VARIANT_gestures-off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_192dp_VARIANT_first-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_192dp_VARIANT_last-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_192dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_204dp_VARIANT_first-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_204dp_VARIANT_last-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_204dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_216dp_VARIANT_first-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_216dp_VARIANT_last-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_216dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_225dp_VARIANT_first-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_225dp_VARIANT_last-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_225dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_240dp_VARIANT_first-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_240dp_VARIANT_last-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.HorizontalPagerScreen_240dp_VARIANT_two-pages"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_192dp_VARIANT_first-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_192dp_VARIANT_last-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_204dp_VARIANT_first-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_204dp_VARIANT_last-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_216dp_VARIANT_first-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_216dp_VARIANT_last-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_225dp_VARIANT_first-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_225dp_VARIANT_last-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_240dp_VARIANT_first-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PagersKt.VerticalPagerScreen_240dp_VARIANT_last-page"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_192dp_VARIANT_month-first"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_192dp_VARIANT_year-first"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_192dp_VARIANT_year-first-past-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_204dp_VARIANT_month-first"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_204dp_VARIANT_year-first"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_204dp_VARIANT_year-first-past-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_216dp_VARIANT_month-first"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_216dp_VARIANT_year-first"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_216dp_VARIANT_year-first-past-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_225dp_VARIANT_month-first"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_225dp_VARIANT_year-first"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_225dp_VARIANT_year-first-past-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_240dp_VARIANT_month-first"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_240dp_VARIANT_year-first"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.DateWheels_240dp_VARIANT_year-first-past-only"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_192dp_VARIANT_first-column-selected"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_192dp_VARIANT_last-column-selected"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_192dp_VARIANT_no-auto-centering"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_192dp_VARIANT_two-columns"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_204dp_VARIANT_first-column-selected"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_204dp_VARIANT_last-column-selected"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_204dp_VARIANT_no-auto-centering"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_204dp_VARIANT_two-columns"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_216dp_VARIANT_first-column-selected"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_216dp_VARIANT_last-column-selected"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_216dp_VARIANT_no-auto-centering"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_216dp_VARIANT_two-columns"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_225dp_VARIANT_first-column-selected"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_225dp_VARIANT_last-column-selected"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_225dp_VARIANT_no-auto-centering"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_225dp_VARIANT_two-columns"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_240dp_VARIANT_first-column-selected"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_240dp_VARIANT_last-column-selected"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_240dp_VARIANT_no-auto-centering"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.PickerColumns_240dp_VARIANT_two-columns"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.SingleColumnPicker_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.SingleColumnPicker_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.SingleColumnPicker_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.SingleColumnPicker_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.SingleColumnPicker_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_192dp_VARIANT_24-hour"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_192dp_VARIANT_24-hour-with-seconds"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_204dp_VARIANT_24-hour"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_204dp_VARIANT_24-hour-with-seconds"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_216dp_VARIANT_24-hour"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_216dp_VARIANT_24-hour-with-seconds"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_225dp_VARIANT_24-hour"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_225dp_VARIANT_24-hour-with-seconds"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_240dp_VARIANT_24-hour"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PickersKt.TimeWheels_240dp_VARIANT_24-hour-with-seconds"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.ButtonPlaceholder"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.ButtonPlaceholder_VARIANT_outlined"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.ButtonPlaceholder_VARIANT_tonal"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.ButtonPlaceholder_VARIANT_variant"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.CardPlaceholder"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.CardPlaceholder_VARIANT_outlined"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_outlined"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_outlined-extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_outlined-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_outlined-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_tonal"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_tonal-extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_tonal-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_tonal-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_variant"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_variant-extra-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_variant-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.PlaceholdersKt.IconButtonPlaceholder_VARIANT_variant-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.ArcProgress"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_192dp_VARIANT_complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_192dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_192dp_VARIANT_indeterminate"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_192dp_VARIANT_overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_192dp_VARIANT_small-stroke"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_192dp_VARIANT_small-stroke-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_192dp_VARIANT_small-stroke-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_192dp_VARIANT_small-stroke-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_192dp_VARIANT_small-stroke-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_192dp_VARIANT_small-stroke-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_192dp_VARIANT_zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_192dp_VARIANT_zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_204dp_VARIANT_complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_204dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_204dp_VARIANT_indeterminate"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_204dp_VARIANT_overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_204dp_VARIANT_small-stroke"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_204dp_VARIANT_small-stroke-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_204dp_VARIANT_small-stroke-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_204dp_VARIANT_small-stroke-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_204dp_VARIANT_small-stroke-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_204dp_VARIANT_small-stroke-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_204dp_VARIANT_zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_204dp_VARIANT_zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_216dp_VARIANT_complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_216dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_216dp_VARIANT_indeterminate"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_216dp_VARIANT_overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_216dp_VARIANT_small-stroke"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_216dp_VARIANT_small-stroke-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_216dp_VARIANT_small-stroke-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_216dp_VARIANT_small-stroke-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_216dp_VARIANT_small-stroke-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_216dp_VARIANT_small-stroke-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_216dp_VARIANT_zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_216dp_VARIANT_zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_225dp_VARIANT_complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_225dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_225dp_VARIANT_indeterminate"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_225dp_VARIANT_overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_225dp_VARIANT_small-stroke"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_225dp_VARIANT_small-stroke-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_225dp_VARIANT_small-stroke-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_225dp_VARIANT_small-stroke-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_225dp_VARIANT_small-stroke-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_225dp_VARIANT_small-stroke-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_225dp_VARIANT_zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_225dp_VARIANT_zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_240dp_VARIANT_complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_240dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_240dp_VARIANT_indeterminate"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_240dp_VARIANT_overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_240dp_VARIANT_small-stroke"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_240dp_VARIANT_small-stroke-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_240dp_VARIANT_small-stroke-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_240dp_VARIANT_small-stroke-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_240dp_VARIANT_small-stroke-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_240dp_VARIANT_small-stroke-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_240dp_VARIANT_zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.CircularProgress_240dp_VARIANT_zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.LinearProgress"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.LinearProgress_VARIANT_20"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.LinearProgress_VARIANT_20-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.LinearProgress_VARIANT_complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.LinearProgress_VARIANT_complete-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.LinearProgress_VARIANT_min"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.LinearProgress_VARIANT_min-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.LinearProgress_VARIANT_small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-1"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-1-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-1-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-1-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-1-small-stroke"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-1-small-stroke-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-1-small-stroke-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-1-small-stroke-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-1-small-stroke-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-1-small-stroke-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-1-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-1-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-10"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-10-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-10-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-10-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-10-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-10-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-11"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-11-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-11-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-11-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-11-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-11-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-12"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-12-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-12-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-12-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-12-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-12-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-13"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-13-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-13-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-13-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-13-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-13-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-14"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-14-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-14-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-14-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-14-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-14-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-2"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-2-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-2-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-2-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-2-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-2-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-3"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-3-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-3-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-3-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-3-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-3-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-4"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-4-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-4-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-4-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-4-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-4-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-5"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-5-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-5-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-5-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-5-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-5-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-7"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-7-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-7-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-7-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-7-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-7-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-8"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-8-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-8-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-8-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-8-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-8-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-9"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-9-complete"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-9-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-9-overflow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-9-zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_segments-9-zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_zero"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ProgressIndicatorsKt.SegmentedProgress_VARIANT_zero-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.CheckboxRow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.CheckboxRow_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.CheckboxRow_VARIANT_split"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.CheckboxRow_VARIANT_split-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.CheckboxRow_VARIANT_unselected"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.CheckboxRow_VARIANT_unselected-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.CheckboxRow_VARIANT_unselected-split"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.CheckboxRow_VARIANT_unselected-split-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.RadioRow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.RadioRow_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.RadioRow_VARIANT_split"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.RadioRow_VARIANT_split-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.RadioRow_VARIANT_unselected"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.RadioRow_VARIANT_unselected-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.RadioRow_VARIANT_unselected-split"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.RadioRow_VARIANT_unselected-split-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.SwitchRow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.SwitchRow_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.SwitchRow_VARIANT_split"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.SwitchRow_VARIANT_split-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.SwitchRow_VARIANT_unselected"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.SwitchRow_VARIANT_unselected-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.SwitchRow_VARIANT_unselected-split"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SelectionButtonsKt.SwitchRow_VARIANT_unselected-split-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_12-sided-cookie"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_4-leaf-clover"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_4-sided-cookie"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_6-sided-cookie"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_7-sided-cookie"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_8-leaf-clover"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_9-sided-cookie"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_arch"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_arrow"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_boom"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_bun"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_burst"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_diamond"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_fan"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_flower"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_gem"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_ghost-ish"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_heart"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_hexagon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_oval"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_pantagon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_pill"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_pixel-circle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_pixel-triangle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_puffy"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_puffy-diamond"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_semicircle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_slanted"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_soft-boom"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_soft-burst"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_square"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_sunny"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_triangle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ShapesKt.MaterialShapesSticker_VARIANT_very-sunny"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_continuous"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_continuous-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_continuous-full"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_continuous-full-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_continuous-low"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_continuous-low-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_four-increments"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_four-increments-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_four-increments-full"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_four-increments-full-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_four-increments-low"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_four-increments-low-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_full"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_full-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_low"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_low-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_seven-increments"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_seven-increments-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_seven-increments-full"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_seven-increments-full-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_seven-increments-low"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_seven-increments-low-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_six-increments"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_six-increments-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_six-increments-full"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_six-increments-full-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_six-increments-low"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_six-increments-low-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_three-increments"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_three-increments-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_three-increments-full"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_three-increments-full-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_three-increments-low"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueSlider_VARIANT_three-increments-low-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_192dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_192dp_VARIANT_icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_192dp_VARIANT_icon-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_192dp_VARIANT_icon-no-button-fill"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_192dp_VARIANT_icon-no-button-fill-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_192dp_VARIANT_no-button-fill"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_192dp_VARIANT_no-button-fill-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_204dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_204dp_VARIANT_icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_204dp_VARIANT_icon-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_204dp_VARIANT_icon-no-button-fill"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_204dp_VARIANT_icon-no-button-fill-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_204dp_VARIANT_no-button-fill"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_204dp_VARIANT_no-button-fill-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_216dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_216dp_VARIANT_icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_216dp_VARIANT_icon-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_216dp_VARIANT_icon-no-button-fill"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_216dp_VARIANT_icon-no-button-fill-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_216dp_VARIANT_no-button-fill"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_216dp_VARIANT_no-button-fill-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_225dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_225dp_VARIANT_icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_225dp_VARIANT_icon-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_225dp_VARIANT_icon-no-button-fill"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_225dp_VARIANT_icon-no-button-fill-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_225dp_VARIANT_no-button-fill"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_225dp_VARIANT_no-button-fill-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_240dp_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_240dp_VARIANT_icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_240dp_VARIANT_icon-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_240dp_VARIANT_icon-no-button-fill"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_240dp_VARIANT_icon-no-button-fill-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_240dp_VARIANT_no-button-fill"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SlidersKt.ValueStepper_240dp_VARIANT_no-button-fill-disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToDismissKt.DismissableScreen_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToDismissKt.DismissableScreen_192dp_VARIANT_dismissed"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToDismissKt.DismissableScreen_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToDismissKt.DismissableScreen_204dp_VARIANT_dismissed"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToDismissKt.DismissableScreen_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToDismissKt.DismissableScreen_216dp_VARIANT_dismissed"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToDismissKt.DismissableScreen_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToDismissKt.DismissableScreen_225dp_VARIANT_dismissed"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToDismissKt.DismissableScreen_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToDismissKt.DismissableScreen_240dp_VARIANT_dismissed"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealButton_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealButton_192dp_VARIANT_two-actions"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealButton_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealButton_204dp_VARIANT_two-actions"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealButton_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealButton_216dp_VARIANT_two-actions"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealButton_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealButton_225dp_VARIANT_two-actions"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealButton_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealButton_240dp_VARIANT_two-actions"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealCard_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealCard_192dp_VARIANT_two-actions"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealCard_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealCard_204dp_VARIANT_two-actions"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealCard_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealCard_216dp_VARIANT_two-actions"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealCard_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealCard_225dp_VARIANT_two-actions"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealCard_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.SwipeToRevealKt.SwipeToRevealCard_240dp_VARIANT_two-actions"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.AnimatedNumeral"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.AnimatedNumeral_VARIANT_midway"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.AnimatedNumeral_VARIANT_start"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.BodyText"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.BodyText_VARIANT_left-aligned"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.CaptionText"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.CaptionText_VARIANT_left-aligned"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FadingLabel"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FadingLabel_VARIANT_one-line"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FadingLabel_VARIANT_three-lines"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_192dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_192dp_VARIANT_24-hour"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_192dp_VARIANT_24-hour-largest-font"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_192dp_VARIANT_largest-font"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_204dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_204dp_VARIANT_24-hour"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_204dp_VARIANT_24-hour-largest-font"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_204dp_VARIANT_largest-font"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_216dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_216dp_VARIANT_24-hour"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_216dp_VARIANT_24-hour-largest-font"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_216dp_VARIANT_largest-font"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_225dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_225dp_VARIANT_24-hour"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_225dp_VARIANT_24-hour-largest-font"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_225dp_VARIANT_largest-font"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_240dp"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_240dp_VARIANT_24-hour"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_240dp_VARIANT_24-hour-largest-font"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.FixedTimeText_240dp_VARIANT_largest-font"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.ListHeading"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.ListHeading_VARIANT_left-aligned"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.ListSubHeading"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.ListSubHeading_VARIANT_centred"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.TextComponentsKt.ListSubHeading_VARIANT_icon"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_disabled-extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_disabled-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_disabled-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_off-extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_off-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_off-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_rounded"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_rounded-extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_rounded-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_rounded-small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.IconToggle_VARIANT_small"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.TextToggle"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.TextToggle_VARIANT_disabled"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.TextToggle_VARIANT_disabled-extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.TextToggle_VARIANT_disabled-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.TextToggle_VARIANT_extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.TextToggle_VARIANT_hug"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.TextToggle_VARIANT_hug-extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.TextToggle_VARIANT_hug-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.TextToggle_VARIANT_large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.TextToggle_VARIANT_off"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.TextToggle_VARIANT_off-extra-large"
+    },
+    {
+      "module": "catalog",
+      "previewId": "ee.schimke.wearm3catalog.sections.ToggleButtonsKt.TextToggle_VARIANT_off-large"
+    }
+  ]
+}
