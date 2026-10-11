@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T20:04:16.361Z",
+  "generatedAt": "2026-10-11T20:25:10.853Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "69cb0cb490780dd76a1370fc03fd39b94909e92f",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.3 (#795)",
+        "at": "2026-10-11T20:12:52Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1ab8a31d7fb01ce13848a3ca84c585cd928c151e",
+        "subject": "feat(typed): read the real Wear Material 3 composables the typed definitions export to (#794)",
+        "at": "2026-10-11T21:10:15+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e60a3e3ff7b287e4dcc233bd46140abc7f2c8976",
         "subject": "chore(deps): update compose-ai-tools to v2.49.0 (#793)",
@@ -467,22 +483,6 @@
         "subject": "chore(deps): update compose-ai-tools to v2.36.0 (#732)",
         "at": "2026-10-09T06:16:17Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4f95485b39512d1350a846ecae8b2572049c3d2d",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.95.0 (#731)",
-        "at": "2026-10-08T22:31:54Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0951a72c43047da89c3d35a2177747ffa7043842",
-        "subject": "feat: name selection rows' events after their callbacks (#730)",
-        "at": "2026-10-08T14:44:34+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
