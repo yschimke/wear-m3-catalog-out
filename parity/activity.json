@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T17:57:07.148Z",
+  "generatedAt": "2026-10-11T20:04:16.361Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "e60a3e3ff7b287e4dcc233bd46140abc7f2c8976",
+        "subject": "chore(deps): update compose-ai-tools to v2.49.0 (#793)",
+        "at": "2026-10-11T19:50:39Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a72da469890da660cb38318f1ea71e8ca33282f8",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.106.0 (#790)",
@@ -474,14 +482,6 @@
         "sha": "0951a72c43047da89c3d35a2177747ffa7043842",
         "subject": "feat: name selection rows' events after their callbacks (#730)",
         "at": "2026-10-08T14:44:34+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b8d34f734d47e940349ae7ac01b5ba996601374b",
-        "subject": "refactor: use the SDK's changeBoundState for two-way bound rows (#729)",
-        "at": "2026-10-08T12:52:30+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
