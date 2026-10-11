@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T23:36:01.166Z",
+  "generatedAt": "2026-10-11T08:27:28.872Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "94b60360dfd67287430a937bb055daec6945a9be",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.105.0 (#782)",
+        "at": "2026-10-11T08:07:13Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6ff7b9b249e07bc9301cfcd6fcf2f8985ed5a394",
+        "subject": "fix(ui-builder): colour the card title slot, and run the adapter tests in CI (#779)",
+        "at": "2026-10-11T07:45:51+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "35c92c8a46a82602a7e8fd19603f588b04e5a1dd",
+        "subject": "feat(catalog): complete Wear Kotlin catalog generation and renderer gaps (#778)",
+        "at": "2026-10-11T01:14:29+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "7ceca7b9d13a421e05cd24fd0d1e24f5bc950e73",
         "subject": "feat: add parallel Kotlin-authored Wear M3 policies (#776)",
@@ -458,30 +482,6 @@
         "sha": "e5a0e619f3feb049bc97c378537af39593f4984e",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.89.0 (#710)",
         "at": "2026-10-07T12:15:07Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "54eb5bb0f70e9e3091c411233ff442985cca8b73",
-        "subject": "feat: wear-m3/text draws font variation settings and font features (#713)",
-        "at": "2026-10-07T13:04:22+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3a2e7f87c96f7d2d7c4a5cf168913721526feaaf",
-        "subject": "fix: align Wear catalog runtimes through latest release BOMs",
-        "at": "2026-10-06T08:26:23+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "89f415cd363f51bf74206c3bde311f2784c5486b",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.83.0 (#709)",
-        "at": "2026-10-05T10:39:33Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
