@@ -1,11 +1,59 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T09:23:39.329Z",
+  "generatedAt": "2026-10-11T14:05:09.826Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "33d5bf1efc82c169ab0dde1f0af2659219cb95d1",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.29.0 (#787)",
+        "at": "2026-10-11T14:03:16+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e9c5fe1c29be0d190e02d6998741f02ed2583f4d",
+        "subject": "fix(deps): update compose-ai-tools to v2.45.0 (#786)",
+        "at": "2026-10-11T14:03:00+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "aaf895f539edc2724f42859c94d86837b6f762b3",
+        "subject": "feat(ui-builder): publish wear-m3's design tokens, so the owned catalog keeps its Theme panel (#777)",
+        "at": "2026-10-11T14:02:50+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2a9097bffbfad25af34f1f2939cd68087ec68512",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.28.0 (#784)",
+        "at": "2026-10-11T09:59:48Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "979693cf09f8053dd5317c0f6e067724474395a1",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.105.0 (#785)",
+        "at": "2026-10-11T09:58:02Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "334715002dff86b9e0f4beb4275619a94b318100",
+        "subject": "chore(deps): update compose-ai-tools to v2.44.0 (#766)",
+        "at": "2026-10-11T09:48:55Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a70b6f2e1a9e1973c51ad57d03d3a2e03f7b907c",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.27.0 (#783)",
@@ -435,54 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.93.0 (#725)",
         "at": "2026-10-08T08:26:13Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4f5d2bcdf966a53fc59d161c81549312749ed46f",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.35.1 (#724)",
-        "at": "2026-10-08T08:11:31Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "81660a1d7d89dac75cd10bd46bb5371863fbc2f7",
-        "subject": "chore(deps): update compose-ai-tools to v2.35.1 (#722)",
-        "at": "2026-10-07T22:39:13Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5bb220042271659909994af4be1362d39ffbb077",
-        "subject": "ci: add the Conventional Commit title check (#719)",
-        "at": "2026-10-07T21:57:47+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1cc5ea19df9f1a8a396aba317993e233031c9c87",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.91.0 (#718)",
-        "at": "2026-10-07T20:06:33Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "128d5a89e37b3dff01430f4acfe8e5f7f701b8b8",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.20.0 (#717)",
-        "at": "2026-10-07T20:06:28Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5519aea53200be71ce2c16c98d1a42591e3252aa",
-        "subject": "chore: drop setup-repo-protection.sh for the shared repo policy (#715)",
-        "at": "2026-10-07T20:54:20+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
