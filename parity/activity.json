@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T17:30:38.267Z",
+  "generatedAt": "2026-10-11T17:57:07.148Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "a72da469890da660cb38318f1ea71e8ca33282f8",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.106.0 (#790)",
+        "at": "2026-10-11T17:27:22Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7c0fe3e1d8b6c67a56d847e41d118ce78b0992b2",
+        "subject": "fix(deps): update compose-ai-tools (#791)",
+        "at": "2026-10-11T17:22:12Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e0dace067923d97164f92053424ffe8169fa3f6d",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.30.0 (#792)",
+        "at": "2026-10-11T17:21:20Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f0c7f5aae17dafc06c0141177da14040ca8e3c36",
         "subject": "ci: lower the catalog publish's guidelines cap to $0.25 (#789)",
@@ -459,30 +483,6 @@
         "subject": "refactor: use the SDK's changeBoundState for two-way bound rows (#729)",
         "at": "2026-10-08T12:52:30+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ad69d1b2b3991195dbe55d3e82d54f4e6a8dd2ee",
-        "subject": "feat: two-way bind selection controls to design state on the canvas (#728)",
-        "at": "2026-10-08T11:19:10+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fb9353f9e631b023f90512c823c14d51c716f7d0",
-        "subject": "fix(deps): bump alpha deps, adopt the Wear Compose 1.7.1 port and re-cut the AndroidX samples (#726)",
-        "at": "2026-10-08T11:16:35+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ad8b1d8816620cadc178a33e050365c23545896f",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.94.0 (#727)",
-        "at": "2026-10-08T08:54:22Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
