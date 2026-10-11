@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T20:25:10.853Z",
+  "generatedAt": "2026-10-11T20:34:59.522Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "a2549407bb0aa4d8e1f94d117301618e28a27adc",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.107.0 (#798)",
+        "at": "2026-10-11T20:26:49Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8b9a72a24f0f2a42863b8ab08e327fc0a81fdea2",
+        "subject": "chore(deps): update compose-ai-tools to v2.50.0 (#796)",
+        "at": "2026-10-11T20:26:22Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "69cb0cb490780dd76a1370fc03fd39b94909e92f",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.3 (#795)",
@@ -467,22 +483,6 @@
         "subject": "fix(ui-builder): draw Material icons in the browser canvas instead of \"?\" (#734)",
         "at": "2026-10-09T09:04:25+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6c05240cfc3fa617be7a6c9c42e02b482490c866",
-        "subject": "feat(ui-builder): close wear-m3's catalog-owned cutover gaps (#733)",
-        "at": "2026-10-09T07:34:37+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6216e79167e7b80a922488eeefad8e76d355e374",
-        "subject": "chore(deps): update compose-ai-tools to v2.36.0 (#732)",
-        "at": "2026-10-09T06:16:17Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
