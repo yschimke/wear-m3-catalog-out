@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T01:53:16.884Z",
+  "generatedAt": "2026-10-12T03:20:59.401Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "8addfc8859e6cd9dc7c648ae9de8d3c2856e3b93",
+        "subject": "chore(deps): update ci toolchain (#804)",
+        "at": "2026-10-12T03:03:16Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4baba54963cbe8862fa3e86cb1b284058f013ce6",
         "subject": "chore(deps): update compose-ai-tools to v2.51.0 (#803)",
@@ -474,14 +482,6 @@
         "sha": "a6fb8605f1c5d8ee654f88b4e7d4a17255f9dbb7",
         "subject": "ci: compose-ai-tools 2.38.0, and check changed previews against this catalog's design guidelines (#742)",
         "at": "2026-10-09T23:34:03+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f0680fa0fbabce115baeeed9e6294941aa8a5836",
-        "subject": "feat(ui-builder): publish wear-m3/variable-font-text as a catalog builtin (#741)",
-        "at": "2026-10-09T20:11:44+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
