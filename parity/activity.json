@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T09:36:20.678Z",
+  "generatedAt": "2026-10-12T09:50:43.467Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "de02654c5fc1d51e252344480792a5e6c20362e8",
+        "subject": "chore(deps): update compose-ai-tools to v2.53.0 (#817)",
+        "at": "2026-10-12T09:27:34Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "188d2634f096dfe27f5ac77daaeb92e4285de68e",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.4 (#815)",
@@ -475,14 +483,6 @@
         "subject": "fix(catalog): frame WearList and WearScaffold in ScreenSticker, not a bare MaterialTheme (#755)",
         "at": "2026-10-10T07:15:40+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0be5950d33d178e7099b8a938d29d4a0716b558e",
-        "subject": "chore(deps): update compose-ai-tools to v2.39.1 (#754)",
-        "at": "2026-10-10T02:12:50Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
