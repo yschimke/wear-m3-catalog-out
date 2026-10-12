@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":catalog"
   },
-  "generatedAt": "2026-10-12T09:12:25.418Z",
+  "generatedAt": "2026-10-12T09:56:54.078Z",
   "mappings": [
     {
       "componentId": "Auth/SignInButton",
@@ -35,7 +35,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/auth-signinbutton__ideal__default.svg"
     },
     {
       "componentId": "Auth/GuestModeButton",
@@ -63,7 +64,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/auth-guestmodebutton__ideal__default.svg"
     },
     {
       "componentId": "Auth/SelectAccountScreen",
@@ -91,7 +93,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/auth-selectaccountscreen.svg"
     },
     {
       "componentId": "Auth/SignInPlaceholderScreen",
@@ -119,7 +122,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/auth-signinplaceholderscreen__ideal__default__192dp.svg"
     },
     {
       "componentId": "Auth/SignedInConfirmationDialog",
@@ -147,7 +151,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/auth-signedinconfirmationdialog__ideal__default__192dp.svg"
     },
     {
       "componentId": "Button/Filled",
@@ -175,7 +180,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/button-filled__ideal__default.svg"
     },
     {
       "componentId": "Button/FilledVariant",
@@ -203,7 +209,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/button-filledvariant__ideal__default.svg"
     },
     {
       "componentId": "Button/Tonal",
@@ -231,7 +238,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/button-tonal__ideal__default.svg"
     },
     {
       "componentId": "Button/Outlined",
@@ -259,7 +267,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/button-outlined__ideal__default.svg"
     },
     {
       "componentId": "Button/Child",
@@ -287,7 +296,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/button-child__ideal__default.svg"
     },
     {
       "componentId": "Button/Compact",
@@ -315,7 +325,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/button-compact__ideal__default.svg"
     },
     {
       "componentId": "Button/ImageBackground",
@@ -324,7 +335,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/Buttons.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ImageBackgroundButton"
+      "previewName": "ImageBackgroundButton",
+      "figmaSvg": "figma/button-imagebackground.svg"
     },
     {
       "componentId": "Button/Loading",
@@ -333,7 +345,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/Buttons.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "LoadingButton"
+      "previewName": "LoadingButton",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/button-loading__ideal__default.svg"
     },
     {
       "componentId": "ButtonGroup",
@@ -361,7 +374,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/buttongroup__ideal__default.svg"
     },
     {
       "componentId": "Card",
@@ -389,7 +403,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/card__ideal__default.svg"
     },
     {
       "componentId": "Card/Outlined",
@@ -398,7 +413,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/Cards.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OutlineCard"
+      "previewName": "OutlineCard",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/card-outlined__ideal__default.svg"
     },
     {
       "componentId": "TitleCard",
@@ -407,7 +423,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/Cards.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TitledCard"
+      "previewName": "TitledCard",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/titlecard__ideal__default.svg"
     },
     {
       "componentId": "AppCard",
@@ -416,7 +433,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/Cards.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ApplicationCard"
+      "previewName": "ApplicationCard",
+      "figmaSvg": "figma/appcard.svg"
     },
     {
       "componentId": "AlertDialog",
@@ -425,7 +443,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/Dialogs.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AlertDialogSticker"
+      "previewName": "AlertDialogSticker",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/alertdialog__ideal__default__192dp.svg"
     },
     {
       "componentId": "OpenOnPhoneDialog",
@@ -453,7 +472,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/openonphonedialog__ideal__default__192dp.svg"
     },
     {
       "componentId": "ConfirmationDialog/Success",
@@ -481,7 +501,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/confirmationdialog-success__ideal__default__192dp.svg"
     },
     {
       "componentId": "ConfirmationDialog/Failure",
@@ -509,7 +530,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/confirmationdialog-failure__ideal__default__192dp.svg"
     },
     {
       "componentId": "ConfirmationDialog/Generic",
@@ -537,7 +559,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/confirmationdialog-generic__ideal__default__192dp.svg"
     },
     {
       "componentId": "EdgeButton",
@@ -565,7 +588,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/edgebutton.svg"
     },
     {
       "componentId": "FastScrollingTransformingLazyColumn",
@@ -593,7 +617,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/fastscrollingtransforminglazycolumn__ideal__default__192dp.svg"
     },
     {
       "componentId": "IconButton/Filled",
@@ -621,7 +646,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/iconbutton-filled__ideal__default.svg"
     },
     {
       "componentId": "IconButton/FilledVariant",
@@ -649,7 +675,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/iconbutton-filledvariant__ideal__default.svg"
     },
     {
       "componentId": "IconButton/Tonal",
@@ -677,7 +704,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/iconbutton-tonal__ideal__default.svg"
     },
     {
       "componentId": "IconButton/Outlined",
@@ -705,7 +733,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/iconbutton-outlined__ideal__default.svg"
     },
     {
       "componentId": "IconButton/Standard",
@@ -733,7 +762,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/iconbutton-standard__ideal__default.svg"
     },
     {
       "componentId": "TextButton",
@@ -761,7 +791,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/textbutton__ideal__default.svg"
     },
     {
       "componentId": "ScrollIndicator",
@@ -789,7 +820,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/scrollindicator__ideal__default__192dp.svg"
     },
     {
       "componentId": "LevelIndicator",
@@ -817,7 +849,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/levelindicator__ideal__default__192dp.svg"
     },
     {
       "componentId": "PageIndicator/Horizontal",
@@ -845,7 +878,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/pageindicator-horizontal__ideal__default__192dp.svg"
     },
     {
       "componentId": "PageIndicator/Vertical",
@@ -873,7 +907,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/pageindicator-vertical__ideal__default__192dp.svg"
     },
     {
       "componentId": "TransformingLazyColumn",
@@ -901,7 +936,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/transforminglazycolumn__ideal__default__192dp.svg"
     },
     {
       "componentId": "Scaffold",
@@ -929,7 +965,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/scaffold__ideal__default__192dp.svg"
     },
     {
       "componentId": "Media/PlayerScreen",
@@ -957,7 +994,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/media-playerscreen.svg"
     },
     {
       "componentId": "Media/FooterButtons",
@@ -998,7 +1036,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/media-footerbuttons__ideal__default.svg"
     },
     {
       "componentId": "Media/ControlButtons",
@@ -1039,7 +1078,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/media-controlbuttons.svg"
     },
     {
       "componentId": "Media/PodcastControlButtons",
@@ -1080,7 +1120,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/media-podcastcontrolbuttons.svg"
     },
     {
       "componentId": "Media/PlayPauseProgressButton",
@@ -1108,7 +1149,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/media-playpauseprogressbutton__ideal__default.svg"
     },
     {
       "componentId": "Media/InfoDisplay",
@@ -1149,7 +1191,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/media-infodisplay__ideal__default.svg"
     },
     {
       "componentId": "Media/ShowPlaylistButton",
@@ -1158,7 +1201,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/androidMain/kotlin/ee/schimke/wearm3catalog/sections/MediaControls.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "MediaShowPlaylistButton"
+      "previewName": "MediaShowPlaylistButton",
+      "figmaSvg": "figma/media-showplaylistbutton.svg"
     },
     {
       "componentId": "OneHandedGestureClickIndicator",
@@ -1186,7 +1230,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/onehandedgestureclickindicator__ideal__default.svg"
     },
     {
       "componentId": "OneHandedGestureScrollIndicator",
@@ -1214,7 +1259,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/onehandedgesturescrollindicator__ideal__default__192dp.svg"
     },
     {
       "componentId": "OneHandedGesturePageIndicator/Horizontal",
@@ -1242,7 +1288,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/onehandedgesturepageindicator-horizontal__ideal__default__192dp.svg"
     },
     {
       "componentId": "OneHandedGesturePageIndicator/Vertical",
@@ -1270,7 +1317,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/onehandedgesturepageindicator-vertical__ideal__default__192dp.svg"
     },
     {
       "componentId": "Pager/Horizontal",
@@ -1298,7 +1346,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/pager-horizontal__ideal__default__192dp.svg"
     },
     {
       "componentId": "Pager/Vertical",
@@ -1326,7 +1375,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/pager-vertical__ideal__default__192dp.svg"
     },
     {
       "componentId": "DatePicker",
@@ -1354,7 +1404,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/datepicker.svg"
     },
     {
       "componentId": "TimePicker",
@@ -1382,7 +1433,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/timepicker.svg"
     },
     {
       "componentId": "Picker",
@@ -1410,7 +1462,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/picker.svg"
     },
     {
       "componentId": "PickerGroup",
@@ -1438,7 +1491,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/pickergroup.svg"
     },
     {
       "componentId": "Placeholder/Button",
@@ -1466,7 +1520,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/placeholder-button__ideal__default.svg"
     },
     {
       "componentId": "Placeholder/IconButton",
@@ -1494,7 +1549,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/placeholder-iconbutton__ideal__default.svg"
     },
     {
       "componentId": "Placeholder/Card",
@@ -1522,7 +1578,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/placeholder-card__ideal__default.svg"
     },
     {
       "componentId": "CircularProgressIndicator",
@@ -1550,7 +1607,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/circularprogressindicator__ideal__default__192dp.svg"
     },
     {
       "componentId": "SegmentedCircularProgressIndicator",
@@ -1578,7 +1636,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/segmentedcircularprogressindicator__ideal__default.svg"
     },
     {
       "componentId": "ArcProgressIndicator",
@@ -1606,7 +1665,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/arcprogressindicator__ideal__default.svg"
     },
     {
       "componentId": "LinearProgressIndicator",
@@ -1634,7 +1694,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/linearprogressindicator__ideal__default.svg"
     },
     {
       "componentId": "CheckboxButton",
@@ -1643,7 +1704,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/SelectionButtons.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "CheckboxRow"
+      "previewName": "CheckboxRow",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/checkboxbutton__ideal__default.svg"
     },
     {
       "componentId": "SwitchButton",
@@ -1652,7 +1714,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/SelectionButtons.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SwitchRow"
+      "previewName": "SwitchRow",
+      "figmaSvg": "figma/switchbutton.svg"
     },
     {
       "componentId": "RadioButton",
@@ -1661,7 +1724,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/SelectionButtons.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "RadioRow"
+      "previewName": "RadioRow",
+      "figmaSvg": "figma/radiobutton.svg"
     },
     {
       "componentId": "Shape/MaterialShapes",
@@ -1689,7 +1753,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/shape-materialshapes__ideal__default.svg"
     },
     {
       "componentId": "Slider",
@@ -1717,7 +1782,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/slider.svg"
     },
     {
       "componentId": "Stepper",
@@ -1745,7 +1811,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/stepper__ideal__default__192dp.svg"
     },
     {
       "componentId": "SwipeToDismissBox",
@@ -1773,7 +1840,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/swipetodismissbox__ideal__default__192dp.svg"
     },
     {
       "componentId": "SwipeToReveal/Card",
@@ -1782,7 +1850,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/SwipeToReveal.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SwipeToRevealCard"
+      "previewName": "SwipeToRevealCard",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/swipetoreveal-card__ideal__default__192dp.svg"
     },
     {
       "componentId": "SwipeToReveal/Button",
@@ -1791,7 +1860,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/SwipeToReveal.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SwipeToRevealButton"
+      "previewName": "SwipeToRevealButton",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/swipetoreveal-button__ideal__default__192dp.svg"
     },
     {
       "componentId": "ListHeader",
@@ -1819,7 +1889,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/listheader__ideal__default.svg"
     },
     {
       "componentId": "ListSubHeader",
@@ -1847,7 +1918,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/listsubheader__ideal__default.svg"
     },
     {
       "componentId": "Text/Body",
@@ -1875,7 +1947,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/text-body__ideal__default.svg"
     },
     {
       "componentId": "Text/Caption",
@@ -1903,7 +1976,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/text-caption__ideal__default.svg"
     },
     {
       "componentId": "TimeText",
@@ -1931,7 +2005,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/timetext__ideal__default__192dp.svg"
     },
     {
       "componentId": "FadingExpandingLabel",
@@ -1959,7 +2034,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/fadingexpandinglabel__ideal__default.svg"
     },
     {
       "componentId": "AnimatedText",
@@ -1987,7 +2063,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/animatedtext__ideal__default.svg"
     },
     {
       "componentId": "IconToggleButton",
@@ -2015,7 +2092,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/icontogglebutton__ideal__default.svg"
     },
     {
       "componentId": "TextToggleButton",
@@ -2024,7 +2102,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/catalog/src/commonMain/kotlin/ee/schimke/wearm3catalog/sections/ToggleButtons.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TextToggle"
+      "previewName": "TextToggle",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-catalog/render/texttogglebutton__ideal__default.svg"
     }
   ]
 }
