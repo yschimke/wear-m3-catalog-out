@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T03:31:17.668Z",
+  "generatedAt": "2026-10-12T04:31:40.760Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "20f6a3f6c825673d313ef321d4b7751340200b10",
+        "subject": "chore(deps): update compose-ai-tools to v2.52.0 (#809)",
+        "at": "2026-10-12T04:25:55Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f9a81b04efb6e527b535550042c93cc4ab245c79",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.108.0 (#807)",
@@ -475,14 +483,6 @@
         "subject": "fix(ui-builder): cite https sources for the two guidelines that pointed at a kb:// URI (#747)",
         "at": "2026-10-10T00:01:31+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b9f407ae9317bdbebc3422e63bdae78f0821e180",
-        "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.38.0 (#745)",
-        "at": "2026-10-09T23:00:15Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
