@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T08:52:20.118Z",
+  "generatedAt": "2026-10-12T09:36:20.678Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "188d2634f096dfe27f5ac77daaeb92e4285de68e",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.4 (#815)",
+        "at": "2026-10-12T09:02:47Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "46ef46d2469c080ee51fa4f0e9319b0e2826c382",
+        "subject": "ci(typed): publish the wear-m3-typed-pilot catalog branch (#813)",
+        "at": "2026-10-12T09:39:15+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "21bc73d14bf8d654aa39e857c037afe8835654dd",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.109.0 (#814)",
@@ -467,22 +483,6 @@
         "subject": "chore(deps): update compose-ai-tools to v2.39.1 (#754)",
         "at": "2026-10-10T02:12:50Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "298b8b4f2d762971d0a941b83313c8ecfe64ae96",
-        "subject": "fix(deps): update compose-ai-tools to v2.39.0 (#753)",
-        "at": "2026-10-09T23:47:13Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bbc99f0d4b39d8e09718665c41327c5cd66b77c1",
-        "subject": "fix: the alert-dialog guideline names both alert dialog components (#752)",
-        "at": "2026-10-10T00:25:45+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }

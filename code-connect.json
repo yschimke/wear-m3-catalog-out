@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":samples-catalog"
   },
-  "generatedAt": "2026-10-12T08:51:53.083Z",
+  "generatedAt": "2026-10-12T09:35:57.120Z",
   "mappings": [
     {
       "componentId": "AlertDialog/AlertDialogWithConfirmAndDismissSample",
@@ -16,7 +16,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/AlertDialogSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AlertDialogWithConfirmAndDismissSample"
+      "previewName": "AlertDialogWithConfirmAndDismissSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/alertdialog-alertdialogwithconfirmanddismisssample__ideal__default__compact.svg"
     },
     {
       "componentId": "AlertDialog/AlertDialogWithConfirmAndDismissTransformingContentSample",
@@ -25,7 +26,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/AlertDialogSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AlertDialogWithConfirmAndDismissTransformingContentSample"
+      "previewName": "AlertDialogWithConfirmAndDismissTransformingContentSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/alertdialog-alertdialogwithconfirmanddismisstransformingcontentsample__ideal__default__compact.svg"
     },
     {
       "componentId": "AlertDialog/AlertDialogWithContentGroupsSample",
@@ -34,7 +36,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/AlertDialogSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AlertDialogWithContentGroupsSample"
+      "previewName": "AlertDialogWithContentGroupsSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/alertdialog-alertdialogwithcontentgroupssample__ideal__default__compact.svg"
     },
     {
       "componentId": "AlertDialog/AlertDialogWithContentGroupsTransformingContentSample",
@@ -43,7 +46,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/AlertDialogSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AlertDialogWithContentGroupsTransformingContentSample"
+      "previewName": "AlertDialogWithContentGroupsTransformingContentSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/alertdialog-alertdialogwithcontentgroupstransformingcontentsample__ideal__default__compact.svg"
     },
     {
       "componentId": "AlertDialog/AlertDialogWithEdgeButtonSample",
@@ -52,7 +56,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/AlertDialogSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AlertDialogWithEdgeButtonSample"
+      "previewName": "AlertDialogWithEdgeButtonSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/alertdialog-alertdialogwithedgebuttonsample__ideal__default__compact.svg"
     },
     {
       "componentId": "AlertDialog/AlertDialogWithEdgeButtonTransformingContentSample",
@@ -61,7 +66,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/AlertDialogSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AlertDialogWithEdgeButtonTransformingContentSample"
+      "previewName": "AlertDialogWithEdgeButtonTransformingContentSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/alertdialog-alertdialogwithedgebuttontransformingcontentsample__ideal__default__compact.svg"
     },
     {
       "componentId": "animatedShapes/IconToggleButtonSample",
@@ -70,7 +76,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "IconToggleButtonSamplePreview"
+      "previewName": "IconToggleButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/animatedshapes-icontogglebuttonsample__ideal__default__compact.svg"
     },
     {
       "componentId": "animatedShapes/TextButtonWithCornerAnimationSample",
@@ -79,7 +86,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TextButtonWithCornerAnimationSamplePreview"
+      "previewName": "TextButtonWithCornerAnimationSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/animatedshapes-textbuttonwithcorneranimationsample__ideal__default.svg"
     },
     {
       "componentId": "animatedShapes/TextToggleButtonSample",
@@ -88,7 +96,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TextToggleButtonSamplePreview"
+      "previewName": "TextToggleButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/animatedshapes-texttogglebuttonsample__ideal__default.svg"
     },
     {
       "componentId": "AnimatedText/AnimatedTextSample",
@@ -97,7 +106,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AnimatedTextSamplePreview"
+      "previewName": "AnimatedTextSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/animatedtext-animatedtextsample__ideal__default.svg"
     },
     {
       "componentId": "AnimatedText/AnimatedTextSampleButtonResponse",
@@ -106,7 +116,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AnimatedTextSampleButtonResponsePreview"
+      "previewName": "AnimatedTextSampleButtonResponsePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/animatedtext-animatedtextsamplebuttonresponse__ideal__default.svg"
     },
     {
       "componentId": "AnimatedText/AnimatedTextSampleSharedFontRegistry",
@@ -115,7 +126,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AnimatedTextSampleSharedFontRegistryPreview"
+      "previewName": "AnimatedTextSampleSharedFontRegistryPreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/animatedtext-animatedtextsamplesharedfontregistry__ideal__default.svg"
     },
     {
       "componentId": "animateScrollToOption/PickerAnimateScrollToOption",
@@ -124,7 +136,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "PickerAnimateScrollToOptionPreview"
+      "previewName": "PickerAnimateScrollToOptionPreview",
+      "figmaSvg": "figma/animatescrolltooption-pickeranimatescrolltooption.svg"
     },
     {
       "componentId": "AppCard/AppCardSample",
@@ -133,7 +146,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AppCardSamplePreview"
+      "previewName": "AppCardSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/appcard-appcardsample__ideal__default.svg"
     },
     {
       "componentId": "AppCard/AppCardWithIconSample",
@@ -142,7 +156,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AppCardWithIconSamplePreview"
+      "previewName": "AppCardWithIconSamplePreview",
+      "figmaSvg": "figma/appcard-appcardwithiconsample.svg"
     },
     {
       "componentId": "AppCard/AppCardWithImageSample",
@@ -151,7 +166,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AppCardWithImageSamplePreview"
+      "previewName": "AppCardWithImageSamplePreview",
+      "figmaSvg": "figma/appcard-appcardwithimagesample.svg"
     },
     {
       "componentId": "AppCard/NonClickableAppCardSample",
@@ -160,7 +176,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "NonClickableAppCardSamplePreview"
+      "previewName": "NonClickableAppCardSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/appcard-nonclickableappcardsample__ideal__default.svg"
     },
     {
       "componentId": "AppCard/OutlinedAppCardSample",
@@ -169,7 +186,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OutlinedAppCardSamplePreview"
+      "previewName": "OutlinedAppCardSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/appcard-outlinedappcardsample__ideal__default.svg"
     },
     {
       "componentId": "AppCardContent/AppCardContentWithOneHandedGestureSample",
@@ -178,7 +196,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AppCardContentWithOneHandedGestureSamplePreview"
+      "previewName": "AppCardContentWithOneHandedGestureSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/appcardcontent-appcardcontentwithonehandedgesturesample__ideal__default__compact.svg"
     },
     {
       "componentId": "AppScaffold/ScaffoldSample",
@@ -187,7 +206,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/ScaffoldSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ScaffoldSample"
+      "previewName": "ScaffoldSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/appscaffold-scaffoldsample__ideal__default__compact.svg"
     },
     {
       "componentId": "ArcProgressIndicator/IndeterminateProgressArcSample",
@@ -196,7 +216,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "IndeterminateProgressArcSamplePreview"
+      "previewName": "IndeterminateProgressArcSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/arcprogressindicator-indeterminateprogressarcsample__ideal__default__compact.svg"
     },
     {
       "componentId": "Button/ButtonSample",
@@ -205,7 +226,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ButtonSamplePreview"
+      "previewName": "ButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/button-buttonsample__ideal__default.svg"
     },
     {
       "componentId": "ButtonGroup/ButtonGroupSample",
@@ -214,7 +236,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ButtonGroupSamplePreview"
+      "previewName": "ButtonGroupSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/buttongroup-buttongroupsample__ideal__default.svg"
     },
     {
       "componentId": "ButtonGroup/ButtonGroupThreeButtonsSample",
@@ -223,7 +246,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ButtonGroupThreeButtonsSamplePreview"
+      "previewName": "ButtonGroupThreeButtonsSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/buttongroup-buttongroupthreebuttonssample__ideal__default.svg"
     },
     {
       "componentId": "Card/CardFillContentSample",
@@ -232,7 +256,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/CardSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "CardFillContentSample"
+      "previewName": "CardFillContentSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/card-cardfillcontentsample__ideal__default.svg"
     },
     {
       "componentId": "Card/CardSample",
@@ -241,7 +266,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/CardSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "CardSample"
+      "previewName": "CardSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/card-cardsample__ideal__default.svg"
     },
     {
       "componentId": "Card/ImageCardSample",
@@ -250,7 +276,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ImageCardSamplePreview"
+      "previewName": "ImageCardSamplePreview",
+      "figmaSvg": "figma/card-imagecardsample.svg"
     },
     {
       "componentId": "Card/NonClickableCardSample",
@@ -259,7 +286,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "NonClickableCardSamplePreview"
+      "previewName": "NonClickableCardSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/card-nonclickablecardsample__ideal__default.svg"
     },
     {
       "componentId": "Card/NonClickableImageCardSample",
@@ -268,7 +296,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "NonClickableImageCardSamplePreview"
+      "previewName": "NonClickableImageCardSamplePreview",
+      "figmaSvg": "figma/card-nonclickableimagecardsample.svg"
     },
     {
       "componentId": "CheckboxButton/CheckboxButtonSample",
@@ -277,7 +306,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/CheckboxButtonSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "CheckboxButtonSample"
+      "previewName": "CheckboxButtonSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/checkboxbutton-checkboxbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "ChildButton/ChildButtonSample",
@@ -286,7 +316,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ChildButtonSamplePreview"
+      "previewName": "ChildButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/childbutton-childbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "ChildButton/SimpleChildButtonSample",
@@ -295,7 +326,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SimpleChildButtonSamplePreview"
+      "previewName": "SimpleChildButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/childbutton-simplechildbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "CircularProgressIndicator/FullScreenProgressIndicatorSample",
@@ -304,7 +336,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "FullScreenProgressIndicatorSamplePreview"
+      "previewName": "FullScreenProgressIndicatorSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/circularprogressindicator-fullscreenprogressindicatorsample__ideal__default__compact.svg"
     },
     {
       "componentId": "CircularProgressIndicator/IndeterminateProgressIndicatorSample",
@@ -313,7 +346,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "IndeterminateProgressIndicatorSamplePreview"
+      "previewName": "IndeterminateProgressIndicatorSamplePreview",
+      "figmaSvg": "figma/circularprogressindicator-indeterminateprogressindicatorsample.svg"
     },
     {
       "componentId": "CircularProgressIndicator/MediaButtonProgressIndicatorSample",
@@ -322,7 +356,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "MediaButtonProgressIndicatorSamplePreview"
+      "previewName": "MediaButtonProgressIndicatorSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/circularprogressindicator-mediabuttonprogressindicatorsample__ideal__default__compact.svg"
     },
     {
       "componentId": "CircularProgressIndicator/OverflowProgressIndicatorSample",
@@ -331,7 +366,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OverflowProgressIndicatorSamplePreview"
+      "previewName": "OverflowProgressIndicatorSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/circularprogressindicator-overflowprogressindicatorsample__ideal__default__compact.svg"
     },
     {
       "componentId": "CircularProgressIndicator/SmallValuesProgressIndicatorSample",
@@ -340,7 +376,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SmallValuesProgressIndicatorSamplePreview"
+      "previewName": "SmallValuesProgressIndicatorSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/circularprogressindicator-smallvaluesprogressindicatorsample__ideal__default__compact.svg"
     },
     {
       "componentId": "ConfirmationDialog/ConfirmationDialogSample",
@@ -349,7 +386,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ConfirmationDialogSamplePreview"
+      "previewName": "ConfirmationDialogSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/confirmationdialog-confirmationdialogsample__ideal__default__compact.svg"
     },
     {
       "componentId": "ConfirmationDialog/LongTextConfirmationDialogSample",
@@ -358,7 +396,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "LongTextConfirmationDialogSamplePreview"
+      "previewName": "LongTextConfirmationDialogSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/confirmationdialog-longtextconfirmationdialogsample__ideal__default__compact.svg"
     },
     {
       "componentId": "Content/ButtonContentWithOneHandedGestureSample",
@@ -367,7 +406,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ButtonContentWithOneHandedGestureSamplePreview"
+      "previewName": "ButtonContentWithOneHandedGestureSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/content-buttoncontentwithonehandedgesturesample__ideal__default__compact.svg"
     },
     {
       "componentId": "Content/CompactButtonContentWithOneHandedGestureSample",
@@ -376,7 +416,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "CompactButtonContentWithOneHandedGestureSamplePreview"
+      "previewName": "CompactButtonContentWithOneHandedGestureSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/content-compactbuttoncontentwithonehandedgesturesample__ideal__default__compact.svg"
     },
     {
       "componentId": "curvedText/CurvedTextBottom",
@@ -385,7 +426,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "CurvedTextBottomPreview"
+      "previewName": "CurvedTextBottomPreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/curvedtext-curvedtextbottom__ideal__default__compact.svg"
     },
     {
       "componentId": "curvedText/CurvedTextTop",
@@ -394,7 +436,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "CurvedTextTopPreview"
+      "previewName": "CurvedTextTopPreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/curvedtext-curvedtexttop__ideal__default__compact.svg"
     },
     {
       "componentId": "DatePicker/DatePickerFutureOnlySample",
@@ -403,7 +446,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "DatePickerFutureOnlySamplePreview"
+      "previewName": "DatePickerFutureOnlySamplePreview",
+      "figmaSvg": "figma/datepicker-datepickerfutureonlysample.svg"
     },
     {
       "componentId": "DatePicker/DatePickerSample",
@@ -412,7 +456,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "DatePickerSamplePreview"
+      "previewName": "DatePickerSamplePreview",
+      "figmaSvg": "figma/datepicker-datepickersample.svg"
     },
     {
       "componentId": "DatePicker/DatePickerYearMonthDaySample",
@@ -421,7 +466,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "DatePickerYearMonthDaySamplePreview"
+      "previewName": "DatePickerYearMonthDaySamplePreview",
+      "figmaSvg": "figma/datepicker-datepickeryearmonthdaysample.svg"
     },
     {
       "componentId": "drawCircularProgressIndicator/CircularProgressIndicatorCustomAnimationSample",
@@ -430,7 +476,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "CircularProgressIndicatorCustomAnimationSamplePreview"
+      "previewName": "CircularProgressIndicatorCustomAnimationSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/drawcircularprogressindicator-circularprogressindicatorcustomanimationsample__ideal__default__compact.svg"
     },
     {
       "componentId": "dynamicColorScheme/DynamicColorSchemeSample",
@@ -439,7 +486,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "DynamicColorSchemeSamplePreview"
+      "previewName": "DynamicColorSchemeSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/dynamiccolorscheme-dynamiccolorschemesample__ideal__default__compact.svg"
     },
     {
       "componentId": "EdgeButton/EdgeButtonSample",
@@ -448,7 +496,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "EdgeButtonSamplePreview"
+      "previewName": "EdgeButtonSamplePreview",
+      "figmaSvg": "figma/edgebutton-edgebuttonsample.svg"
     },
     {
       "componentId": "EdgeButton/ScaffoldWithTLCEdgeButtonSample",
@@ -457,7 +506,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/ScaffoldSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ScaffoldWithTLCEdgeButtonSample"
+      "previewName": "ScaffoldWithTLCEdgeButtonSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/edgebutton-scaffoldwithtlcedgebuttonsample__ideal__default__compact.svg"
     },
     {
       "componentId": "FadingExpandingLabel/FadingExpandingLabelButtonSample",
@@ -466,7 +516,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "FadingExpandingLabelButtonSamplePreview"
+      "previewName": "FadingExpandingLabelButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/fadingexpandinglabel-fadingexpandinglabelbuttonsample__ideal__default__compact.svg"
     },
     {
       "componentId": "FailureConfirmationDialog/FailureConfirmationDialogSample",
@@ -475,7 +526,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "FailureConfirmationDialogSamplePreview"
+      "previewName": "FailureConfirmationDialogSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/failureconfirmationdialog-failureconfirmationdialogsample__ideal__default__compact.svg"
     },
     {
       "componentId": "FailureConfirmationDialog/FailureConfirmationDialogWithGenericFailureIconSample",
@@ -484,7 +536,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "FailureConfirmationDialogWithGenericFailureIconSamplePreview"
+      "previewName": "FailureConfirmationDialogWithGenericFailureIconSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/failureconfirmationdialog-failureconfirmationdialogwithgenericfailureiconsample__ideal__default__compact.svg"
     },
     {
       "componentId": "FilledIconButton/FilledIconButtonSample",
@@ -493,7 +546,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "FilledIconButtonSamplePreview"
+      "previewName": "FilledIconButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/fillediconbutton-fillediconbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "filledTextButtonColors/FilledTextButtonSample",
@@ -502,7 +556,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "FilledTextButtonSamplePreview"
+      "previewName": "FilledTextButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledtextbuttoncolors-filledtextbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "FilledTonalButton/FilledTonalButtonSample",
@@ -511,7 +566,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "FilledTonalButtonSamplePreview"
+      "previewName": "FilledTonalButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledtonalbutton-filledtonalbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "FilledTonalButton/SimpleFilledTonalButtonSample",
@@ -520,7 +576,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SimpleFilledTonalButtonSamplePreview"
+      "previewName": "SimpleFilledTonalButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledtonalbutton-simplefilledtonalbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "FilledTonalIconButton/FilledTonalIconButtonSample",
@@ -529,7 +586,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "FilledTonalIconButtonSamplePreview"
+      "previewName": "FilledTonalIconButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledtonaliconbutton-filledtonaliconbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "filledTonalTextButtonColors/FilledTonalTextButtonSample",
@@ -538,7 +596,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "FilledTonalTextButtonSamplePreview"
+      "previewName": "FilledTonalTextButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledtonaltextbuttoncolors-filledtonaltextbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "filledVariantButtonColors/FilledVariantButtonSample",
@@ -547,7 +606,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "FilledVariantButtonSamplePreview"
+      "previewName": "FilledVariantButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledvariantbuttoncolors-filledvariantbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "filledVariantButtonColors/SimpleFilledVariantButtonSample",
@@ -556,7 +616,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SimpleFilledVariantButtonSamplePreview"
+      "previewName": "SimpleFilledVariantButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledvariantbuttoncolors-simplefilledvariantbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "filledVariantIconButtonColors/FilledVariantIconButtonSample",
@@ -565,7 +626,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "FilledVariantIconButtonSamplePreview"
+      "previewName": "FilledVariantIconButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledvarianticonbuttoncolors-filledvarianticonbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "filledVariantTextButtonColors/FilledVariantTextButtonSample",
@@ -574,7 +636,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "FilledVariantTextButtonSamplePreview"
+      "previewName": "FilledVariantTextButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledvarianttextbuttoncolors-filledvarianttextbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "firstVisibleItemLayoutItemInfo/TransformingLazyColumnFirstVisibleItemLayoutItemProviderSample",
@@ -583,7 +646,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/TransformingLazyColumnSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TransformingLazyColumnFirstVisibleItemLayoutItemProviderSample"
+      "previewName": "TransformingLazyColumnFirstVisibleItemLayoutItemProviderSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/firstvisibleitemlayoutiteminfo-transforminglazycolumnfirstvisibleitemlayoutitemprovidersample__ideal__default__compact.svg"
     },
     {
       "componentId": "HighSnapPositionalThreshold/VerticalPagerScaffoldSample",
@@ -592,7 +656,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "VerticalPagerScaffoldSamplePreview"
+      "previewName": "VerticalPagerScaffoldSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/highsnappositionalthreshold-verticalpagerscaffoldsample__ideal__default__compact.svg"
     },
     {
       "componentId": "IconButton/IconButtonSample",
@@ -601,7 +666,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "IconButtonSamplePreview"
+      "previewName": "IconButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/iconbutton-iconbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "IconToggleButton/IconToggleButtonVariantSample",
@@ -610,7 +676,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "IconToggleButtonVariantSamplePreview"
+      "previewName": "IconToggleButtonVariantSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/icontogglebutton-icontogglebuttonvariantsample__ideal__default__compact.svg"
     },
     {
       "componentId": "layoutItemInfoOf/TransformingLazyColumnFirstLayoutItemProviderSample",
@@ -619,7 +686,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/TransformingLazyColumnSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TransformingLazyColumnFirstLayoutItemProviderSample"
+      "previewName": "TransformingLazyColumnFirstLayoutItemProviderSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/layoutiteminfoof-transforminglazycolumnfirstlayoutitemprovidersample__ideal__default__compact.svg"
     },
     {
       "componentId": "LevelIndicator/LevelIndicatorSample",
@@ -628,7 +696,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "LevelIndicatorSamplePreview"
+      "previewName": "LevelIndicatorSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/levelindicator-levelindicatorsample__ideal__default__compact.svg"
     },
     {
       "componentId": "ListHeader/ListHeaderSample",
@@ -637,7 +706,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/ListHeaderSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ListHeaderSample"
+      "previewName": "ListHeaderSample",
+      "figmaSvg": "figma/listheader-listheadersample.svg"
     },
     {
       "componentId": "LocalOneHandedGestureEnabled/OneHandedGestureDisableButtonSample",
@@ -646,7 +716,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OneHandedGestureDisableButtonSamplePreview"
+      "previewName": "OneHandedGestureDisableButtonSamplePreview",
+      "figmaSvg": "figma/localonehandedgestureenabled-onehandedgesturedisablebuttonsample.svg"
     },
     {
       "componentId": "LowSnapPositionalThreshold/VerticalPagerScaffoldWithLowSensitivitySample",
@@ -655,7 +726,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "VerticalPagerScaffoldWithLowSensitivitySamplePreview"
+      "previewName": "VerticalPagerScaffoldWithLowSensitivitySamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/lowsnappositionalthreshold-verticalpagerscaffoldwithlowsensitivitysample__ideal__default__compact.svg"
     },
     {
       "componentId": "minimumTopListContentPadding/TransformingLazyColumnMinimumVerticalContentPaddingSample",
@@ -664,7 +736,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/TransformingLazyColumnSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TransformingLazyColumnMinimumVerticalContentPaddingSample"
+      "previewName": "TransformingLazyColumnMinimumVerticalContentPaddingSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/minimumtoplistcontentpadding-transforminglazycolumnminimumverticalcontentpaddingsample__ideal__default__compact.svg"
     },
     {
       "componentId": "minimumVerticalListContentPadding/TransformingLazyColumnButtonsSample",
@@ -673,7 +746,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/TransformingLazyColumnSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TransformingLazyColumnButtonsSample"
+      "previewName": "TransformingLazyColumnButtonsSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/minimumverticallistcontentpadding-transforminglazycolumnbuttonssample__ideal__default__compact.svg"
     },
     {
       "componentId": "oneHandedGesture/OneHandedGestureButtonSample",
@@ -682,7 +756,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OneHandedGestureButtonSamplePreview"
+      "previewName": "OneHandedGestureButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/onehandedgesture-onehandedgesturebuttonsample__ideal__default__compact.svg"
     },
     {
       "componentId": "oneHandedGesture/OneHandedGestureHorizontalPagerSample",
@@ -691,7 +766,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OneHandedGestureHorizontalPagerSamplePreview"
+      "previewName": "OneHandedGestureHorizontalPagerSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/onehandedgesture-onehandedgesturehorizontalpagersample__ideal__default__compact.svg"
     },
     {
       "componentId": "oneHandedGesture/OneHandedGestureTransformingLazyColumnSample",
@@ -700,7 +776,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OneHandedGestureTransformingLazyColumnSamplePreview"
+      "previewName": "OneHandedGestureTransformingLazyColumnSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/onehandedgesture-onehandedgesturetransforminglazycolumnsample__ideal__default__compact.svg"
     },
     {
       "componentId": "oneHandedGesture/OneHandedGestureVerticalPagerSample",
@@ -709,7 +786,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OneHandedGestureVerticalPagerSamplePreview"
+      "previewName": "OneHandedGestureVerticalPagerSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/onehandedgesture-onehandedgestureverticalpagersample__ideal__default__compact.svg"
     },
     {
       "componentId": "OneHandedGestureScrollIndicator/OneHandedGestureScalingLazyColumnSample",
@@ -718,7 +796,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OneHandedGestureScalingLazyColumnSamplePreview"
+      "previewName": "OneHandedGestureScalingLazyColumnSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/onehandedgesturescrollindicator-onehandedgesturescalinglazycolumnsample__ideal__default__compact.svg"
     },
     {
       "componentId": "OpenOnPhoneDialog/OpenOnPhoneDialogSample",
@@ -727,7 +806,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OpenOnPhoneDialogSamplePreview"
+      "previewName": "OpenOnPhoneDialogSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/openonphonedialog-openonphonedialogsample__ideal__default__compact.svg"
     },
     {
       "componentId": "OutlinedButton/OutlinedButtonSample",
@@ -736,7 +816,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OutlinedButtonSamplePreview"
+      "previewName": "OutlinedButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/outlinedbutton-outlinedbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "OutlinedButton/SimpleOutlinedButtonSample",
@@ -745,7 +826,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SimpleOutlinedButtonSamplePreview"
+      "previewName": "SimpleOutlinedButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/outlinedbutton-simpleoutlinedbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "OutlinedCard/NonClickableOutlinedCardSample",
@@ -754,7 +836,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "NonClickableOutlinedCardSamplePreview"
+      "previewName": "NonClickableOutlinedCardSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/outlinedcard-nonclickableoutlinedcardsample__ideal__default.svg"
     },
     {
       "componentId": "OutlinedCard/OutlinedCardSample",
@@ -763,7 +846,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OutlinedCardSamplePreview"
+      "previewName": "OutlinedCardSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/outlinedcard-outlinedcardsample__ideal__default.svg"
     },
     {
       "componentId": "OutlinedIconButton/OutlinedIconButtonSample",
@@ -772,7 +856,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OutlinedIconButtonSamplePreview"
+      "previewName": "OutlinedIconButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/outlinediconbutton-outlinediconbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "outlinedTextButtonColors/OutlinedTextButtonSample",
@@ -781,7 +866,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OutlinedTextButtonSamplePreview"
+      "previewName": "OutlinedTextButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/outlinedtextbuttoncolors-outlinedtextbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "Picker/PickerGroupSample",
@@ -790,7 +876,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "PickerGroupSamplePreview"
+      "previewName": "PickerGroupSamplePreview",
+      "figmaSvg": "figma/picker-pickergroupsample.svg"
     },
     {
       "componentId": "Picker/SimplePicker",
@@ -799,7 +886,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SimplePickerPreview"
+      "previewName": "SimplePickerPreview",
+      "figmaSvg": "figma/picker-simplepicker.svg"
     },
     {
       "componentId": "PickerGroup/AutoCenteringPickerGroup",
@@ -808,7 +896,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "AutoCenteringPickerGroupPreview"
+      "previewName": "AutoCenteringPickerGroupPreview",
+      "figmaSvg": "figma/pickergroup-autocenteringpickergroup.svg"
     },
     {
       "componentId": "placeholder/ButtonWithIconAndLabelAndPlaceholders",
@@ -817,7 +906,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ButtonWithIconAndLabelAndPlaceholdersPreview"
+      "previewName": "ButtonWithIconAndLabelAndPlaceholdersPreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/placeholder-buttonwithiconandlabelandplaceholders__ideal__default.svg"
     },
     {
       "componentId": "placeholder/ButtonWithIconAndLabelCachedData",
@@ -826,7 +916,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ButtonWithIconAndLabelCachedDataPreview"
+      "previewName": "ButtonWithIconAndLabelCachedDataPreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/placeholder-buttonwithiconandlabelcacheddata__ideal__default.svg"
     },
     {
       "componentId": "placeholderShimmer/TextPlaceholder",
@@ -835,7 +926,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TextPlaceholderPreview"
+      "previewName": "TextPlaceholderPreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/placeholdershimmer-textplaceholder__ideal__default.svg"
     },
     {
       "componentId": "RadioButton/RadioButtonSample",
@@ -844,7 +936,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/RadioButtonSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "RadioButtonSample"
+      "previewName": "RadioButtonSample",
+      "figmaSvg": "figma/radiobutton-radiobuttonsample.svg"
     },
     {
       "componentId": "rememberTransformationSpec/ResponsiveTransformationSpecButtonSample",
@@ -853,7 +946,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/TransformationSpecSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ResponsiveTransformationSpecButtonSample"
+      "previewName": "ResponsiveTransformationSpecButtonSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/remembertransformationspec-responsivetransformationspecbuttonsample__ideal__default__compact.svg"
     },
     {
       "componentId": "rememberTransformationSpec/TransformingLazyColumnNotificationsSample",
@@ -862,7 +956,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/TransformingLazyColumnNotificationsSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TransformingLazyColumnNotificationsSample"
+      "previewName": "TransformingLazyColumnNotificationsSample",
+      "figmaSvg": "figma/remembertransformationspec-transforminglazycolumnnotificationssample.svg"
     },
     {
       "componentId": "scrollAway/ScrollAwaySample",
@@ -871,7 +966,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ScrollAwaySamplePreview"
+      "previewName": "ScrollAwaySamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/scrollaway-scrollawaysample__ideal__default__compact.svg"
     },
     {
       "componentId": "scrollDownToNextItem/OneHandedGestureScalingLazyColumnScrollToNextItemSample",
@@ -880,7 +976,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OneHandedGestureScalingLazyColumnScrollToNextItemSamplePreview"
+      "previewName": "OneHandedGestureScalingLazyColumnScrollToNextItemSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/scrolldowntonextitem-onehandedgesturescalinglazycolumnscrolltonextitemsample__ideal__default__compact.svg"
     },
     {
       "componentId": "scrollDownToNextItem/OneHandedGestureTransformingLazyColumnScrollToNextItemSample",
@@ -889,7 +986,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OneHandedGestureTransformingLazyColumnScrollToNextItemSamplePreview"
+      "previewName": "OneHandedGestureTransformingLazyColumnScrollToNextItemSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/scrolldowntonextitem-onehandedgesturetransforminglazycolumnscrolltonextitemsample__ideal__default__compact.svg"
     },
     {
       "componentId": "ScrollIndicator/ScrollIndicatorWithTLCSample",
@@ -898,7 +996,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/ScrollIndicatorSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ScrollIndicatorWithTLCSample"
+      "previewName": "ScrollIndicatorWithTLCSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/scrollindicator-scrollindicatorwithtlcsample__ideal__default__compact.svg"
     },
     {
       "componentId": "scrollToOption/PickerScrollToOption",
@@ -907,7 +1006,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "PickerScrollToOptionPreview"
+      "previewName": "PickerScrollToOptionPreview",
+      "figmaSvg": "figma/scrolltooption-pickerscrolltooption.svg"
     },
     {
       "componentId": "SegmentedCircularProgressIndicator/SegmentedProgressIndicatorBinarySample",
@@ -916,7 +1016,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SegmentedProgressIndicatorBinarySamplePreview"
+      "previewName": "SegmentedProgressIndicatorBinarySamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/segmentedcircularprogressindicator-segmentedprogressindicatorbinarysample__ideal__default__compact.svg"
     },
     {
       "componentId": "SegmentedCircularProgressIndicator/SegmentedProgressIndicatorSample",
@@ -925,7 +1026,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SegmentedProgressIndicatorSamplePreview"
+      "previewName": "SegmentedProgressIndicatorSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/segmentedcircularprogressindicator-segmentedprogressindicatorsample__ideal__default__compact.svg"
     },
     {
       "componentId": "SegmentedCircularProgressIndicator/SmallSegmentedProgressIndicatorBinarySample",
@@ -934,7 +1036,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SmallSegmentedProgressIndicatorBinarySamplePreview"
+      "previewName": "SmallSegmentedProgressIndicatorBinarySamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/segmentedcircularprogressindicator-smallsegmentedprogressindicatorbinarysample__ideal__default__compact.svg"
     },
     {
       "componentId": "SegmentedCircularProgressIndicator/SmallSegmentedProgressIndicatorSample",
@@ -943,7 +1046,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SmallSegmentedProgressIndicatorSamplePreview"
+      "previewName": "SmallSegmentedProgressIndicatorSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/segmentedcircularprogressindicator-smallsegmentedprogressindicatorsample__ideal__default__compact.svg"
     },
     {
       "componentId": "Slider/SliderSample",
@@ -952,7 +1056,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SliderSamplePreview"
+      "previewName": "SliderSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/slider-slidersample__ideal__default.svg"
     },
     {
       "componentId": "Slider/SliderSegmentedSample",
@@ -961,7 +1066,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SliderSegmentedSamplePreview"
+      "previewName": "SliderSegmentedSamplePreview",
+      "figmaSvg": "figma/slider-slidersegmentedsample.svg"
     },
     {
       "componentId": "Slider/SliderWithIntegerSample",
@@ -970,7 +1076,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SliderWithIntegerSamplePreview"
+      "previewName": "SliderWithIntegerSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/slider-sliderwithintegersample__ideal__default.svg"
     },
     {
       "componentId": "SplitCheckboxButton/SplitCheckboxButtonSample",
@@ -979,7 +1086,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/CheckboxButtonSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SplitCheckboxButtonSample"
+      "previewName": "SplitCheckboxButtonSample",
+      "figmaSvg": "figma/splitcheckboxbutton-splitcheckboxbuttonsample.svg"
     },
     {
       "componentId": "SplitRadioButton/SplitRadioButtonSample",
@@ -988,7 +1096,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/RadioButtonSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SplitRadioButtonSample"
+      "previewName": "SplitRadioButtonSample",
+      "figmaSvg": "figma/splitradiobutton-splitradiobuttonsample.svg"
     },
     {
       "componentId": "SplitSwitchButton/SplitSwitchButtonSample",
@@ -997,7 +1106,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SwitchButtonSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SplitSwitchButtonSample"
+      "previewName": "SplitSwitchButtonSample",
+      "figmaSvg": "figma/splitswitchbutton-splitswitchbuttonsample.svg"
     },
     {
       "componentId": "Stepper/StepperSample",
@@ -1006,7 +1116,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "StepperSamplePreview"
+      "previewName": "StepperSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/stepper-steppersample__ideal__default__compact.svg"
     },
     {
       "componentId": "Stepper/StepperWithButtonSample",
@@ -1015,7 +1126,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "StepperWithButtonSamplePreview"
+      "previewName": "StepperWithButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/stepper-stepperwithbuttonsample__ideal__default__compact.svg"
     },
     {
       "componentId": "Stepper/StepperWithIntegerSample",
@@ -1024,7 +1136,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "StepperWithIntegerSamplePreview"
+      "previewName": "StepperWithIntegerSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/stepper-stepperwithintegersample__ideal__default__compact.svg"
     },
     {
       "componentId": "Stepper/StepperWithRangeSemanticsSample",
@@ -1033,7 +1146,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "StepperWithRangeSemanticsSamplePreview"
+      "previewName": "StepperWithRangeSemanticsSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/stepper-stepperwithrangesemanticssample__ideal__default__compact.svg"
     },
     {
       "componentId": "SuccessConfirmationDialog/SuccessConfirmationDialogSample",
@@ -1042,7 +1156,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SuccessConfirmationDialogSamplePreview"
+      "previewName": "SuccessConfirmationDialogSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/successconfirmationdialog-successconfirmationdialogsample__ideal__default__compact.svg"
     },
     {
       "componentId": "SurfaceTransformation/SurfaceTransformationButtonSample",
@@ -1051,7 +1166,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SurfaceTransformationSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SurfaceTransformationButtonSample"
+      "previewName": "SurfaceTransformationButtonSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/surfacetransformation-surfacetransformationbuttonsample__ideal__default__compact.svg"
     },
     {
       "componentId": "SurfaceTransformation/SurfaceTransformationCardSample",
@@ -1060,7 +1176,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SurfaceTransformationSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SurfaceTransformationCardSample"
+      "previewName": "SurfaceTransformationCardSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/surfacetransformation-surfacetransformationcardsample__ideal__default__compact.svg"
     },
     {
       "componentId": "SurfaceTransformation/SurfaceTransformationOnCustomComponent",
@@ -1069,7 +1186,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SurfaceTransformationSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SurfaceTransformationOnCustomComponent"
+      "previewName": "SurfaceTransformationOnCustomComponent",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/surfacetransformation-surfacetransformationoncustomcomponent__ideal__default__compact.svg"
     },
     {
       "componentId": "SwipeToDismissBox/StatefulSwipeToDismissBox",
@@ -1078,7 +1196,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "StatefulSwipeToDismissBoxPreview"
+      "previewName": "StatefulSwipeToDismissBoxPreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/swipetodismissbox-statefulswipetodismissbox__ideal__default__compact.svg"
     },
     {
       "componentId": "SwipeToReveal/SwipeToRevealNoPartialRevealWithScalingLazyColumnSample",
@@ -1087,7 +1206,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SwipeToRevealSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SwipeToRevealNoPartialRevealWithScalingLazyColumnSample"
+      "previewName": "SwipeToRevealNoPartialRevealWithScalingLazyColumnSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/swipetoreveal-swipetorevealnopartialrevealwithscalinglazycolumnsample__ideal__default__compact.svg"
     },
     {
       "componentId": "SwipeToReveal/SwipeToRevealSample",
@@ -1096,7 +1216,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SwipeToRevealSamplePreview"
+      "previewName": "SwipeToRevealSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/swipetoreveal-swipetorevealsample__ideal__default__compact.svg"
     },
     {
       "componentId": "SwipeToReveal/SwipeToRevealSingleActionCardSample",
@@ -1105,7 +1226,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SwipeToRevealSingleActionCardSamplePreview"
+      "previewName": "SwipeToRevealSingleActionCardSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/swipetoreveal-swipetorevealsingleactioncardsample__ideal__default__compact.svg"
     },
     {
       "componentId": "SwipeToReveal/SwipeToRevealWithScalingLazyColumnSample",
@@ -1114,7 +1236,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SwipeToRevealSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SwipeToRevealWithScalingLazyColumnSample"
+      "previewName": "SwipeToRevealWithScalingLazyColumnSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/swipetoreveal-swipetorevealwithscalinglazycolumnsample__ideal__default__compact.svg"
     },
     {
       "componentId": "SwipeToReveal/SwipeToRevealWithTransformingLazyColumnSample",
@@ -1123,7 +1246,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SwipeToRevealSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SwipeToRevealWithTransformingLazyColumnSample"
+      "previewName": "SwipeToRevealWithTransformingLazyColumnSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/swipetoreveal-swipetorevealwithtransforminglazycolumnsample__ideal__default__compact.svg"
     },
     {
       "componentId": "SwitchButton/SwitchButtonSample",
@@ -1132,7 +1256,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/SwitchButtonSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "SwitchButtonSample"
+      "previewName": "SwitchButtonSample",
+      "figmaSvg": "figma/switchbutton-switchbuttonsample.svg"
     },
     {
       "componentId": "TextButton/LargeFilledTonalTextButtonSample",
@@ -1141,7 +1266,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "LargeFilledTonalTextButtonSamplePreview"
+      "previewName": "LargeFilledTonalTextButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/textbutton-largefilledtonaltextbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "TextButton/TextButtonSample",
@@ -1150,7 +1276,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TextButtonSamplePreview"
+      "previewName": "TextButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/textbutton-textbuttonsample__ideal__default.svg"
     },
     {
       "componentId": "TextToggleButton/LargeTextToggleButtonSample",
@@ -1159,7 +1286,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "LargeTextToggleButtonSamplePreview"
+      "previewName": "LargeTextToggleButtonSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/texttogglebutton-largetexttogglebuttonsample__ideal__default.svg"
     },
     {
       "componentId": "TextToggleButton/TextToggleButtonVariantSample",
@@ -1168,7 +1296,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TextToggleButtonVariantSamplePreview"
+      "previewName": "TextToggleButtonVariantSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/texttogglebutton-texttogglebuttonvariantsample__ideal__default.svg"
     },
     {
       "componentId": "TimePicker/TimePickerSample",
@@ -1177,7 +1306,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TimePickerSamplePreview"
+      "previewName": "TimePickerSamplePreview",
+      "figmaSvg": "figma/timepicker-timepickersample.svg"
     },
     {
       "componentId": "TimePicker/TimePickerWith12HourClockSample",
@@ -1186,7 +1316,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TimePickerWith12HourClockSamplePreview"
+      "previewName": "TimePickerWith12HourClockSamplePreview",
+      "figmaSvg": "figma/timepicker-timepickerwith12hourclocksample.svg"
     },
     {
       "componentId": "TimePicker/TimePickerWithMinutesAndSecondsSample",
@@ -1195,7 +1326,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TimePickerWithMinutesAndSecondsSamplePreview"
+      "previewName": "TimePickerWithMinutesAndSecondsSamplePreview",
+      "figmaSvg": "figma/timepicker-timepickerwithminutesandsecondssample.svg"
     },
     {
       "componentId": "TimePicker/TimePickerWithSecondsSample",
@@ -1204,7 +1336,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TimePickerWithSecondsSamplePreview"
+      "previewName": "TimePickerWithSecondsSamplePreview",
+      "figmaSvg": "figma/timepicker-timepickerwithsecondssample.svg"
     },
     {
       "componentId": "TimeText/TimeTextClockOnly",
@@ -1213,7 +1346,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TimeTextClockOnlyPreview"
+      "previewName": "TimeTextClockOnlyPreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/timetext-timetextclockonly__ideal__default__compact.svg"
     },
     {
       "componentId": "TimeText/TimeTextWithStatus",
@@ -1222,7 +1356,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TimeTextWithStatusPreview"
+      "previewName": "TimeTextWithStatusPreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/timetext-timetextwithstatus__ideal__default__compact.svg"
     },
     {
       "componentId": "TimeText/TimeTextWithStatusEllipsized",
@@ -1231,7 +1366,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TimeTextWithStatusEllipsizedPreview"
+      "previewName": "TimeTextWithStatusEllipsizedPreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/timetext-timetextwithstatusellipsized__ideal__default__compact.svg"
     },
     {
       "componentId": "TitleCard/NonClickableTitleCardSample",
@@ -1240,7 +1376,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "NonClickableTitleCardSamplePreview"
+      "previewName": "NonClickableTitleCardSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/titlecard-nonclickabletitlecardsample__ideal__default.svg"
     },
     {
       "componentId": "TitleCard/NonClickableTitleCardWithImageWithTimeAndTitleSample",
@@ -1249,7 +1386,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "NonClickableTitleCardWithImageWithTimeAndTitleSamplePreview"
+      "previewName": "NonClickableTitleCardWithImageWithTimeAndTitleSamplePreview",
+      "figmaSvg": "figma/titlecard-nonclickabletitlecardwithimagewithtimeandtitlesample.svg"
     },
     {
       "componentId": "TitleCard/OutlinedTitleCardSample",
@@ -1258,7 +1396,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "OutlinedTitleCardSamplePreview"
+      "previewName": "OutlinedTitleCardSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/titlecard-outlinedtitlecardsample__ideal__default.svg"
     },
     {
       "componentId": "TitleCard/TitleCardSample",
@@ -1267,7 +1406,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TitleCardSamplePreview"
+      "previewName": "TitleCardSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/titlecard-titlecardsample__ideal__default.svg"
     },
     {
       "componentId": "TitleCard/TitleCardWithImageWithTimeAndTitleSample",
@@ -1276,7 +1416,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TitleCardWithImageWithTimeAndTitleSamplePreview"
+      "previewName": "TitleCardWithImageWithTimeAndTitleSamplePreview",
+      "figmaSvg": "figma/titlecard-titlecardwithimagewithtimeandtitlesample.svg"
     },
     {
       "componentId": "TitleCard/TitleCardWithMultipleImagesSample",
@@ -1285,7 +1426,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/CardSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TitleCardWithMultipleImagesSample"
+      "previewName": "TitleCardWithMultipleImagesSample",
+      "figmaSvg": "figma/titlecard-titlecardwithmultipleimagessample.svg"
     },
     {
       "componentId": "TitleCard/TitleCardWithSubtitleAndTimeSample",
@@ -1294,7 +1436,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TitleCardWithSubtitleAndTimeSamplePreview"
+      "previewName": "TitleCardWithSubtitleAndTimeSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/titlecard-titlecardwithsubtitleandtimesample__ideal__default.svg"
     },
     {
       "componentId": "TitleCardContent/TitleCardContentWithOneHandedGestureSample",
@@ -1303,7 +1446,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TitleCardContentWithOneHandedGestureSamplePreview"
+      "previewName": "TitleCardContentWithOneHandedGestureSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/titlecardcontent-titlecardcontentwithonehandedgesturesample__ideal__default__compact.svg"
     },
     {
       "componentId": "TransformationSpec/CustomCompositingStrategyTransformationSpecSample",
@@ -1312,7 +1456,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/TransformationSpecSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "CustomCompositingStrategyTransformationSpecSample"
+      "previewName": "CustomCompositingStrategyTransformationSpecSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/transformationspec-customcompositingstrategytransformationspecsample__ideal__default__compact.svg"
     },
     {
       "componentId": "TransformationSpec/CustomTransformationSpecSample",
@@ -1321,7 +1466,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/TransformationSpecSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "CustomTransformationSpecSample"
+      "previewName": "CustomTransformationSpecSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/transformationspec-customtransformationspecsample__ideal__default__compact.svg"
     },
     {
       "componentId": "TransformationSpec/TransformationSpecButtonRowSample",
@@ -1330,7 +1476,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/wear/compose/material3/samples/TransformationSpecSample.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "TransformationSpecButtonRowSample"
+      "previewName": "TransformationSpecButtonRowSample",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/transformationspec-transformationspecbuttonrowsample__ideal__default__compact.svg"
     },
     {
       "componentId": "variantSliderColors/ChangedSliderSample",
@@ -1339,7 +1486,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ChangedSliderSamplePreview"
+      "previewName": "ChangedSliderSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/variantslidercolors-changedslidersample__ideal__default.svg"
     },
     {
       "componentId": "VerticalPageIndicator/VerticalPageIndicatorWithPagerSample",
@@ -1348,7 +1496,8 @@
       "source": "https://github.com/yschimke/wear-m3-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/wearm3catalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "VerticalPageIndicatorWithPagerSamplePreview"
+      "previewName": "VerticalPageIndicatorWithPagerSamplePreview",
+      "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/verticalpageindicator-verticalpageindicatorwithpagersample__ideal__default__compact.svg"
     }
   ]
 }

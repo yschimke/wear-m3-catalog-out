@@ -22,7 +22,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/alertdialog-alertdialogwithconfirmanddismisssample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -99,7 +100,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/alertdialog-alertdialogwithconfirmanddismisstransformingcontentsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -176,7 +178,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/alertdialog-alertdialogwithcontentgroupssample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -253,7 +256,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/alertdialog-alertdialogwithcontentgroupstransformingcontentsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -330,7 +334,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/alertdialog-alertdialogwithedgebuttonsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -407,7 +412,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/alertdialog-alertdialogwithedgebuttontransformingcontentsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -484,7 +490,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/animatedshapes-icontogglebuttonsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -550,7 +557,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/animatedshapes-textbuttonwithcorneranimationsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.TextButtonWithCornerAnimationSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/animatedshapes-textbuttonwithcorneranimationsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -596,7 +604,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/animatedshapes-texttogglebuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.TextToggleButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/animatedshapes-texttogglebuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -642,7 +651,8 @@
           "height": 94,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/animatedtext-animatedtextsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.AnimatedTextSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/animatedtext-animatedtextsample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -673,7 +683,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/animatedtext-animatedtextsamplebuttonresponse__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.AnimatedTextSampleButtonResponsePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/animatedtext-animatedtextsamplebuttonresponse__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -778,7 +789,8 @@
           "height": 118,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/animatedtext-animatedtextsamplesharedfontregistry__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.AnimatedTextSampleSharedFontRegistryPreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/animatedtext-animatedtextsamplesharedfontregistry__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -1112,7 +1124,8 @@
           "height": 173,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/appcard-appcardsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.AppCardSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/appcard-appcardsample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -1262,7 +1275,8 @@
           "height": 173,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/appcard-nonclickableappcardsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.NonClickableAppCardSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/appcard-nonclickableappcardsample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -1309,7 +1323,8 @@
           "height": 176,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/appcard-outlinedappcardsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.OutlinedAppCardSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/appcard-outlinedappcardsample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -1364,7 +1379,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/appcardcontent-appcardcontentwithonehandedgesturesample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -1419,7 +1435,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/appscaffold-scaffoldsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -1598,7 +1615,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/arcprogressindicator-indeterminateprogressarcsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -1629,7 +1647,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/button-buttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.ButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/button-buttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1698,7 +1717,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/buttongroup-buttongroupsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.ButtonGroupSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/buttongroup-buttongroupsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1817,7 +1837,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/buttongroup-buttongroupthreebuttonssample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.ButtonGroupThreeButtonsSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/buttongroup-buttongroupthreebuttonssample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -1972,7 +1993,8 @@
           "height": 128,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/card-cardfillcontentsample__ideal__default",
           "previewId": "androidx.wear.compose.material3.samples.CardSampleKt.CardFillContentSample",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/card-cardfillcontentsample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -2029,7 +2051,8 @@
           "height": 128,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/card-cardsample__ideal__default",
           "previewId": "androidx.wear.compose.material3.samples.CardSampleKt.CardSample",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/card-cardsample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -2123,7 +2146,8 @@
           "height": 128,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/card-nonclickablecardsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.NonClickableCardSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/card-nonclickablecardsample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -2217,7 +2241,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/checkboxbutton-checkboxbuttonsample__ideal__default",
           "previewId": "androidx.wear.compose.material3.samples.CheckboxButtonSampleKt.CheckboxButtonSample",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/checkboxbutton-checkboxbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -2285,7 +2310,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/childbutton-childbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.ChildButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/childbutton-childbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -2354,7 +2380,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/childbutton-simplechildbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.SimpleChildButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/childbutton-simplechildbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -2431,7 +2458,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/circularprogressindicator-fullscreenprogressindicatorsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -2524,7 +2552,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/circularprogressindicator-mediabuttonprogressindicatorsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -2597,7 +2626,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/circularprogressindicator-overflowprogressindicatorsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -2651,7 +2681,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/circularprogressindicator-smallvaluesprogressindicatorsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -2705,7 +2736,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/confirmationdialog-confirmationdialogsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -2782,7 +2814,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/confirmationdialog-longtextconfirmationdialogsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -2859,7 +2892,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/content-buttoncontentwithonehandedgesturesample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -2930,7 +2964,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/content-compactbuttoncontentwithonehandedgesturesample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -3001,7 +3036,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/curvedtext-curvedtextbottom__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -3034,7 +3070,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/curvedtext-curvedtexttop__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -3484,7 +3521,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/drawcircularprogressindicator-circularprogressindicatorcustomanimationsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -3532,7 +3570,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/dynamiccolorscheme-dynamiccolorschemesample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -3787,7 +3826,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/edgebutton-scaffoldwithtlcedgebuttonsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -4007,7 +4047,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/fadingexpandinglabel-fadingexpandinglabelbuttonsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -4084,7 +4125,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/failureconfirmationdialog-failureconfirmationdialogsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -4161,7 +4203,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/failureconfirmationdialog-failureconfirmationdialogwithgenericfailureiconsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -4230,7 +4273,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/fillediconbutton-fillediconbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.FilledIconButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/fillediconbutton-fillediconbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4293,7 +4337,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/filledtextbuttoncolors-filledtextbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.FilledTextButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledtextbuttoncolors-filledtextbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4356,7 +4401,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/filledtonalbutton-filledtonalbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.FilledTonalButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledtonalbutton-filledtonalbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4425,7 +4471,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/filledtonalbutton-simplefilledtonalbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.SimpleFilledTonalButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledtonalbutton-simplefilledtonalbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4494,7 +4541,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/filledtonaliconbutton-filledtonaliconbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.FilledTonalIconButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledtonaliconbutton-filledtonaliconbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4557,7 +4605,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/filledtonaltextbuttoncolors-filledtonaltextbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.FilledTonalTextButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledtonaltextbuttoncolors-filledtonaltextbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4620,7 +4669,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/filledvariantbuttoncolors-filledvariantbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.FilledVariantButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledvariantbuttoncolors-filledvariantbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4689,7 +4739,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/filledvariantbuttoncolors-simplefilledvariantbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.SimpleFilledVariantButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledvariantbuttoncolors-simplefilledvariantbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4758,7 +4809,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/filledvarianticonbuttoncolors-filledvarianticonbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.FilledVariantIconButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledvarianticonbuttoncolors-filledvarianticonbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4821,7 +4873,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/filledvarianttextbuttoncolors-filledvarianttextbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.FilledVariantTextButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/filledvarianttextbuttoncolors-filledvarianttextbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -4892,7 +4945,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/firstvisibleitemlayoutiteminfo-transforminglazycolumnfirstvisibleitemlayoutitemprovidersample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -5101,7 +5155,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/highsnappositionalthreshold-verticalpagerscaffoldsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -5136,7 +5191,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/iconbutton-iconbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.IconButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/iconbutton-iconbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -5207,7 +5263,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/icontogglebutton-icontogglebuttonvariantsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -5287,7 +5344,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/layoutiteminfoof-transforminglazycolumnfirstlayoutitemprovidersample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -5366,7 +5424,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/levelindicator-levelindicatorsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -5726,7 +5785,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/lowsnappositionalthreshold-verticalpagerscaffoldwithlowsensitivitysample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -5769,7 +5829,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/minimumtoplistcontentpadding-transforminglazycolumnminimumverticalcontentpaddingsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -6049,7 +6110,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/minimumverticallistcontentpadding-transforminglazycolumnbuttonssample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -6228,7 +6290,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/onehandedgesture-onehandedgesturebuttonsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -6299,7 +6362,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/onehandedgesture-onehandedgesturehorizontalpagersample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -6342,7 +6406,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/onehandedgesture-onehandedgesturetransforminglazycolumnsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -6412,7 +6477,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/onehandedgesture-onehandedgestureverticalpagersample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -6455,7 +6521,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/onehandedgesturescrollindicator-onehandedgesturescalinglazycolumnsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -6531,7 +6598,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/openonphonedialog-openonphonedialogsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -6600,7 +6668,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/outlinedbutton-outlinedbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.OutlinedButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/outlinedbutton-outlinedbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -6669,7 +6738,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/outlinedbutton-simpleoutlinedbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.SimpleOutlinedButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/outlinedbutton-simpleoutlinedbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -6738,7 +6808,8 @@
           "height": 128,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/outlinedcard-nonclickableoutlinedcardsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.NonClickableOutlinedCardSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/outlinedcard-nonclickableoutlinedcardsample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -6785,7 +6856,8 @@
           "height": 128,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/outlinedcard-outlinedcardsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.OutlinedCardSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/outlinedcard-outlinedcardsample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -6832,7 +6904,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/outlinediconbutton-outlinediconbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.OutlinedIconButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/outlinediconbutton-outlinediconbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -6895,7 +6968,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/outlinedtextbuttoncolors-outlinedtextbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.OutlinedTextButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/outlinedtextbuttoncolors-outlinedtextbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -7189,7 +7263,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/placeholder-buttonwithiconandlabelandplaceholders__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.ButtonWithIconAndLabelAndPlaceholdersPreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/placeholder-buttonwithiconandlabelandplaceholders__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -7258,7 +7333,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/placeholder-buttonwithiconandlabelcacheddata__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.ButtonWithIconAndLabelCachedDataPreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/placeholder-buttonwithiconandlabelcacheddata__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -7327,7 +7403,8 @@
           "height": 33,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/placeholdershimmer-textplaceholder__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.TextPlaceholderPreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/placeholdershimmer-textplaceholder__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -7438,7 +7515,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/remembertransformationspec-responsivetransformationspecbuttonsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -7695,7 +7773,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/scrollaway-scrollawaysample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -7852,7 +7931,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/scrolldowntonextitem-onehandedgesturescalinglazycolumnscrolltonextitemsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -7922,7 +8002,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/scrolldowntonextitem-onehandedgesturetransforminglazycolumnscrolltonextitemsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -7992,7 +8073,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/scrollindicator-scrollindicatorwithtlcsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -8472,7 +8554,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/segmentedcircularprogressindicator-segmentedprogressindicatorbinarysample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -8526,7 +8609,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/segmentedcircularprogressindicator-segmentedprogressindicatorsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -8580,7 +8664,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/segmentedcircularprogressindicator-smallsegmentedprogressindicatorbinarysample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -8619,7 +8704,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/segmentedcircularprogressindicator-smallsegmentedprogressindicatorsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -8650,7 +8736,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/slider-slidersample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.SliderSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/slider-slidersample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -8832,7 +8919,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/slider-sliderwithintegersample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.SliderWithIntegerSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/slider-sliderwithintegersample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -9328,7 +9416,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/stepper-steppersample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -9408,7 +9497,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/stepper-stepperwithbuttonsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -9525,7 +9615,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/stepper-stepperwithintegersample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -9605,7 +9696,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/stepper-stepperwithrangesemanticssample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -9695,7 +9787,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/successconfirmationdialog-successconfirmationdialogsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -9772,7 +9865,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/surfacetransformation-surfacetransformationbuttonsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -9951,7 +10045,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/surfacetransformation-surfacetransformationcardsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -10030,7 +10125,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/surfacetransformation-surfacetransformationoncustomcomponent__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -10124,7 +10220,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/swipetodismissbox-statefulswipetodismissbox__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -10236,7 +10333,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/swipetoreveal-swipetorevealnopartialrevealwithscalinglazycolumnsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -10421,7 +10519,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/swipetoreveal-swipetorevealsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -10498,7 +10597,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/swipetoreveal-swipetorevealsingleactioncardsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -10553,7 +10653,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/swipetoreveal-swipetorevealwithscalinglazycolumnsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -10738,7 +10839,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/swipetoreveal-swipetorevealwithtransforminglazycolumnsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -10868,7 +10970,8 @@
           "height": 120,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/textbutton-largefilledtonaltextbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.LargeFilledTonalTextButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/textbutton-largefilledtonaltextbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -10931,7 +11034,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/textbutton-textbuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.TextButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/textbutton-textbuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -10994,7 +11098,8 @@
           "height": 120,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/texttogglebutton-largetexttogglebuttonsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.LargeTextToggleButtonSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/texttogglebutton-largetexttogglebuttonsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -11063,7 +11168,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/texttogglebutton-texttogglebuttonvariantsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.TextToggleButtonVariantSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/texttogglebutton-texttogglebuttonvariantsample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -11663,7 +11769,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/timetext-timetextclockonly__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -11702,7 +11809,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/timetext-timetextwithstatus__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -11741,7 +11849,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/timetext-timetextwithstatusellipsized__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -11772,7 +11881,8 @@
           "height": 128,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/titlecard-nonclickabletitlecardsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.NonClickableTitleCardSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/titlecard-nonclickabletitlecardsample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -11867,7 +11977,8 @@
           "height": 128,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/titlecard-outlinedtitlecardsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.OutlinedTitleCardSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/titlecard-outlinedtitlecardsample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -11914,7 +12025,8 @@
           "height": 128,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/titlecard-titlecardsample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.TitleCardSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/titlecard-titlecardsample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -12075,7 +12187,8 @@
           "height": 175,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/titlecard-titlecardwithsubtitleandtimesample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.TitleCardWithSubtitleAndTimeSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/titlecard-titlecardwithsubtitleandtimesample__ideal__default.svg"
         }
       ],
       "greenlines": [],
@@ -12130,7 +12243,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/titlecardcontent-titlecardcontentwithonehandedgesturesample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -12185,7 +12299,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/transformationspec-customcompositingstrategytransformationspecsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -12364,7 +12479,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/transformationspec-customtransformationspecsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -12543,7 +12659,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/transformationspec-transformationspecbuttonrowsample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [
@@ -12914,7 +13031,8 @@
           "height": 104,
           "livePreview": "https://preview.coo.ee/wear-m3-samples/p/variantslidercolors-changedslidersample__ideal__default",
           "previewId": "ee.schimke.wearm3catalog.samples.SamplePreviewsKt.ChangedSliderSamplePreview",
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/variantslidercolors-changedslidersample__ideal__default.svg"
         }
       ],
       "greenlines": [
@@ -13013,7 +13131,8 @@
             "widthDp": 225,
             "heightDp": 225
           },
-          "density": 2
+          "density": 2,
+          "figmaSvg": "https://preview.coo.ee/wear-m3-samples/render/verticalpageindicator-verticalpageindicatorwithpagersample__ideal__default__compact.svg"
         }
       ],
       "greenlines": [],
@@ -13048,7 +13167,7 @@
     "androidx.wear.compose:compose-material3"
   ],
   "renderer": "compose-preview 2.52.0",
-  "generatedAt": "2026-10-12T08:51:52.195Z",
+  "generatedAt": "2026-10-12T09:35:55.761Z",
   "display": {
     "role": "samples"
   },
