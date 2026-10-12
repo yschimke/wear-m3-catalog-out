@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T00:25:59.886Z",
+  "generatedAt": "2026-10-12T01:53:16.884Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "4baba54963cbe8862fa3e86cb1b284058f013ce6",
+        "subject": "chore(deps): update compose-ai-tools to v2.51.0 (#803)",
+        "at": "2026-10-12T00:03:07Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0de2380ad43ac1778881bd9af9afc7ca61974487",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.108.0 (#802)",
@@ -474,14 +482,6 @@
         "sha": "f0680fa0fbabce115baeeed9e6294941aa8a5836",
         "subject": "feat(ui-builder): publish wear-m3/variable-font-text as a catalog builtin (#741)",
         "at": "2026-10-09T20:11:44+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "694ee981e71407457403cbdc44c06495d95b2f7e",
-        "subject": "test(ui-builder): hold the wear adapters' colour literals to sRGB Long (#740)",
-        "at": "2026-10-09T19:04:25+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
