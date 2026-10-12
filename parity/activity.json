@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T03:20:59.401Z",
+  "generatedAt": "2026-10-12T03:31:17.668Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f9a81b04efb6e527b535550042c93cc4ab245c79",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.108.0 (#807)",
+        "at": "2026-10-12T03:05:45Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "994c8a3d43d3c7e97c0463b3fcb4a398b6b23be1",
+        "subject": "fix(deps): update compose-ai-tools to v2.51.0 (#806)",
+        "at": "2026-10-12T03:04:52Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5618e27cc226a2119b5c2f216b48af40efa98b63",
+        "subject": "chore(deps): update kotlin to v2.4.21 (#805)",
+        "at": "2026-10-12T03:04:35Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8addfc8859e6cd9dc7c648ae9de8d3c2856e3b93",
         "subject": "chore(deps): update ci toolchain (#804)",
@@ -459,30 +483,6 @@
         "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.38.0 (#745)",
         "at": "2026-10-09T23:00:15Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "46406c6c79539f88e4e944ddc448919dc260cc55",
-        "subject": "fix(ci): build the UI-builder runtime against compose-ui-builder v3.100.0 (#744)",
-        "at": "2026-10-09T23:49:06+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "322d7227df3c5b99f1a5888100b564ed08d0b806",
-        "subject": "chore(deps): update compose-ai-tools to v2.38.0 (#743)",
-        "at": "2026-10-09T22:34:44Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a6fb8605f1c5d8ee654f88b4e7d4a17255f9dbb7",
-        "subject": "ci: compose-ai-tools 2.38.0, and check changed previews against this catalog's design guidelines (#742)",
-        "at": "2026-10-09T23:34:03+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
