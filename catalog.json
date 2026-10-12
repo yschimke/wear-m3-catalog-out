@@ -455,13 +455,13 @@
     }
   ],
   "renderer": "wear-m3-catalog catalog-typed-adapters",
-  "generatedAt": "2026-10-12T15:07:23.733Z",
+  "generatedAt": "2026-10-12T17:09:26.881Z",
   "componentsFile": "components.json",
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderGuidelinesFile": "ui-builder.guidelines.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "wear-m3-typed-pilot-0de594587916",
+    "runtimeId": "wear-m3-typed-pilot-64af60047340",
     "protocolVersion": 2,
     "integritySha256": "d470f39bb84b8b3e03a884b49a77cecbb94a3f644380366e267016c8455544f7"
   }
