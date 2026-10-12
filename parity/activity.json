@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T04:31:40.760Z",
+  "generatedAt": "2026-10-12T07:32:30.386Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "aa651823843adcc56bda3a7062f60081e74b87d9",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.109.0 (#811)",
+        "at": "2026-10-12T07:26:09Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7ad44a66fd7cbdafa715860391f72a8ef35e4f74",
+        "subject": "feat(typed): export every Wear fixture design through typed projections on the real records (#808)",
+        "at": "2026-10-12T05:39:40+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "20f6a3f6c825673d313ef321d4b7751340200b10",
         "subject": "chore(deps): update compose-ai-tools to v2.52.0 (#809)",
@@ -466,22 +482,6 @@
         "sha": "ae416962a2d862d44d1033767365d5390c0186bc",
         "subject": "fix(ui-builder): source the guidelines publicly, drop the tile-only rule, republish on a guidelines edit (#750)",
         "at": "2026-10-10T00:10:17+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9df558180713bbc2a2dcdec57835803aaa7c45c6",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.101.0 (#749)",
-        "at": "2026-10-09T23:09:09Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "016b682d24494743870c5f3971dd5d34e0fa8e2c",
-        "subject": "fix(ui-builder): cite https sources for the two guidelines that pointed at a kb:// URI (#747)",
-        "at": "2026-10-10T00:01:31+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
