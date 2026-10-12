@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T07:38:11.492Z",
+  "generatedAt": "2026-10-12T08:52:20.118Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "21bc73d14bf8d654aa39e857c037afe8835654dd",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.109.0 (#814)",
+        "at": "2026-10-12T08:34:07Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9e72aeee698d46185e7648b9dd7cf4c099dc9439",
+        "subject": "ci(typed): build the typed pilot against the compose-ai-tools 2.52.0 and builder 3.109.0 release tags (#810)",
+        "at": "2026-10-12T08:37:04+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "788555636e0d7ba583868901a6dc70b0f0b5b04d",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.52.0 (#812)",
@@ -467,22 +483,6 @@
         "subject": "fix: the alert-dialog guideline names both alert dialog components (#752)",
         "at": "2026-10-10T00:25:45+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ff39ee1cfdf43f79107beb13efa693617385fdbb",
-        "subject": "chore(deps): update compose-ai-tools to v2.39.0 (#751)",
-        "at": "2026-10-09T23:20:49Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1582597c3372b19f355ac593f400dd6877bd024a",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.24.0 (#748)",
-        "at": "2026-10-09T23:10:58Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
