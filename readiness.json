@@ -1,0 +1,90 @@
+{
+  "catalogId": "wear-m3-typed-pilot",
+  "readyForCutover": false,
+  "typedComponents": [
+    "wear-m3/button",
+    "wear-m3/button-group",
+    "wear-m3/card",
+    "wear-m3/checkbox-button",
+    "wear-m3/date-picker",
+    "wear-m3/edge-button",
+    "wear-m3/icon",
+    "wear-m3/icon-button",
+    "wear-m3/list-header",
+    "wear-m3/list-sub-header",
+    "wear-m3/radio-button",
+    "wear-m3/slider",
+    "wear-m3/stepper",
+    "wear-m3/switch-button",
+    "wear-m3/text",
+    "wear-m3/text-button",
+    "wear-m3/time-picker"
+  ],
+  "typedBuiltins": [
+    "wear-m3/alert-dialog",
+    "wear-m3/confirmation-dialog",
+    "wear-m3/open-on-phone-dialog",
+    "wear-m3/progress-indicator",
+    "wear-m3/variable-font-text"
+  ],
+  "productionStructureAdapters": [
+    "wear-m3/screen-scaffold",
+    "wear-m3/transforming-lazy-column"
+  ],
+  "remainingComponents": [
+    "wear-m3/alert-dialog-edge-button",
+    "wear-m3/app-scaffold",
+    "wear-m3/circular-progress-indicator",
+    "wear-m3/open-on-phone-dialog-icon",
+    "wear-m3/time-text"
+  ],
+  "remainingBuiltins": [],
+  "compatibilityChanges": {
+    "wear-m3/checkbox-button": [
+      "propertyCapabilities"
+    ],
+    "wear-m3/edge-button": [
+      "propertyCapabilities"
+    ],
+    "wear-m3/icon-button": [
+      "propertyCapabilities"
+    ],
+    "wear-m3/radio-button": [
+      "propertyCapabilities"
+    ],
+    "wear-m3/slider": [
+      "propertyCapabilities"
+    ],
+    "wear-m3/stepper": [
+      "propertyCapabilities"
+    ],
+    "wear-m3/switch-button": [
+      "propertyCapabilities"
+    ],
+    "wear-m3/text-button": [
+      "propertyCapabilities"
+    ]
+  },
+  "knownDifferences": [
+    "wear-m3/text letterSpacingSp: an authored 0 is read as unset (the style's own spacing)",
+    "Selection-button labels draw the label string; production also accepts a label slot"
+  ],
+  "unverifiedGates": [
+    "Production source export with state/event write-back",
+    "Production delivery of the typed pair and runtime"
+  ],
+  "templateCoverage": {
+    "ui-builder/designs/wear-screen.json": {
+      "uncoveredComponents": []
+    },
+    "ui-builder/designs/wear-list.json": {
+      "uncoveredComponents": []
+    }
+  },
+  "browserVerification": {
+    "runtimeId": "wear-m3-typed-pilot-46ef46d2469c",
+    "integritySha256": "d470f39bb84b8b3e03a884b49a77cecbb94a3f644380366e267016c8455544f7",
+    "renders": 29,
+    "boundCheckboxPointerInteractionVerified": true
+  }
+}

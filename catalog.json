@@ -1,0 +1,468 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "wear-m3-typed-pilot",
+  "title": "Wear Material 3 — typed pilot",
+  "components": [
+    {
+      "componentId": "typed-pilot/alert-dialog-all",
+      "caption": "Typed renderer, parity case alert-dialog-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/alert-dialog-all/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 227
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/button-all",
+      "caption": "Typed renderer, parity case button-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/button-all/typed.png",
+          "state": "default",
+          "width": 124,
+          "height": 52
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/button-group-all",
+      "caption": "Typed renderer, parity case button-group-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/button-group-all/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 18
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/card-all",
+      "caption": "Typed renderer, parity case card-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/card-all/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 64
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/checkbox-button-all",
+      "caption": "Typed renderer, parity case checkbox-button-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/checkbox-button-all/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 52
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/confirmation-dialog-all",
+      "caption": "Typed renderer, parity case confirmation-dialog-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/confirmation-dialog-all/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 227
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/date-picker",
+      "caption": "Typed renderer, parity case date-picker-",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/date-picker/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 227
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/date-picker-day-month-year",
+      "caption": "Typed renderer, parity case date-picker-day-month-year",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/date-picker-day-month-year/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 227
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/date-picker-month-day-year",
+      "caption": "Typed renderer, parity case date-picker-month-day-year",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/date-picker-month-day-year/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 227
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/edge-button-all",
+      "caption": "Typed renderer, parity case edge-button-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/edge-button-all/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 46
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/icon-all",
+      "caption": "Typed renderer, parity case icon-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/icon-all/typed.png",
+          "state": "default",
+          "width": 18,
+          "height": 18
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/icon-button-all",
+      "caption": "Typed renderer, parity case icon-button-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/icon-button-all/typed.png",
+          "state": "default",
+          "width": 52,
+          "height": 52
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/list-header-all",
+      "caption": "Typed renderer, parity case list-header-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/list-header-all/typed.png",
+          "state": "default",
+          "width": 70,
+          "height": 18
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/list-sub-header-all",
+      "caption": "Typed renderer, parity case list-sub-header-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/list-sub-header-all/typed.png",
+          "state": "default",
+          "width": 61,
+          "height": 16
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/open-on-phone-dialog-all",
+      "caption": "Typed renderer, parity case open-on-phone-dialog-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/open-on-phone-dialog-all/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 227
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/progress-indicator-all",
+      "caption": "Typed renderer, parity case progress-indicator-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/progress-indicator-all/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 227
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/radio-button-all",
+      "caption": "Typed renderer, parity case radio-button-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/radio-button-all/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 52
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/slider-all",
+      "caption": "Typed renderer, parity case slider-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/slider-all/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 52
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/slider-legacy-segmented-false",
+      "caption": "Typed renderer, parity case slider-legacy-segmented-false",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/slider-legacy-segmented-false/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 52
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/slider-legacy-segmented-true",
+      "caption": "Typed renderer, parity case slider-legacy-segmented-true",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/slider-legacy-segmented-true/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 52
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/slider-segmented-continuous",
+      "caption": "Typed renderer, parity case slider-segmented=continuous",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/slider-segmented-continuous/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 52
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/slider-segmented-segmented",
+      "caption": "Typed renderer, parity case slider-segmented=segmented",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/slider-segmented-segmented/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 52
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/stepper-all",
+      "caption": "Typed renderer, parity case stepper-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/stepper-all/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 227
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/switch-button-all",
+      "caption": "Typed renderer, parity case switch-button-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/switch-button-all/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 52
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/text-all",
+      "caption": "Typed renderer, parity case text-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/text-all/typed.png",
+          "state": "default",
+          "width": 176,
+          "height": 38
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/text-button-all",
+      "caption": "Typed renderer, parity case text-button-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/text-button-all/typed.png",
+          "state": "default",
+          "width": 52,
+          "height": 52
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/time-picker",
+      "caption": "Typed renderer, parity case time-picker-",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/time-picker/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 227
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/time-picker-hours-minutes-am-pm",
+      "caption": "Typed renderer, parity case time-picker-hours-minutes-am-pm",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/time-picker-hours-minutes-am-pm/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 227
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/time-picker-hours-minutes-seconds",
+      "caption": "Typed renderer, parity case time-picker-hours-minutes-seconds",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/time-picker-hours-minutes-seconds/typed.png",
+          "state": "default",
+          "width": 227,
+          "height": 227
+        }
+      ]
+    },
+    {
+      "componentId": "typed-pilot/variable-font-text-all",
+      "caption": "Typed renderer, parity case variable-font-text-all",
+      "section": "Typed pilot",
+      "group": "JVM parity",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/variable-font-text-all/typed.png",
+          "state": "default",
+          "width": 68,
+          "height": 21
+        }
+      ]
+    }
+  ],
+  "renderer": "wear-m3-catalog catalog-typed-adapters",
+  "generatedAt": "2026-10-12T08:53:40.903Z",
+  "componentsFile": "components.json",
+  "uiBuilderFile": "ui-builder.json",
+  "uiBuilderGuidelinesFile": "ui-builder.guidelines.json",
+  "uiBuilderRuntime": {
+    "path": "ui-builder/runtime.zip",
+    "runtimeId": "wear-m3-typed-pilot-46ef46d2469c",
+    "protocolVersion": 2,
+    "integritySha256": "d470f39bb84b8b3e03a884b49a77cecbb94a3f644380366e267016c8455544f7"
+  }
+}
