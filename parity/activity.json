@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T07:32:30.386Z",
+  "generatedAt": "2026-10-12T07:38:11.492Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "788555636e0d7ba583868901a6dc70b0f0b5b04d",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.52.0 (#812)",
+        "at": "2026-10-12T07:32:11Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "aa651823843adcc56bda3a7062f60081e74b87d9",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.109.0 (#811)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.24.0 (#748)",
         "at": "2026-10-09T23:10:58Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ae416962a2d862d44d1033767365d5390c0186bc",
-        "subject": "fix(ui-builder): source the guidelines publicly, drop the tile-only rule, republish on a guidelines edit (#750)",
-        "at": "2026-10-10T00:10:17+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
