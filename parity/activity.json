@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T17:24:43.901Z",
+  "generatedAt": "2026-10-13T02:10:58.327Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "2c66ea08a75d3ee467f7a188b44770210d1f0e27",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.110.0 (#822)",
+        "at": "2026-10-13T02:04:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "64af60047340bfb58cf81660089d6a378982fb93",
         "subject": "feat(uid-stickers): a shadow catalog of UI builder document stickers, eleven pixel-identical (#816)",
@@ -474,14 +482,6 @@
         "sha": "da0e67274e69b75ff57b8aa8daa7e47d11863483",
         "subject": "chore(deps): update compose-ai-tools to v2.39.2 (#762)",
         "at": "2026-10-10T07:42:48Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "caa7da8fab51d57b6cca3b262ed28c418376d4a9",
-        "subject": "fix(deps): update compose-ai-tools to v2.39.1 (#756)",
-        "at": "2026-10-10T07:18:59Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
