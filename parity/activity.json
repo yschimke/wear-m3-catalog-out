@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-13T12:12:28.763Z",
+  "generatedAt": "2026-10-13T12:21:53.171Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "7486a75106ea6d3d01f12cc2ca63be70b037e720",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.111.0 (#826)",
+        "at": "2026-10-13T12:14:28Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "3c52584f309e554923878d69be32f4a5082e3329",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.111.0 (#825)",
@@ -474,14 +482,6 @@
         "sha": "b22196f43b79a51ce650329d9d9dfa5248140fa7",
         "subject": "feat(guidelines): give the PR check accessibility nodes and judge clipping at scroll edges (#765)",
         "at": "2026-10-10T16:24:30+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9bbbc965aea53ab54e70e76c86ef85990fae7cb6",
-        "subject": "fix(ci): sanitise the handoff PR number and drop contents write in preview publish (#761)",
-        "at": "2026-10-10T13:19:20+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
