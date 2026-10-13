@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-13T20:40:54.473Z",
+  "generatedAt": "2026-10-13T22:44:31.263Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "c223172c4f378ee1e751894d9bf682d4da409b72",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.16.1 (#831)",
+        "at": "2026-10-13T22:19:03Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f78c4fa51286507e78f25f3e1b848d4521b9cfb0",
+        "subject": "chore(uid-stickers): generate with the released exporter, compose-ui-builder 3.112.0 (#830)",
+        "at": "2026-10-13T23:02:08+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c0d595fda76c7e4b25b124ea4ff44920bad38028",
+        "subject": "test: verify published Wear adapters in catalog (#827)",
+        "at": "2026-10-13T21:32:27+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8b0156bf41d35e1712bb9957d0c35933881df64c",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.112.0 (#829)",
@@ -458,30 +482,6 @@
         "sha": "824f573e14115b59a87140185c0c2a64201341dc",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.103.0 (#768)",
         "at": "2026-10-10T20:30:47+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e708686c160be805fe949c936ee9bdd6513f287c",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.26.0 (#770)",
-        "at": "2026-10-10T17:17:43Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "046522ca0079ddbdaccf3edf79c1828bab06ef47",
-        "subject": "fix(deps): compose-ai-tools 2.42.0, and design guidelines on the catalog publish (#769)",
-        "at": "2026-10-10T17:09:50+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "94f36c7f42e74c15d9d7e70c384d72ea249b0785",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.2 (#767)",
-        "at": "2026-10-10T15:48:39Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
