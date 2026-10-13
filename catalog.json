@@ -128691,7 +128691,7 @@
     "androidx.wear.compose:compose-material3"
   ],
   "renderer": "compose-preview 2.55.0",
-  "generatedAt": "2026-10-13T12:23:38.246Z",
+  "generatedAt": "2026-10-13T12:47:29.532Z",
   "display": {
     "surface": "dark",
     "hero": "Media/PlayerScreen"
@@ -128713,7 +128713,7 @@
   "uiBuilderGuidelinesFile": "ui-builder.guidelines.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "wear-m3-p2-3c52584f309e",
+    "runtimeId": "wear-m3-p2-7486a75106ea",
     "protocolVersion": 2,
     "integritySha256": "d84d662bcf3137c9452e1b8a9443110627217b30d5ecd75514ccd01d7b798d95"
   },
