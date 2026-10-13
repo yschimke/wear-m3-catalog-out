@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-13T02:18:01.370Z",
+  "generatedAt": "2026-10-13T12:12:28.763Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "3c52584f309e554923878d69be32f4a5082e3329",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.111.0 (#825)",
+        "at": "2026-10-13T12:06:15Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ea01e3af1c1872f5df8ebbd468783deeea3a66c8",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.110.0 (#824)",
@@ -475,14 +483,6 @@
         "subject": "fix(ci): sanitise the handoff PR number and drop contents write in preview publish (#761)",
         "at": "2026-10-10T13:19:20+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ba5055c55bd3e8f0abf6a2e92ce01e0ff99ae028",
-        "subject": "chore(deps): update compose-ai-tools to v2.40.0 (#764)",
-        "at": "2026-10-10T10:33:25Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
