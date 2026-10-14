@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-14T10:28:27.911Z",
+  "generatedAt": "2026-10-14T10:35:01.495Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "96cd1334d9e979b23616e1325eeec6eae024671c",
+        "subject": "fix(deps): update compose-ai-tools (#837)",
+        "at": "2026-10-14T10:22:26Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "991e1082d4e6b4ddd5964a9018711801cf2c5aa6",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.113.0 (#838)",
@@ -474,14 +482,6 @@
         "sha": "6ff7b9b249e07bc9301cfcd6fcf2f8985ed5a394",
         "subject": "fix(ui-builder): colour the card title slot, and run the adapter tests in CI (#779)",
         "at": "2026-10-11T07:45:51+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "35c92c8a46a82602a7e8fd19603f588b04e5a1dd",
-        "subject": "feat(catalog): complete Wear Kotlin catalog generation and renderer gaps (#778)",
-        "at": "2026-10-11T01:14:29+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
