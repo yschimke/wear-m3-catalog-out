@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-14T18:06:11.647Z",
+  "generatedAt": "2026-10-14T20:25:38.802Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "c52a53c5d00ece02811ad418c2f67bba7582fa86",
+        "subject": "chore(deps): update compose-ai-tools to v2.59.0 (#842)",
+        "at": "2026-10-14T19:57:51Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ac9bb1fbb08bd398699d26279ecdef1cc5c18732",
+        "subject": "docs: say which checks the Protect Main ruleset actually requires (#841)",
+        "at": "2026-10-14T20:57:09+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9b412a89f020e81aca453fd9735e8514b979754f",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.32.0 (#840)",
@@ -467,22 +483,6 @@
         "subject": "chore(deps): update compose-ai-tools to v2.44.0 (#766)",
         "at": "2026-10-11T09:48:55Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a70b6f2e1a9e1973c51ad57d03d3a2e03f7b907c",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.27.0 (#783)",
-        "at": "2026-10-11T08:47:05Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7de0fd19984b060ace86d6277faae51a08dac3db",
-        "subject": "feat(ui-builder): typed Wear renderer pilot with production parity and packaged runtime (#781)",
-        "at": "2026-10-11T09:18:20+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
