@@ -2,6 +2,7 @@
   "schema": "design-parity-catalog/v1",
   "system": "wear-m3-typed-pilot",
   "title": "Wear Material 3 — typed pilot",
+  "renderer": "wear-m3-catalog catalog-typed-adapters",
   "components": [
     {
       "componentId": "typed-pilot/alert-dialog-all",
@@ -454,14 +455,12 @@
       ]
     }
   ],
-  "renderer": "wear-m3-catalog catalog-typed-adapters",
-  "generatedAt": "2026-10-14T03:01:06.155Z",
   "componentsFile": "components.json",
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderGuidelinesFile": "ui-builder.guidelines.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "wear-m3-typed-pilot-f208e93a53dd",
+    "runtimeId": "wear-m3-typed-pilot-118ff3bccf1f",
     "protocolVersion": 2,
     "integritySha256": "d470f39bb84b8b3e03a884b49a77cecbb94a3f644380366e267016c8455544f7"
   }
