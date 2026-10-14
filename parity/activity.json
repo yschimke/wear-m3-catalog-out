@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-14T10:21:49.286Z",
+  "generatedAt": "2026-10-14T10:28:27.911Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "991e1082d4e6b4ddd5964a9018711801cf2c5aa6",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.113.0 (#838)",
+        "at": "2026-10-14T10:22:00Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f776353b71209537d98c65d9afe7d2d7c3eed4f9",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.113.0 (#836)",
@@ -474,14 +482,6 @@
         "sha": "35c92c8a46a82602a7e8fd19603f588b04e5a1dd",
         "subject": "feat(catalog): complete Wear Kotlin catalog generation and renderer gaps (#778)",
         "at": "2026-10-11T01:14:29+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7ceca7b9d13a421e05cd24fd0d1e24f5bc950e73",
-        "subject": "feat: add parallel Kotlin-authored Wear M3 policies (#776)",
-        "at": "2026-10-11T00:04:52+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
