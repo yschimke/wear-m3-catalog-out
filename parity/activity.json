@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-14T06:29:23.730Z",
+  "generatedAt": "2026-10-14T10:21:49.286Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f776353b71209537d98c65d9afe7d2d7c3eed4f9",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.113.0 (#836)",
+        "at": "2026-10-14T10:15:14Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9a215f94390444d1e7bdd769fe45f18a146678ab",
         "subject": "chore(deps): update compose-ai-tools to v2.57.0 (#828)",
@@ -475,14 +483,6 @@
         "subject": "feat: add parallel Kotlin-authored Wear M3 policies (#776)",
         "at": "2026-10-11T00:04:52+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9d1ae41ba05593f4d179ea3ec5e8b08158277e92",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.104.0 (#774)",
-        "at": "2026-10-10T22:52:54Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
