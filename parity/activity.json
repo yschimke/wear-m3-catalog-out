@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-14T10:35:01.495Z",
+  "generatedAt": "2026-10-14T17:58:00.511Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f93dda04ebfa34dabcc29d0bade8b2b9f062fdfc",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.114.0 (#839)",
+        "at": "2026-10-14T17:50:09Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "96cd1334d9e979b23616e1325eeec6eae024671c",
         "subject": "fix(deps): update compose-ai-tools (#837)",
@@ -475,14 +483,6 @@
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.105.0 (#782)",
         "at": "2026-10-11T08:07:13Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6ff7b9b249e07bc9301cfcd6fcf2f8985ed5a394",
-        "subject": "fix(ui-builder): colour the card title slot, and run the adapter tests in CI (#779)",
-        "at": "2026-10-11T07:45:51+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
