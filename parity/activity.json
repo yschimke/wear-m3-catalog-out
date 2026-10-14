@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-14T17:58:00.511Z",
+  "generatedAt": "2026-10-14T18:06:11.647Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "9b412a89f020e81aca453fd9735e8514b979754f",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.32.0 (#840)",
+        "at": "2026-10-14T17:51:55Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f93dda04ebfa34dabcc29d0bade8b2b9f062fdfc",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.114.0 (#839)",
@@ -475,14 +483,6 @@
         "subject": "feat(ui-builder): typed Wear renderer pilot with production parity and packaged runtime (#781)",
         "at": "2026-10-11T09:18:20+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "94b60360dfd67287430a937bb055daec6945a9be",
-        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.105.0 (#782)",
-        "at": "2026-10-11T08:07:13Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
