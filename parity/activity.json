@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-15T16:52:44.449Z",
+  "generatedAt": "2026-10-15T16:58:39.916Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "34c18f17cd464425e3d86c4b83146a1db885b7f1",
+        "subject": "fix(deps): update compose-multiplatform to v1.12.2 (#849)",
+        "at": "2026-10-15T16:52:20Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "723207511aea7973e1c72a70365d8439425036c8",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.35.0 (#851)",
@@ -474,14 +482,6 @@
         "sha": "7c0fe3e1d8b6c67a56d847e41d118ce78b0992b2",
         "subject": "fix(deps): update compose-ai-tools (#791)",
         "at": "2026-10-11T17:22:12Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e0dace067923d97164f92053424ffe8169fa3f6d",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.30.0 (#792)",
-        "at": "2026-10-11T17:21:20Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
