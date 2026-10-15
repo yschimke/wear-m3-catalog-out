@@ -82,8 +82,8 @@
     }
   },
   "browserVerification": {
-    "runtimeId": "wear-m3-typed-pilot-723207511aea",
-    "integritySha256": "d470f39bb84b8b3e03a884b49a77cecbb94a3f644380366e267016c8455544f7",
+    "runtimeId": "wear-m3-typed-pilot-34c18f17cd46",
+    "integritySha256": "768029473a8ae9886e06e6d9f33768385c09c70bb21f4932610ca2e48122b1fe",
     "renders": 29,
     "boundCheckboxPointerInteractionVerified": true
   }
