@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-14T21:04:41.884Z",
+  "generatedAt": "2026-10-15T08:55:43.694Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "96f1fbd6bb05ad28d3fbd065b6accbf4e5846c71",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.115.0 (#845)",
+        "at": "2026-10-15T08:49:34Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e49f47d9037e2799102adda77ed5d011c39c496c",
+        "subject": "chore(deps): update compose-ai-tools to v2.60.0 (#844)",
+        "at": "2026-10-14T22:50:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "bbce69af7a385e6089f5e880a75b25e40f2f2799",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.114.0 (#843)",
@@ -467,22 +483,6 @@
         "subject": "feat(ui-builder): publish wear-m3's design tokens, so the owned catalog keeps its Theme panel (#777)",
         "at": "2026-10-11T14:02:50+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2a9097bffbfad25af34f1f2939cd68087ec68512",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.28.0 (#784)",
-        "at": "2026-10-11T09:59:48Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "979693cf09f8053dd5317c0f6e067724474395a1",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.105.0 (#785)",
-        "at": "2026-10-11T09:58:02Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
