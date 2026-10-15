@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-15T09:06:46.143Z",
+  "generatedAt": "2026-10-15T16:52:44.449Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "723207511aea7973e1c72a70365d8439425036c8",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.35.0 (#851)",
+        "at": "2026-10-15T16:45:26Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e4c978cb209d61d9f6c47ef6350ce433382c7cb5",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.115.0 (#848)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.30.0 (#792)",
         "at": "2026-10-11T17:21:20Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f0c7f5aae17dafc06c0141177da14040ca8e3c36",
-        "subject": "ci: lower the catalog publish's guidelines cap to $0.25 (#789)",
-        "at": "2026-10-11T18:10:27+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
