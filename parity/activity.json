@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-17T01:30:03.144Z",
+  "generatedAt": "2026-10-17T09:42:53.762Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "eb1a5b4933fcef62a1301febfa1169f5e622f293",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.120.0 (#859)",
+        "at": "2026-10-17T09:36:18Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "30081ccccbf508363fe4c70da031866234dcdcb1",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.119.0 (#858)",
@@ -475,14 +483,6 @@
         "subject": "feat: typed Wear definitions with export projections on the real records (#799)",
         "at": "2026-10-11T22:54:08+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "31e99fbef194ac0cf5f1defdd3766b2f4b81a4c8",
-        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.107.0 (#797)",
-        "at": "2026-10-11T20:29:39Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
