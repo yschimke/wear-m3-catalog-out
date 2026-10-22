@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-21T20:21:39.871Z",
+  "generatedAt": "2026-10-22T02:43:31.490Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "023de09bc73acd8624e9399d6e91fe92a0608778",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.123.0 (#871)",
+        "at": "2026-10-22T02:36:49Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "678c742b850ab2b2843e9596393441bec42586dc",
         "subject": "fix(deps): update dependency androidx.compose.material3:material3 to v1.5.0-beta02 (#870)",
@@ -475,14 +483,6 @@
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.109.0 (#811)",
         "at": "2026-10-12T07:26:09Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7ad44a66fd7cbdafa715860391f72a8ef35e4f74",
-        "subject": "feat(typed): export every Wear fixture design through typed projections on the real records (#808)",
-        "at": "2026-10-12T05:39:40+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
