@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-22T18:41:13.655Z",
+  "generatedAt": "2026-10-22T23:29:25.311Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "84d28c277f0f03ee8a399635b7f0aadf41ed6843",
+        "subject": "fix(deps): update compose-ai-tools (#850)",
+        "at": "2026-10-22T23:16:40Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b367e79307e8d5e4df2fbcc3a7ce571ebfc65c1f",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.38.0 (#873)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.109.0 (#814)",
         "at": "2026-10-12T08:34:07Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9e72aeee698d46185e7648b9dd7cf4c099dc9439",
-        "subject": "ci(typed): build the typed pilot against the compose-ai-tools 2.52.0 and builder 3.109.0 release tags (#810)",
-        "at": "2026-10-12T08:37:04+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
