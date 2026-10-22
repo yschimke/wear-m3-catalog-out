@@ -460,7 +460,7 @@
   "uiBuilderGuidelinesFile": "ui-builder.guidelines.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "wear-m3-typed-pilot-b367e79307e8",
+    "runtimeId": "wear-m3-typed-pilot-84d28c277f0f",
     "protocolVersion": 2,
     "integritySha256": "768029473a8ae9886e06e6d9f33768385c09c70bb21f4932610ca2e48122b1fe"
   }
