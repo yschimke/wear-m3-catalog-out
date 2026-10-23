@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-23T00:10:25.447Z",
+  "generatedAt": "2026-10-23T07:00:32.783Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "01d15a167c7c86159d5cd530801e7da1863e1976",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.24.0 (#875)",
+        "at": "2026-10-23T06:54:37Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "84d28c277f0f03ee8a399635b7f0aadf41ed6843",
         "subject": "fix(deps): update compose-ai-tools (#850)",
@@ -475,14 +483,6 @@
         "subject": "ci(typed): publish the wear-m3-typed-pilot catalog branch (#813)",
         "at": "2026-10-12T09:39:15+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "21bc73d14bf8d654aa39e857c037afe8835654dd",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.109.0 (#814)",
-        "at": "2026-10-12T08:34:07Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
