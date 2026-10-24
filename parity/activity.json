@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-23T22:52:25.851Z",
+  "generatedAt": "2026-10-24T01:34:25.398Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "48d903fffe761141f5d2c3bf475dc0c5a4d26122",
+        "subject": "fix(deps): update compose-ai-tools to v2.73.0 (#879)",
+        "at": "2026-10-24T01:28:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "74e2388047d355c0775d97a2f1759deb9f637e10",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.24.1 (#878)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.54.0 (#820)",
         "at": "2026-10-12T14:59:56Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d09290af5fb88b4ceac4fbdc303cbc17fc8a13b9",
-        "subject": "fix(guidelines): allow paired semantic domain colours alongside theme roles (#818)",
-        "at": "2026-10-12T15:49:50+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
