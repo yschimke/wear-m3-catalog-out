@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-24T18:08:38.707Z",
+  "generatedAt": "2026-10-24T21:22:27.580Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "40991241133148982beab56a3754440c6b712bf5",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.74.0 (#882)",
+        "at": "2026-10-24T21:15:23Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0a2c5fad5c8bafb5288a851ff1f4c9d694a6faeb",
         "subject": "fix(deps): update compose-ai-tools (#881)",
@@ -475,14 +483,6 @@
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.110.0 (#822)",
         "at": "2026-10-13T02:04:42Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "64af60047340bfb58cf81660089d6a378982fb93",
-        "subject": "feat(uid-stickers): a shadow catalog of UI builder document stickers, eleven pixel-identical (#816)",
-        "at": "2026-10-12T18:06:14+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
