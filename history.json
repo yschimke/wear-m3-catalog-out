@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "385821679d77d418891b9f0f1e09e097bed1bf20",
+    "generatedFrom": "51c02763022a2f6ae8fb9ed1288ab202a0b256c0",
     "previews": {
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ButtonsKt.ButtonRowGroup": {
             "path": "renders/catalog-desktop/ButtonRowGroup-91cd010c.png",
@@ -29518,6 +29518,13 @@
             "path": "renders/catalog/ButtonGroupExpansionMotion-8aae666e.gif",
             "versions": [
                 {
+                    "blob": "bf0dfa0a229dde77f5cc265949ac16ef44da110d",
+                    "commit": "51c02763022a2f6ae8fb9ed1288ab202a0b256c0",
+                    "date": "2026-10-26T22:26:09Z",
+                    "sourceSha": "de145b8e",
+                    "commits": 1
+                },
+                {
                     "blob": "905eb89702089745061747edac57ee7717a01a84",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
                     "date": "2026-09-11T14:51:53Z",
@@ -29525,7 +29532,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -29680,6 +29687,13 @@
             "path": "renders/catalog/MediaTransportMotion-104cef80.gif",
             "versions": [
                 {
+                    "blob": "eceb05c56092c58258faa7ab91c384835814ab9e",
+                    "commit": "51c02763022a2f6ae8fb9ed1288ab202a0b256c0",
+                    "date": "2026-10-26T22:26:09Z",
+                    "sourceSha": "de145b8e",
+                    "commits": 1
+                },
+                {
                     "blob": "ccea7fead206b79d287ca0dc8ff6bcd7954d72f2",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
                     "date": "2026-09-11T14:51:53Z",
@@ -29687,7 +29701,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -29820,6 +29834,13 @@
             "path": "renders/catalog/SwitchTransitionMotion-62450b91.gif",
             "versions": [
                 {
+                    "blob": "eee741a26733433c9596053d3b51e97eee18687d",
+                    "commit": "51c02763022a2f6ae8fb9ed1288ab202a0b256c0",
+                    "date": "2026-10-26T22:26:09Z",
+                    "sourceSha": "de145b8e",
+                    "commits": 1
+                },
+                {
                     "blob": "b8431dbdc4c07a839f9377f2fb52d24cbbdddddf",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
                     "date": "2026-09-11T14:51:53Z",
@@ -29827,7 +29848,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -29850,6 +29871,13 @@
             "path": "renders/catalog/ToggleButtonShapeMotion-a1b71b0e.gif",
             "versions": [
                 {
+                    "blob": "96d1d4bcf38c756f8d4b9364031cb4cb8f278f3a",
+                    "commit": "51c02763022a2f6ae8fb9ed1288ab202a0b256c0",
+                    "date": "2026-10-26T22:26:09Z",
+                    "sourceSha": "de145b8e",
+                    "commits": 1
+                },
+                {
                     "blob": "0d28663a62dcdb7669eecd39382a2f03743e430c",
                     "commit": "f204e6fb3d41d59c64892c4006fa467d89a919d7",
                     "date": "2026-09-11T14:51:53Z",
@@ -29857,7 +29885,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
