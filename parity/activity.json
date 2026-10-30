@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-30T15:04:14.481Z",
+  "generatedAt": "2026-10-30T22:23:07.841Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "ea70e5fabf8d88d51ec3a7d3b3e7c35b0f438562",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.125.0 (#890)",
+        "at": "2026-10-30T22:17:01Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "90d7701a39cba9e60f0779d56a9436c4e2276a0e",
         "subject": "fix(deps): update compose-ai-tools to v2.75.0 (#888)",
@@ -474,14 +482,6 @@
         "sha": "f78c4fa51286507e78f25f3e1b848d4521b9cfb0",
         "subject": "chore(uid-stickers): generate with the released exporter, compose-ui-builder 3.112.0 (#830)",
         "at": "2026-10-13T23:02:08+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c0d595fda76c7e4b25b124ea4ff44920bad38028",
-        "subject": "test: verify published Wear adapters in catalog (#827)",
-        "at": "2026-10-13T21:32:27+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
