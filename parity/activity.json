@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-31T12:40:54.682Z",
+  "generatedAt": "2026-10-31T21:32:48.260Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "67d4778a2d41d07d6ef798e6c73ed56fcc14dcc9",
+        "subject": "chore(deps): update compose-ai-tools to v2.79.2 (#894)",
+        "at": "2026-10-31T21:26:28Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8f643ddf5d625f3f3dddd6f80e385dd48a46d58c",
         "subject": "chore(deps): update compose-ai-tools to v2.79.0 (#893)",
@@ -474,14 +482,6 @@
         "sha": "118ff3bccf1f97810f59ff77c3a1cd433261f836",
         "subject": "ci(typed-pilot): publish wear-m3-typed-pilot through the shared workflow (#834)",
         "at": "2026-10-14T07:15:43+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "80dc246e25251eea638663e791017e2cf236834f",
-        "subject": "ci(renovate): group the daemon BOM with compose-ai-tools (#833)",
-        "at": "2026-10-14T07:13:02+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
