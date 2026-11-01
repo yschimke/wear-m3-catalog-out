@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-31T21:32:48.260Z",
+  "generatedAt": "2026-11-01T01:15:06.763Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "04873a55117c4098e56f1c021e6d2a65eae15a2c",
+        "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.79.0 (#895)",
+        "at": "2026-11-01T01:09:23Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "67d4778a2d41d07d6ef798e6c73ed56fcc14dcc9",
         "subject": "chore(deps): update compose-ai-tools to v2.79.2 (#894)",
@@ -475,14 +483,6 @@
         "subject": "chore(deps): update compose-ai-tools to v2.57.0 (#828)",
         "at": "2026-10-14T06:22:50Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "118ff3bccf1f97810f59ff77c3a1cd433261f836",
-        "subject": "ci(typed-pilot): publish wear-m3-typed-pilot through the shared workflow (#834)",
-        "at": "2026-10-14T07:15:43+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
