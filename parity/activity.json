@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-05T11:35:55.932Z",
+  "generatedAt": "2026-11-06T00:07:50.145Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "2236ac3c39a20a086c4a83d97de2f0fa0bd76fed",
+        "subject": "chore(deps): update dependency com.android.application to v9.5.1 (#904)",
+        "at": "2026-11-06T00:00:57Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9bc5db8c1f87a4ec8b45c4f2f25f30c783de412e",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.126.0 (#903)",
@@ -475,14 +483,6 @@
         "subject": "docs: say which checks the Protect Main ruleset actually requires (#841)",
         "at": "2026-10-14T20:57:09+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9b412a89f020e81aca453fd9735e8514b979754f",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.32.0 (#840)",
-        "at": "2026-10-14T17:51:55Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
