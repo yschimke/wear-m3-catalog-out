@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-07T18:32:44.873Z",
+  "generatedAt": "2026-11-07T18:37:44.886Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "ab2f73a939668c2ddf78e9725726fff95c4d86eb",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.41.0 (#909)",
+        "at": "2026-11-07T18:26:49Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ce6a2e071818b1ed238d3c159e82dfd91c3c0df8",
         "subject": "fix(deps): update compose-ai-tools to v2.89.0 (#908)",
@@ -474,14 +482,6 @@
         "sha": "723207511aea7973e1c72a70365d8439425036c8",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.35.0 (#851)",
         "at": "2026-10-15T16:45:26Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e4c978cb209d61d9f6c47ef6350ce433382c7cb5",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.115.0 (#848)",
-        "at": "2026-10-15T08:57:52Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
