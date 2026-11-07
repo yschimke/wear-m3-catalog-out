@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-07T13:02:06.397Z",
+  "generatedAt": "2026-11-07T13:07:44.428Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "86c819cadf9ff7ff2764bd0f6d40065cf609834c",
+        "subject": "fix(deps): update compose-ai-tools (#897)",
+        "at": "2026-11-07T12:55:37Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "6d07bf58f71026b7828f1ab9d26a3fc757e3f2d0",
         "subject": "chore(deps): update dependency com.ncorti.ktfmt.gradle to v0.28.0 (#905)",
@@ -474,14 +482,6 @@
         "sha": "96f1fbd6bb05ad28d3fbd065b6accbf4e5846c71",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.115.0 (#845)",
         "at": "2026-10-15T08:49:34Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e49f47d9037e2799102adda77ed5d011c39c496c",
-        "subject": "chore(deps): update compose-ai-tools to v2.60.0 (#844)",
-        "at": "2026-10-14T22:50:42Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
