@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-06T00:07:50.145Z",
+  "generatedAt": "2026-11-07T12:36:35.302Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "5cb101b2a1e5fdf0415bdfe5c5b704ea1fafe4f2",
+        "subject": "fix(deps): update dependency androidx.compose.material3:material3 to v1.5.0-rc01 (#901)",
+        "at": "2026-11-07T12:31:19Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6c6ae50e04244ba19ea88fbcfb5144a37448bec7",
+        "subject": "chore(deps): update dependency node to v26 (#900)",
+        "at": "2026-11-07T12:30:59Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "2236ac3c39a20a086c4a83d97de2f0fa0bd76fed",
         "subject": "chore(deps): update dependency com.android.application to v9.5.1 (#904)",
@@ -467,22 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.114.0 (#843)",
         "at": "2026-10-14T20:00:25Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c52a53c5d00ece02811ad418c2f67bba7582fa86",
-        "subject": "chore(deps): update compose-ai-tools to v2.59.0 (#842)",
-        "at": "2026-10-14T19:57:51Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ac9bb1fbb08bd398699d26279ecdef1cc5c18732",
-        "subject": "docs: say which checks the Protect Main ruleset actually requires (#841)",
-        "at": "2026-10-14T20:57:09+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
