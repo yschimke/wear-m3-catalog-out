@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-15T12:30:40.643Z",
+  "generatedAt": "2026-11-15T17:02:37.287Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "85706bb650441a266ae34fd1259ced5997558519",
+        "subject": "fix(deps): update compose-ai-tools (#926)",
+        "at": "2026-11-15T16:57:16Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c4894de739a795732cdadda76089fabc083fbcfc",
         "subject": "fix(deps): update compose-ai-tools to v2.93.0 (#925)",
@@ -474,14 +482,6 @@
         "sha": "53f6324ff5af5607171fa08e3a39fe45551a3559",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.122.0 (#867)",
         "at": "2026-10-19T00:45:06Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "294ee771a1d73106fc1cdb85ce62dd474e7fe52d",
-        "subject": "chore(deps): update ci toolchain (#866)",
-        "at": "2026-10-19T00:44:51Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
