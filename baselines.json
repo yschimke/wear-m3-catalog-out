@@ -8748,7 +8748,7 @@
     "functionName": "Scheme colours",
     "module": "catalog",
     "renderBasename": "colorcatalog__Scheme.png",
-    "sha256": "42ae7cde03a17df7f7b9f380ab8b60b238a5e8315316ee9b1a0f7d44a355ed9f",
+    "sha256": "0b38ceef8b16343d48862666fe4ec39ff9c59d79e374dbff47e769cd8ba21c38",
     "sourceFile": null
   },
   "catalog/ee.schimke.wearm3catalog.sections.AuthKt.AuthGuestModeButton": {
@@ -18148,7 +18148,7 @@
     "functionName": "Shape shapes",
     "module": "catalog",
     "renderBasename": "shapecatalog__Shape.png",
-    "sha256": "42ae7cde03a17df7f7b9f380ab8b60b238a5e8315316ee9b1a0f7d44a355ed9f",
+    "sha256": "0b38ceef8b16343d48862666fe4ec39ff9c59d79e374dbff47e769cd8ba21c38",
     "sourceFile": null
   },
   "catalog/typographycatalog__Type": {
@@ -18156,7 +18156,7 @@
     "functionName": "Type type styles",
     "module": "catalog",
     "renderBasename": "typographycatalog__Type.png",
-    "sha256": "42ae7cde03a17df7f7b9f380ab8b60b238a5e8315316ee9b1a0f7d44a355ed9f",
+    "sha256": "0b38ceef8b16343d48862666fe4ec39ff9c59d79e374dbff47e769cd8ba21c38",
     "sourceFile": null
   },
   "catalog/wearthemecatalog__AndroidMakers": {
@@ -18164,7 +18164,7 @@
     "functionName": "AndroidMakers theme",
     "module": "catalog",
     "renderBasename": "wearthemecatalog__AndroidMakers.png",
-    "sha256": "6b456d09f6b7f2cf27f6c52537fa82fbc03e9d9c5b16e65fe355303809336033",
+    "sha256": "8c4e84815f3bd7ae5b44dd8f95c71de31429554df69f3ac6ac94592e9df2a3b0",
     "sourceFile": null
   },
   "catalog/wearthemecatalog__Confetti__default_": {
@@ -18172,7 +18172,7 @@
     "functionName": "Confetti (default) theme",
     "module": "catalog",
     "renderBasename": "wearthemecatalog__Confetti__default_.png",
-    "sha256": "3fee508cfe7773de7e6019ba93d3619f41283119060f9559a9e1aa0002de1a11",
+    "sha256": "c88c9d8c2f2673bc897c25ee62086afe79a6a2c53c11d4a35778cf8e064b31eb",
     "sourceFile": null
   },
   "catalog/wearthemecatalog__DevFest": {
@@ -18180,7 +18180,7 @@
     "functionName": "DevFest theme",
     "module": "catalog",
     "renderBasename": "wearthemecatalog__DevFest.png",
-    "sha256": "d17d2d15cedcc42e5f789b3dd9a4adf2a46b136b546171c536ae16bf781f7feb",
+    "sha256": "31542fdb925fb7b31dc5cc1d656381e79da9adcf6800b1d774822e4bfd5274e0",
     "sourceFile": null
   },
   "catalog/wearthemecatalog__Droidcon": {
@@ -18188,7 +18188,7 @@
     "functionName": "Droidcon theme",
     "module": "catalog",
     "renderBasename": "wearthemecatalog__Droidcon.png",
-    "sha256": "6bfe27c353746c8e467799f5817e96cfc998704924f42f64a3e6b834c47e7019",
+    "sha256": "476a2169ed69e49ca772d74e02f850d0f69fadf07a7826bad0e05a485eb3b018",
     "sourceFile": null
   },
   "catalog/wearthemecatalog__Google_Sans_Flex": {
@@ -18196,7 +18196,7 @@
     "functionName": "Google Sans Flex theme",
     "module": "catalog",
     "renderBasename": "wearthemecatalog__Google_Sans_Flex.png",
-    "sha256": "fb562865b8837f751799d9a4376dee43afc75a95ad2f094d6fa5ec3f7831b83e",
+    "sha256": "0025faf44b928d387fd406710079bbbe878a58f38d875384bb05719442670f47",
     "sourceFile": null
   },
   "catalog/wearthemecatalog__KotlinConf": {
@@ -18204,7 +18204,7 @@
     "functionName": "KotlinConf theme",
     "module": "catalog",
     "renderBasename": "wearthemecatalog__KotlinConf.png",
-    "sha256": "36512b634bd3e7b8e3e3f038b1017a8dd9c55c1b8275b84eccb4925e79152f72",
+    "sha256": "482e9eed01becd2624cea8e14d27c4fa4b51c207b6d5c0b1a8e6e92f688f7b1c",
     "sourceFile": null
   },
   "samples-catalog/androidx.wear.compose.material3.samples.AlertDialogSampleKt.AlertDialogWithConfirmAndDismissSample_width=225dp,height=225dp,dpi=320,isRound=true": {
@@ -19404,7 +19404,7 @@
     "functionName": "Material theme",
     "module": "samples-catalog",
     "renderBasename": "wearthemecatalog__Material.png",
-    "sha256": "4a3b9e82ee6b9634705848622d9f375b8ea591cc060708cbf5ecfdae4633b26a",
+    "sha256": "560eea9785b113e999ca55575367ac135c53bf127f2259e5555bde4ad66ed436",
     "sourceFile": null
   }
 }
