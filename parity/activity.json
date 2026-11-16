@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-16T06:27:17.425Z",
+  "generatedAt": "2026-11-16T13:47:11.781Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "c4092b6686405e42f0d46d68982c443d3f387c87",
+        "subject": "fix(deps): update compose-ai-tools (#928)",
+        "at": "2026-11-16T13:41:29Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "db672294befdea527dd8f0741ca1d45063429aaa",
         "subject": "chore(deps): update ci toolchain (#927)",
@@ -475,14 +483,6 @@
         "subject": "build: resolve from Google Maven before Maven Central (#868)",
         "at": "2026-10-19T22:08:59+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c057f48a992c0f4d826b89d2ca249c0813c64281",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.37.0 (#869)",
-        "at": "2026-10-19T21:04:03Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
