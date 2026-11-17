@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-17T03:29:39.272Z",
+  "generatedAt": "2026-11-17T21:35:45.645Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "0d78cdfcb8d225af25afdbcc4638d82617e9cbc4",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.131.0 (#930)",
+        "at": "2026-11-17T21:30:02Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "7e84091c171216f80cd81413a29140f0cb45ed81",
         "subject": "fix(deps): update compose-ai-tools (#929)",
@@ -474,14 +482,6 @@
         "sha": "023de09bc73acd8624e9399d6e91fe92a0608778",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.123.0 (#871)",
         "at": "2026-10-22T02:36:49Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "678c742b850ab2b2843e9596393441bec42586dc",
-        "subject": "fix(deps): update dependency androidx.compose.material3:material3 to v1.5.0-beta02 (#870)",
-        "at": "2026-10-21T21:15:30+01:00",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
