@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-16T13:47:11.781Z",
+  "generatedAt": "2026-11-17T03:29:39.272Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "7e84091c171216f80cd81413a29140f0cb45ed81",
+        "subject": "fix(deps): update compose-ai-tools (#929)",
+        "at": "2026-11-17T03:23:33Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c4092b6686405e42f0d46d68982c443d3f387c87",
         "subject": "fix(deps): update compose-ai-tools (#928)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency androidx.compose.material3:material3 to v1.5.0-beta02 (#870)",
         "at": "2026-10-21T21:15:30+01:00",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "32acec2e2edad646b0a6e6368b00a17837b2c54c",
-        "subject": "build: resolve from Google Maven before Maven Central (#868)",
-        "at": "2026-10-19T22:08:59+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
