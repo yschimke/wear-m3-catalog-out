@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "7743e78cc87fa72a693772dda4839a59fbb8a464",
+    "generatedFrom": "aa9992df3388d8300c567c95a8feca44ad369715",
     "previews": {
         "catalog-desktop/ee.schimke.wearm3catalog.sections.ButtonsKt.ButtonRowGroup": {
             "path": "renders/catalog-desktop/ButtonRowGroup-91cd010c.png",
@@ -29357,6 +29357,13 @@
             "path": "renders/catalog/ButtonGroupExpansionMotion-8aae666e.gif",
             "versions": [
                 {
+                    "blob": "905eb89702089745061747edac57ee7717a01a84",
+                    "commit": "aa9992df3388d8300c567c95a8feca44ad369715",
+                    "date": "2026-11-20T07:58:30Z",
+                    "sourceSha": "b1102f8b",
+                    "commits": 1
+                },
+                {
                     "blob": "bf0dfa0a229dde77f5cc265949ac16ef44da110d",
                     "commit": "3519b38b31a66b679b0ca063eb2ae5781771e415",
                     "date": "2026-11-05T00:18:26Z",
@@ -29364,7 +29371,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -29631,6 +29638,13 @@
             "path": "renders/catalog/SwitchTransitionMotion-62450b91.gif",
             "versions": [
                 {
+                    "blob": "b8431dbdc4c07a839f9377f2fb52d24cbbdddddf",
+                    "commit": "aa9992df3388d8300c567c95a8feca44ad369715",
+                    "date": "2026-11-20T07:58:30Z",
+                    "sourceSha": "b1102f8b",
+                    "commits": 1
+                },
+                {
                     "blob": "eee741a26733433c9596053d3b51e97eee18687d",
                     "commit": "3519b38b31a66b679b0ca063eb2ae5781771e415",
                     "date": "2026-11-05T00:18:26Z",
@@ -29638,7 +29652,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -29661,6 +29675,13 @@
             "path": "renders/catalog/ToggleButtonShapeMotion-a1b71b0e.gif",
             "versions": [
                 {
+                    "blob": "4e4019a72d3e17283751fd1cbe5cf7d0c597be75",
+                    "commit": "aa9992df3388d8300c567c95a8feca44ad369715",
+                    "date": "2026-11-20T07:58:30Z",
+                    "sourceSha": "b1102f8b",
+                    "commits": 1
+                },
+                {
                     "blob": "96d1d4bcf38c756f8d4b9364031cb4cb8f278f3a",
                     "commit": "3519b38b31a66b679b0ca063eb2ae5781771e415",
                     "date": "2026-11-05T00:18:26Z",
@@ -29668,7 +29689,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
