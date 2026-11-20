@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-20T13:07:50.016Z",
+  "generatedAt": "2026-11-20T13:14:20.211Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "83e22a3ddc00206d404cee94ad74d2caa55893dd",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.143.0 (#950)",
+        "at": "2026-11-20T13:09:09Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a2e53d82f0f2904239adb3b760e7542c8af9e675",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.143.0 (#949)",
@@ -474,14 +482,6 @@
         "sha": "c91b739ea861ffcb2cf7846f1342702e1b1055e3",
         "subject": "chore(deps): update compose-ai-tools to v2.76.0 (#889)",
         "at": "2026-10-30T22:18:07Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ea70e5fabf8d88d51ec3a7d3b3e7c35b0f438562",
-        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.125.0 (#890)",
-        "at": "2026-10-30T22:17:01Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
