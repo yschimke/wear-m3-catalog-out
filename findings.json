@@ -17890,7 +17890,7 @@
                   "x": 166,
                   "y": 86,
                   "width": 51,
-                  "height": 37
+                  "height": 36
                 },
                 "label": "31"
               }
@@ -17948,7 +17948,7 @@
                   "x": 276,
                   "y": 86,
                   "width": 78,
-                  "height": 37
+                  "height": 36
                 },
                 "label": "Dec"
               }
@@ -17996,7 +17996,7 @@
                   "x": 409,
                   "y": 86,
                   "width": 100,
-                  "height": 37
+                  "height": 36
                 },
                 "label": "2025"
               }
@@ -18182,7 +18182,7 @@
                   "x": 166,
                   "y": 86,
                   "width": 51,
-                  "height": 37
+                  "height": 36
                 },
                 "label": "31"
               }
@@ -18308,7 +18308,7 @@
                   "x": 166,
                   "y": 86,
                   "width": 51,
-                  "height": 37
+                  "height": 36
                 },
                 "label": "31"
               }
@@ -18366,7 +18366,7 @@
                   "x": 276,
                   "y": 86,
                   "width": 78,
-                  "height": 37
+                  "height": 36
                 },
                 "label": "Dec"
               }
@@ -18414,7 +18414,7 @@
                   "x": 409,
                   "y": 86,
                   "width": 100,
-                  "height": 37
+                  "height": 36
                 },
                 "label": "2025"
               }
@@ -18600,7 +18600,7 @@
                   "x": 166,
                   "y": 86,
                   "width": 51,
-                  "height": 37
+                  "height": 36
                 },
                 "label": "31"
               }
@@ -19688,7 +19688,7 @@
                   "x": 38,
                   "y": 86,
                   "width": 51,
-                  "height": 37
+                  "height": 36
                 },
                 "label": "11"
               }
@@ -19746,7 +19746,7 @@
                   "x": 166,
                   "y": 86,
                   "width": 51,
-                  "height": 37
+                  "height": 36
                 },
                 "label": "59"
               }
@@ -19917,13 +19917,13 @@
           {
             "kind": "layout",
             "severity": "warn",
-            "message": "layout \"12\": offset (-8, -50), size Δ(15, -10) vs candidate",
+            "message": "layout \"12\": offset (-8, -50), size Δ(15, -9) vs candidate",
             "detail": {
               "label": "12",
               "dx": "-8",
               "dy": "-50",
               "dw": "15",
-              "dh": "-10"
+              "dh": "-9"
             },
             "anchors": [
               {
@@ -19942,7 +19942,7 @@
                   "x": 30,
                   "y": 132,
                   "width": 68,
-                  "height": 72
+                  "height": 71
                 },
                 "label": "12"
               }
@@ -19979,6 +19979,40 @@
                   "height": 39
                 },
                 "label": "01"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"AM\": offset (1, 26), size Δ(1, -48) vs candidate",
+            "detail": {
+              "label": "AM",
+              "dx": "1",
+              "dy": "26",
+              "dw": "1",
+              "dh": "-48"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 137,
+                  "y": 68,
+                  "width": 49,
+                  "height": 36
+                },
+                "label": "AM"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 272,
+                  "y": 84,
+                  "width": 96,
+                  "height": 168
+                },
+                "label": "AM"
               }
             ]
           },
@@ -20048,7 +20082,7 @@
                   "x": 38,
                   "y": 86,
                   "width": 51,
-                  "height": 37
+                  "height": 36
                 },
                 "label": "11"
               }
@@ -20106,7 +20140,7 @@
                   "x": 166,
                   "y": 86,
                   "width": 51,
-                  "height": 37
+                  "height": 36
                 },
                 "label": "59"
               }
@@ -20277,13 +20311,13 @@
           {
             "kind": "layout",
             "severity": "warn",
-            "message": "layout \"12\": offset (-8, -50), size Δ(15, -10) vs candidate",
+            "message": "layout \"12\": offset (-8, -50), size Δ(15, -9) vs candidate",
             "detail": {
               "label": "12",
               "dx": "-8",
               "dy": "-50",
               "dw": "15",
-              "dh": "-10"
+              "dh": "-9"
             },
             "anchors": [
               {
@@ -20302,7 +20336,7 @@
                   "x": 30,
                   "y": 132,
                   "width": 68,
-                  "height": 72
+                  "height": 71
                 },
                 "label": "12"
               }
@@ -20339,6 +20373,40 @@
                   "height": 39
                 },
                 "label": "01"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"AM\": offset (1, 26), size Δ(1, -48) vs candidate",
+            "detail": {
+              "label": "AM",
+              "dx": "1",
+              "dy": "26",
+              "dw": "1",
+              "dh": "-48"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 137,
+                  "y": 68,
+                  "width": 49,
+                  "height": 36
+                },
+                "label": "AM"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 272,
+                  "y": 84,
+                  "width": 96,
+                  "height": 168
+                },
+                "label": "AM"
               }
             ]
           },
