@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-20T05:49:32.690Z",
+  "generatedAt": "2026-11-20T07:54:49.933Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "ab03a56757118b825de671e09f16676e3099f756",
+        "subject": "chore(deps): update compose-ai-tools to v2.102.0 (#948)",
+        "at": "2026-11-20T07:40:52Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d9e0dc8bcec2da9cac1ad39a426cd9e02add9d51",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.141.0 (#947)",
@@ -474,14 +482,6 @@
         "sha": "3e751f12136087de40536a898a42f98bfd592119",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.0 (#887)",
         "at": "2026-10-30T00:52:08Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f1187e9c6119667b4bbc6300b1c5032758ef5042",
-        "subject": "chore(deps): update dependency com.android.application to v9.5.0 (#886)",
-        "at": "2026-10-28T20:54:10Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
