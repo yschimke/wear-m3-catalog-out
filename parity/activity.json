@@ -1,6 +1,6 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-21T21:49:32.081Z",
+  "generatedAt": "2026-11-21T22:11:48.917Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
