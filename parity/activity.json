@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-21T00:03:46.503Z",
+  "generatedAt": "2026-11-21T10:40:33.298Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "02e5f52e4575b71f507675ae7f594d1f012b0602",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.144.0 (#952)",
+        "at": "2026-11-21T10:32:11Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4b4a3bf118d15b04242d445cf527d437833a8353",
         "subject": "chore(deps): update dependency com.android.application to v9.5.2 (#951)",
@@ -474,14 +482,6 @@
         "sha": "642d5d54d7549df47f0258dcd38e07c84580b41b",
         "subject": "chore(deps): update compose-ai-tools to v2.78.0 (#892)",
         "at": "2026-10-31T09:23:42Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2059cc956b6f1e993583e284e455cffa87108d62",
-        "subject": "chore(deps): update compose-ai-tools to v2.77.0 (#891)",
-        "at": "2026-10-31T02:02:19Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
