@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-22T20:54:50.880Z",
+  "generatedAt": "2026-11-22T21:01:00.469Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "5b0bb56715f7ae50c8ae710da86f659f471f51ad",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.46.0 (#962)",
+        "at": "2026-11-22T20:54:39Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "7e36067ca51818966ad403845a020a6da7b2cb4d",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.149.0 (#963)",
@@ -474,14 +482,6 @@
         "sha": "5cb101b2a1e5fdf0415bdfe5c5b704ea1fafe4f2",
         "subject": "fix(deps): update dependency androidx.compose.material3:material3 to v1.5.0-rc01 (#901)",
         "at": "2026-11-07T12:31:19Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6c6ae50e04244ba19ea88fbcfb5144a37448bec7",
-        "subject": "chore(deps): update dependency node to v26 (#900)",
-        "at": "2026-11-07T12:30:59Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
