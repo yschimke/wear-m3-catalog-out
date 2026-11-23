@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-23T01:10:29.506Z",
+  "generatedAt": "2026-11-23T04:43:34.691Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "d1b7aca8cb6f26ea482cce97687ffe8562c89936",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.151.0 (#967)",
+        "at": "2026-11-23T04:38:24Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "984f5489a46b836d0349c4cb5e9601d5f347dae5",
+        "subject": "chore(deps): update ci toolchain (#964)",
+        "at": "2026-11-23T01:04:09Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c76a989e92e93e6957bdaa85d84849e6c8fc0ed9",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.150.0 (#966)",
@@ -466,22 +482,6 @@
         "sha": "6fc9cd62f0b82bce2fb0fddda004c02b836a3cab",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.128.0 (#907)",
         "at": "2026-11-07T18:17:12Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9cc55aad2fdd86d2553c396465d10887645ff333",
-        "subject": "chore(ci): reuse single chore/kit-index PR and format typed generator (#906)",
-        "at": "2026-11-07T13:23:22Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "86c819cadf9ff7ff2764bd0f6d40065cf609834c",
-        "subject": "fix(deps): update compose-ai-tools (#897)",
-        "at": "2026-11-07T12:55:37Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
