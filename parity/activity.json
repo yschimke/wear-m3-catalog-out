@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-23T01:03:00.887Z",
+  "generatedAt": "2026-11-23T01:10:29.506Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "c76a989e92e93e6957bdaa85d84849e6c8fc0ed9",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.150.0 (#966)",
+        "at": "2026-11-23T01:01:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "5909ed0115ddc7a7b9712df1d37236750c8a2dd0",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.150.0 (#965)",
@@ -474,14 +482,6 @@
         "sha": "86c819cadf9ff7ff2764bd0f6d40065cf609834c",
         "subject": "fix(deps): update compose-ai-tools (#897)",
         "at": "2026-11-07T12:55:37Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6d07bf58f71026b7828f1ab9d26a3fc757e3f2d0",
-        "subject": "chore(deps): update dependency com.ncorti.ktfmt.gradle to v0.28.0 (#905)",
-        "at": "2026-11-07T12:52:21Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
