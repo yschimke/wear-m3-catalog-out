@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-24T04:12:51.001Z",
+  "generatedAt": "2026-11-24T08:55:04.526Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "c9a69a65b346df22707c4081b192dd4d0860105e",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.157.0 (#976)",
+        "at": "2026-11-24T08:42:16Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7a1c8bd8516fb22c01e9f7f98b85bac3d48bea53",
+        "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.157.0 (#975)",
+        "at": "2026-11-24T08:40:32Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ddab446610118c1aab948dd7f6987b02f59589d3",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.156.0 (#974)",
@@ -466,22 +482,6 @@
         "sha": "66ce48ebc721fecaab9bd4944101e5483564bf59",
         "subject": "chore(deps): update ci toolchain (#916)",
         "at": "2026-11-09T02:25:57Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c9aa144684bb98fec55591ba320f5159679742f6",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.130.0 (#915)",
-        "at": "2026-11-08T05:14:11Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8397f5bed8b63e0edeaf3d68c8e39edf237b96fa",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.3 (#913)",
-        "at": "2026-11-08T00:50:32Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
