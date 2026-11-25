@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-25T06:56:11.422Z",
+  "generatedAt": "2026-11-25T23:51:21.270Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "4e1c3c7777a8c84fb478cb5e846c256b84cbf19f",
+        "subject": "chore(deps): update dependency com.android.application to v9.5.3 (#986)",
+        "at": "2026-11-25T23:45:51Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "96b45941a96afacbcc91d885752ad3d1c6d18fdd",
         "subject": "fix(deps): update dependency org.robolectric:robolectric to v4.18.1 (#985)",
@@ -474,14 +482,6 @@
         "sha": "85706bb650441a266ae34fd1259ced5997558519",
         "subject": "fix(deps): update compose-ai-tools (#926)",
         "at": "2026-11-15T16:57:16Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c4894de739a795732cdadda76089fabc083fbcfc",
-        "subject": "fix(deps): update compose-ai-tools to v2.93.0 (#925)",
-        "at": "2026-11-15T12:25:29Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
