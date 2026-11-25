@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-25T06:47:41.742Z",
+  "generatedAt": "2026-11-25T06:56:11.422Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "96b45941a96afacbcc91d885752ad3d1c6d18fdd",
+        "subject": "fix(deps): update dependency org.robolectric:robolectric to v4.18.1 (#985)",
+        "at": "2026-11-25T06:41:03Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9bc61633d96b61dfbd28a368253e1c594fedb033",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.160.0 (#984)",
+        "at": "2026-11-25T06:40:08Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "0b3d6e7e927c4e3de221a0627a6d251a6c02393b",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.160.0 (#983)",
@@ -466,22 +482,6 @@
         "sha": "c4894de739a795732cdadda76089fabc083fbcfc",
         "subject": "fix(deps): update compose-ai-tools to v2.93.0 (#925)",
         "at": "2026-11-15T12:25:29Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5aa67578499853427ef8228feb1929eb5b105a31",
-        "subject": "fix(deps): update compose-ai-tools to v2.92.0 (#924)",
-        "at": "2026-11-14T13:58:25Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c2893e4e402cfef43b110fb49a82194904df20aa",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.91.0 (#922)",
-        "at": "2026-11-13T19:38:37Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
