@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-24T23:17:32.010Z",
+  "generatedAt": "2026-11-25T03:45:44.273Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/wear-m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "90b0324396ec9d8a0cab571593cafb5335c6c90f",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.104.0 (#981)",
+        "at": "2026-11-25T03:39:47Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "840384d3b64a4f7a0d43b419ab05b6a64c0376dd",
+        "subject": "fix(deps): update compose-ai-tools (#978)",
+        "at": "2026-11-24T23:17:31Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "39d12e7170b59af4fd7d99d592d4f814087fc400",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-bom to v3.158.0 (#980)",
+        "at": "2026-11-24T23:13:25Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "204d19d4c306a9ae4edb2d181b69e914268ce436",
         "subject": "chore(deps): update dependency yschimke/compose-ui-builder to v3.159.0 (#977)",
@@ -458,30 +482,6 @@
         "sha": "60f7a29a6d591315992e65f1fbc300d6688fe7d5",
         "subject": "fix(deps): update compose-ai-tools (#919)",
         "at": "2026-11-12T21:22:28Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4f11d8d47e2577902844a2504abfe4e588bb7a8a",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.43.0 (#920)",
-        "at": "2026-11-12T11:09:11Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1275abb859ce02f27f66060b8c3372f1119b630b",
-        "subject": "fix(deps): update compose-ai-tools (#918)",
-        "at": "2026-11-12T03:55:24Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "99bd565ecd0e1946a20de627077fb2f3222a2320",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.4 (#917)",
-        "at": "2026-11-10T01:22:14Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
